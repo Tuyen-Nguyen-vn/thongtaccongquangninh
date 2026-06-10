@@ -1,0 +1,37 @@
+{
+  "mode": "log",
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8088,
+    "trust_proxy": true
+  },
+  "log": {
+    "path": "/var/log/nginx/access.log",
+    "format": "combined",
+    "from_start": false
+  },
+  "detection": {
+    "ad_params": ["gclid", "gbraid", "wbraid", "fbclid"],
+    "ad_clicks_max": 3,
+    "ad_window_minutes": 30,
+    "pageviews_max": 60,
+    "pageview_window_minutes": 5,
+    "bot_user_agents": ["curl", "python-requests", "python-urllib", "wget", "httpclient", "headlesschrome", "phantomjs", "scrapy"],
+    "ignore_extensions": [".css", ".js", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".ico", ".woff", ".woff2", ".ttf", ".map", ".xml", ".txt"]
+  },
+  "whitelist": ["127.0.0.1", "::1"],
+  "blocking": {
+    "enabled": true,
+    "duration_hours": 72,
+    "methods": ["file"],
+    "htaccess_path": "",
+    "blocklist_file": "data/blocked_ips.txt"
+  },
+  "report": {
+    "log_file": "data/suspicious.log",
+    "telegram": {
+      "bot_token": "",
+      "chat_id": ""
+    }
+  }
+}

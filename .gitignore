@@ -1,0 +1,5 @@
+data/
+__pycache__/
+*.pyc
+clickguard_clicks.log
+clickguard_blocked.txt
