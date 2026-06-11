@@ -58,7 +58,13 @@ DEFAULT_CONFIG = {
                               ".webp", ".svg", ".ico", ".woff", ".woff2",
                               ".ttf", ".map", ".xml", ".txt"]
     },
-    "whitelist": ["127.0.0.1", "::1"],
+    # Không bao giờ chặn: IP nội bộ + dải IP Googlebot/Bingbot (bot tìm kiếm
+    # bị chặn sẽ làm mất title/index trên Google)
+    "whitelist": ["127.0.0.1", "::1",
+                  "66.249.64.0/19", "192.178.4.0/22",
+                  "34.100.182.96/28", "34.126.212.0/23",
+                  "157.55.39.0/24", "207.46.13.0/24", "40.77.167.0/24",
+                  "13.66.139.0/24", "52.167.144.0/24"],
     "blocking": {
         "enabled": True,
         "duration_hours": 72,
