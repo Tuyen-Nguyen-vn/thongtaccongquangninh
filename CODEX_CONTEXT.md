@@ -219,9 +219,12 @@ Lưu ý vận hành:
 - Dự án này là workspace vận hành/audit site live, không mặc định là thư mục chứa WordPress core.
 - Chỉ chạy `wp ...` khi đã xác minh đúng thư mục WordPress local hoặc có `--path=...` rõ ràng.
 - Trước khi dùng GitHub CLI cho PR/CI/log, chạy `gh auth status`; nếu chưa đăng nhập thì cần Tuyền hoàn tất OAuth trong trình duyệt.
-- Khi cần deploy fix footer interaction live theo nhịp backup-first, dùng `node .\tools\deploy_footer_back_top_fix_live.mjs` hoặc `npm run deploy:footer-backtop-live`; script xử lý 3 file renderer/footer, purge cache, kiểm `logical match` cho file include và ghi report/CSV.
+- Khi cần deploy fix footer interaction live theo nhịp backup-first, mặc định dùng `npm run release:footer-backtop-live`; wrapper sẽ gọi deploy rồi verify public theo đúng workflow chuẩn.
+- Khi cần xem nhanh bộ lệnh vận hành footer, dùng `npm run help:footer-backtop`.
+- Có thể dùng alias ngắn tương đương: `npm run footer:release`, `footer:dry-run`, `footer:report`, `footer:verify`, `footer:help`, `footer:deploy`.
 - Khi chỉ cần verify public footer interaction, dùng `npm run verify:footer-live`; script tự dò Chrome/Chromium và kiểm 7 scenario public.
-- Khi muốn chạy trọn vòng live footer interaction bằng 1 lệnh, dùng `npm run release:footer-backtop-live`; wrapper sẽ gọi lần lượt deploy rồi verify. Có thể test wrapper bằng `npm run release:footer-backtop-live -- --dry-run`.
+- `npm run deploy:footer-backtop-live` chỉ dùng khi cần tách bước hoặc điều tra lỗi. Có thể test wrapper bằng `npm run release:footer-backtop-dry-run`.
+- Khi cần đọc nhanh kết quả lần release footer gần nhất, dùng `npm run report:footer-backtop-latest`.
 - Nếu report footer release có `purgeOk=false`, hiểu đó là warning do host chưa có `wp litespeed-purge`; chỉ coi là blocker khi `success !== true` hoặc verify public không đạt `passed 7/7`.
 
 ## Telegram Bot
@@ -259,8 +262,7 @@ Sau mỗi lần làm xong task, phải **test thật kỹ xem được chưa r�
 
 - Với code/script: chạy syntax check, smoke test, test command hoặc test build nếu có.
 - Với giao diện/design token: chạy `npm run design:check`; nếu có sửa frontend thật thì kiểm thêm preview hoặc public cache-buster.
-- Với footer interaction live renderer: sau deploy phải kiểm `npm run verify:footer-live`; chỉ chốt khi `passed 7/7`.
-- Nếu chọn lệnh wrapper `npm run release:footer-backtop-live`, vẫn chỉ chốt khi bước verify bên trong trả `passed 7/7`.
+- Với footer interaction live renderer: chỉ chốt khi verify trả `passed 7/7`, dù chạy qua wrapper hay chạy lẻ.
 - Với MCP/ChatGPT Apps: kiểm tra `/health`, OAuth metadata, `tools/list`, tool nghiệp vụ chính và auth WordPress nếu có.
 - Với bài địa phương: tạo Image Brief bằng `node .\tools\create_image_seo_brief.mjs <file-md>` và kiểm gate ảnh bằng `node .\tools\check_image_seo_gate.mjs <file-md-or-slug>`.
 - Nếu chưa test được do quota/API/mạng, phải nói rõ phần đã test, phần chưa test và lý do.
