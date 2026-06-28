@@ -99,7 +99,7 @@
 ## BỔ SUNG ĐÃ XÁC THỰC TỪ REPO
 
 - Repo hiện có file ngữ cảnh nguồn là [`D:\.thongtaccongquangninh\CODEX_CONTEXT.md`](D:\.thongtaccongquangninh\CODEX_CONTEXT.md); nếu cần rà nhanh workflow nội bộ, ưu tiên đọc file này trước.
-- Workspace hiện đã được `git init` lại nhưng chưa có commit đầu tiên; remote tham khảo `gstack-source` trỏ tới `https://github.com/garrytan/gstack.git` chỉ để nhận diện nguồn gstack, không dùng để push code TTCQN. GStack local đang bật checkpoint auto-commit (`checkpoint_mode=continuous`) và tắt auto-push (`checkpoint_push=false`).
+- Workspace hiện đã có Git commit đầu tiên và remote thật `origin` trỏ tới `https://github.com/Tuyen-Nguyen-vn/thongtaccongquangninh.git`. Remote tham khảo `gstack-source` trỏ tới `https://github.com/garrytan/gstack.git` chỉ để nhận diện/fetch nguồn gstack, đã khóa push URL thành `DISABLED`. GStack local đang bật checkpoint auto-commit (`checkpoint_mode=continuous`) và tắt auto-push (`checkpoint_push=false`).
 - Bot Telegram không phải thành phần cốt lõi của workspace SEO này; ghi chú liên quan đã chuyển sang thư mục bot riêng:
   `C:\Users\DELL\Documents\Codex\2026-04-28\skill-creator-c-users-dell-codex\telegram-codex-bot\THONGTACCONGQUANGNINH_NOTES.md`.
 
