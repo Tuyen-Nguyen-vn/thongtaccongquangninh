@@ -1,0 +1,21 @@
+{
+  "name": "thongtaccongquangninh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "design:lint": "npx @google/design.md lint DESIGN.md",
+    "design:check-tokens": "node tools/check_design_token_mapping.mjs",
+    "design:check": "npm run design:lint && npm run design:check-tokens",
+    "design:spec": "npx @google/design.md spec",
+    "deploy:footer-backtop-live": "node tools/deploy_footer_back_top_fix_live.mjs",
+    "release:footer-backtop-live": "node tools/run_footer_back_top_release.mjs",
+    "verify:footer-live": "node tools/verify_footer_live.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^25.0.2"
+  }
+}

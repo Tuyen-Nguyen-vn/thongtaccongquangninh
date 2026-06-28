@@ -1,0 +1,57 @@
+secrets/
+*.json.key
+*_service_account.json
+*oauth_credentials.json
+token.json
+token_*.json
+.env
+__pycache__/
+*.pyc
+node_modules/
+
+# Large binary / media
+"Ảnh cung cấp/"
+"Ảnh Đã Xử Lý SEO/"
+Ảnh*/
+*.webp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.b64
+
+# Temp / build / runtime
+_tmp/
+_review_tmp/
+.tmp.driveupload/
+.venv*/
+.codex/
+logs/
+backups/
+seo-revisions/
+scratch/
+terminal/
+
+# Chrome automation profiles
+chrome-*
+_tmp*/
+
+# Sub-project builds
+landing-hut-be-phot-quang-ninh/dist/
+video-remotion/out/
+
+# HTML snapshots & raw dumps
+*.html
+htaccess_*.txt
+page*_dump.html
+_tmp_home_reference_preview.html
+pinterest-*.html
+he-thong-co-so-live.html
+out.txt
+console.log*
+
+# Bulk WP report JSONs (keep only latest pattern via .gitkeep or omit entirely)
+WORDPRESS_*.json
+SEO_GOOGLE_INDEX_*.json
+PUBLISH_*.json

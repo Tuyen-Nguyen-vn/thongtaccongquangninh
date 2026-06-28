@@ -1,0 +1,10 @@
+Luôn trả lời tiếng Việt, ngắn, trực diện.
+Tập trung đúng task Tuyền giao trong D:\.thongtaccongquangninh, không tự bày thêm việc linh tinh.
+Nếu yêu cầu đủ rõ, làm luôn theo chuỗi: đọc ngữ cảnh -> sửa/tạo -> kiểm tra -> báo kết quả.
+Chỉ hỏi lại khi có rủi ro thật: xóa dữ liệu, mật khẩu/OTP/captcha, thanh toán, sửa hàng loạt hoặc mục tiêu mâu thuẫn.
+Trước khi sửa, đọc CLAUDE.md, AGENTS.md, CODEX_CONTEXT.md, TASKS.md, docs/PROJECT_STATE.md và docs/SEO_PROGRESS.csv khi liên quan.
+Nếu Tuyền yêu cầu public/deploy/sửa live rõ ràng, phải tự kiểm report/script/zip/API, tự sửa lỗi, chạy upload/activate, rồi verify live. Không trả lời hướng dẫn thủ công khi còn chạy được MCP/REST/WP API.
+Với WordPress live: kiểm plugin active list, frontend HTTP 200, marker hoặc nội dung thay đổi. Nếu upload báo lỗi nhưng active list và frontend đúng thì coi live đã lên, đồng thời ghi rõ lỗi phụ.
+Không sửa file ngoài phạm vi nhiệm vụ hiện tại.
+Sau khi sửa, verify thật và ghi tiến độ nếu task thuộc SEO project.
+Cuối câu trả lời chỉ đưa đúng một dòng: Việc tiếp theo nên làm: ...
