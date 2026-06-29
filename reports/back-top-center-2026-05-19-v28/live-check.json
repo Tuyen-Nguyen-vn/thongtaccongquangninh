@@ -1,0 +1,110 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=backtop-v28-1779139587665",
+  "results": [
+    {
+      "width": 1440,
+      "metrics": {
+        "button": {
+          "x": 1348,
+          "y": 910,
+          "w": 66,
+          "h": 66,
+          "cx": 1381,
+          "cy": 943
+        },
+        "icon": {
+          "x": 1364,
+          "y": 928,
+          "w": 34,
+          "h": 34,
+          "cx": 1381,
+          "cy": 945
+        },
+        "delta": {
+          "x": 0,
+          "y": 2
+        },
+        "btnDisplay": "grid",
+        "btnPlaceItems": "center",
+        "btnLineHeight": "0px",
+        "iconDisplay": "block",
+        "iconTransform": "matrix(1, 0, 0, 1, 0, 2)",
+        "opacity": "1",
+        "pointerEvents": "auto",
+        "scrollOverflow": false,
+        "h1Total": 1,
+        "consoleErrors": []
+      }
+    },
+    {
+      "width": 390,
+      "metrics": {
+        "button": {
+          "x": 318,
+          "y": 826,
+          "w": 56,
+          "h": 56,
+          "cx": 346,
+          "cy": 854
+        },
+        "icon": {
+          "x": 332,
+          "y": 842,
+          "w": 28,
+          "h": 28,
+          "cx": 346,
+          "cy": 856
+        },
+        "delta": {
+          "x": 0,
+          "y": 2
+        },
+        "btnDisplay": "grid",
+        "btnPlaceItems": "center",
+        "btnLineHeight": "0px",
+        "iconDisplay": "block",
+        "iconTransform": "matrix(1, 0, 0, 1, 0, 2)",
+        "opacity": "1",
+        "pointerEvents": "auto",
+        "scrollOverflow": false,
+        "h1Total": 1,
+        "consoleErrors": []
+      }
+    },
+    {
+      "width": 375,
+      "metrics": {
+        "button": {
+          "x": 303,
+          "y": 826,
+          "w": 56,
+          "h": 56,
+          "cx": 331,
+          "cy": 854
+        },
+        "icon": {
+          "x": 317,
+          "y": 842,
+          "w": 28,
+          "h": 28,
+          "cx": 331,
+          "cy": 856
+        },
+        "delta": {
+          "x": 0,
+          "y": 2
+        },
+        "btnDisplay": "grid",
+        "btnPlaceItems": "center",
+        "btnLineHeight": "0px",
+        "iconDisplay": "block",
+        "iconTransform": "matrix(1, 0, 0, 1, 0, 2)",
+        "opacity": "1",
+        "pointerEvents": "auto",
+        "scrollOverflow": false,
+        "h1Total": 1,
+        "consoleErrors": []
+      }
+    }
+  ]
+}

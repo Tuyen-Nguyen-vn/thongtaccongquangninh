@@ -1,0 +1,169 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=testimonial-visual-1780010383500",
+  "expected": [
+    "testimonial-anh-tran-hung.webp",
+    "testimonial-chi-nguyen-lan.webp",
+    "testimonial-anh-vu-phong.webp",
+    "testimonial-chat-chi-lan.webp",
+    "testimonial-chat-anh-hung.webp",
+    "testimonial-chat-chi-mai.webp"
+  ],
+  "results": [
+    {
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1200
+      },
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/testimonial-avatars-desktop-2026-05-29.png",
+      "title": "KHÁCH HÀNG NÓI GÌ?",
+      "expectedHits": {
+        "testimonial-anh-tran-hung.webp": 1,
+        "testimonial-chi-nguyen-lan.webp": 1,
+        "testimonial-anh-vu-phong.webp": 1,
+        "testimonial-chat-chi-lan.webp": 1,
+        "testimonial-chat-anh-hung.webp": 1,
+        "testimonial-chat-chi-mai.webp": 1
+      },
+      "oldCustomerHits": 0,
+      "boxes": [
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-anh-tran-hung.webp",
+          "width": 54,
+          "height": 54,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chi-nguyen-lan.webp",
+          "width": 54,
+          "height": 54,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-anh-vu-phong.webp",
+          "width": 54,
+          "height": 54,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chat-chi-lan.webp",
+          "width": 34,
+          "height": 34,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chat-anh-hung.webp",
+          "width": 34,
+          "height": 34,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chat-chi-mai.webp",
+          "width": 34,
+          "height": 34,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        }
+      ],
+      "sectionBox": {
+        "width": 1440,
+        "height": 1158
+      }
+    },
+    {
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/testimonial-avatars-mobile-2026-05-29.png",
+      "title": "KHÁCH HÀNG NÓI GÌ?",
+      "expectedHits": {
+        "testimonial-anh-tran-hung.webp": 1,
+        "testimonial-chi-nguyen-lan.webp": 1,
+        "testimonial-anh-vu-phong.webp": 1,
+        "testimonial-chat-chi-lan.webp": 1,
+        "testimonial-chat-anh-hung.webp": 1,
+        "testimonial-chat-chi-mai.webp": 1
+      },
+      "oldCustomerHits": 0,
+      "boxes": [
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-anh-tran-hung.webp",
+          "width": 54,
+          "height": 54,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chi-nguyen-lan.webp",
+          "width": 54,
+          "height": 54,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-anh-vu-phong.webp",
+          "width": 54,
+          "height": 54,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chat-chi-lan.webp",
+          "width": 34,
+          "height": 34,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chat-anh-hung.webp",
+          "width": 34,
+          "height": 34,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/testimonials/testimonial-chat-chi-mai.webp",
+          "width": 34,
+          "height": 34,
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 320,
+          "objectFit": "cover"
+        }
+      ],
+      "sectionBox": {
+        "width": 390,
+        "height": 2181
+      }
+    }
+  ]
+}

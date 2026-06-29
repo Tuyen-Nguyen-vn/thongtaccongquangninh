@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-16T05:36:17+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 87,
+  "pagesWithIssues": 1,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 1,
+  "globalReuseGroups": 3,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 2445,
+      "type": "pages",
+      "status": "publish",
+      "title": "Điều Khoản Dịch Vụ",
+      "link": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+      "slug": "dieu-khoan-dich-vu",
+      "service": "thông tắc cống",
+      "area": "Quảng Ninh",
+      "imageCount": 0,
+      "images": [],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 3,
+      "replacementNeeded": 3,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Quảng Ninh bằng máy lò xo",
+        "kiểm tra hố ga và đường ống thoát nước tại Quảng Ninh",
+        "xử lý cống bếp dầu mỡ cho nhà hàng/quán ăn tại Quảng Ninh"
+      ]
+    }
+  ],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh: xử lý cống, bể phốt, mùi hôi",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "cb0ecece3feac70d6511ed9c7f17dff40e5cee7aa4468f34d2f343f14abf8dc0",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh: xử lý cống, bể phốt, mùi hôi",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "ee2b0eaacdbc2660d84f04404dada8bb646f3fb9805fddbcb81bebe5420c6ec2",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+          "title": "Thông tắc bồn cầu ban đêm Quảng Ninh: thợ trực 24/7 đến tận nơi",
+          "index": 2,
+          "file": "may-lo-xo-thong-bon-cau-ban-dem-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/",
+          "title": "Giá thông tắc bồn cầu Quảng Ninh 2026: báo giá rõ từng trường hợp",
+          "index": 2,
+          "file": "thong-tac-bon-cau-khach-san-bai-chay-ha-long.webp"
+        }
+      ]
+    }
+  ]
+}

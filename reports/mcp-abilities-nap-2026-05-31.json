@@ -1,0 +1,381 @@
+{
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "init": {
+    "status": 200,
+    "sessionId": "6b08be89-eb6c-48cf-9dc3-a6a5bdc1e146",
+    "payload": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": {
+        "protocolVersion": "2025-06-18",
+        "serverInfo": {
+          "name": "WP MCP Ultimate",
+          "version": "2.0.0"
+        },
+        "capabilities": {
+          "tools": {},
+          "resources": {},
+          "prompts": {},
+          "logging": {},
+          "completions": {}
+        },
+        "instructions": "All-in-one MCP server for WordPress"
+      }
+    }
+  },
+  "disc": {
+    "status": 200,
+    "sessionId": null,
+    "payload": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"abilities\":[{\"name\":\"core\\/get-site-info\",\"label\":\"Get Site Information\",\"description\":\"Returns site information configured in WordPress. By default returns all fields, or optionally a filtered subset.\"},{\"name\":\"core\\/get-user-info\",\"label\":\"Get User Information\",\"description\":\"Returns basic profile details for the current authenticated user to support personalization, auditing, and access-aware behavior.\"},{\"name\":\"core\\/get-environment-info\",\"label\":\"Get Environment Info\",\"description\":\"Returns core details about the site's runtime context for diagnostics and compatibility (environment, PHP runtime, database server info, WordPress version).\"},{\"name\":\"content\\/list-posts\",\"label\":\"List Posts\",\"description\":\"List posts. Params: status, per_page, page, orderby, order, search, category_id, author_id (all optional).\"},{\"name\":\"content\\/get-post\",\"label\":\"Get Post\",\"description\":\"Get single post. Params: id or slug (one required).\"},{\"name\":\"content\\/create-post\",\"label\":\"Create Post\",\"description\":\"Create post. Params: title (required), content, excerpt, status, slug, category_ids, tag_ids, date, author_id.\"},{\"name\":\"content\\/update-post\",\"label\":\"Update Post\",\"description\":\"Update post. Params: id (required), title, content, excerpt, status, slug, category_ids, tag_ids, author_id.\"},{\"name\":\"content\\/delete-post\",\"label\":\"Delete Post\",\"description\":\"Delete post. Params: id (required), force (optional, true=permanent).\"},{\"name\":\"content\\/patch-post\",\"label\":\"Patch Post Content\",\"description\":\"Patch post content. Params: id (required), find (required), replace (required), regex (optional).\"},{\"name\":\"content\\/list-pages\",\"label\":\"List Pages\",\"description\":\"List pages. Params: status, per_page, page, orderby, order, search, parent_id (all optional).\"},{\"name\":\"content\\/get-page\",\"label\":\"Get Page\",\"description\":\"Get single page. Params: id or slug (one required).\"},{\"name\":\"content\\/create-page\",\"label\":\"Create Page\",\"description\":\"Create page. Params: title (required), content, excerpt, status, slug, parent_id, menu_order, template.\"},{\"name\":\"content\\/update-page\",\"label\":\"Update Page\",\"description\":\"Update page. Params: id (required), title, content, excerpt, status, slug, parent_id, menu_order, template.\"},{\"name\":\"content\\/delete-page\",\"label\":\"Delete Page\",\"description\":\"Delete page. Params: id (required), force (optional, true=permanent).\"},{\"name\":\"content\\/patch-page\",\"label\":\"Patch Page Content\",\"description\":\"Patch page content. Params: id (required), find (required), replace (required), regex (optional).\"},{\"name\":\"content\\/list-categories\",\"label\":\"List Categories\",\"description\":\"List categories. Params: hide_empty, parent (all optional).\"},{\"name\":\"content\\/create-category\",\"label\":\"Create Category\",\"description\":\"Create category. Params: name (required), slug, description, parent.\"},{\"name\":\"content\\/list-tags\",\"label\":\"List Tags\",\"description\":\"List tags. Params: hide_empty, search (all optional).\"},{\"name\":\"content\\/create-tag\",\"label\":\"Create Tag\",\"description\":\"Create tag. Params: name (required), slug, description.\"},{\"name\":\"content\\/search\",\"label\":\"Search Content\",\"description\":\"Search content. Params: query (required), type (optional: post\\/page\\/media), per_page.\"},{\"name\":\"content\\/list-revisions\",\"label\":\"List Revisions\",\"description\":\"List revisions. Params: id (required), per_page.\"},{\"name\":\"content\\/get-revision\",\"label\":\"Get Revision\",\"description\":\"Get revision. Params: id (required).\"},{\"name\":\"content\\/list-media\",\"label\":\"List Media\",\"description\":\"List media. Params: per_page, page, mime_type, search (all optional).\"},{\"name\":\"media\\/upload\",\"label\":\"Upload Media\",\"description\":\"Uploads a file to the media library from a URL.\"},{\"name\":\"media\\/get\",\"label\":\"Get Media Item\",\"description\":\"Get media. Params: id (required).\"},{\"name\":\"media\\/update\",\"label\":\"Update Media Item\",\"description\":\"Update media. Params: id (required), title, caption, alt_text, description.\"},{\"name\":\"media\\/delete\",\"label\":\"Delete Media Item\",\"description\":\"Permanently deletes a media item and its files.\"},{\"name\":\"content\\/list-users\",\"label\":\"List Users\",\"description\":\"List users. Params: role, per_page, page, search (all optional).\"},{\"name\":\"users\\/list\",\"label\":\"List Users (Extended)\",\"description\":\"List users extended. Params: role, per_page, page, orderby, order (all optional).\"},{\"name\":\"users\\/get\",\"label\":\"Get User\",\"description\":\"Get user. Params: id, login, or email (one required).\"},{\"name\":\"users\\/create\",\"label\":\"Create User\",\"description\":\"Create user. Params: username, email (required), password, first_name, last_name, display_name, role, url, description.\"},{\"name\":\"users\\/update\",\"label\":\"Update User\",\"description\":\"Update user. Params: id (required), email, password, first_name, last_name, display_name, nickname, role, url, description.\"},{\"name\":\"users\\/delete\",\"label\":\"Delete User\",\"description\":\"Delete user. Params: id (required), reassign_to.\"},{\"name\":\"plugins\\/upload\",\"label\":\"Upload Plugin\",\"description\":\"Uploads and installs a plugin from a URL (zip file). Can optionally activate after install and overwrite existing plugin.\"},{\"name\":\"plugins\\/upload-base64\",\"label\":\"Upload Plugin (Base64 or Zip Path)\",\"description\":\"Uploads and installs a plugin from base64-encoded zip content or a local zip path. Can optionally activate after install and overwrite existing plugin.\"},{\"name\":\"plugins\\/list\",\"label\":\"List Plugins\",\"description\":\"List plugins. Params: status (all\\/active\\/inactive, optional).\"},{\"name\":\"plugins\\/delete\",\"label\":\"Delete Plugin\",\"description\":\"Delete plugin. Params: plugin (required, e.g. \\\"folder\\/file.php\\\").\"},{\"name\":\"plugins\\/activate\",\"label\":\"Activate Plugin\",\"description\":\"Activates an installed plugin. Params: plugin (required, e.g. \\\"folder\\/file.php\\\").\"},{\"name\":\"plugins\\/deactivate\",\"label\":\"Deactivate Plugin\",\"description\":\"Deactivates an active plugin. Params: plugin (required, e.g. \\\"folder\\/file.php\\\").\"},{\"name\":\"menus\\/list\",\"label\":\"List Menus\",\"description\":\"List menus. No params.\"},{\"name\":\"menus\\/get-items\",\"label\":\"Get Menu Items\",\"description\":\"Get menu items. Params: id or location (one required).\"},{\"name\":\"menus\\/create\",\"label\":\"Create Menu\",\"description\":\"Create menu. Params: name (required).\"},{\"name\":\"menus\\/add-item\",\"label\":\"Add Menu Item\",\"description\":\"Adds a new item to a navigation menu.\"},{\"name\":\"menus\\/update-item\",\"label\":\"Update Menu Item\",\"description\":\"Update menu item. Params: menu_id, item_id (required), title, url, parent, position, target, classes.\"},{\"name\":\"menus\\/delete-item\",\"label\":\"Delete Menu Item\",\"description\":\"Delete menu item. Params: item_id (required).\"},{\"name\":\"menus\\/assign-location\",\"label\":\"Assign Menu to Location\",\"description\":\"Assigns a menu to a theme location.\"},{\"name\":\"widgets\\/list-sidebars\",\"label\":\"List Widget Sidebars\",\"description\":\"List sidebars. No params.\"},{\"name\":\"widgets\\/get-sidebar\",\"label\":\"Get Sidebar Widgets\",\"description\":\"Get sidebar widgets. Params: sidebar_id (required).\"},{\"name\":\"widgets\\/list-available\",\"label\":\"List Available Widgets\",\"description\":\"List available widgets. No params.\"},{\"name\":\"comments\\/list\",\"label\":\"List Comments\",\"description\":\"List comments. Params: status, post_id, author_email, per_page, page, search (all optional).\"},{\"name\":\"comments\\/get\",\"label\":\"Get Comment\",\"description\":\"Get comment. Params: id (required).\"},{\"name\":\"comments\\/update-status\",\"label\":\"Update Comment Status\",\"description\":\"Approves, holds, spams, or trashes a comment.\"},{\"name\":\"comments\\/reply\",\"label\":\"Reply to Comment\",\"description\":\"Posts a reply to an existing comment.\"},{\"name\":\"comments\\/create\",\"label\":\"Create Comment\",\"description\":\"Create comment. Params: post_id, content (required), author, email, user_id, parent_id.\"},{\"name\":\"comments\\/delete\",\"label\":\"Delete Comment\",\"description\":\"Permanently deletes a comment.\"},{\"name\":\"options\\/get\",\"label\":\"Get Option\",\"description\":\"Get option. Params: name (required).\"},{\"name\":\"options\\/update\",\"label\":\"Update Option\",\"description\":\"Update option. Params: name, value (required), key (optional for array options).\"},{\"name\":\"options\\/list\",\"label\":\"List Options\",\"description\":\"List options. Params: search (required, SQL LIKE pattern), per_page.\"},{\"name\":\"system\\/get-transient\",\"label\":\"Get Transient\",\"description\":\"Get transient. Params: name (required).\"},{\"name\":\"system\\/debug-log\",\"label\":\"Read Debug Log\",\"description\":\"Reads the WordPress debug.log file. Returns the last N lines, optionally filtered by a search pattern.\"},{\"name\":\"system\\/toggle-debug\",\"label\":\"Toggle Debug Mode\",\"description\":\"Toggles WP_DEBUG on or off in wp-config.php. Can also set WP_DEBUG_LOG and WP_DEBUG_DISPLAY.\"},{\"name\":\"wpforms\\/list-forms\",\"label\":\"List Forms\",\"description\":\"List all available WPForms forms with their metadata.\"},{\"name\":\"wpforms\\/get-form\",\"label\":\"Get Form\",\"description\":\"Get detailed information about a specific WPForms form including its fields.\"},{\"name\":\"wpforms\\/get-form-stats\",\"label\":\"Get Form Stats\",\"description\":\"Get basic statistics for a WPForms form. Upgrade to Pro for detailed entry data.\"},{\"name\":\"wp-mcp-ultimate\\/discover-abilities\",\"label\":\"Discover Abilities\",\"description\":\"Discover all available WordPress abilities in the system. Returns a list of all registered abilities with their basic information.\"},{\"name\":\"wp-mcp-ultimate\\/get-ability-info\",\"label\":\"Get Ability Info\",\"description\":\"Get detailed information about a specific WordPress ability including its input\\/output schema, description, and usage examples.\"},{\"name\":\"wp-mcp-ultimate\\/execute-ability\",\"label\":\"Execute Ability\",\"description\":\"Execute a WordPress ability with the provided parameters. This is the primary execution layer that can run any registered ability.\"}]}"
+          }
+        ],
+        "structuredContent": {
+          "abilities": [
+            {
+              "name": "core/get-site-info",
+              "label": "Get Site Information",
+              "description": "Returns site information configured in WordPress. By default returns all fields, or optionally a filtered subset."
+            },
+            {
+              "name": "core/get-user-info",
+              "label": "Get User Information",
+              "description": "Returns basic profile details for the current authenticated user to support personalization, auditing, and access-aware behavior."
+            },
+            {
+              "name": "core/get-environment-info",
+              "label": "Get Environment Info",
+              "description": "Returns core details about the site's runtime context for diagnostics and compatibility (environment, PHP runtime, database server info, WordPress version)."
+            },
+            {
+              "name": "content/list-posts",
+              "label": "List Posts",
+              "description": "List posts. Params: status, per_page, page, orderby, order, search, category_id, author_id (all optional)."
+            },
+            {
+              "name": "content/get-post",
+              "label": "Get Post",
+              "description": "Get single post. Params: id or slug (one required)."
+            },
+            {
+              "name": "content/create-post",
+              "label": "Create Post",
+              "description": "Create post. Params: title (required), content, excerpt, status, slug, category_ids, tag_ids, date, author_id."
+            },
+            {
+              "name": "content/update-post",
+              "label": "Update Post",
+              "description": "Update post. Params: id (required), title, content, excerpt, status, slug, category_ids, tag_ids, author_id."
+            },
+            {
+              "name": "content/delete-post",
+              "label": "Delete Post",
+              "description": "Delete post. Params: id (required), force (optional, true=permanent)."
+            },
+            {
+              "name": "content/patch-post",
+              "label": "Patch Post Content",
+              "description": "Patch post content. Params: id (required), find (required), replace (required), regex (optional)."
+            },
+            {
+              "name": "content/list-pages",
+              "label": "List Pages",
+              "description": "List pages. Params: status, per_page, page, orderby, order, search, parent_id (all optional)."
+            },
+            {
+              "name": "content/get-page",
+              "label": "Get Page",
+              "description": "Get single page. Params: id or slug (one required)."
+            },
+            {
+              "name": "content/create-page",
+              "label": "Create Page",
+              "description": "Create page. Params: title (required), content, excerpt, status, slug, parent_id, menu_order, template."
+            },
+            {
+              "name": "content/update-page",
+              "label": "Update Page",
+              "description": "Update page. Params: id (required), title, content, excerpt, status, slug, parent_id, menu_order, template."
+            },
+            {
+              "name": "content/delete-page",
+              "label": "Delete Page",
+              "description": "Delete page. Params: id (required), force (optional, true=permanent)."
+            },
+            {
+              "name": "content/patch-page",
+              "label": "Patch Page Content",
+              "description": "Patch page content. Params: id (required), find (required), replace (required), regex (optional)."
+            },
+            {
+              "name": "content/list-categories",
+              "label": "List Categories",
+              "description": "List categories. Params: hide_empty, parent (all optional)."
+            },
+            {
+              "name": "content/create-category",
+              "label": "Create Category",
+              "description": "Create category. Params: name (required), slug, description, parent."
+            },
+            {
+              "name": "content/list-tags",
+              "label": "List Tags",
+              "description": "List tags. Params: hide_empty, search (all optional)."
+            },
+            {
+              "name": "content/create-tag",
+              "label": "Create Tag",
+              "description": "Create tag. Params: name (required), slug, description."
+            },
+            {
+              "name": "content/search",
+              "label": "Search Content",
+              "description": "Search content. Params: query (required), type (optional: post/page/media), per_page."
+            },
+            {
+              "name": "content/list-revisions",
+              "label": "List Revisions",
+              "description": "List revisions. Params: id (required), per_page."
+            },
+            {
+              "name": "content/get-revision",
+              "label": "Get Revision",
+              "description": "Get revision. Params: id (required)."
+            },
+            {
+              "name": "content/list-media",
+              "label": "List Media",
+              "description": "List media. Params: per_page, page, mime_type, search (all optional)."
+            },
+            {
+              "name": "media/upload",
+              "label": "Upload Media",
+              "description": "Uploads a file to the media library from a URL."
+            },
+            {
+              "name": "media/get",
+              "label": "Get Media Item",
+              "description": "Get media. Params: id (required)."
+            },
+            {
+              "name": "media/update",
+              "label": "Update Media Item",
+              "description": "Update media. Params: id (required), title, caption, alt_text, description."
+            },
+            {
+              "name": "media/delete",
+              "label": "Delete Media Item",
+              "description": "Permanently deletes a media item and its files."
+            },
+            {
+              "name": "content/list-users",
+              "label": "List Users",
+              "description": "List users. Params: role, per_page, page, search (all optional)."
+            },
+            {
+              "name": "users/list",
+              "label": "List Users (Extended)",
+              "description": "List users extended. Params: role, per_page, page, orderby, order (all optional)."
+            },
+            {
+              "name": "users/get",
+              "label": "Get User",
+              "description": "Get user. Params: id, login, or email (one required)."
+            },
+            {
+              "name": "users/create",
+              "label": "Create User",
+              "description": "Create user. Params: username, email (required), password, first_name, last_name, display_name, role, url, description."
+            },
+            {
+              "name": "users/update",
+              "label": "Update User",
+              "description": "Update user. Params: id (required), email, password, first_name, last_name, display_name, nickname, role, url, description."
+            },
+            {
+              "name": "users/delete",
+              "label": "Delete User",
+              "description": "Delete user. Params: id (required), reassign_to."
+            },
+            {
+              "name": "plugins/upload",
+              "label": "Upload Plugin",
+              "description": "Uploads and installs a plugin from a URL (zip file). Can optionally activate after install and overwrite existing plugin."
+            },
+            {
+              "name": "plugins/upload-base64",
+              "label": "Upload Plugin (Base64 or Zip Path)",
+              "description": "Uploads and installs a plugin from base64-encoded zip content or a local zip path. Can optionally activate after install and overwrite existing plugin."
+            },
+            {
+              "name": "plugins/list",
+              "label": "List Plugins",
+              "description": "List plugins. Params: status (all/active/inactive, optional)."
+            },
+            {
+              "name": "plugins/delete",
+              "label": "Delete Plugin",
+              "description": "Delete plugin. Params: plugin (required, e.g. \"folder/file.php\")."
+            },
+            {
+              "name": "plugins/activate",
+              "label": "Activate Plugin",
+              "description": "Activates an installed plugin. Params: plugin (required, e.g. \"folder/file.php\")."
+            },
+            {
+              "name": "plugins/deactivate",
+              "label": "Deactivate Plugin",
+              "description": "Deactivates an active plugin. Params: plugin (required, e.g. \"folder/file.php\")."
+            },
+            {
+              "name": "menus/list",
+              "label": "List Menus",
+              "description": "List menus. No params."
+            },
+            {
+              "name": "menus/get-items",
+              "label": "Get Menu Items",
+              "description": "Get menu items. Params: id or location (one required)."
+            },
+            {
+              "name": "menus/create",
+              "label": "Create Menu",
+              "description": "Create menu. Params: name (required)."
+            },
+            {
+              "name": "menus/add-item",
+              "label": "Add Menu Item",
+              "description": "Adds a new item to a navigation menu."
+            },
+            {
+              "name": "menus/update-item",
+              "label": "Update Menu Item",
+              "description": "Update menu item. Params: menu_id, item_id (required), title, url, parent, position, target, classes."
+            },
+            {
+              "name": "menus/delete-item",
+              "label": "Delete Menu Item",
+              "description": "Delete menu item. Params: item_id (required)."
+            },
+            {
+              "name": "menus/assign-location",
+              "label": "Assign Menu to Location",
+              "description": "Assigns a menu to a theme location."
+            },
+            {
+              "name": "widgets/list-sidebars",
+              "label": "List Widget Sidebars",
+              "description": "List sidebars. No params."
+            },
+            {
+              "name": "widgets/get-sidebar",
+              "label": "Get Sidebar Widgets",
+              "description": "Get sidebar widgets. Params: sidebar_id (required)."
+            },
+            {
+              "name": "widgets/list-available",
+              "label": "List Available Widgets",
+              "description": "List available widgets. No params."
+            },
+            {
+              "name": "comments/list",
+              "label": "List Comments",
+              "description": "List comments. Params: status, post_id, author_email, per_page, page, search (all optional)."
+            },
+            {
+              "name": "comments/get",
+              "label": "Get Comment",
+              "description": "Get comment. Params: id (required)."
+            },
+            {
+              "name": "comments/update-status",
+              "label": "Update Comment Status",
+              "description": "Approves, holds, spams, or trashes a comment."
+            },
+            {
+              "name": "comments/reply",
+              "label": "Reply to Comment",
+              "description": "Posts a reply to an existing comment."
+            },
+            {
+              "name": "comments/create",
+              "label": "Create Comment",
+              "description": "Create comment. Params: post_id, content (required), author, email, user_id, parent_id."
+            },
+            {
+              "name": "comments/delete",
+              "label": "Delete Comment",
+              "description": "Permanently deletes a comment."
+            },
+            {
+              "name": "options/get",
+              "label": "Get Option",
+              "description": "Get option. Params: name (required)."
+            },
+            {
+              "name": "options/update",
+              "label": "Update Option",
+              "description": "Update option. Params: name, value (required), key (optional for array options)."
+            },
+            {
+              "name": "options/list",
+              "label": "List Options",
+              "description": "List options. Params: search (required, SQL LIKE pattern), per_page."
+            },
+            {
+              "name": "system/get-transient",
+              "label": "Get Transient",
+              "description": "Get transient. Params: name (required)."
+            },
+            {
+              "name": "system/debug-log",
+              "label": "Read Debug Log",
+              "description": "Reads the WordPress debug.log file. Returns the last N lines, optionally filtered by a search pattern."
+            },
+            {
+              "name": "system/toggle-debug",
+              "label": "Toggle Debug Mode",
+              "description": "Toggles WP_DEBUG on or off in wp-config.php. Can also set WP_DEBUG_LOG and WP_DEBUG_DISPLAY."
+            },
+            {
+              "name": "wpforms/list-forms",
+              "label": "List Forms",
+              "description": "List all available WPForms forms with their metadata."
+            },
+            {
+              "name": "wpforms/get-form",
+              "label": "Get Form",
+              "description": "Get detailed information about a specific WPForms form including its fields."
+            },
+            {
+              "name": "wpforms/get-form-stats",
+              "label": "Get Form Stats",
+              "description": "Get basic statistics for a WPForms form. Upgrade to Pro for detailed entry data."
+            },
+            {
+              "name": "wp-mcp-ultimate/discover-abilities",
+              "label": "Discover Abilities",
+              "description": "Discover all available WordPress abilities in the system. Returns a list of all registered abilities with their basic information."
+            },
+            {
+              "name": "wp-mcp-ultimate/get-ability-info",
+              "label": "Get Ability Info",
+              "description": "Get detailed information about a specific WordPress ability including its input/output schema, description, and usage examples."
+            },
+            {
+              "name": "wp-mcp-ultimate/execute-ability",
+              "label": "Execute Ability",
+              "description": "Execute a WordPress ability with the provided parameters. This is the primary execution layer that can run any registered ability."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

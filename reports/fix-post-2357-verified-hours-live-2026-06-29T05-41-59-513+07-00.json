@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-06-29T05:42:07.828+07:00",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/backups/fix-post-2357-verified-hours-live-2026-06-29T05-41-59-513+07-00",
+  "backupPath": "/mnt/d/.thongtaccongquangninh/backups/fix-post-2357-verified-hours-live-2026-06-29T05-41-59-513+07-00/post-2357-gia-thong-tac-bon-cau-quang-ninh.before.json",
+  "updateStatus": 200,
+  "public": {
+    "status": 502,
+    "hasNightCopy": false,
+    "has247": false
+  },
+  "success": false
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-25",
+  "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+  "postId": 215,
+  "revision": "seo-revisions/post-215-dau-hieu-be-phot-can-hut-seo-fix-2026-05-25.html",
+  "backup": "backups/post-215-dau-hieu-be-phot-can-hut-before-seo-fix-2026-05-25.json",
+  "request": {
+    "title": "Dấu hiệu bể phốt cần hút: mùi hôi, trào ngược, cần xử lý sớm",
+    "description": "Dấu hiệu bể phốt cần hút gồm rút chậm, mùi hôi, nước trào ngược. Gọi 0963.953.533 / 0931.156.756 để kiểm tra nguyên nhân và xử lý sớm trước khi bể tràn.",
+    "focusKeyword": "dấu hiệu bể phốt cần hút",
+    "score": 90
+  },
+  "result": {
+    "updated": {
+      "id": 215,
+      "status": "publish",
+      "modified": "2026-05-25T02:49:18",
+      "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "title": "Dấu hiệu bể phốt cần hút: mùi hôi, trào ngược, cần xử lý sớm"
+    },
+    "updateMeta": {
+      "slug": true,
+      "schemas": []
+    },
+    "updateSeoScore": 1,
+    "finalContentUpdate": {
+      "id": 215,
+      "status": "publish",
+      "modified": "2026-05-25T02:50:53",
+      "reason": "Reduce rendered word count into 2500-3000 target"
+    }
+  }
+}

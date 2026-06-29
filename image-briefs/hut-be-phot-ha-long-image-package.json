@@ -1,0 +1,43 @@
+{
+  "slug": "hut-be-phot-ha-long",
+  "status": "READY_FOR_REVIEW",
+  "service": "hút bể phốt",
+  "area": "Hạ Long",
+  "sourceType": "edited_ai",
+  "createdAt": "2026-06-16T00:00:00.000Z",
+  "images": [
+    {
+      "slot": "anh-dau-bai",
+      "fileName": "hut-be-phot-ha-long-xe-bom-vao-ngo-hep.webp",
+      "altText": "Ảnh minh họa xe hút bể phốt Hạ Long vào ngõ hẹp khu dân cư Hòn Gai",
+      "caption": "Ảnh minh họa xe bơm nhỏ hút bể phốt nhà dân tại Hạ Long, vào được ngõ hẹp 1,5m",
+      "placement": "sau mở bài, trước H2 đầu tiên",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "fileSizeKb": 118,
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-ha-long-xe-bom-vao-ngo-hep.webp",
+      "note": "edited_ai"
+    },
+    {
+      "slot": "case-study",
+      "fileName": "hut-be-phot-ha-long-ky-thuat-hut-be-khach-san-bai-chay.webp",
+      "altText": "Ảnh minh họa kỹ thuật hút bể phốt khách sạn Bãi Cháy Hạ Long Quảng Ninh",
+      "caption": "Ảnh minh họa đội kỹ thuật hút bể phốt khách sạn khu Bãi Cháy Hạ Long",
+      "placement": "trong phần case study tình huống thực tế",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "fileSizeKb": 198,
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-ha-long-ky-thuat-hut-be-khach-san-bai-chay.webp",
+      "note": "edited_ai"
+    },
+    {
+      "slot": "quy-trinh",
+      "fileName": "hut-be-phot-ha-long-xe-bon-hut-sach-be-phot.webp",
+      "altText": "Ảnh minh họa quy trình xe bơm hút bể phốt sạch hoàn toàn tại Hạ Long Quảng Ninh",
+      "caption": "Ảnh minh họa quy trình hút bể phốt bằng xe bồn tại TP. Hạ Long — 5 bước, sạch đến đáy",
+      "placement": "trong phần quy trình thi công 5 bước",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "fileSizeKb": 191,
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-ha-long-xe-bon-hut-sach-be-phot.webp",
+      "note": "edited_ai"
+    }
+  ]
+}

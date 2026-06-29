@@ -1,0 +1,119 @@
+{
+  "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/?nowprocket=1&codex=final20260525",
+  "status": 200,
+  "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/?nowprocket=1&codex=final20260525",
+  "canonical": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+  "noindex": false,
+  "inSitemap": true,
+  "title": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư, cơ sở kinh doanh",
+  "titleLength": 61,
+  "metaDescription": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư cũ và cơ sở đông người khi bể đầy, mùi hoặc trào ngược. Gọi 0963.953.533 / 0931.156.756 để đặt lịch kiểm tra sớm.",
+  "metaLength": 157,
+  "mainWordCount": 2552,
+  "fullH1": [
+    "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư, cơ sở kinh doanh"
+  ],
+  "mainH2": [
+    "Nguyên nhân bể phốt Uông Bí nhanh đầy hoặc gây mùi",
+    "Dấu hiệu cần gọi xe hút bể phốt tại Uông Bí",
+    "Khác biệt giữa nhà trọ, nhà dân cũ và cơ sở kinh doanh",
+    "Bảng giá hút bể phốt Uông Bí phụ thuộc yếu tố nào?",
+    "Quy trình 5 bước hút bể phốt tại Uông Bí",
+    "Tình huống thường gặp theo địa bàn Uông Bí",
+    "Phân biệt bể đầy với tắc cống hoặc lỗi thoát sàn",
+    "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh?",
+    "Cách hạn chế bể đầy nhanh sau khi xử lý",
+    "NAP liên hệ hút bể phốt Uông Bí",
+    "Câu hỏi thường gặp về hút bể phốt Uông Bí"
+  ],
+  "requiredH2": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "mainForbidden": [],
+  "hotlinesMain": 10,
+  "densityMain": {
+    "count": 6,
+    "total": 2552,
+    "density": 0.011755485893416929
+  },
+  "images": [
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-uong-bi-xe-hut-be-phot-ho-gia-dinh-1.webp",
+      "alt": "Xe bồn hút bể phốt hộ gia đình cho dịch vụ hút bể phốt tại Uông Bí",
+      "filename": "hut-be-phot-uong-bi-xe-hut-be-phot-ho-gia-dinh-1.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-uong-bi-xe-hut-be-phot-ho-gia-dinh-2.webp",
+      "alt": "Xe bồn hút bể phốt hộ gia đình cho dịch vụ hút bể phốt tại Uông Bí",
+      "filename": "hut-be-phot-uong-bi-xe-hut-be-phot-ho-gia-dinh-2.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-uong-bi-xe-hut-be-phot-ho-gia-dinh-3.webp",
+      "alt": "Xe bồn hút bể phốt hộ gia đình cho dịch vụ hút bể phốt tại Uông Bí",
+      "filename": "hut-be-phot-uong-bi-xe-hut-be-phot-ho-gia-dinh-3.webp",
+      "external": false
+    }
+  ],
+  "imageIssues": [],
+  "internalLinksMain": 5,
+  "internalLinkStatus": [
+    {
+      "path": "/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "status": 200,
+      "location": ""
+    },
+    {
+      "path": "/thong-tac-cong-uong-bi/",
+      "status": 200,
+      "location": ""
+    },
+    {
+      "path": "/xu-ly-mui-hoi-nha-ve-sinh/",
+      "status": 200,
+      "location": ""
+    },
+    {
+      "path": "/hut-be-phot-quang-ninh/",
+      "status": 200,
+      "location": ""
+    },
+    {
+      "path": "/lien-he/",
+      "status": 200,
+      "location": ""
+    }
+  ],
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "Service",
+      "FAQPage"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "schemaTypes": [
+    "LocalBusiness",
+    "BreadcrumbList",
+    "Service",
+    "FAQPage"
+  ],
+  "faqSchemaCount": 1,
+  "autoFaqVisible": false,
+  "autoFaqSchema": false,
+  "quickTakeawaysVisible": false,
+  "unsafeClaims": [],
+  "realPhotoClaim": false,
+  "pass": true
+}

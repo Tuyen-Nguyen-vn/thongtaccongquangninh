@@ -1,0 +1,141 @@
+{
+  "generatedAt": "2026-05-05T17:30:05.411Z",
+  "slug": "hut-be-phot-uong-bi",
+  "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+  "liveStatus": 200,
+  "postId": 54,
+  "type": "pages",
+  "status": "publish",
+  "title": "Hút bể phốt Uông Bí 24/7, xe bồn có mặt nhanh",
+  "metaTitle": "Hút bể phốt Uông Bí 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+  "metaDescription": "Hút bể phốt Uông Bí 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+  "h1": [
+    "Hút bể phốt Uông Bí 24/7, xe bồn có mặt nhanh"
+  ],
+  "canonical": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "Organization",
+      "WebSite",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebPage",
+      "Article",
+      "FAQPage"
+    ],
+    "localBusinessAreaServed": [
+      "Hạ Long",
+      "Cẩm Phả",
+      "Uông Bí",
+      "Móng Cái",
+      "Đông Triều",
+      "Quảng Yên",
+      "Vân Đồn"
+    ],
+    "hasExpectedArea": true
+  },
+  "faq": [
+    "Gọi hút bể phốt Uông Bí bao lâu thì có xe đến?",
+    "Hút bể phốt Uông Bí có xử lý được nhà trong ngõ không?",
+    "Bể phốt đầy kèm cống tắc tại Uông Bí thì làm thế nào?",
+    "Giá hút bể phốt Uông Bí ban đêm có thay đổi không?"
+  ],
+  "internalLinks": [
+    "/",
+    "/bang-gia/",
+    "/blog/",
+    "/cau-hoi-thuong-gap-thong-tac-cong/",
+    "/chinh-sach-bao-hanh/",
+    "/gioi-thieu/",
+    "/hut-be-phot-cam-pha/",
+    "/hut-be-phot-dong-trieu/",
+    "/hut-be-phot-ha-long/",
+    "/hut-be-phot-hoanh-bo/",
+    "/hut-be-phot-mong-cai/",
+    "/hut-be-phot-quang-ninh/",
+    "/hut-be-phot-quang-yen/",
+    "/hut-be-phot-uong-bi/",
+    "/hut-be-phot-van-don/",
+    "/lien-he/",
+    "/nao-vet-ho-ga-quang-ninh/",
+    "/thong-tac-bon-cau-quang-ninh/",
+    "/thong-tac-chau-rua-quang-ninh/",
+    "/thong-tac-cong-quang-ninh/",
+    "/thong-tac-cong-uong-bi/",
+    "/thong-tac-toilet-quang-ninh/",
+    "/ve-sinh-duong-ong-quang-ninh/"
+  ],
+  "images": [
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png",
+      "alt": "Logo Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/banner-thong-tac-cong-quang-ninh-cac-trang-con.webp?v=20260416-1",
+      "alt": "Banner dịch vụ hút bể phốt và thông tắc cống Quảng Ninh của Môi Trường Đô Thị Số 1",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "alt": "Xe hút bể phốt chuyên dụng tại Quảng Ninh",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "alt": "hút bể phốt Uông Bí bằng xe bồn chuyên dụng",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-floating-cta/assets/call.webp",
+      "alt": "Gọi 0963 953 533",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-floating-cta/assets/zalo.webp",
+      "alt": "Zalo 0931 156 756",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-floating-cta/assets/facebook.webp",
+      "alt": "Facebook Thông Tắc Cống Hạ Long 24h",
+      "title": ""
+    }
+  ],
+  "targetStatuses": {
+    "/hut-be-phot-quang-ninh/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/"
+    },
+    "/thong-tac-cong-uong-bi/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/"
+    },
+    "/thong-tac-bon-cau-quang-ninh/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/"
+    },
+    "/cau-hoi-thuong-gap-thong-tac-cong/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/"
+    },
+    "/lien-he/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/lien-he/"
+    }
+  },
+  "rankMath": {
+    "offset": 0,
+    "keyword": "hút bể phốt Uông Bí",
+    "title": "Hút bể phốt Uông Bí 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+    "description": "Hút bể phốt Uông Bí 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà."
+  },
+  "issues": []
+}

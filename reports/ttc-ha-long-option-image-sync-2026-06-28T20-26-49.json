@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-06-28T20:26:57.404Z",
+  "mode": "dry-run",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+  "targetImage": "thong-tac-cong-ha-long-kiem-tra-ho-ga.webp",
+  "sourceErrors": [
+    "post_content thiếu alt ảnh target"
+  ],
+  "needsSync": [
+    "ttcqn_doorway_safe_page_296_content",
+    "ttcqn_doorway_safe_page_296_content_v2"
+  ],
+  "before": {
+    "page": {
+      "length": 25635,
+      "hash": "839f0dd4a1ccf807",
+      "imageCount": 3,
+      "h1Count": 0,
+      "hasTargetImage": true,
+      "targetImageCount": 1,
+      "hasTargetAlt": false,
+      "hasTargetCaption": true,
+      "hasAuthorByline": true,
+      "hasHotline": true,
+      "forbiddenHits": []
+    },
+    "options": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "inspect": {
+          "length": 24563,
+          "hash": "53ad496b104c353d",
+          "imageCount": 2,
+          "h1Count": 0,
+          "hasTargetImage": false,
+          "targetImageCount": 0,
+          "hasTargetAlt": false,
+          "hasTargetCaption": false,
+          "hasAuthorByline": true,
+          "hasHotline": true,
+          "forbiddenHits": []
+        }
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "inspect": {
+          "length": 24563,
+          "hash": "53ad496b104c353d",
+          "imageCount": 2,
+          "h1Count": 0,
+          "hasTargetImage": false,
+          "targetImageCount": 0,
+          "hasTargetAlt": false,
+          "hasTargetCaption": false,
+          "hasAuthorByline": true,
+          "hasHotline": true,
+          "forbiddenHits": []
+        }
+      }
+    ]
+  },
+  "backupDir": null,
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/ttc-ha-long-option-image-sync-2026-06-28T20-26-49.json",
+  "status": "blocked_source_not_ready"
+}

@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-25",
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+  "pageId": 37,
+  "restContentMatchesRevision": true,
+  "output": {
+    "title": "Thông tắc bồn cầu Quảng Ninh cho nhà dân, nhà hàng, khách sạn 24/7",
+    "titleLength": 66,
+    "description": "Thông tắc bồn cầu Quảng Ninh cho nhà dân, nhà hàng, khách sạn khi nước rút chậm, trào ngược hoặc có mùi hôi. Gọi 0963.953.533 / 0931.156.756 để kiểm tra sớm.",
+    "metaLength": 157,
+    "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+    "canonicalOk": true,
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "indexable": true,
+    "h1Count": 1,
+    "h1": [
+      "Thông tắc bồn cầu Quảng Ninh cho nhà dân, nhà hàng, khách sạn 24/7"
+    ],
+    "h1Source": "full rendered HTML; hero replaces content H1",
+    "h2": [
+      "Dấu hiệu cần xử lý sớm tại Quảng Ninh",
+      "Nguyên nhân bồn cầu tắc thường gặp",
+      "Khi nào có thể tự xử lý, khi nào nên gọi thợ",
+      "Bảng giá thông tắc bồn cầu Quảng Ninh",
+      "Quy trình xử lý 5 bước",
+      "Checklist trước khi gọi thợ",
+      "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Tình huống thường gặp theo khu vực",
+      "Case study E-E-A-T: hồ sơ kiểm tra và bàn giao",
+      "Khu vực phục vụ tại Quảng Ninh",
+      "NAP liên hệ xử lý bồn cầu tại Quảng Ninh",
+      "Câu hỏi thường gặp"
+    ],
+    "missingH2": [],
+    "words": 2608,
+    "forbidden": [],
+    "hotline": 6,
+    "density": {
+      "count": 5,
+      "total": 2608,
+      "density": 0.011503067484662576
+    },
+    "imageCount": 3,
+    "imageIssues": [],
+    "images": [
+      {
+        "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-kiem-tra-nha-dan.webp",
+        "alt": "Kiểm tra thông tắc bồn cầu tại nhà dân Quảng Ninh",
+        "filename": "thong-tac-bon-cau-quang-ninh-kiem-tra-nha-dan.webp",
+        "external": false
+      },
+      {
+        "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-may-lo-xo-nha-hang.webp",
+        "alt": "Máy lò xo xử lý bồn cầu tắc tại nhà hàng Quảng Ninh",
+        "filename": "thong-tac-bon-cau-quang-ninh-may-lo-xo-nha-hang.webp",
+        "external": false
+      },
+      {
+        "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-xa-thu-khach-san.webp",
+        "alt": "Xả thử bồn cầu sau thông tắc tại khách sạn Quảng Ninh",
+        "filename": "thong-tac-bon-cau-quang-ninh-xa-thu-khach-san.webp",
+        "external": false
+      }
+    ],
+    "schema": {
+      "types": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "Service",
+        "FAQPage"
+      ],
+      "problems": [],
+      "parseErrors": []
+    },
+    "serviceCount": 1,
+    "faqCount": 1,
+    "blockedAutoFaqClaims": [],
+    "internalLinks": [
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/lien-he/",
+        "status": 200,
+        "ok": true
+      }
+    ],
+    "internalBad": [],
+    "sitemap": true,
+    "autoFaqSuppressed": true
+  },
+  "seoScore": {
+    "command": "python3 tools/seo_score.py reports/live-after-page-37-thong-tac-bon-cau-quang-ninh-2026-05-25.html \"thông tắc bồn cầu Quảng Ninh\"",
+    "internalScore": 95,
+    "status": "DAT"
+  },
+  "imageAudit": {
+    "report": "reports/wp-unique-image-audit-2026-05-25T23-50-56.json",
+    "targetIssueCount": 0,
+    "targetReuseGroupCount": 0
+  }
+}

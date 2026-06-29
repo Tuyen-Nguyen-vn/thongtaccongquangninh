@@ -1,0 +1,106 @@
+{
+  "stamp": "2026-06-26T19-10-48-014Z",
+  "slug": "thong-tac-cong-quang-ninh",
+  "pageId": 35,
+  "steps": [
+    {
+      "step": "backup",
+      "ok": true,
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-push-2026-06-26/thong-tac-cong-quang-ninh-2026-06-26T19-10-48-014Z.json"
+    },
+    {
+      "step": "media",
+      "ok": true,
+      "count": 4
+    },
+    {
+      "step": "update_page",
+      "ok": true,
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/"
+    },
+    {
+      "step": "rank_math",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "step": "live_verify",
+      "ok": false,
+      "checks": {
+        "status200": true,
+        "h1Count": 1,
+        "hasH1": true,
+        "hasMeta": false,
+        "hasMap": true,
+        "hasPersonSchema": true,
+        "hasLocalBusinessSchema": true,
+        "hasFaqSchema": true,
+        "noReviewRatingSchema": true,
+        "hasAuthor": true,
+        "images": 4
+      }
+    }
+  ],
+  "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-push-2026-06-26/thong-tac-cong-quang-ninh-2026-06-26T19-10-48-014Z.json",
+  "uploadedImages": [
+    {
+      "fileName": "thong-tac-cong-quang-ninh-may-lo-xo.webp",
+      "id": 2991,
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-quang-ninh-may-lo-xo.webp",
+      "reused": true
+    },
+    {
+      "fileName": "thong-tac-cong-quang-ninh-kiem-tra-ho-ga.webp",
+      "id": 2992,
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-quang-ninh-kiem-tra-ho-ga.webp",
+      "reused": true
+    },
+    {
+      "fileName": "thong-tac-cong-quang-ninh-xu-ly-cong-bep.webp",
+      "id": 2990,
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-quang-ninh-xu-ly-cong-bep.webp",
+      "reused": true
+    },
+    {
+      "fileName": "thong-tac-cong-quang-ninh-xa-thu.webp",
+      "id": 2993,
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-quang-ninh-xa-thu.webp",
+      "reused": true
+    }
+  ],
+  "contentChars": 44251,
+  "live": {
+    "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/?nowprocket=1&codex=ttc-qn-1782501057422",
+    "status": 200,
+    "metaDescription": "Thông tắc cống Quảng Ninh 24/7 bằng máy lò xo, xử lý nước trào, mùi hôi, cống nghẹt, không đục phá khi chưa cần. Gọi 0963.953.533. Có mặt 15 phút, bảo hành.",
+    "schemaTypes": [
+      "Article",
+      "BreadcrumbList",
+      "FAQPage",
+      "HomeAndConstructionBusiness",
+      "ImageObject",
+      "LocalBusiness",
+      "Organization",
+      "Person",
+      "Service",
+      "VideoObject",
+      "WebPage",
+      "WebSite"
+    ],
+    "checks": {
+      "status200": true,
+      "h1Count": 1,
+      "hasH1": true,
+      "hasMeta": false,
+      "hasMap": true,
+      "hasPersonSchema": true,
+      "hasLocalBusinessSchema": true,
+      "hasFaqSchema": true,
+      "noReviewRatingSchema": true,
+      "hasAuthor": true,
+      "images": 4
+    }
+  },
+  "ok": false
+}

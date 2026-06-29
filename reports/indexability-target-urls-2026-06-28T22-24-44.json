@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-06-28T22:24:44.104Z",
+  "sitemapIndexStatus": 200,
+  "childSitemapCount": 4,
+  "urlCount": 1,
+  "passCount": 1,
+  "warnCount": 0,
+  "results": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "status": 200,
+      "title": "Thông Tắc Cống Quảng Yên, Có Mặt Nhanh, Giá Rõ",
+      "titleLen": 46,
+      "description": "Thông tắc cống Quảng Yên – khảo sát nhanh, báo giá trước, không đục phá, bảo hành 6-24 tháng. Gửi ảnh hiện trạng, gọi 0963.953.533 / 0931.156.756.",
+      "descLen": 146,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1Count": 1,
+      "imageCount": 9,
+      "faqSchemaCount": 1,
+      "stale247Count": 0,
+      "wordCount": 2982,
+      "sitemap": [
+        "https://thongtaccongquangninh.com/page-sitemap.xml"
+      ],
+      "problems": []
+    }
+  ]
+}

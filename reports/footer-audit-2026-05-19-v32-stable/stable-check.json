@@ -1,0 +1,291 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=footer-stable-1779191234090",
+  "results": [
+    {
+      "vp": {
+        "name": "desktop-1440",
+        "width": 1440,
+        "height": 950
+      },
+      "metrics": {
+        "scrollY": 11401,
+        "innerH": 950,
+        "docH": 12351,
+        "maxScroll": 11401,
+        "footerRect": {
+          "top": -1608.734375,
+          "bottom": -498,
+          "h": 1110.734375,
+          "y": -1608.734375
+        },
+        "copyrightRect": {
+          "top": -578.5,
+          "bottom": -528,
+          "h": 50.5,
+          "y": -578.5
+        },
+        "exitDisplay": "none",
+        "prDisplay": "none",
+        "textLeak": false,
+        "lastVisible": [
+          {
+            "tag": "DIV",
+            "id": "ai-back-to-top",
+            "cls": "",
+            "text": "",
+            "rect": {
+              "top": -498,
+              "bottom": 949.5,
+              "h": 1447.5,
+              "y": -498
+            },
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "svg",
+            "id": "",
+            "cls": "[object SVGAnimatedString]",
+            "text": "",
+            "rect": {
+              "top": -498,
+              "bottom": 942,
+              "h": 1440,
+              "y": -498
+            },
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "BUTTON",
+            "id": "",
+            "cls": "footer-back-top",
+            "text": "",
+            "rect": {
+              "top": 860,
+              "bottom": 926,
+              "h": 66,
+              "y": 860
+            },
+            "display": "grid",
+            "position": "fixed"
+          },
+          {
+            "tag": "svg",
+            "id": "",
+            "cls": "[object SVGAnimatedString]",
+            "text": "",
+            "rect": {
+              "top": 878,
+              "bottom": 912,
+              "h": 34,
+              "y": 878
+            },
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "use",
+            "id": "",
+            "cls": "[object SVGAnimatedString]",
+            "text": "",
+            "rect": {
+              "top": 885.0833129882812,
+              "bottom": 904.9166870117188,
+              "h": 19.8333740234375,
+              "y": 885.0833129882812
+            },
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "DIV",
+            "id": "",
+            "cls": "ttcqn-sga",
+            "text": "Trợ lý\nTRỢ LÝ DẪN ĐƯỜNG\nMôi Trường Đô Thị Số 1\n\nVì sao nên chọn\n\nGọi tư vấn miễn",
+            "rect": {
+              "top": 342.1640625,
+              "bottom": 607.8359375,
+              "h": 265.671875,
+              "y": 342.1640625
+            },
+            "display": "grid",
+            "position": "fixed"
+          },
+          {
+            "tag": "ASIDE",
+            "id": "",
+            "cls": "ttcqn-sga-panel",
+            "text": "TRỢ LÝ DẪN ĐƯỜNG\nMôi Trường Đô Thị Số 1\n\nVì sao nên chọn\n\nGọi tư vấn miễn phí\nGọ",
+            "rect": {
+              "top": 384.4207763671875,
+              "bottom": 605.5792236328125,
+              "h": 221.158447265625,
+              "y": 384.4207763671875
+            },
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "DIV",
+            "id": "",
+            "cls": "ttcqn-sga-card",
+            "text": "TRỢ LÝ DẪN ĐƯỜNG\nMôi Trường Đô Thị Số 1\n\nVì sao nên chọn\n\nGọi tư vấn miễn phí\nGọ",
+            "rect": {
+              "top": 384.4207763671875,
+              "bottom": 605.5792236328125,
+              "h": 221.158447265625,
+              "y": 384.4207763671875
+            },
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "horizontalOverflow": false
+      }
+    },
+    {
+      "vp": {
+        "name": "mobile-390",
+        "width": 390,
+        "height": 1200
+      },
+      "metrics": {
+        "scrollY": 16105,
+        "innerH": 1200,
+        "docH": 17305,
+        "maxScroll": 16105,
+        "footerRect": {
+          "top": -2353.28125,
+          "bottom": 732,
+          "h": 3085.28125,
+          "y": -2353.28125
+        },
+        "copyrightRect": {
+          "top": 593.21875,
+          "bottom": 710,
+          "h": 116.78125,
+          "y": 593.21875
+        },
+        "exitDisplay": "none",
+        "prDisplay": "none",
+        "textLeak": false,
+        "lastVisible": [
+          {
+            "tag": "NAV",
+            "id": "",
+            "cls": "ttcqn-mls",
+            "text": "",
+            "rect": {
+              "top": 1142.699951171875,
+              "bottom": 1192,
+              "h": 49.300048828125,
+              "y": 1142.699951171875
+            },
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "A",
+            "id": "",
+            "cls": "ttcqn-mls-call",
+            "text": "",
+            "rect": {
+              "top": 1142.699951171875,
+              "bottom": 1192,
+              "h": 49.300048828125,
+              "y": 1142.699951171875
+            },
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "A",
+            "id": "",
+            "cls": "ttcqn-mls-zalo",
+            "text": "",
+            "rect": {
+              "top": 1142.699951171875,
+              "bottom": 1192,
+              "h": 49.300048828125,
+              "y": 1142.699951171875
+            },
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "PICTURE",
+            "id": "",
+            "cls": "",
+            "text": "",
+            "rect": {
+              "top": 1147.7999267578125,
+              "bottom": 1186.89990234375,
+              "h": 39.0999755859375,
+              "y": 1147.7999267578125
+            },
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "IMG",
+            "id": "",
+            "cls": "",
+            "text": "",
+            "rect": {
+              "top": 1147.7999267578125,
+              "bottom": 1186.89990234375,
+              "h": 39.0999755859375,
+              "y": 1147.7999267578125
+            },
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "PICTURE",
+            "id": "",
+            "cls": "",
+            "text": "",
+            "rect": {
+              "top": 1147.7999267578125,
+              "bottom": 1186.89990234375,
+              "h": 39.0999755859375,
+              "y": 1147.7999267578125
+            },
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "IMG",
+            "id": "",
+            "cls": "",
+            "text": "",
+            "rect": {
+              "top": 1147.7999267578125,
+              "bottom": 1186.89990234375,
+              "h": 39.0999755859375,
+              "y": 1147.7999267578125
+            },
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "BUTTON",
+            "id": "",
+            "cls": "footer-back-top",
+            "text": "",
+            "rect": {
+              "top": 1126,
+              "bottom": 1182,
+              "h": 56,
+              "y": 1126
+            },
+            "display": "grid",
+            "position": "fixed"
+          }
+        ],
+        "horizontalOverflow": false
+      }
+    }
+  ]
+}

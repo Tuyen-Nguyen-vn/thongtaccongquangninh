@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-03T16:46:28.601Z",
+  "target": {
+    "id": 2047,
+    "collection": "posts",
+    "slug": "hut-be-phot-ba-che",
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-hut-be-phot-ba-che-2026-06-03T16-46-26-255Z",
+  "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 - Xe vào vùng núi, báo giá rõ",
+  "titleLen": 64,
+  "metaDesc": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+  "metaDescLen": 158,
+  "before": {
+    "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+    "excerpt": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+    "contentLen": 17236,
+    "rawWordCount": 2746,
+    "keyword": {
+      "count": 29,
+      "total": 2745,
+      "density": 0.052823315118397086,
+      "densityPct": 5.28
+    },
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false,
+    "badAlt": true
+  },
+  "update": {
+    "changed": true,
+    "contentLen": 15873,
+    "rawWordCount": 2387,
+    "keyword": {
+      "count": 6,
+      "total": 2386,
+      "density": 0.012573344509639563,
+      "densityPct": 1.26
+    },
+    "changes": [
+      {
+        "label": "replace_old_author_url",
+        "changed": true
+      },
+      {
+        "label": "fix_case_image_alt",
+        "changed": true
+      },
+      {
+        "label": "remove_duplicate_author_box",
+        "changed": true
+      },
+      {
+        "label": "remove_duplicate_reminder_section",
+        "changed": true
+      },
+      {
+        "label": "remove_escaped_schema_text",
+        "changed": true
+      },
+      {
+        "label": "normalize_keyword_heavy_headings",
+        "changed": true,
+        "count": 9
+      },
+      {
+        "label": "reduce_exact_keyword_repeats",
+        "changed": true,
+        "kept": 7,
+        "replaced": 11
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema_and_final_author",
+        "changed": true
+      }
+    ],
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "hasFinalAuthor": true,
+    "badAlt": false
+  },
+  "rankMath": null,
+  "rankScore": null,
+  "verify": null
+}

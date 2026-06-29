@@ -1,0 +1,18 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "slug": "cam-nang-thong-tac-cong-tai-ha-long-rankmath-90",
+  "title": "Thông tắc cống tại Hạ Long — cẩm nang xử lý theo từng khu phố",
+  "service": "thông tắc cống",
+  "area": "Hạ Long",
+  "briefPath": "D:\\.thongtaccongquangninh\\image-briefs\\cam-nang-thong-tac-cong-tai-ha-long-rankmath-90-image-brief.json",
+  "packagePath": "D:\\.thongtaccongquangninh\\image-briefs\\cam-nang-thong-tac-cong-tai-ha-long-rankmath-90-image-package.json",
+  "sourceType": "pending",
+  "imagesNeeded": 5,
+  "content": {
+    "summary": "Thông tắc cống tại Hạ Long — cẩm nang xử lý theo từng khu phố",
+    "h2Count": 10,
+    "bodyWordCount": 3960
+  },
+  "nextAction": "Gọi image-agent để chọn ảnh và tạo image-package.json",
+  "images": []
+}

@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-06-28T20:46:48.590Z",
+  "sitemapIndexStatus": 200,
+  "childSitemapCount": 4,
+  "urlCount": 4,
+  "passCount": 4,
+  "warnCount": 0,
+  "results": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "status": 200,
+      "titleLen": 74,
+      "descLen": 143,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1Count": 1,
+      "imageCount": 9,
+      "wordCount": 4336,
+      "sitemap": [
+        "https://thongtaccongquangninh.com/page-sitemap.xml"
+      ],
+      "problems": []
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "status": 200,
+      "titleLen": 60,
+      "descLen": 147,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1Count": 1,
+      "imageCount": 9,
+      "wordCount": 5918,
+      "sitemap": [
+        "https://thongtaccongquangninh.com/post-sitemap.xml"
+      ],
+      "problems": []
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "status": 200,
+      "titleLen": 70,
+      "descLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1Count": 1,
+      "imageCount": 9,
+      "wordCount": 4543,
+      "sitemap": [
+        "https://thongtaccongquangninh.com/post-sitemap.xml",
+        "https://thongtaccongquangninh.com/page-sitemap.xml"
+      ],
+      "problems": []
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "status": 200,
+      "titleLen": 60,
+      "descLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1Count": 1,
+      "imageCount": 9,
+      "wordCount": 3926,
+      "sitemap": [
+        "https://thongtaccongquangninh.com/post-sitemap.xml"
+      ],
+      "problems": []
+    }
+  ]
+}

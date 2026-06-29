@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-05-19T18:11:27.235Z",
+  "sitemaps": [
+    "https://thongtaccongquangninh.com/post-sitemap.xml",
+    "https://thongtaccongquangninh.com/page-sitemap.xml",
+    "https://thongtaccongquangninh.com/category-sitemap.xml"
+  ],
+  "totalUrls": 41,
+  "sampled": 41,
+  "issues": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+      "sitemap": "https://thongtaccongquangninh.com/page-sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "noindex": false
+    }
+  ]
+}

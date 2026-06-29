@@ -1,0 +1,1376 @@
+{
+  "generatedAt": "2026-05-19T18:10:06.461Z",
+  "live": [
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "status": 200,
+      "title": "Hút bể phốt, thông tắc cống Quảng Ninh 24/7 — có mặt 15-30 phút",
+      "titleLength": 63,
+      "description": "Hút bể phốt, thông tắc cống, bồn cầu, hố ga tại Quảng Ninh. Có mặt 15-30 phút, báo giá trước, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "descriptionLength": 143,
+      "canonical": "https://thongtaccongquangninh.com/",
+      "h1": [
+        "HÚT BỂ PHỐT, THÔNG TẮC CỐNG QUẢNG NINH 24/7"
+      ],
+      "h2Count": 12,
+      "issues": [],
+      "duplicateLazy": 0,
+      "schemaCount": 4,
+      "htmlBytes": 376771
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/blog/",
+      "status": 200,
+      "title": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà",
+      "titleLength": 65,
+      "description": "Cẩm nang hút bể phốt, thông tắc cống, xử lý bồn cầu, nạo vét hố ga và khử mùi hôi tại Quảng Ninh. Gọi 0963.953.533 / 0931.156.756 khi cần thợ.",
+      "descriptionLength": 142,
+      "canonical": "https://thongtaccongquangninh.com/blog/",
+      "h1": [
+        "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà"
+      ],
+      "h2Count": 11,
+      "issues": [],
+      "duplicateLazy": 0,
+      "schemaCount": 2,
+      "htmlBytes": 189591
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "status": 200,
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026 mới nhất",
+      "titleLength": 61,
+      "description": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026, báo rõ từng hạng mục, không báo giá ảo. Gọi 0963.953.533 / 0931.156.756 để thợ đến nhanh trong ngày.",
+      "descriptionLength": 154,
+      "canonical": "https://thongtaccongquangninh.com/bang-gia/",
+      "h1": [
+        "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026"
+      ],
+      "h2Count": 24,
+      "issues": [],
+      "duplicateLazy": 0,
+      "schemaCount": 3,
+      "htmlBytes": 204512
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "status": 200,
+      "title": "Hút bể phốt Quảng Ninh 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLength": 63,
+      "description": "Hút bể phốt Quảng Ninh 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "descriptionLength": 155,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "h1": [
+        "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút"
+      ],
+      "h2Count": 17,
+      "issues": [
+        "duplicate loading lazy attribute"
+      ],
+      "duplicateLazy": 2,
+      "schemaCount": 6,
+      "htmlBytes": 206829
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "status": 200,
+      "title": "Thông tắc cống Quảng Ninh 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLength": 63,
+      "description": "Thông tắc cống Quảng Ninh 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý tắc nghẽn, mùi hôi ngay tại nhà.",
+      "descriptionLength": 150,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "h1": [
+        "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút"
+      ],
+      "h2Count": 17,
+      "issues": [
+        "duplicate loading lazy attribute"
+      ],
+      "duplicateLazy": 26,
+      "schemaCount": 5,
+      "htmlBytes": 218756
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Quảng Ninh 24/7 - Phục vụ 7 thành phố, bảo hành dài hạn",
+      "titleLength": 73,
+      "description": "Thông tắc bồn cầu toàn Quảng Ninh: Hạ Long, Cẩm Phả, Uông Bí, Móng Cái. Gọi **0963.953.533 / 0931.156.756** thợ đến sau 15 phút, cam kết 3 Không.",
+      "descriptionLength": 145,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "h1": [
+        "Thông tắc bồn cầu Quảng Ninh 24/7 &#8211; 7 thành phố, bảo hành dài hạn"
+      ],
+      "h2Count": 11,
+      "issues": [
+        "title length 73"
+      ],
+      "duplicateLazy": 0,
+      "schemaCount": 3,
+      "htmlBytes": 188653
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/lien-he/",
+      "status": 200,
+      "title": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh 24/7, gọi thợ nhanh",
+      "titleLength": 61,
+      "description": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh 24/7 để gọi hút bể phốt, thông tắc cống, nạo vét, xử lý mùi hôi. Hotline 0963.953.533 / 0931.156.756 gọi nhanh.",
+      "descriptionLength": 153,
+      "canonical": "https://thongtaccongquangninh.com/lien-he/",
+      "h1": [
+        "Liên hệ 24/7 , xử lý nhanh trong ngày"
+      ],
+      "h2Count": 11,
+      "issues": [],
+      "duplicateLazy": 0,
+      "schemaCount": 3,
+      "htmlBytes": 189262
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "status": 200,
+      "title": "Dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "titleLength": 62,
+      "description": "Dấu hiệu bể phốt cần hút 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh ngay.",
+      "descriptionLength": 152,
+      "canonical": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "h1": [
+        "Dấu Hiệu Bể Phốt Cần Hút, Xử Lý Kịp Thời Tránh Sự Cố"
+      ],
+      "h2Count": 9,
+      "issues": [],
+      "duplicateLazy": 0,
+      "schemaCount": 2,
+      "htmlBytes": 195634
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "status": 200,
+      "title": "Cách xử lý cống thoát nước tắc 24/7, báo giá rõ, gọi thợ nhanh",
+      "titleLength": 62,
+      "description": "Cách xử lý cống thoát nước tắc 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh.",
+      "descriptionLength": 153,
+      "canonical": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "h1": [
+        "Cách Xử Lý Cống Thoát Nước Tắc &#8211; Hướng Dẫn Từ Cơ Bản Đến Triệt Để"
+      ],
+      "h2Count": 10,
+      "issues": [],
+      "duplicateLazy": 0,
+      "schemaCount": 2,
+      "htmlBytes": 196676
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "status": 200,
+      "title": "Xử Lý Mùi Hôi Nhà Vệ Sinh - Nguyên Nhân Và Cách Xử Lý Dứt Điểm - Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLength": 98,
+      "description": "Mùi hôi nhà vệ sinh là vấn đề khiến nhiều gia đình đau đầu. Xịt nước thơm che đi chỉ được một lúc, mùi lại quay lại. Bài viết này chỉ ra nguyên nhân thực sự",
+      "descriptionLength": 156,
+      "canonical": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "h1": [
+        "Xử Lý Mùi Hôi Nhà Vệ Sinh &#8211; Nguyên Nhân Và Cách Xử Lý Dứt Điểm"
+      ],
+      "h2Count": 10,
+      "issues": [
+        "title length 98"
+      ],
+      "duplicateLazy": 0,
+      "schemaCount": 2,
+      "htmlBytes": 197045
+    }
+  ],
+  "contentIssues": [
+    {
+      "id": 436,
+      "type": "page",
+      "slug": "hut-be-phot-bai-chay",
+      "status": "publish",
+      "title": "Hút bể phốt Bãi Cháy - Xe bồn vào ngõ rộng, khách sạn nhà hàng",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "duplicate loading lazy in raw content",
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 386,
+      "type": "page",
+      "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+      "status": "publish",
+      "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+      "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "duplicate loading lazy in raw content",
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 384,
+      "type": "page",
+      "slug": "thong-tac-cong-ngo-nho-ha-long",
+      "status": "publish",
+      "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 282,
+      "type": "page",
+      "slug": "chinh-sach-bao-mat",
+      "status": "publish",
+      "title": "Chính sách bảo mật thông tin khách hàng",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 166,
+      "type": "page",
+      "slug": "thong-tac-toilet-quang-ninh",
+      "status": "publish",
+      "title": "Thông tắc toilet Quảng Ninh - Công nghệ máy lò xo, bảo hành dài hạn",
+      "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "duplicate loading lazy in raw content",
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 64,
+      "type": "page",
+      "slug": "chinh-sach-bao-hanh",
+      "status": "publish",
+      "title": "Chính sách bảo hành dịch vụ thông hút bể phốt",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 61,
+      "type": "page",
+      "slug": "bang-gia",
+      "status": "publish",
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+      "link": "https://thongtaccongquangninh.com/bang-gia/",
+      "issues": [
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 59,
+      "type": "page",
+      "slug": "hut-be-phot-hoanh-bo",
+      "status": "publish",
+      "title": "Hút bể phốt Hoành Bồ - Nhà vườn, homestay, xe tải nhẹ vào tận nơi",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "real-case/photo claim may need evidence"
+      ]
+    },
+    {
+      "id": 38,
+      "type": "page",
+      "slug": "nao-vet-ho-ga-quang-ninh",
+      "status": "publish",
+      "title": "Nạo Vét Hố Ga Quảng Ninh - Tránh Ngập Mùa Mưa, Có Mặt 24/7",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "issues": [
+        "duplicate loading lazy in raw content"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "page",
+      "slug": "thong-tac-chau-rua-quang-ninh",
+      "status": "publish",
+      "title": "Thông Tắc Chậu Rửa Quảng Ninh - Phá Mỡ Sâu, Có Mặt 15 Phút",
+      "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "issues": [
+        "duplicate loading lazy in raw content"
+      ]
+    },
+    {
+      "id": 35,
+      "type": "page",
+      "slug": "thong-tac-cong-quang-ninh",
+      "status": "publish",
+      "title": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "issues": [
+        "duplicate loading lazy in raw content"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "page",
+      "slug": "hut-be-phot-quang-ninh",
+      "status": "publish",
+      "title": "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "issues": [
+        "duplicate loading lazy in raw content"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "page",
+      "slug": "trang-chu",
+      "status": "publish",
+      "title": "Môi Trường Đô Thị Số 1 Quảng Ninh - Hút Bể Phốt, Thông Tắc Cống 24/7",
+      "link": "https://thongtaccongquangninh.com/",
+      "issues": [
+        "bad phrase: cta cuối bài",
+        "duplicate loading lazy in raw content"
+      ]
+    },
+    {
+      "id": 1633,
+      "type": "post",
+      "slug": "dau-hieu-be-phot-can-hut-3",
+      "status": "draft",
+      "title": "Dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "link": "https://thongtaccongquangninh.com/?p=1633",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1624,
+      "type": "post",
+      "slug": "dau-hieu-be-phot-can-hut-2",
+      "status": "draft",
+      "title": "Dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "link": "https://thongtaccongquangninh.com/?p=1624",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1611,
+      "type": "post",
+      "slug": "hut-be-phot-cam-thuy",
+      "status": "draft",
+      "title": "Hút bể phốt Cẩm Thủy Cẩm Phả 24/7, khu mỏ, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/?p=1611",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1606,
+      "type": "post",
+      "slug": "hut-be-phot-cam-trung",
+      "status": "draft",
+      "title": "Hút bể phốt Cẩm Trung Cẩm Phả 24/7, chung cư cũ, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/?p=1606",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1601,
+      "type": "post",
+      "slug": "hut-be-phot-tuan-chau",
+      "status": "draft",
+      "title": "Hút bể phốt Tuần Châu Hạ Long 24/7, resort nhà hàng, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/?p=1601",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1596,
+      "type": "post",
+      "slug": "hut-be-phot-gieng-day",
+      "status": "draft",
+      "title": "Hút bể phốt Giếng Đáy Hạ Long 24/7, khu công nghiệp, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/?p=1596",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1591,
+      "type": "post",
+      "slug": "hut-be-phot-ha-khau",
+      "status": "draft",
+      "title": "Hút bể phốt Hà Khẩu Hạ Long 24/7, khu cầu cảng, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/?p=1591",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1586,
+      "type": "post",
+      "slug": "hut-be-phot-bach-dang",
+      "status": "draft",
+      "title": "Hút bể phốt Bạch Đằng Hạ Long 24/7, trung tâm hành chính, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/?p=1586",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1581,
+      "type": "post",
+      "slug": "hut-be-phot-cao-xanh",
+      "status": "draft",
+      "title": "Hút bể phốt Cao Xanh Hạ Long 24/7, khu dân cư đông, có mặt nhanh",
+      "link": "https://thongtaccongquangninh.com/?p=1581",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 1576,
+      "type": "post",
+      "slug": "hut-be-phot-hong-gai",
+      "status": "draft",
+      "title": "Hút bể phốt Hồng Gai Hạ Long 24/7, xe vào ngõ hẹp, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/?p=1576",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 394,
+      "type": "post",
+      "slug": "thong-tac-cong-hong-gai-ha-long",
+      "status": "draft",
+      "title": "Thông tắc cống Hồng Gai Hạ Long 24/7, xử lý nhanh trong ngày",
+      "link": "https://thongtaccongquangninh.com/?p=394",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 378,
+      "type": "post",
+      "slug": "hut-be-phot-ha-long-xe-hut-24-7",
+      "status": "draft",
+      "title": "Hút bể phốt Hạ Long xe hút 24/7, xử lý nhanh trong ngày",
+      "link": "https://thongtaccongquangninh.com/?p=378",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 377,
+      "type": "post",
+      "slug": "thong-tac-cong-ha-long-ban-dem",
+      "status": "draft",
+      "title": "Thông tắc cống Hạ Long ban đêm 24/7, xử lý nhanh trong ngày",
+      "link": "https://thongtaccongquangninh.com/?p=377",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    },
+    {
+      "id": 376,
+      "type": "post",
+      "slug": "gia-thong-tac-cong-ha-long",
+      "status": "draft",
+      "title": "Giá thông tắc cống Hạ Long 24/7, xử lý nhanh trong ngày",
+      "link": "https://thongtaccongquangninh.com/?p=376",
+      "issues": [
+        "bad phrase: cta cuối bài"
+      ]
+    }
+  ],
+  "duplicateTitles": [
+    {
+      "title": "câu hỏi thường gặp thông tắc cống quảng ninh, giá và bảo hành",
+      "items": [
+        {
+          "id": 1457,
+          "type": "page",
+          "slug": "draft-1457-cau-hoi-faq-old-qn",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?page_id=1457"
+        },
+        {
+          "id": 994,
+          "type": "page",
+          "slug": "cau-hoi-thuong-gap-thong-tac-cong-quang-ninh-gia-va-bao-hanh",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?page_id=994"
+        },
+        {
+          "id": 1377,
+          "type": "post",
+          "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+          "status": "publish",
+          "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/"
+        }
+      ]
+    },
+    {
+      "title": "bồn cầu rút nước chậm – nguyên nhân và cách xử lý tại nhà 2026",
+      "items": [
+        {
+          "id": 1648,
+          "type": "post",
+          "slug": "bon-cau-rut-cham-nguyen-nhan-2",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1648"
+        },
+        {
+          "id": 1638,
+          "type": "post",
+          "slug": "bon-cau-rut-cham-nguyen-nhan",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1638"
+        }
+      ]
+    },
+    {
+      "title": "chi phí hút bể phốt quảng ninh 2026 – bảng giá chi tiết, báo giá ngay",
+      "items": [
+        {
+          "id": 1645,
+          "type": "post",
+          "slug": "chi-phi-hut-be-phot-quang-ninh-2",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1645"
+        },
+        {
+          "id": 1630,
+          "type": "post",
+          "slug": "chi-phi-hut-be-phot-quang-ninh",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1630"
+        }
+      ]
+    },
+    {
+      "title": "chu kỳ hút bể phốt bao lâu một lần? – hướng dẫn đầy đủ 2026",
+      "items": [
+        {
+          "id": 1639,
+          "type": "post",
+          "slug": "chu-ky-hut-be-phot-2",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1639"
+        },
+        {
+          "id": 1627,
+          "type": "post",
+          "slug": "chu-ky-hut-be-phot",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1627"
+        }
+      ]
+    },
+    {
+      "title": "dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "items": [
+        {
+          "id": 1633,
+          "type": "post",
+          "slug": "dau-hieu-be-phot-can-hut-3",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1633"
+        },
+        {
+          "id": 1624,
+          "type": "post",
+          "slug": "dau-hieu-be-phot-can-hut-2",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1624"
+        }
+      ]
+    },
+    {
+      "title": "thông tắc bồn cầu quảng yên - xử lý nhanh 15 phút 24/7",
+      "items": [
+        {
+          "id": 538,
+          "type": "post",
+          "slug": "thong-tac-bon-cau-quang-yen",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=538"
+        },
+        {
+          "id": 540,
+          "type": "post",
+          "slug": "thong-tac-bon-cau-quang-yen-2",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=540"
+        }
+      ]
+    },
+    {
+      "title": "thông tắc cống bãi cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+      "items": [
+        {
+          "id": 1376,
+          "type": "post",
+          "slug": "thong-tac-cong-bai-chay-3",
+          "status": "publish",
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/"
+        },
+        {
+          "id": 1375,
+          "type": "post",
+          "slug": "thong-tac-cong-bai-chay-2",
+          "status": "publish",
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/"
+        },
+        {
+          "id": 1288,
+          "type": "post",
+          "slug": "thong-tac-cong-bai-chay",
+          "status": "draft",
+          "link": "https://thongtaccongquangninh.com/?p=1288"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "pages": 53,
+    "posts": 41,
+    "contentIssues": 27,
+    "duplicateTitleGroups": 7
+  },
+  "plugins": [
+    {
+      "plugin": "akismet/akismet",
+      "status": "active",
+      "name": "Akismet Anti-spam: Spam Protection",
+      "plugin_uri": "https://akismet.com/",
+      "author": "Automattic - Anti-spam Team",
+      "author_uri": "https://automattic.com/wordpress-plugins/",
+      "description": {
+        "raw": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. Akismet Anti-spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+        "rendered": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. Akismet Anti-spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key. <cite>By <a href=\"https://automattic.com/wordpress-plugins/\">Automattic - Anti-spam Team</a>.</cite>"
+      },
+      "version": "5.7",
+      "network_only": false,
+      "requires_wp": "5.8",
+      "requires_php": "7.2",
+      "textdomain": "akismet",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/akismet/akismet",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "elementor/elementor",
+      "status": "active",
+      "name": "Elementor",
+      "plugin_uri": "https://elementor.com/?utm_source=wp-plugins&#038;utm_campaign=plugin-uri&#038;utm_medium=wp-dash",
+      "author": "Elementor.com",
+      "author_uri": "https://elementor.com/?utm_source=wp-plugins&#038;utm_campaign=author-uri&#038;utm_medium=wp-dash",
+      "description": {
+        "raw": "The Elementor Website Builder has it all: drag and drop page builder, Atomic Editor, pixel perfect design, global and reusable style systems, mobile responsive editing, and more. Get started now!",
+        "rendered": "The Elementor Website Builder has it all: drag and drop page builder, Atomic Editor, pixel perfect design, global and reusable style systems, mobile responsive editing, and more. Get started now! <cite>By <a href=\"https://elementor.com/?utm_source=wp-plugins&#038;utm_campaign=author-uri&#038;utm_medium=wp-dash\">Elementor.com</a>.</cite>"
+      },
+      "version": "4.0.8",
+      "network_only": false,
+      "requires_wp": "6.6",
+      "requires_php": "7.4",
+      "textdomain": "elementor",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/elementor/elementor",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "elementor-pro/elementor-pro",
+      "status": "active",
+      "name": "Elementor Pro",
+      "plugin_uri": "https://go.elementor.com/wp-dash-wp-plugins-author-uri/",
+      "author": "Elementor.com",
+      "author_uri": "https://go.elementor.com/wp-dash-wp-plugins-author-uri/",
+      "description": {
+        "raw": "Elevate your designs and unlock the full power of Elementor. Gain access to dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce building capabilities.",
+        "rendered": "Elevate your designs and unlock the full power of Elementor. Gain access to dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce building capabilities. <cite>By <a href=\"https://go.elementor.com/wp-dash-wp-plugins-author-uri/\">Elementor.com</a>.</cite>"
+      },
+      "version": "3.35.1",
+      "network_only": false,
+      "requires_wp": "6.7",
+      "requires_php": "7.4",
+      "textdomain": "elementor-pro",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/elementor-pro/elementor-pro",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "litespeed-cache/litespeed-cache",
+      "status": "inactive",
+      "name": "LiteSpeed Cache",
+      "plugin_uri": "https://www.litespeedtech.com/products/cache-plugins/wordpress-acceleration",
+      "author": "LiteSpeed Technologies",
+      "author_uri": "https://www.litespeedtech.com",
+      "description": {
+        "raw": "High-performance page caching and site optimization from LiteSpeed",
+        "rendered": "High-performance page caching and site optimization from LiteSpeed <cite>By <a href=\"https://www.litespeedtech.com\">LiteSpeed Technologies</a>.</cite>"
+      },
+      "version": "7.8.1",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "litespeed-cache",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/litespeed-cache/litespeed-cache",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "integromat-connector/index",
+      "status": "active",
+      "name": "Make Connector",
+      "plugin_uri": "",
+      "author": "Celonis s.r.o.",
+      "author_uri": "https://www.make.com/en?utm_source=wordpress&#038;utm_medium=partner&#038;utm_campaign=wordpress-partner-make",
+      "description": {
+        "raw": "Safely connect your site to make.com, work with custom meta fields through the REST API.",
+        "rendered": "Safely connect your site to make.com, work with custom meta fields through the REST API. <cite>By <a href=\"https://www.make.com/en?utm_source=wordpress&#038;utm_medium=partner&#038;utm_campaign=wordpress-partner-make\">Celonis s.r.o.</a>.</cite>"
+      },
+      "version": "1.6.6",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "integromat-connector",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/integromat-connector/index",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "seo-by-rank-math/rank-math",
+      "status": "active",
+      "name": "Rank Math SEO",
+      "plugin_uri": "https://rankmath.com/",
+      "author": "Rank Math SEO",
+      "author_uri": "https://rankmath.com/?utm_source=Plugin&#038;utm_medium=Readme%20Author%20URI&#038;utm_campaign=WP",
+      "description": {
+        "raw": "Rank Math SEO is the Best WordPress SEO plugin with the features of many SEO and AI SEO tools in a single package to help multiply your SEO traffic.",
+        "rendered": "Rank Math SEO is the Best WordPress SEO plugin with the features of many SEO and AI SEO tools in a single package to help multiply your SEO traffic. <cite>By <a href=\"https://rankmath.com/?utm_source=Plugin&#038;utm_medium=Readme%20Author%20URI&#038;utm_campaign=WP\">Rank Math SEO</a>.</cite>"
+      },
+      "version": "1.0.269",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "rank-math",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/seo-by-rank-math/rank-math",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "seo-by-rank-math-pro/rank-math-pro",
+      "status": "active",
+      "name": "Rank Math SEO PRO",
+      "plugin_uri": "https://rankmath.com/wordpress/plugin/seo-suite/",
+      "author": "Rank Math SEO",
+      "author_uri": "https://rankmath.com/?utm_source=Plugin&#038;utm_medium=Readme%20Author%20URI&#038;utm_campaign=WP",
+      "description": {
+        "raw": "Super-charge your website’s SEO with the Rank Math PRO options like Site Analytics, SEO Performance, Custom Schema Templates, News/Video Sitemaps, etc.",
+        "rendered": "Super-charge your website’s SEO with the Rank Math PRO options like Site Analytics, SEO Performance, Custom Schema Templates, News/Video Sitemaps, etc. <cite>By <a href=\"https://rankmath.com/?utm_source=Plugin&#038;utm_medium=Readme%20Author%20URI&#038;utm_campaign=WP\">Rank Math SEO</a>.</cite>"
+      },
+      "version": "3.0.107",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "rank-math-pro",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/seo-by-rank-math-pro/rank-math-pro",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-doorway-safe-renderer/ttcqn-doorway-safe-renderer",
+      "status": "active",
+      "name": "TTCQN Doorway Safe Renderer",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Render selected TTCQN service pages from post_content when a legacy template keeps showing stale body content.",
+        "rendered": "Render selected TTCQN service pages from post_content when a legacy template keeps showing stale body content. <cite>By Codex.</cite>"
+      },
+      "version": "1.0.0",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-doorway-safe-renderer",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-doorway-safe-renderer/ttcqn-doorway-safe-renderer",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-favicon-override-v3/ttcqn-favicon-override-v3",
+      "status": "active",
+      "name": "TTCQN Favicon Override v3",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Replaces all stale favicon tags with the 2026-05-18 favicon set. URLs stored as WP options — update via options/ttcqn_favicon_v3_urls to change favicon without redeploying.",
+        "rendered": "Replaces all stale favicon tags with the 2026-05-18 favicon set. URLs stored as WP options — update via options/ttcqn_favicon_v3_urls to change favicon without redeploying. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.18",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-favicon-override-v3",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-favicon-override-v3/ttcqn-favicon-override-v3",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-google-ads-tag/ttcqn-google-ads-tag",
+      "status": "active",
+      "name": "TTCQN Google Ads Tag",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Adds the Google Ads global site tag for AW-18031795119 to every frontend page.",
+        "rendered": "Adds the Google Ads global site tag for AW-18031795119 to every frontend page. <cite>By Codex.</cite>"
+      },
+      "version": "1.0.0",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-google-ads-tag",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-google-ads-tag/ttcqn-google-ads-tag",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer",
+      "status": "active",
+      "name": "TTCQN Home Emergency Renderer",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Renders the approved direct homepage template when the active theme home template returns an empty response.",
+        "rendered": "Renders the approved direct homepage template when the active theme home template returns an empty response. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.19.36",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-home-emergency-renderer",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-home-lead-form/ttcqn-home-lead-form",
+      "status": "active",
+      "name": "TTCQN Home Lead Form",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Chen form nhan thong tin khach hang noi bat tren trang chu thongtaccongquangninh.com.",
+        "rendered": "Chen form nhan thong tin khach hang noi bat tren trang chu thongtaccongquangninh.com. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.18.1",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-home-lead-form",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-home-lead-form/ttcqn-home-lead-form",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-home-performance-tune/ttcqn-home-performance-tune",
+      "status": "active",
+      "name": "TTCQN Home Performance Tune",
+      "plugin_uri": "",
+      "author": "OpenAI",
+      "author_uri": "",
+      "description": {
+        "raw": "Toi uu mobile cho trang chu thongtaccongquangninh.com nhung giu lai hieu ung CTA va header.",
+        "rendered": "Toi uu mobile cho trang chu thongtaccongquangninh.com nhung giu lai hieu ung CTA va header. <cite>By OpenAI.</cite>"
+      },
+      "version": "2026.05.18.3",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-home-performance-tune",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-home-performance-tune/ttcqn-home-performance-tune",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-home-service-images/ttcqn-home-service-images",
+      "status": "active",
+      "name": "TTCQN Home Service Images",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Replaces the six homepage service-card images with the approved 2026-05 image set.",
+        "rendered": "Replaces the six homepage service-card images with the approved 2026-05 image set. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.07",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-home-service-images",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-home-service-images/ttcqn-home-service-images",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-mobile-image-optimizer/ttcqn-mobile-image-optimizer",
+      "status": "active",
+      "name": "TTCQN Mobile Image Optimizer",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Replaces selected heavy PNG/WebP frontend images with lighter WebP versions and removes unsafe image-label wording from captions.",
+        "rendered": "Replaces selected heavy PNG/WebP frontend images with lighter WebP versions and removes unsafe image-label wording from captions. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.08",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-mobile-image-optimizer",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-mobile-image-optimizer/ttcqn-mobile-image-optimizer",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-mobile-left-sticky-cta/ttcqn-mobile-left-sticky-cta",
+      "status": "active",
+      "name": "TTCQN Mobile Left Sticky CTA",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Hiển thị 2 icon nổi (Gọi điện + Zalo) ở góc TRÁI màn hình mobile, lơ lửng theo cuộn chuột.",
+        "rendered": "Hiển thị 2 icon nổi (Gọi điện + Zalo) ở góc TRÁI màn hình mobile, lơ lửng theo cuộn chuột. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.16.3",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-mobile-left-sticky-cta",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-mobile-left-sticky-cta/ttcqn-mobile-left-sticky-cta",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-scroll-guide-assistant/ttcqn-scroll-guide-assistant",
+      "status": "active",
+      "name": "TTCQN Scroll Guide Assistant",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Trợ lý dẫn đường theo section khi người dùng cuộn trang cho thongtaccongquangninh.com.",
+        "rendered": "Trợ lý dẫn đường theo section khi người dùng cuộn trang cho thongtaccongquangninh.com. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.19.1",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-scroll-guide-assistant",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-scroll-guide-assistant/ttcqn-scroll-guide-assistant",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "ttcqn-subpage-banner-dedupe/ttcqn-subpage-banner-dedupe",
+      "status": "active",
+      "name": "TTCQN Subpage Banner Dedupe",
+      "plugin_uri": "",
+      "author": "Codex",
+      "author_uri": "",
+      "description": {
+        "raw": "Removes the duplicate GeneratePress featured image when TTCQN custom subpage banner is already rendered.",
+        "rendered": "Removes the duplicate GeneratePress featured image when TTCQN custom subpage banner is already rendered. <cite>By Codex.</cite>"
+      },
+      "version": "2026.05.07",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "ttcqn-subpage-banner-dedupe",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/ttcqn-subpage-banner-dedupe/ttcqn-subpage-banner-dedupe",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "wp-file-manager/file_folder_manager",
+      "status": "active",
+      "name": "WP File Manager",
+      "plugin_uri": "https://filemanagerpro.io/",
+      "author": "mndpsingh287",
+      "author_uri": "https://profiles.wordpress.org/mndpsingh287",
+      "description": {
+        "raw": "Manage your WP files.",
+        "rendered": "Manage your WP files. <cite>By <a href=\"https://profiles.wordpress.org/mndpsingh287\">mndpsingh287</a>.</cite>"
+      },
+      "version": "8.0.4",
+      "network_only": false,
+      "requires_wp": "",
+      "requires_php": "",
+      "textdomain": "wp-file-manager",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/wp-file-manager/file_folder_manager",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "wpforms-lite/wpforms",
+      "status": "active",
+      "name": "WPForms Lite",
+      "plugin_uri": "https://wpforms.com",
+      "author": "WPForms",
+      "author_uri": "https://wpforms.com",
+      "description": {
+        "raw": "Beginner friendly WordPress contact form plugin. Use our Drag &amp; Drop form builder to create your WordPress forms.",
+        "rendered": "Beginner friendly WordPress contact form plugin. Use our Drag &amp; Drop form builder to create your WordPress forms. <cite>By <a href=\"https://wpforms.com\">WPForms</a>.</cite>"
+      },
+      "version": "1.10.0.4",
+      "network_only": false,
+      "requires_wp": "5.5",
+      "requires_php": "7.2",
+      "textdomain": "wpforms-lite",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/wpforms-lite/wpforms",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "wp-mcp-ultimate-main/wp-mcp-ultimate",
+      "status": "active",
+      "name": "WP MCP Ultimate",
+      "plugin_uri": "https://github.com/agricidaniel/wp-mcp-ultimate",
+      "author": "agricidaniel",
+      "author_uri": "https://github.com/agricidaniel",
+      "description": {
+        "raw": "Connect WordPress to AI in one click. Full MCP server with 57 WordPress abilities — no other plugins needed. Forged from MCP Expose Abilities (Bjorn Solstad) and WP MCP Ultimate architectures.",
+        "rendered": "Connect WordPress to AI in one click. Full MCP server with 57 WordPress abilities — no other plugins needed. Forged from MCP Expose Abilities (Bjorn Solstad) and WP MCP Ultimate architectures. <cite>By <a href=\"https://github.com/agricidaniel\">agricidaniel</a>.</cite>"
+      },
+      "version": "2.0.0",
+      "network_only": false,
+      "requires_wp": "6.7",
+      "requires_php": "8.0",
+      "textdomain": "wp-mcp-ultimate",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/wp-mcp-ultimate-main/wp-mcp-ultimate",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "plugin": "wp-rocket/wp-rocket",
+      "status": "active",
+      "name": "WP Rocket",
+      "plugin_uri": "https://wp-rocket.me",
+      "author": "WP Media",
+      "author_uri": "https://wp-media.me",
+      "description": {
+        "raw": "The best WordPress performance plugin.",
+        "rendered": "The best WordPress performance plugin. <cite>By <a href=\"https://wp-media.me\">WP Media</a>.</cite>"
+      },
+      "version": "3.20.5",
+      "network_only": false,
+      "requires_wp": "5.8",
+      "requires_php": "7.3",
+      "textdomain": "rocket",
+      "_links": {
+        "self": [
+          {
+            "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/plugins/wp-rocket/wp-rocket",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

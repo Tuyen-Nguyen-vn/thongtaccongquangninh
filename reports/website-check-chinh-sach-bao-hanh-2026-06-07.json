@@ -1,0 +1,64 @@
+{
+  "slug": "chinh-sach-bao-hanh",
+  "primary": {
+    "type": "page",
+    "id": 64,
+    "status": "publish",
+    "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+    "title": "Chính Sách Bảo Hành Dịch Vụ | Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "seoTitle": "Chính Sách Bảo Hành Dịch Vụ Hút Bể Phốt & Thông Tắc Cống Quảng Ninh",
+    "description": "Chính sách bảo hành dịch vụ hút bể phốt, thông tắc cống, nạo vét tại Quảng Ninh, ghi rõ điều kiện. Gọi 0963.953.533 / 0931.156.756 để được hỗ trợ nhanh.",
+    "focusKeyword": "chính sách bảo hành",
+    "featuredMedia": 141,
+    "contentChars": 15672
+  },
+  "duplicates": [],
+  "live": {
+    "ok": true,
+    "status": 200,
+    "length": 191573,
+    "hasHotlines": true,
+    "hasFocusKeyword": true
+  },
+  "rankMathBatch": {
+    "offset": 0,
+    "keyword": "chính sách bảo hành",
+    "title": "Chính Sách Bảo Hành Dịch Vụ Hút Bể Phốt & Thông Tắc Cống Quảng Ninh"
+  },
+  "score": {
+    "score": 86,
+    "titleLength": 67,
+    "descriptionLength": 152,
+    "wordCount": 2564,
+    "focusTotal": 29,
+    "keywordDensity": 1.13,
+    "liveH1": 1,
+    "h2Count": 11,
+    "duplicateHeadings": [],
+    "bannedHits": [],
+    "hasEmoji": false,
+    "checks": {
+      "Meta title 60-70 ký tự": true,
+      "Meta description 150-160 ký tự": true,
+      "Focus keyword trong title": true,
+      "Focus keyword trong description": true,
+      "Slug đúng keyword": true,
+      "Word count 2500-3000": true,
+      "Mật độ keyword 1-1.5%": true,
+      "1 H1 trên live page": true,
+      "Focus keyword trong 100 từ đầu": true,
+      "Có Nguyên nhân": true,
+      "Có Cam kết 3 Không": true,
+      "Có Bảng giá": true,
+      "Có Quy trình 5 bước": true,
+      "Có Case study E-E-A-T": false,
+      "Có NAP": false,
+      "Có FAQ": false,
+      "Đủ 2 hotline": true,
+      "CTA hotline >= 3": true,
+      "Không có từ cấm": true,
+      "Không emoji/ký hiệu": true,
+      "Có featured media": true
+    }
+  }
+}

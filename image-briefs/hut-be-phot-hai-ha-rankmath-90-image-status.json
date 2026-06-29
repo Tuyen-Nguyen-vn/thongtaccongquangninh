@@ -1,0 +1,41 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "slug": "hut-be-phot-hai-ha-rankmath-90",
+  "briefPath": "D:\\.thongtaccongquangninh\\image-briefs\\hut-be-phot-hai-ha-rankmath-90-image-brief.json",
+  "packagePath": "D:\\.thongtaccongquangninh\\image-briefs\\hut-be-phot-hai-ha-rankmath-90-image-package.json",
+  "outputDir": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90",
+  "imageCount": 5,
+  "updatedAt": "2026-06-27T03:00:00+07:00",
+  "processed": [
+    {
+      "slot": "anh-dau-bai",
+      "webp": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-anh-dau-bai.webp",
+      "jpg": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-anh-dau-bai.jpg",
+      "size_kb": 93
+    },
+    {
+      "slot": "dau-hieu-be-day",
+      "webp": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-dau-hieu-be-day.webp",
+      "jpg": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-dau-hieu-be-day.jpg",
+      "size_kb": 89
+    },
+    {
+      "slot": "quy-trinh-keo-ong",
+      "webp": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-quy-trinh-keo-ong.webp",
+      "jpg": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-quy-trinh-keo-ong.jpg",
+      "size_kb": 137
+    },
+    {
+      "slot": "case-study-nha-dan",
+      "webp": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-case-study-nha-dan.webp",
+      "jpg": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-case-study-nha-dan.jpg",
+      "size_kb": 93
+    },
+    {
+      "slot": "case-study-co-so-hai-san",
+      "webp": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-case-study-co-so-hai-san.webp",
+      "jpg": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha-rankmath-90\\hut-be-phot-hai-ha-quang-ninh-case-study-co-so-hai-san.jpg",
+      "size_kb": 187
+    }
+  ]
+}

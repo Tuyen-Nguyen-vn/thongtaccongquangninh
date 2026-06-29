@@ -1,0 +1,867 @@
+{
+  "root": "D:\\.thongtaccongquangninh",
+  "generated_at": "2026-05-10T02:49:57",
+  "totals": {
+    "files": 2624,
+    "directories": 273,
+    "bytes": 533045676
+  },
+  "category_counts": {
+    "other": 1205,
+    "seo-revision": 585,
+    "report": 326,
+    "data-output": 177,
+    "wordpress-operation-log": 94,
+    "tool-script": 80,
+    "document": 79,
+    "content-draft": 53,
+    "seo-status": 18,
+    "agent-config": 4,
+    "context": 2,
+    "content-status": 1
+  },
+  "category_sizes": {
+    "other": 495344713,
+    "seo-revision": 17641985,
+    "report": 13195377,
+    "data-output": 3707379,
+    "content-draft": 934855,
+    "wordpress-operation-log": 861538,
+    "tool-script": 733705,
+    "document": 479545,
+    "seo-status": 78024,
+    "context": 30010,
+    "content-status": 26738,
+    "agent-config": 11807
+  },
+  "top_level_counts": {
+    "_tmp": 880,
+    "seo-revisions": 585,
+    "image-briefs": 484,
+    "reports": 326,
+    "tools": 80,
+    "content-drafts": 53,
+    "Ảnh cung cấp": 30,
+    "Ảnh Đã Xử Lý SEO": 28,
+    "docs": 10,
+    ".agents": 4,
+    ".cursor": 4,
+    ".claude": 4,
+    "backups": 3,
+    "AGENTS.md": 1,
+    "CHATGPT_APPS_CONNECTOR_UPDATE_BLOCK_2026-04-29.md": 1,
+    "CHATGPT_APPS_UPDATE_BLOCK_2026-04-29.md": 1,
+    "CLAUDE.md": 1,
+    "CODEX_CONTEXT.md": 1,
+    "CONTENT_DRAFT_STATUS_2026-04-29.md": 1,
+    "favicon-thong-tac-cong-quang-ninh.png": 1,
+    "fix_home_page.py": 1,
+    "GOOGLE_ADS_ANTI_CLICK_TAC.md": 1,
+    "IMAGE_SEO_WORKFLOW_2026-05-06.md": 1,
+    "LOCAL_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json": 1,
+    "LOCAL_SEO_DOORWAY_SAFE_WORKFLOW_2026-05-05.md": 1,
+    "logo.png": 1,
+    "page-home-new.php": 1,
+    "SEO_DOORWAY_FIX_REPORT_CITY_GROUP_2026-05-05.md": 1,
+    "SEO_DOORWAY_FIX_REPORT_HA_LONG_2026-05-05.md": 1,
+    "SEO_FIX_STATUS_2026-04-29.md": 1,
+    "SEO_GOOGLE_INDEX_2026-05-08.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-09.json": 1,
+    "SEO_INSTANT_INDEXING_2026-04-29.json": 1,
+    "SEO_INTERNAL_LINKS_LOG_2026-04-29.md": 1,
+    "SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv": 1,
+    "SEO_NEXT_ACTION_STATUS_2026-04-29.md": 1,
+    "SEO_PUSH_LOG_2026-04-29.md": 1,
+    "SEO_PUSH_RESULTS_2026-04-29.csv": 1,
+    "SEO_RANKMATH_AUDIT_2026-04-29.md": 1,
+    "SEO_STATUS_2026-05-03.md": 1,
+    "SEO_STATUS_2026-05-05.md": 1,
+    "SEO_STATUS_2026-05-06.md": 1,
+    "sticky_cta_zalo_phone.html": 1,
+    "TASKS.md": 1,
+    "TEST_AGENT_QUYEN.md": 1,
+    "WORDPRESS_CLEAN_DUPLICATE_IMAGE_FILENAMES_2026-05-07.json": 1,
+    "WORDPRESS_DESKTOP_IMAGE_SEO_2026-05-06T17-38-00.json": 1,
+    "WORDPRESS_DRAFT_UONG_BI_BON_CAU_2026-04-29.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-40-55.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-43-37.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-45-54.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T18-28-38.json": 1,
+    "WORDPRESS_FINAL_VERIFY_SEO_IMAGES_2026-05-06.json": 1,
+    "WORDPRESS_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json": 1,
+    "WORDPRESS_FIX_BANG_GIA_TEXT_2026-04-30.json": 1,
+    "WORDPRESS_FIX_CITY_META_DESCRIPTIONS_2026-05-05.json": 1,
+    "WORDPRESS_FIX_DUPLICATE_TITLES_2026-05-09.json": 1,
+    "WORDPRESS_FIX_GLOBAL_LINKS_2026-04-30.json": 1,
+    "WORDPRESS_FIX_LIEN_HE_WORD_COUNT_2026-04-30.json": 1,
+    "WORDPRESS_FIX_LOW_MISSING_PAGES_2026-04-30.json": 1,
+    "WORDPRESS_FIX_MENU_LINK_SOURCES_2026-04-30.json": 1,
+    "WORDPRESS_FIX_VE_CHUNG_TOI_URL_2026-04-30.json": 1,
+    "WORDPRESS_HOME_RENDER_INSPECT_2026-05-06.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_2026-05-07.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_PLUGIN_UPLOAD_2026-05-07.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_UPLOAD_2026-05-07.json": 1,
+    "WORDPRESS_IMAGE_LAYOUT_FIX_2026-05-07.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-20-56-933Z.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-22-57-527Z.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-27-20-134Z.json": 1,
+    "WORDPRESS_INSERT_YOUTUBE_VIDEOS_2026-04-30.json": 1,
+    "WORDPRESS_MCP_ABILITIES_2026-05-06.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZED_UPLOADS_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_UPDATE_2026-05-07.json": 1,
+    "WORDPRESS_PHASE1_FIX_REPORT_2026-05-06.json": 1,
+    "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-20.json": 1,
+    "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-51.json": 1,
+    "WORDPRESS_PUBLISH_UONG_BI_BON_CAU_2026-04-29.json": 1,
+    "WORDPRESS_REPLACE_ANH_MINH_HOA_2026-05-07.json": 1,
+    "WORDPRESS_RESTORE_PUBLISH_2026-05-07.json": 1,
+    "WORDPRESS_RESTORE_PUBLISH_CANDIDATES_2026-05-07.json": 1,
+    "WORDPRESS_REST_ROUTES_2026-05-06.json": 1,
+    "WORDPRESS_SUBPAGE_BANNER_DEDUPE_PLUGIN_2026-05-07.json": 1,
+    "WORDPRESS_SYNC_RENDERER_OPTION_296_2026-05-06.json": 1,
+    "WORDPRESS_SYNC_RENDERER_OPTION_296_IMAGE_LAYOUT_2026-05-07.json": 1,
+    "WORDPRESS_UPDATE_BANG_GIA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_BANG_GIA_HUT_BE_PHOT_QUANG_NINH_2026_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_BLOG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_BLOG_SETTINGS_2026-04-30.json": 1,
+    "WORDPRESS_UPDATE_CACH_XU_LY_CONG_THOAT_NUOC_TAC_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_CHINH_SACH_BAO_HANH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_CHINH_SACH_BAO_MAT_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_CITY_DOORWAY_SAFE_2026-05-05.json": 1,
+    "WORDPRESS_UPDATE_DAU_HIEU_BE_PHOT_CAN_HUT_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_DOORWAY_BATCH2_2026-05-06.json": 1,
+    "WORDPRESS_UPDATE_GIA_THONG_TAC_CONG_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_GIOI_THIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_BAI_CHAY_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_CAM_PHA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_DONG_TRIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_DOORWAY_SAFE_2026-05-05.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_XE_HUT_24_7_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HOANH_BO_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_MONG_CAI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_QUANG_YEN_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_UONG_BI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_VAN_DON_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_LIEN_HE_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_NAO_VET_HO_GA_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_NGUYEN_NHAN_CONG_TAC_THUONG_XUYEN_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_QUANG_YEN_BON_CAU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_CAM_PHA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_DONG_TRIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_MONG_CAI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_VAN_DON_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CHAU_RUA_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_CAM_PHA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_CHUNG_CU_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_DONG_TRIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_HA_LONG_BAN_DEM_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_HONG_GAI_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_MONG_CAI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_NGO_NHO_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_NHA_HANG_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_QUANG_YEN_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_UONG_BI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_VAN_DON_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_TOILET_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_TRANG_CHU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_XU_LY_MUI_HOI_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPLOAD_INSERT_SEO_IMAGES_2026-05-06.json": 1,
+    "WORDPRESS_VERIFY_SEO_IMAGES_2026-05-06.json": 1,
+    "wp-similar-title-pairs.csv": 1,
+    "wp-url-audit-list.csv": 1,
+    "wp-url-audit-list.json": 1,
+    "WP_URL_AUDIT_REPORT_2026-05-06.md": 1,
+    ".vscode": 1,
+    "seo-checklists": 1,
+    "skills": 1
+  },
+  "suffix_counts": {
+    ".json": 965,
+    ".py": 525,
+    ".webp": 331,
+    ".md": 300,
+    ".png": 177,
+    ".jpg": 121,
+    ".mjs": 61,
+    ".csv": 45,
+    "[no extension]": 16,
+    ".typed": 15,
+    ".jpeg": 10,
+    ".0": 9,
+    ".so": 8,
+    ".pyi": 8,
+    ".txt": 7,
+    ".php": 4,
+    ".html": 4,
+    ".mdc": 2,
+    ".2": 2,
+    ".zip": 1,
+    ".cfg": 1,
+    ".csh": 1,
+    ".fish": 1,
+    ".ps1": 1,
+    ".14": 1,
+    ".1": 1,
+    ".6": 1,
+    ".18": 1,
+    ".3": 1,
+    ".4": 1,
+    ".17": 1,
+    ".7": 1,
+    ".pem": 1
+  },
+  "latest_files": [
+    {
+      "path": "tools\\project_folder_manager.py",
+      "size": 10149,
+      "modified": "2026-05-10T02:49:36",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\research_seo_keywords_quang_ninh.mjs",
+      "size": 11377,
+      "modified": "2026-05-10T02:45:16",
+      "category": "tool-script"
+    },
+    {
+      "path": "image-briefs\\thong-tac-cong-bai-chay-image-package.json",
+      "size": 2639,
+      "modified": "2026-05-10T02:42:25",
+      "category": "data-output"
+    },
+    {
+      "path": "image-briefs\\thong-tac-cong-cao-xanh-image-package.json",
+      "size": 4910,
+      "modified": "2026-05-10T02:42:25",
+      "category": "data-output"
+    },
+    {
+      "path": "image-briefs\\thong-tac-cong-gieng-day-image-package.json",
+      "size": 4919,
+      "modified": "2026-05-10T02:42:25",
+      "category": "data-output"
+    },
+    {
+      "path": "image-briefs\\thong-tac-cong-tuan-chau-image-package.json",
+      "size": 4967,
+      "modified": "2026-05-10T02:42:25",
+      "category": "data-output"
+    },
+    {
+      "path": "tools\\check_image_seo_gate.mjs",
+      "size": 1382,
+      "modified": "2026-05-10T02:42:25",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\create_image_seo_brief.mjs",
+      "size": 3717,
+      "modified": "2026-05-10T02:42:25",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\image_agent_process.mjs",
+      "size": 8814,
+      "modified": "2026-05-10T02:42:25",
+      "category": "tool-script"
+    },
+    {
+      "path": ".claude\\prompts\\image-agent-prompt.md",
+      "size": 2098,
+      "modified": "2026-05-10T02:42:25",
+      "category": "document"
+    },
+    {
+      "path": ".claude\\prompts\\uniform-reference.md",
+      "size": 1743,
+      "modified": "2026-05-10T02:42:25",
+      "category": "document"
+    },
+    {
+      "path": "tools\\ben_review_dashboard.mjs",
+      "size": 0,
+      "modified": "2026-05-10T02:28:12",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\ben-review-dashboard.md",
+      "size": 499,
+      "modified": "2026-05-10T02:24:18",
+      "category": "report"
+    },
+    {
+      "path": ".cursor\\hooks.json",
+      "size": 0,
+      "modified": "2026-05-10T02:22:40",
+      "category": "data-output"
+    },
+    {
+      "path": "docs\\ben-quiz-bank.json",
+      "size": 0,
+      "modified": "2026-05-10T02:22:40",
+      "category": "data-output"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 15158,
+      "modified": "2026-05-10T02:22:39",
+      "category": "context"
+    },
+    {
+      "path": "CLAUDE.md",
+      "size": 4031,
+      "modified": "2026-05-10T02:22:39",
+      "category": "document"
+    },
+    {
+      "path": ".agents\\inspector-agent-ben.md",
+      "size": 0,
+      "modified": "2026-05-10T02:22:39",
+      "category": "agent-config"
+    },
+    {
+      "path": "docs\\PROJECT_STATE.md",
+      "size": 7294,
+      "modified": "2026-05-10T02:22:39",
+      "category": "document"
+    },
+    {
+      "path": "docs\\SEO_CHECKLIST.md",
+      "size": 4830,
+      "modified": "2026-05-10T02:22:39",
+      "category": "seo-status"
+    }
+  ],
+  "latest_by_category": {
+    "agent-config": [
+      {
+        "path": ".agents\\inspector-agent-ben.md",
+        "size": 0,
+        "modified": "2026-05-10T02:22:39",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\image-agent.md",
+        "size": 5298,
+        "modified": "2026-05-09T17:14:36",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\folder-manager-agent.md",
+        "size": 2751,
+        "modified": "2026-05-05T14:58:09",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\skills\\google-indexing\\SKILL.md",
+        "size": 3758,
+        "modified": "2026-04-30T18:42:54",
+        "category": "agent-config"
+      }
+    ],
+    "content-draft": [
+      {
+        "path": "content-drafts\\remaining\\bang-gia-hut-be-phot-quang-ninh-2026-rankmath-90.md",
+        "size": 17262,
+        "modified": "2026-05-09T19:04:11",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\bang-gia-rankmath-90.md",
+        "size": 16829,
+        "modified": "2026-05-09T19:04:11",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\blog-rankmath-90.md",
+        "size": 17103,
+        "modified": "2026-05-09T19:04:11",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\cach-xu-ly-cong-thoat-nuoc-tac-rankmath-90.md",
+        "size": 17104,
+        "modified": "2026-05-09T19:04:11",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\chinh-sach-bao-hanh-rankmath-90.md",
+        "size": 16543,
+        "modified": "2026-05-09T19:04:11",
+        "category": "content-draft"
+      }
+    ],
+    "content-status": [
+      {
+        "path": "CONTENT_DRAFT_STATUS_2026-04-29.md",
+        "size": 26738,
+        "modified": "2026-04-30T05:35:05",
+        "category": "content-status"
+      }
+    ],
+    "context": [
+      {
+        "path": "AGENTS.md",
+        "size": 15158,
+        "modified": "2026-05-10T02:22:39",
+        "category": "context"
+      },
+      {
+        "path": "CODEX_CONTEXT.md",
+        "size": 14852,
+        "modified": "2026-05-08T01:47:28",
+        "category": "context"
+      }
+    ],
+    "data-output": [
+      {
+        "path": "image-briefs\\thong-tac-cong-bai-chay-image-package.json",
+        "size": 2639,
+        "modified": "2026-05-10T02:42:25",
+        "category": "data-output"
+      },
+      {
+        "path": "image-briefs\\thong-tac-cong-cao-xanh-image-package.json",
+        "size": 4910,
+        "modified": "2026-05-10T02:42:25",
+        "category": "data-output"
+      },
+      {
+        "path": "image-briefs\\thong-tac-cong-gieng-day-image-package.json",
+        "size": 4919,
+        "modified": "2026-05-10T02:42:25",
+        "category": "data-output"
+      },
+      {
+        "path": "image-briefs\\thong-tac-cong-tuan-chau-image-package.json",
+        "size": 4967,
+        "modified": "2026-05-10T02:42:25",
+        "category": "data-output"
+      },
+      {
+        "path": ".cursor\\hooks.json",
+        "size": 0,
+        "modified": "2026-05-10T02:22:40",
+        "category": "data-output"
+      }
+    ],
+    "document": [
+      {
+        "path": ".claude\\prompts\\image-agent-prompt.md",
+        "size": 2098,
+        "modified": "2026-05-10T02:42:25",
+        "category": "document"
+      },
+      {
+        "path": ".claude\\prompts\\uniform-reference.md",
+        "size": 1743,
+        "modified": "2026-05-10T02:42:25",
+        "category": "document"
+      },
+      {
+        "path": "CLAUDE.md",
+        "size": 4031,
+        "modified": "2026-05-10T02:22:39",
+        "category": "document"
+      },
+      {
+        "path": "docs\\PROJECT_STATE.md",
+        "size": 7294,
+        "modified": "2026-05-10T02:22:39",
+        "category": "document"
+      },
+      {
+        "path": ".claude\\agents\\inspector-agent-ben.md",
+        "size": 0,
+        "modified": "2026-05-10T02:22:39",
+        "category": "document"
+      }
+    ],
+    "other": [
+      {
+        "path": ".cursor\\hooks\\auto-bench-review-on-stop.mjs",
+        "size": 0,
+        "modified": "2026-05-10T02:22:39",
+        "category": "other"
+      },
+      {
+        "path": ".cursor\\rules\\ben-menu.mdc",
+        "size": 0,
+        "modified": "2026-05-10T02:22:39",
+        "category": "other"
+      },
+      {
+        "path": ".cursor\\rules\\ben-quick-menu.mdc",
+        "size": 0,
+        "modified": "2026-05-10T02:22:39",
+        "category": "other"
+      },
+      {
+        "path": "favicon-thong-tac-cong-quang-ninh.png",
+        "size": 179675,
+        "modified": "2026-05-10T01:45:05",
+        "category": "other"
+      },
+      {
+        "path": "Ảnh Đã Xử Lý SEO\\tho-nao-vet-ho-ga-1.webp",
+        "size": 171788,
+        "modified": "2026-05-10T01:32:59",
+        "category": "other"
+      }
+    ],
+    "report": [
+      {
+        "path": "reports\\ben-review-dashboard.md",
+        "size": 499,
+        "modified": "2026-05-10T02:24:18",
+        "category": "report"
+      },
+      {
+        "path": "reports\\auto-review-backlink-thongtaccongquangninh-com-2026-05-09T19-08-34-540Z.json",
+        "size": 667,
+        "modified": "2026-05-10T02:08:34",
+        "category": "report"
+      },
+      {
+        "path": "reports\\ben-review-content-backlink-thongtaccongquangninh-com-2026-05-09T19-08-34-529Z.json",
+        "size": 2556,
+        "modified": "2026-05-10T02:08:34",
+        "category": "report"
+      },
+      {
+        "path": "reports\\ben-review-content-backlink-thongtaccongquangninh-com-2026-05-09T19-08-34-529Z.md",
+        "size": 1249,
+        "modified": "2026-05-10T02:08:34",
+        "category": "report"
+      },
+      {
+        "path": "reports\\image-gate-2026-05-09T19-08-34-516Z.json",
+        "size": 195,
+        "modified": "2026-05-10T02:08:34",
+        "category": "report"
+      }
+    ],
+    "seo-revision": [
+      {
+        "path": "seo-revisions\\wp-before-internal-links-2026-04-29\\bang-gia.json",
+        "size": 49437,
+        "modified": "2026-05-09T19:07:40",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-internal-links-2026-04-29\\hut-be-phot-quang-ninh.json",
+        "size": 45000,
+        "modified": "2026-05-09T19:07:35",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-internal-links-2026-04-29\\thong-tac-cong-chung-cu-ha-long.json",
+        "size": 44563,
+        "modified": "2026-05-09T19:07:29",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-internal-links-2026-04-29\\thong-tac-cong-ngo-nho-ha-long.json",
+        "size": 44789,
+        "modified": "2026-05-09T19:07:23",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-internal-links-2026-04-29\\nguyen-nhan-cong-tac-thuong-xuyen-ha-long.json",
+        "size": 42667,
+        "modified": "2026-05-09T19:07:18",
+        "category": "seo-revision"
+      }
+    ],
+    "seo-status": [
+      {
+        "path": "docs\\SEO_CHECKLIST.md",
+        "size": 4830,
+        "modified": "2026-05-10T02:22:39",
+        "category": "seo-status"
+      },
+      {
+        "path": "docs\\SEO_RULES.md",
+        "size": 5468,
+        "modified": "2026-05-10T02:22:39",
+        "category": "seo-status"
+      },
+      {
+        "path": "docs\\SEO_PROGRESS.csv",
+        "size": 6092,
+        "modified": "2026-05-10T02:08:34",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_GOOGLE_INDEX_2026-05-09.json",
+        "size": 272,
+        "modified": "2026-05-10T01:45:27",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_INTERNAL_LINKS_LOG_2026-04-29.md",
+        "size": 563,
+        "modified": "2026-05-09T19:07:47",
+        "category": "seo-status"
+      }
+    ],
+    "tool-script": [
+      {
+        "path": "tools\\project_folder_manager.py",
+        "size": 10149,
+        "modified": "2026-05-10T02:49:36",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\research_seo_keywords_quang_ninh.mjs",
+        "size": 11377,
+        "modified": "2026-05-10T02:45:16",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\check_image_seo_gate.mjs",
+        "size": 1382,
+        "modified": "2026-05-10T02:42:25",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\create_image_seo_brief.mjs",
+        "size": 3717,
+        "modified": "2026-05-10T02:42:25",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\image_agent_process.mjs",
+        "size": 8814,
+        "modified": "2026-05-10T02:42:25",
+        "category": "tool-script"
+      }
+    ],
+    "wordpress-operation-log": [
+      {
+        "path": "WORDPRESS_FIX_DUPLICATE_TITLES_2026-05-09.json",
+        "size": 4862,
+        "modified": "2026-05-09T18:05:23",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_FIX_CITY_META_DESCRIPTIONS_2026-05-05.json",
+        "size": 3344,
+        "modified": "2026-05-09T18:01:54",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_HOME_RENDER_INSPECT_2026-05-06.json",
+        "size": 508,
+        "modified": "2026-05-09T17:14:08",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_UPDATE_2026-05-07.json",
+        "size": 821,
+        "modified": "2026-05-08T00:37:24",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_2026-05-07.json",
+        "size": 821,
+        "modified": "2026-05-08T00:33:27",
+        "category": "wordpress-operation-log"
+      }
+    ]
+  },
+  "important_files": [
+    {
+      "path": "AGENTS.md",
+      "size": 15158,
+      "modified": "2026-05-10T02:22:39",
+      "category": "context"
+    },
+    {
+      "path": "docs\\SEO_CHECKLIST.md",
+      "size": 4830,
+      "modified": "2026-05-10T02:22:39",
+      "category": "seo-status"
+    },
+    {
+      "path": "docs\\SEO_RULES.md",
+      "size": 5468,
+      "modified": "2026-05-10T02:22:39",
+      "category": "seo-status"
+    },
+    {
+      "path": "docs\\SEO_PROGRESS.csv",
+      "size": 6092,
+      "modified": "2026-05-10T02:08:34",
+      "category": "seo-status"
+    },
+    {
+      "path": "SEO_GOOGLE_INDEX_2026-05-09.json",
+      "size": 272,
+      "modified": "2026-05-10T01:45:27",
+      "category": "seo-status"
+    },
+    {
+      "path": "SEO_INTERNAL_LINKS_LOG_2026-04-29.md",
+      "size": 563,
+      "modified": "2026-05-09T19:07:47",
+      "category": "seo-status"
+    },
+    {
+      "path": "SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv",
+      "size": 4766,
+      "modified": "2026-05-09T19:07:45",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_FIX_DUPLICATE_TITLES_2026-05-09.json",
+      "size": 4862,
+      "modified": "2026-05-09T18:05:23",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_CITY_META_DESCRIPTIONS_2026-05-05.json",
+      "size": 3344,
+      "modified": "2026-05-09T18:01:54",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_HOME_RENDER_INSPECT_2026-05-06.json",
+      "size": 508,
+      "modified": "2026-05-09T17:14:08",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "SEO_GOOGLE_INDEX_2026-05-08.json",
+      "size": 272,
+      "modified": "2026-05-08T13:59:06",
+      "category": "seo-status"
+    },
+    {
+      "path": "CODEX_CONTEXT.md",
+      "size": 14852,
+      "modified": "2026-05-08T01:47:28",
+      "category": "context"
+    },
+    {
+      "path": "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_UPDATE_2026-05-07.json",
+      "size": 821,
+      "modified": "2026-05-08T00:37:24",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_2026-05-07.json",
+      "size": 821,
+      "modified": "2026-05-08T00:33:27",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_MOBILE_IMAGE_OPTIMIZED_UPLOADS_2026-05-07.json",
+      "size": 5482,
+      "modified": "2026-05-08T00:32:22",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_SYNC_RENDERER_OPTION_296_IMAGE_LAYOUT_2026-05-07.json",
+      "size": 169371,
+      "modified": "2026-05-07T23:54:09",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_IMAGE_LAYOUT_FIX_2026-05-07.json",
+      "size": 13278,
+      "modified": "2026-05-07T23:53:39",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_REPLACE_ANH_MINH_HOA_2026-05-07.json",
+      "size": 41145,
+      "modified": "2026-05-07T23:32:03",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_SUBPAGE_BANNER_DEDUPE_PLUGIN_2026-05-07.json",
+      "size": 817,
+      "modified": "2026-05-07T23:24:50",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_RESTORE_PUBLISH_2026-05-07.json",
+      "size": 1146,
+      "modified": "2026-05-07T23:22:04",
+      "category": "wordpress-operation-log"
+    }
+  ],
+  "large_files": [
+    {
+      "path": "Ảnh cung cấp\\2. Xe Hut - Cong Ty KCN\\1771169669548.png",
+      "size": 6156577,
+      "modified": "2026-05-06T17:25:50",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\trang-faq-tong-hop-thong-tac-cong-rankmath-draft-cta-niem-tin.png",
+      "size": 15197990,
+      "modified": "2026-03-25T02:39:33",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\thong-tac-bon-cau-quang-ninh-khu-vuc-phuc-vu.png",
+      "size": 9417817,
+      "modified": "2026-03-25T02:37:43",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\thong-tac-bon-cau-van-don-anh-dau-bai.png",
+      "size": 15197990,
+      "modified": "2026-03-10T14:40:57",
+      "category": "other"
+    },
+    {
+      "path": "Ảnh cung cấp\\3. Tho Thong Tac Cong\\anh-seo-063.png",
+      "size": 17439099,
+      "modified": "2026-03-10T11:29:12",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\thong-tac-cong-gieng-day-quy-trinh-thi-cong.png",
+      "size": 8348783,
+      "modified": "2026-02-23T08:16:57",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\thong-tac-bon-cau-van-don-quy-trinh-thi-cong.png",
+      "size": 7341950,
+      "modified": "2026-02-18T22:23:38",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\thong-tac-bon-cau-van-don-case-study.png",
+      "size": 5315734,
+      "modified": "2026-02-18T00:33:08",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\thong-tac-toilet-quang-ninh-cta-niem-tin.png",
+      "size": 7725803,
+      "modified": "2026-02-14T18:18:55",
+      "category": "other"
+    }
+  ],
+  "recommendations": [
+    "Giữ `AGENTS.md` và `CODEX_CONTEXT.md` làm nguồn quy tắc vận hành.",
+    "Không dọn `WORDPRESS_*.json` hoặc report live nếu chưa đối chiếu task liên quan.",
+    "Khi cần dọn thật, tạo danh sách move-plan trước rồi chờ Tuyền duyệt.",
+    "Thư mục `reports` có nhiều file; nên gom theo tháng sau khi tạo danh sách duyệt.",
+    "Thư mục `content-drafts` có nhiều draft; nên ưu tiên phân loại `đã live`, `chờ duyệt`, `cần sửa`.",
+    "Có file lớn; chỉ nén/chuyển sau khi kiểm tra không phải bằng chứng audit đang dùng.",
+    "Thư mục `tools` có nhiều script; nên ghi script nào là read-only, script nào có thể sửa live."
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=team-visual-v5-1780012219565",
+  "desktop": {
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/team-section-mockup-desktop-2026-05-29.png",
+    "cardCount": 5,
+    "cards": [
+      {
+        "name": "Nguyễn Song Hào",
+        "cardBox": {
+          "x": 120,
+          "y": 52,
+          "w": 226,
+          "h": 908
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Lê Hữu Ninh",
+        "cardBox": {
+          "x": 364,
+          "y": 52,
+          "w": 226,
+          "h": 908
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Nguyễn Tâm An",
+        "cardBox": {
+          "x": 607,
+          "y": 52,
+          "w": 226,
+          "h": 908
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Lê Quốc Quang",
+        "cardBox": {
+          "x": 851,
+          "y": 52,
+          "w": 226,
+          "h": 908
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Nguyễn Thu Hà",
+        "cardBox": {
+          "x": 1094,
+          "y": 52,
+          "w": 226,
+          "h": 908
+        },
+        "imgComplete": true
+      }
+    ],
+    "overlaps": false,
+    "versionMarker": true
+  },
+  "mobile": {
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/team-section-mockup-mobile-2026-05-29.png",
+    "cardCount": 5,
+    "cards": [
+      {
+        "name": "Nguyễn Song Hào",
+        "cardBox": {
+          "x": 35,
+          "y": 42,
+          "w": 320,
+          "h": 674
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Lê Hữu Ninh",
+        "cardBox": {
+          "x": 35,
+          "y": 733,
+          "w": 320,
+          "h": 650
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Nguyễn Tâm An",
+        "cardBox": {
+          "x": 35,
+          "y": 1399,
+          "w": 320,
+          "h": 608
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Lê Quốc Quang",
+        "cardBox": {
+          "x": 35,
+          "y": 2023,
+          "w": 320,
+          "h": 629
+        },
+        "imgComplete": true
+      },
+      {
+        "name": "Nguyễn Thu Hà",
+        "cardBox": {
+          "x": 35,
+          "y": 2668,
+          "w": 320,
+          "h": 644
+        },
+        "imgComplete": true
+      }
+    ],
+    "overlaps": false,
+    "versionMarker": true
+  }
+}

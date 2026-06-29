@@ -1,0 +1,46 @@
+📡 Fetching sitemap URLs...
+  → 89 URLs in sitemap
+📋 Total URLs to check: 123
+
+❌ [404] https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-quang-ninh/
+↪️ [301→200] https://thongtaccongquangninh.com/thong-tac-cong-nha-hang/
+   → https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/
+↪️ [301→200] https://thongtaccongquangninh.com/hut-be-phot/
+   → https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/
+❌ [404] https://thongtaccongquangninh.com/hut-ham-cau/
+↪️ [301→200] https://thongtaccongquangninh.com/thong-tac-cong/
+   → https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/
+↪️ [301→200] https://thongtaccongquangninh.com/nao-vet/
+   → https://thongtaccongquangninh.com/nao-vet-ho-ga/
+↪️ [301→200] https://thongtaccongquangninh.com/xu-ly-mui-hoi/
+   → https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/
+❌ [404] https://thongtaccongquangninh.com/dich-vu/
+❌ [404] https://thongtaccongquangninh.com/category/dich-vu/
+❌ [404] https://thongtaccongquangninh.com/tag/thong-tac/
+❌ [404] https://thongtaccongquangninh.com/tag/hut-be-phot/
+↪️ [301→200] https://thongtaccongquangninh.com/thong-tac-bon-cau/
+   → https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/
+↪️ [301→200] https://thongtaccongquangninh.com/thong-tac-chau-rua/
+   → https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/
+↪️ [301→200] https://thongtaccongquangninh.com/gia/
+   → https://thongtaccongquangninh.com/gia-hut-be-phot-quang-ninh-2026/
+❌ [404] https://thongtaccongquangninh.com/bao-gia/
+❌ [404] https://thongtaccongquangninh.com/lien-he-2/
+❌ [404] https://thongtaccongquangninh.com/contact/
+❌ [404] https://thongtaccongquangninh.com/dich-vu-hut-be-phot/
+❌ [404] https://thongtaccongquangninh.com/dich-vu-thong-tac-cong/
+❌ [404] https://thongtaccongquangninh.com/ve-chung-toi/
+❌ [404] https://thongtaccongquangninh.com/about/
+❌ [404] https://thongtaccongquangninh.com/tin-tuc/
+❌ [404] https://thongtaccongquangninh.com/news/
+❌ [404] https://thongtaccongquangninh.com/blog-2/
+↪️ [301→200] http://thongtaccongquangninh.com/
+   → https://thongtaccongquangninh.com/
+↪️ [301→200] http://www.thongtaccongquangninh.com/
+   → https://www.thongtaccongquangninh.com/
+
+📄 Báo cáo: D:\.thongtaccongquangninh\reports\gsc-404-redirect-audit-2026-06-03T03-59-24.md
+📊 JSON:    D:\.thongtaccongquangninh\reports\gsc-404-redirect-audit-2026-06-03T03-59-24.json
+
+✅ Xong!
+  ❌ 404: 16 | ⛓️ chain dài: 0 | ↪️ redirect: 10

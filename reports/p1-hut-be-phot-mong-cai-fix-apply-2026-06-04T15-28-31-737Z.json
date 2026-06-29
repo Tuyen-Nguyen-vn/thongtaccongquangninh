@@ -1,0 +1,135 @@
+{
+  "ok": false,
+  "mode": "apply",
+  "generatedAt": "2026-06-04T15:28:33.345Z",
+  "target": {
+    "id": 55,
+    "collection": "pages",
+    "slug": "hut-be-phot-mong-cai",
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-p1-hut-be-phot-mong-cai-2026-06-04T15-28-31-737Z",
+  "title": "Hút Bể Phốt Móng Cái 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+  "titleLen": 64,
+  "metaDesc": "Hút bể phốt Móng Cái 24/7 sạch triệt để, thợ có mặt sau 15 phút, cam kết không đục phá bừa bãi, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756 ngay.",
+  "metaDescLen": 156,
+  "before": {
+    "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+    "excerpt": "Dịch vụ xử lý bể phốt, hầm cầu tại khu vực Móng Cái, đáp ứng nhanh cho kho bãi, chợ trung tâm và các hộ dân vùng biên.",
+    "contentLen": 11402,
+    "rawWordCount": 1231,
+    "keyword": {
+      "count": 5,
+      "total": 1231,
+      "density": 0.020308692120227456,
+      "densityPct": 2.03
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changed": true,
+    "contentLen": 18320,
+    "rawWordCount": 2494,
+    "keyword": {
+      "count": 4,
+      "total": 2494,
+      "density": 0.00801924619085806,
+      "densityPct": 0.8
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "hasFinalAuthor": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankScore": {
+    "error": "WP 400 /rankmath/v1/updateSeoScore: Missing parameter(s): postScores"
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/?nowprocket=1&codex=mong-cai-1780586918529",
+    "title": "Hút Bể Phốt Móng Cái 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+    "titleLen": 64,
+    "metaDesc": "Hút bể phốt Móng Cái 24/7 cho nhà dân, khu kinh doanh, công trình biên giới. Xe bồn đến tận nơi, báo giá rõ. Gọi 0963.953.533.",
+    "metaDescLen": 126,
+    "canonical": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+    "h1": [
+      "Hút Bể Phốt Móng Cái 24/7 &#8211; Giá Rẻ Không Đục Phá, Có Mặt 15 Phút"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nguyên nhân khiến bể phốt nhanh đầy và nghẹt đường ống tại Móng Cái",
+      "Tại sao chọn dịch vụ hút bể phốt Móng Cái của Môi Trường Đô Thị Số 1",
+      "Bảng giá dịch vụ hút bể phốt tại Móng Cái mới nhất 2026",
+      "Quy trình 5 bước hút bể phốt Móng Cái nhanh gọn",
+      "Case study E-E-A-T: Xử lý bể phốt bùn đặc cho khách sạn lớn tại Trà Cổ, Móng Cái",
+      "Địa chỉ liên hệ và văn phòng hút bể phốt Móng Cái",
+      "FAQ &#8211; Câu hỏi thường gặp về dịch vụ hút bể phốt Móng Cái",
+      "Dịch vụ liên quan cần xem",
+      "Cách liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3932,
+    "keyword": {
+      "count": 7,
+      "total": 3932,
+      "density": 0.008901322482197355,
+      "densityPct": 0.89
+    },
+    "schemaTypes": [
+      "LocalBusiness",
+      "HomeAndConstructionBusiness",
+      "PostalAddress",
+      "City",
+      "AdministrativeArea",
+      "OfferCatalog",
+      "Offer",
+      "Service",
+      "BreadcrumbList",
+      "ListItem",
+      "FAQPage",
+      "Question",
+      "Answer",
+      "GeoCoordinates",
+      "ServiceChannel",
+      "OpeningHoursSpecification",
+      "ContactPoint"
+    ],
+    "hasServiceSchema": true,
+    "hasCleanupMarker": true,
+    "hasAuthorArchive": true,
+    "hasOldAuthorUrl": false,
+    "hasFinalAuthor": true,
+    "imageAlts": [
+      "Môi Trường Đô Thị Số 1 Quảng Ninh - hút bể phốt thông tắc cống 24/7",
+      "Logo Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Xe hút bể phốt chuyên dụng tại Quảng Ninh",
+      "Kỹ thuật viên Môi Trường Đô Thị Số 1 Quảng Ninh tư vấn dịch vụ",
+      "xe bồn hút bể phốt tại nhà dân ở Móng Cái",
+      "Xe bồn dịch vụ môi trường cho dịch vụ hút bể phốt tại Móng Cái",
+      "Xe bồn hút bể phốt khu công nghiệp cho dịch vụ hút bể phốt tại Móng Cái",
+      "Xe hút bể phốt chuyên dụng màu xanh phục vụ tại Quảng Ninh",
+      "Kỹ thuật viên thông tắc cống tại Quảng Ninh"
+    ]
+  },
+  "after": {
+    "title": "Hút Bể Phốt Móng Cái 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+    "excerpt": "Hút bể phốt Móng Cái 24/7 sạch triệt để, thợ có mặt sau 15 phút, cam kết không đục phá bừa bãi, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756 ngay.",
+    "contentLen": 18320,
+    "rawWordCount": 2494,
+    "keyword": {
+      "count": 4,
+      "total": 2494,
+      "density": 0.00801924619085806,
+      "densityPct": 0.8
+    }
+  }
+}

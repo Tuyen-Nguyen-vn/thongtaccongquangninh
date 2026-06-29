@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultmessages='true' b:responsive='true' b:templatesversion='1.0.0' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+  <meta charset='utf-8'/>
+  <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+  <title><data:view.title.escaped/></title>
+  
+  <!-- Favicon & SEO Meta -->
+  <link href='https://thongtaccongquangninh.com/favicon.ico' rel='icon' type='image/x-icon'/>
+  <b:include data='blog' name='all-head-content'/>
+  
+  <!-- Font Outfit hien dai tu Google Fonts -->
+  <link href='https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&amp;display=swap' rel='stylesheet'/>
+
+  <b:skin><![CDATA[
+  /*
+   * Theme: Blogger Ve Tinh Chuan SEO - Dong Bo Thuong Hieu
+   * Designed for: Môi Trường Đô Thị Số 1 Quảng Ninh (thongtaccongquangninh.com)
+   * Designed by: Antigravity
+   */
+  
+  /* Reset CSS */
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Outfit', sans-serif;
+    background-color: #f4f6f9;
+    color: #1f2937;
+    line-height: 1.6;
+    font-size: 16px;
+  }
+  a { color: #1890ff; text-decoration: none; transition: all 0.3s ease; }
+  a:hover { color: #096dd9; text-decoration: underline; }
+  img { max-width: 100%; height: auto; display: block; }
+  
+  /* Layout Containers */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Header - Dong bo mau xanh duong thongtaccongquangninh.com */
+  header {
+    background: #003a8c;
+    color: white;
+    padding: 15px 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo h1 {
+    font-size: 24px;
+    font-weight: 800;
+  }
+  .logo h1 a {
+    color: white;
+  }
+  .logo h1 a:hover {
+    text-decoration: none;
+  }
+  
+  /* Hotline nhap nhay o Header */
+  .header-hotline {
+    background: #ff4d4f;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 16px;
+    box-shadow: 0 4px 15px rgba(255, 77, 79, 0.4);
+    animation: pulse 1.5s infinite;
+  }
+  .header-hotline a {
+    color: white;
+  }
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+  
+  /* Main Content Area */
+  .main-wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 30px;
+    margin: 40px auto;
+  }
+  
+  /* Post Area */
+  .post-card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    margin-bottom: 30px;
+  }
+  .post-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #003a8c;
+    margin-bottom: 15px;
+    line-height: 1.3;
+  }
+  .post-meta {
+    font-size: 14px;
+    color: #6b7280;
+    margin-bottom: 25px;
+  }
+  .post-body {
+    font-size: 16px;
+    color: #374151;
+    text-align: justify;
+  }
+  .post-body h2 {
+    font-size: 22px;
+    color: #003a8c;
+    margin: 30px 0 15px 0;
+    border-left: 5px solid #1890ff;
+    padding-left: 15px;
+  }
+  .post-body h3 {
+    font-size: 18px;
+    color: #003a8c;
+    margin: 20px 0 10px 0;
+  }
+  .post-body p {
+    margin-bottom: 15px;
+  }
+  .post-body ul, .post-body ol {
+    margin-bottom: 20px;
+    padding-left: 20px;
+  }
+  .post-body li {
+    margin-bottom: 8px;
+  }
+  
+  /* Sidebar */
+  aside {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .widget-box {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  }
+  .widget-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #003a8c;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 12px;
+    margin-bottom: 15px;
+  }
+  
+  /* Widget NAP lien he giong thongtaccongquangninh.com */
+  .nap-box {
+    background: linear-gradient(135deg, #003a8c 0%, #1890ff 100%);
+    color: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(24, 144, 255, 0.3);
+  }
+  .nap-box h3 {
+    font-size: 18px;
+    font-weight: 800;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    padding-bottom: 10px;
+  }
+  .nap-box p {
+    font-size: 14px;
+    margin-bottom: 12px;
+    line-height: 1.5;
+  }
+  .nap-btn {
+    display: block;
+    background: #ff4d4f;
+    color: white !important;
+    text-align: center;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: 700;
+    margin-top: 15px;
+    box-shadow: 0 4px 10px rgba(255, 77, 79, 0.3);
+    text-decoration: none !important;
+  }
+  
+  /* Footer */
+  footer {
+    background: #001529;
+    color: #8c9ba5;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 14px;
+    border-top: 5px solid #003a8c;
+  }
+  footer p {
+    margin-bottom: 10px;
+  }
+  footer a {
+    color: white;
+    font-weight: 600;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .main-wrapper {
+      grid-template-columns: 1fr;
+    }
+    .header-wrapper {
+      flex-direction: column;
+      gap: 15px;
+      text-align: center;
+    }
+  }
+  ]]></b:skin>
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header>
+    <div class='container header-wrapper'>
+      <div class='logo'>
+        <h1><a expr:href='data:blog.homepageUrl'><data:blog.title/></a></h1>
+      </div>
+      <div class='header-hotline'>
+        <a href='tel:0963953533'>HOTLINE: 0963.953.533</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Section -->
+  <div class='container main-wrapper'>
+    
+    <!-- Blog Post Area -->
+    <main>
+      <b:section id='main' showaddelement='false'>
+        <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'>
+          <b:includable id='main'>
+            <b:loop values='data:posts' var='post'>
+              <article class='post-card'>
+                <h2 class='post-title'>
+                  <b:if cond='data:view.isMultipleItems'>
+                    <a expr:href='data:post.url'><data:post.title/></a>
+                  <b:else/>
+                    <data:post.title/>
+                  </b:if>
+                </h2>
+                
+                <div class='post-meta'>
+                  Cập nhật ngày: <data:post.lastUpdated.date/> | Tác giả: Môi Trường Đô Thị Số 1
+                </div>
+                
+                <div class='post-body'>
+                  <data:post.body/>
+                </div>
+              </article>
+            </b:loop>
+          </b:includable>
+        </b:widget>
+      </b:section>
+    </main>
+
+    <!-- Sidebar Section -->
+    <aside>
+      <!-- NAP Contact Widget (Dong bo thuong hieu) -->
+      <div class='nap-box'>
+        <h3>MÔI TRƯỜNG ĐÔ THỊ SỐ 1</h3>
+        <p>🏠 <b>Trụ sở chính:</b> Số 124 Nguyễn Văn Cừ, Hồng Hà, TP. Hạ Long, Quảng Ninh</p>
+        <p>🏠 <b>Văn phòng Bãi Cháy:</b> Số 58 Đường Hạ Long, Bãi Cháy, TP. Hạ Long, Quảng Ninh</p>
+        <p>📞 <b>Hotline 24/7:</b> 0963.953.533 / 0931.156.756</p>
+        <a class='nap-btn' href='tel:0963953533'>GỌI KHẢO SÁT MIỄN PHÍ</a>
+      </div>
+
+      <!-- About Blogger -->
+      <div class='widget-box'>
+        <h3 class='widget-title'>Giới thiệu vệ tinh</h3>
+        <p style='font-size: 14px; color: #4b5563;'>Hệ thống trang tin tức và chia sẻ kinh nghiệm xử lý thông tắc bồn cầu, hút bể phốt của Môi Trường Đô Thị Số 1 Quảng Ninh. Đồng hành cùng gia đình Việt bảo vệ không gian sống xanh sạch đẹp.</p>
+      </div>
+
+      <!-- Links to Main Site -->
+      <div class='widget-box'>
+        <h3 class='widget-title'>Liên kết chính thức</h3>
+        <ul style='list-style: none; font-size: 14px;'>
+          <li style='margin-bottom: 10px;'><a href='https://thongtaccongquangninh.com' target='_blank'>Trang chủ thongtaccongquangninh.com</a></li>
+          <li style='margin-bottom: 10px;'><a href='https://thongtaccongquangninh.com/hut-be-phot-ha-long/' target='_blank'>Dịch vụ Hút bể phốt Hạ Long</a></li>
+          <li><a href='https://thongtaccongquangninh.com/thong-tac-cong-ha-long/' target='_blank'>Dịch vụ Thông tắc cống Hạ Long</a></li>
+        </ul>
+      </div>
+    </aside>
+    
+  </div>
+
+  <!-- Footer Section -->
+  <footer>
+    <div class='container'>
+      <p style='font-weight: 700; color: white;'>CÔNG TY MÔI TRƯỜNG ĐÔ THỊ SỐ 1 QUẢNG NINH</p>
+      <p>Bản quyền thuộc về © 2026 <a href='https://thongtaccongquangninh.com' target='_blank'>thongtaccongquangninh.com</a>. Mọi quyền được bảo lưu.</p>
+      <p style='font-size: 12px; margin-top: 10px;'>Trang vệ tinh chính thức phục vụ local SEO Quảng Ninh</p>
+    </div>
+  </footer>
+</body>
+</html>

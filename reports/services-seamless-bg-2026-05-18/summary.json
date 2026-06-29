@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "version": true,
+    "serviceTop": 340,
+    "statsBottom": 341,
+    "serviceBg": "linear-gradient(rgb(0, 16, 21) 0%, rgba(0, 16, 21, 0.96) 10%, rgba(0, 16, 21, 0) 28%), radial-gradient(circle at 50% 54%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(c",
+    "marginTop": "-1px",
+    "horizontalScroll": false
+  },
+  "errs": []
+}

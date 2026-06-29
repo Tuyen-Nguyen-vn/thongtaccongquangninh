@@ -1,0 +1,2419 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-22T15:43:27.236Z",
+    "totalUrls": 78,
+    "bySitemap": {
+      "post-sitemap.xml": 22,
+      "page-sitemap.xml": 41,
+      "category-sitemap.xml": 12,
+      "author-sitemap.xml": 3
+    },
+    "ok200": 76,
+    "averageScore": 98,
+    "issues": {
+      "httpNot200": 2,
+      "title": 2,
+      "meta": 2,
+      "canonical": 2,
+      "h1": 2,
+      "ogImage": 2,
+      "schema": 2,
+      "brokenImages": 0,
+      "markdown": 1,
+      "featured": 0,
+      "uncategorized": 0,
+      "bannedImageLabels": 0
+    },
+    "restCounts": {
+      "posts": 23,
+      "pages": 42,
+      "categories": 13,
+      "uncategorizedCount": 1
+    }
+  },
+  "rows": [
+    {
+      "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "titleLen": 61,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 4,
+      "brokenImages": [],
+      "rest": {
+        "id": 1377,
+        "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+        "status": "publish",
+        "featured_media": 2196,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Xử lý mùi hôi nhà vệ sinh: tìm đúng nguồn hôi trước khi khử mùi",
+      "titleLen": 63,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-xu-ly-mui-hoi-quang-ninh.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1369,
+        "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+        "status": "publish",
+        "featured_media": 2200,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Nạo vét hố ga: khi nào cần làm, quy trình và chi phí tham khảo",
+      "titleLen": 62,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-nao-vet-ho-ga-quang-ninh-24-7.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1368,
+        "slug": "nao-vet-ho-ga",
+        "status": "publish",
+        "featured_media": 2199,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "nao-vet-ho-ga",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Cách xử lý bồn cầu bị tắc tại nhà: làm gì trước, khi nào gọi thợ",
+      "titleLen": 64,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-bon-cau-quang-ninh-khong-duc-pha.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1367,
+        "slug": "thong-tac-bon-cau-bi-tac",
+        "status": "publish",
+        "featured_media": 2198,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "titleLen": 64,
+      "metaLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2047,
+        "slug": "hut-be-phot-ba-che-2",
+        "status": "publish",
+        "featured_media": 2197,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "titleLen": 66,
+      "metaLen": 159,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2048,
+        "slug": "hut-be-phot-binh-lieu-2",
+        "status": "publish",
+        "featured_media": 2197,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "titleLen": 64,
+      "metaLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2049,
+        "slug": "hut-be-phot-co-to-2",
+        "status": "publish",
+        "featured_media": 2197,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "titleLen": 70,
+      "metaLen": 156,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2050,
+        "slug": "hut-be-phot-dam-ha-2",
+        "status": "publish",
+        "featured_media": 2197,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "titleLen": 62,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2041,
+        "slug": "thong-tac-cong-tuan-chau",
+        "status": "publish",
+        "featured_media": 2196,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý",
+      "titleLen": 53,
+      "metaLen": 147,
+      "canonical": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-xu-ly-mui-hoi-quang-ninh.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2046,
+        "slug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+        "status": "publish",
+        "featured_media": 2200,
+        "categories": [
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?",
+      "titleLen": 65,
+      "metaLen": 157,
+      "canonical": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2045,
+        "slug": "hoa-chat-tu-thong-cong-3",
+        "status": "publish",
+        "featured_media": 2196,
+        "categories": [
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "thong-tac-bon-cau",
+          "thong-tac-cong"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026",
+      "titleLen": 59,
+      "metaLen": 164,
+      "canonical": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2044,
+        "slug": "chu-ky-hut-be-phot-3",
+        "status": "publish",
+        "featured_media": 2197,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "thong-tac-bon-cau",
+          "thong-tac-cong"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+      "titleLen": 62,
+      "metaLen": 157,
+      "canonical": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-bon-cau-quang-ninh-khong-duc-pha.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2043,
+        "slug": "bon-cau-rut-cham-nguyen-nhan-3",
+        "status": "publish",
+        "featured_media": 2198,
+        "categories": [
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "thong-tac-bon-cau",
+          "thong-tac-cong"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "titleLen": 62,
+      "metaLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2056,
+        "slug": "thong-tac-cong-gieng-day-2",
+        "status": "publish",
+        "featured_media": 2196,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút",
+      "titleLen": 65,
+      "metaLen": 156,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2055,
+        "slug": "thong-tac-cong-cao-xanh-2",
+        "status": "publish",
+        "featured_media": 2196,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "titleLen": 70,
+      "metaLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2054,
+        "slug": "thong-tac-cong-bai-chay",
+        "status": "publish",
+        "featured_media": 2196,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [
+        "còn Markdown **"
+      ],
+      "score": 93
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+      "titleLen": 68,
+      "metaLen": 151,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2053,
+        "slug": "thong-tac-cong-hong-gai-2",
+        "status": "publish",
+        "featured_media": 2196,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "thong-tac-cong"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "titleLen": 65,
+      "metaLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2052,
+        "slug": "hut-be-phot-tien-yen-2",
+        "status": "publish",
+        "featured_media": 2197,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "titleLen": 67,
+      "metaLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2051,
+        "slug": "hut-be-phot-hai-ha-2",
+        "status": "publish",
+        "featured_media": 2197,
+        "categories": [
+          "bang-gia",
+          "blog",
+          "canh-bao",
+          "huong-dan-tai-nha",
+          "hut-be-phot",
+          "nao-vet-ho-ga",
+          "thong-tac-bon-cau",
+          "thong-tac-cong",
+          "xu-ly-mui-hoi"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Dấu hiệu bể phốt cần hút: mùi hôi, rút chậm, trào ngược",
+      "titleLen": 55,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 215,
+        "slug": "dau-hieu-be-phot-can-hut",
+        "status": "publish",
+        "featured_media": 352,
+        "categories": [
+          "huong-dan"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ",
+      "titleLen": 70,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 216,
+        "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+        "status": "publish",
+        "featured_media": 348,
+        "categories": [
+          "huong-dan"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "sitemap": "post-sitemap.xml",
+      "kind": "post",
+      "status": 200,
+      "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính và lưu ý",
+      "titleLen": 56,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 217,
+        "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+        "status": "publish",
+        "featured_media": 352,
+        "categories": [
+          "bang-gia-blog"
+        ]
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Môi Trường Đô Thị Số 1 Quảng Ninh - Hút Bể Phốt, Thông Tắc Cống 24/7",
+      "titleLen": 68,
+      "metaLen": 143,
+      "canonical": "https://thongtaccongquangninh.com/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "VideoObject",
+        "Article",
+        "WebPage",
+        "ImageObject",
+        "WebSite",
+        "Organization",
+        "LocalBusiness,HomeAndConstructionBusiness",
+        "FAQPage"
+      ],
+      "imageCount": 37,
+      "brokenImages": [],
+      "rest": {
+        "id": 23,
+        "slug": "trang-chu",
+        "status": "publish",
+        "featured_media": 242
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Chính sách bảo mật thông tin khách hàng Quảng Ninh",
+      "titleLen": 50,
+      "metaLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 282,
+        "slug": "chinh-sach-bao-mat",
+        "status": "publish",
+        "featured_media": 375
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc cống Quảng Yên cho nhà ven sông, hố ga thấp",
+      "titleLen": 53,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 424,
+        "slug": "thong-tac-cong-quang-yen",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút bể phốt Cẩm Phả cho khu mỏ, nhà dân, đường hẹp",
+      "titleLen": 50,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 53,
+        "slug": "hut-be-phot-cam-pha",
+        "status": "publish",
+        "featured_media": 352
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/blog/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố",
+      "titleLen": 57,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/blog/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 25,
+        "slug": "blog",
+        "status": "publish",
+        "featured_media": 375
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Quảng Ninh 24/7 - Báo giá rõ, không đục phá",
+      "titleLen": 61,
+      "metaLen": 132,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 37,
+        "slug": "thong-tac-bon-cau-quang-ninh",
+        "status": "publish",
+        "featured_media": 345
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút bể phốt Hạ Long cho khách sạn, nhà hàng, nhà dân",
+      "titleLen": 52,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 52,
+        "slug": "hut-be-phot-ha-long",
+        "status": "publish",
+        "featured_media": 352
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư, cơ sở kinh doanh",
+      "titleLen": 61,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 54,
+        "slug": "hut-be-phot-uong-bi",
+        "status": "publish",
+        "featured_media": 352
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Hạ Long – Thợ 24/7, Có Mặt Sau 15 Phút",
+      "titleLen": 53,
+      "metaLen": 147,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/social-preview-thong-tac-cong-ha-long.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 296,
+        "slug": "thong-tac-cong-ha-long",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc cống Uông Bí cho hệ ống cũ, nhà trọ, khu dân cư",
+      "titleLen": 57,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 405,
+        "slug": "thong-tac-cong-uong-bi",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút bể phốt Quảng Yên cho nhà ven sông, khu công nghiệp",
+      "titleLen": 55,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 57,
+        "slug": "hut-be-phot-quang-yen",
+        "status": "publish",
+        "featured_media": 352
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Cẩm Phả 24/7 - Máy lò xo, bảo hành rõ",
+      "titleLen": 55,
+      "metaLen": 134,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/thong-tac-bon-cau-cam-pha-ky-thuat-vien-xe-bon.png",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 450,
+        "slug": "thong-tac-bon-cau-cam-pha",
+        "status": "publish",
+        "featured_media": 446
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Đông Triều 24/7 - Xe hút vào ngõ nhỏ",
+      "titleLen": 54,
+      "metaLen": 120,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-dong-trieu-tho-thong-bon-cau-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1481,
+        "slug": "thong-tac-bon-cau-dong-trieu",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thợ thông bồn cầu Hạ Long 24/7 - Khách sạn, nhà hàng, nhà dân",
+      "titleLen": 61,
+      "metaLen": 122,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-ha-long-tho-thong-bon-cau-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1482,
+        "slug": "thong-tac-bon-cau-ha-long",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Móng Cái 24/7 - Xử lý kín, báo giá trước",
+      "titleLen": 58,
+      "metaLen": 122,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-mong-cai-tho-thong-bon-cau-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1483,
+        "slug": "thong-tac-bon-cau-mong-cai",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Quảng Yên 24/7 - Nhà ven sông, nền thấp",
+      "titleLen": 57,
+      "metaLen": 127,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-yen-tho-thong-bon-cau-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1485,
+        "slug": "thong-tac-bon-cau-quang-yen",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Uông Bí 24/7 - Hệ ống cũ, nhà trọ, dân cư",
+      "titleLen": 59,
+      "metaLen": 126,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-uong-bi-tho-thong-bon-cau-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1486,
+        "slug": "thong-tac-bon-cau-uong-bi",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Vân Đồn 24/7 - Homestay, resort, nhà dân",
+      "titleLen": 58,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-van-don-tho-thong-bon-cau-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 1487,
+        "slug": "thong-tac-bon-cau-van-don",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hệ Thống Liên Kết Đối Tác & Truyền Thông Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 74,
+      "metaLen": 132,
+      "canonical": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/he-thong-lien-ket-doi-tac-may-lo-xo-thong-cong-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 2022,
+        "slug": "he-thong-lien-ket-doi-tac",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 0,
+      "title": "",
+      "titleLen": 0,
+      "metaLen": 0,
+      "canonical": "",
+      "h1Count": 0,
+      "ogImage": "",
+      "ogImageStatus": 0,
+      "schemaTypes": [],
+      "imageCount": 0,
+      "brokenImages": [],
+      "rest": {
+        "id": 2025,
+        "slug": "chi-phi-hut-be-phot-quang-ninh-2",
+        "status": "publish",
+        "featured_media": 0
+      },
+      "issues": [
+        "HTTP 0: timeout",
+        "thiếu title",
+        "thiếu meta description",
+        "thiếu canonical",
+        "H1 count 0",
+        "OG title/description thiếu",
+        "thiếu og:image",
+        "thiếu JSON-LD schema"
+      ],
+      "score": 44
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Giới thiệu Môi Trường Đô Thị Số 1 Quảng Ninh 24/7",
+      "titleLen": 49,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/doi-ngu-thi-cong-moi-truong-ha-long-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 62,
+        "slug": "gioi-thieu",
+        "status": "publish",
+        "featured_media": 140
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/lien-he/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh 24/7",
+      "titleLen": 46,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/lien-he/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/thong-tin-lien-he-moi-truong-ha-long-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 63,
+        "slug": "lien-he",
+        "status": "publish",
+        "featured_media": 142
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút",
+      "titleLen": 56,
+      "metaLen": 125,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-thi-cong-cong-trinh-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "VideoObject",
+        "Article",
+        "WebPage",
+        "BreadcrumbList",
+        "ImageObject",
+        "WebSite",
+        "Organization",
+        "FAQPage",
+        "Service",
+        "HowTo"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 26,
+        "slug": "hut-be-phot-quang-ninh",
+        "status": "publish",
+        "featured_media": 343
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+      "titleLen": 68,
+      "metaLen": 130,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/banner-thong-tac-cong-quang-ninh-cac-trang-con.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "VideoObject",
+        "Article",
+        "WebPage",
+        "BreadcrumbList",
+        "ImageObject",
+        "WebSite",
+        "Organization",
+        "FAQPage",
+        "Service",
+        "HowTo"
+      ],
+      "imageCount": 19,
+      "brokenImages": [],
+      "rest": {
+        "id": 35,
+        "slug": "thong-tac-cong-quang-ninh",
+        "status": "publish",
+        "featured_media": 374
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Chậu Rửa Quảng Ninh - Phá Mỡ Sâu, Có Mặt 15 Phút",
+      "titleLen": 58,
+      "metaLen": 157,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-chau-rua-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 36,
+        "slug": "thong-tac-chau-rua-quang-ninh",
+        "status": "publish",
+        "featured_media": 344
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Nạo Vét Hố Ga Quảng Ninh - Tránh Ngập Mùa Mưa, Có Mặt 24/7",
+      "titleLen": 58,
+      "metaLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/nao-vet-ho-ga-ngoai-troi-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service",
+        "HowTo"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 38,
+        "slug": "nao-vet-ho-ga-quang-ninh",
+        "status": "publish",
+        "featured_media": 349
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+      "titleLen": 52,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/bang-gia/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 61,
+        "slug": "bang-gia",
+        "status": "publish",
+        "featured_media": 375
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Chính sách bảo hành dịch vụ thông hút bể phốt",
+      "titleLen": 45,
+      "metaLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/dich-vu-ve-sinh-moi-truong-ha-long-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 64,
+        "slug": "chinh-sach-bao-hanh",
+        "status": "publish",
+        "featured_media": 141
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "titleLen": 57,
+      "metaLen": 122,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 380,
+        "slug": "thong-tac-cong-chung-cu-ha-long",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+      "titleLen": 53,
+      "metaLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 383,
+        "slug": "thong-tac-cong-nha-hang-ha-long",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+      "titleLen": 47,
+      "metaLen": 131,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 384,
+        "slug": "thong-tac-cong-ngo-nho-ha-long",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+      "titleLen": 53,
+      "metaLen": 125,
+      "canonical": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 386,
+        "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 60,
+      "metaLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cam-pha-tho-thong-tac-cong-tai-nha-dan-o-cam-pha-bang-may-lo-xo-1.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 400,
+        "slug": "thong-tac-cong-cam-pha",
+        "status": "publish",
+        "featured_media": 878
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+      "titleLen": 57,
+      "metaLen": 131,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 425,
+        "slug": "thong-tac-cong-dong-trieu",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+      "titleLen": 55,
+      "metaLen": 121,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 426,
+        "slug": "thong-tac-cong-mong-cai",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+      "titleLen": 54,
+      "metaLen": 127,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 427,
+        "slug": "thong-tac-cong-van-don",
+        "status": "publish",
+        "featured_media": 348
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+      "titleLen": 59,
+      "metaLen": 134,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 56,
+        "slug": "hut-be-phot-dong-trieu",
+        "status": "publish",
+        "featured_media": 352
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+      "titleLen": 51,
+      "metaLen": 126,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 55,
+        "slug": "hut-be-phot-mong-cai",
+        "status": "publish",
+        "featured_media": 352
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+      "titleLen": 59,
+      "metaLen": 126,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 58,
+        "slug": "hut-be-phot-van-don",
+        "status": "publish",
+        "featured_media": 352
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Hút bể phốt Bãi Cháy - Xe bồn vào ngõ rộng, khách sạn nhà hàng",
+      "titleLen": 62,
+      "metaLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-ha-long-quang-ninh-03.webp",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 436,
+        "slug": "hut-be-phot-bai-chay",
+        "status": "publish",
+        "featured_media": 353
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "sitemap": "page-sitemap.xml",
+      "kind": "page",
+      "status": 200,
+      "title": "Xử lý mùi hôi Quảng Ninh 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "titleLen": 62,
+      "metaLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "Service",
+        "HowTo"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": {
+        "id": 311,
+        "slug": "xu-ly-mui-hoi-quang-ninh",
+        "status": "publish",
+        "featured_media": 375
+      },
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/uncategorized/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Bài viết chưa phân loại về dịch vụ môi trường Quảng Ninh",
+      "titleLen": 56,
+      "metaLen": 156,
+      "canonical": "https://thongtaccongquangninh.com/category/uncategorized/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 4,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/huong-dan/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Hướng Dẫn &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 51,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/category/huong-dan/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/bang-gia-blog/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Bảng Giá &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 50,
+      "metaLen": 149,
+      "canonical": "https://thongtaccongquangninh.com/category/bang-gia-blog/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 5,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/blog/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Blog &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 46,
+      "metaLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/category/blog/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/hut-be-phot/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Hút bể phốt &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 53,
+      "metaLen": 151,
+      "canonical": "https://thongtaccongquangninh.com/category/hut-be-phot/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/thong-tac-cong/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Thông tắc cống &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 56,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/category/thong-tac-cong/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/thong-tac-bon-cau/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Thông tắc bồn cầu &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 59,
+      "metaLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/category/thong-tac-bon-cau/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/nao-vet-ho-ga/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Nạo vét hố ga &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 55,
+      "metaLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/category/nao-vet-ho-ga/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Xử lý mùi hôi &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 55,
+      "metaLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/huong-dan-tai-nha/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Hướng dẫn xử lý tại nhà &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 65,
+      "metaLen": 148,
+      "canonical": "https://thongtaccongquangninh.com/category/huong-dan-tai-nha/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/canh-bao/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Dấu hiệu cảnh báo &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 59,
+      "metaLen": 149,
+      "canonical": "https://thongtaccongquangninh.com/category/canh-bao/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/bang-gia/",
+      "sitemap": "category-sitemap.xml",
+      "kind": "category",
+      "status": 200,
+      "title": "Bảng giá dịch vụ &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 58,
+      "metaLen": 146,
+      "canonical": "https://thongtaccongquangninh.com/category/bang-gia/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 6,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/author/cuben01/",
+      "sitemap": "author-sitemap.xml",
+      "kind": "author",
+      "status": 0,
+      "title": "",
+      "titleLen": 0,
+      "metaLen": 0,
+      "canonical": "",
+      "h1Count": 0,
+      "ogImage": "",
+      "ogImageStatus": 0,
+      "schemaTypes": [],
+      "imageCount": 0,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [
+        "HTTP 0: timeout",
+        "thiếu title",
+        "thiếu meta description",
+        "thiếu canonical",
+        "H1 count 0",
+        "OG title/description thiếu",
+        "thiếu og:image",
+        "thiếu JSON-LD schema"
+      ],
+      "score": 44
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/author/admin/",
+      "sitemap": "author-sitemap.xml",
+      "kind": "author",
+      "status": 200,
+      "title": "admin &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 47,
+      "metaLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/author/admin/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "WebSite",
+        "Person"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/author/chatgpt/",
+      "sitemap": "author-sitemap.xml",
+      "kind": "author",
+      "status": 200,
+      "title": "chatgpt &#8211; Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 49,
+      "metaLen": 149,
+      "canonical": "https://thongtaccongquangninh.com/author/chatgpt/",
+      "h1Count": 1,
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "ogImageStatus": 200,
+      "schemaTypes": [
+        "LocalBusiness",
+        "Person",
+        "ProfilePage",
+        "BreadcrumbList",
+        "WebSite"
+      ],
+      "imageCount": 7,
+      "brokenImages": [],
+      "rest": null,
+      "issues": [],
+      "score": 100
+    }
+  ]
+}

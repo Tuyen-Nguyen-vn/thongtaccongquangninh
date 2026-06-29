@@ -1,0 +1,28 @@
+{
+  "updatedAt": "2026-05-19T18:26:51.251Z",
+  "backupDir": "backups/audit-meta-description-fix-2026-05-20",
+  "results": [
+    {
+      "id": 37,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-quang-ninh",
+      "description": "Thông tắc bồn cầu tại Quảng Ninh 24/7, xử lý tắc nghẽn, thoát chậm, trào ngược. Báo giá rõ trước khi làm, gọi 0963.953.533 hoặc 0931.156.756.",
+      "descriptionLength": 141,
+      "rankMathResponse": {
+        "slug": true,
+        "schemas": []
+      }
+    },
+    {
+      "id": 1369,
+      "kind": "posts",
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "description": "Hướng dẫn xác định nguyên nhân mùi hôi nhà vệ sinh từ bể phốt, phễu thoát sàn, ống thông hơi và cách xử lý phù hợp, dễ kiểm tra trước khi gọi thợ.",
+      "descriptionLength": 146,
+      "rankMathResponse": {
+        "slug": true,
+        "schemas": []
+      }
+    }
+  ]
+}

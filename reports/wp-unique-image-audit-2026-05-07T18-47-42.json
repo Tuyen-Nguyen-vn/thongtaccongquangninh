@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-07T18:48:18+0700",
+  "mode": "fix",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 42,
+  "pagesWithIssues": 0,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 2,
+  "fixes": [
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "id": 383,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1-1.webp",
+          "file": "thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-47-42/thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 73.0,
+          "quality": 82,
+          "dhash": 17252010149052663762
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "id": 62,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1-1.webp",
+          "file": "gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-47-42/gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 92.6,
+          "quality": 82,
+          "dhash": 6999201235890005856
+        }
+      ]
+    }
+  ],
+  "issues": [],
+  "globalReuse": [
+    {
+      "kind": "same_bytes",
+      "key": "66b11d2ac78e44dc8cd8b74bd1f1f32cf4f94609e3909aefb40bc758e24f0907",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+          "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+          "index": 0,
+          "file": "thong-tac-cong-ngo-nho-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+          "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+          "index": 1,
+          "file": "thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "496cb32875c2f8e94d83b1d46df8d1c515c69c4b369d3a76c5846b42b34b6bb6",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/lien-he/",
+          "title": "Liên hệ 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "lien-he-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+          "title": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp"
+        }
+      ]
+    }
+  ]
+}

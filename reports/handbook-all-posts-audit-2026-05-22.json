@@ -1,0 +1,1475 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-22T15:10:58.068Z",
+    "scope": "All published posts returned by WP REST posts endpoint; used as full /blog/ handbook corpus audit.",
+    "total": 23,
+    "ok200": 23,
+    "missingFeatured": 14,
+    "markdownArtifacts": 1,
+    "noOgImage": 1,
+    "badOgImage": 0,
+    "h1Problems": 0,
+    "uncategorized": 20,
+    "localLandingIntent": 11,
+    "averageScore": 83
+  },
+  "rows": [
+    {
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+      "httpStatus": 200,
+      "featured_media": 2196,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "titleLen": 62,
+      "metaDesc": "Thông tắc cống Giếng Đáy Hạ Long cho nhà dân, nhà trọ, cửa hàng, xử lý nước trào, mùi hôi, cống nghẹt. Gọi 0963.953.533 / 0931.156.756 ngay tại Hạ Long.",
+      "metaLen": 152,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Thông tắc cống Giếng Đáy Hạ Long 24/7 , thợ xử lý tận nơi nhanh"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Thông tắc cống Giếng Đáy Hạ Long cho nhà dân, nhà trọ, cửa hàng, xử lý nước trào, mùi hôi, cống nghẹt. Gọi 0963.953.533 / 0931.156.756 ngay tại Hạ Long.",
+      "issues": [
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "title": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+      "httpStatus": 200,
+      "featured_media": 2196,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút",
+      "titleLen": 65,
+      "metaDesc": "Thông tắc cống Cao Xanh 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi nhanh trong ngày tại nhà dân, nhà hàng.",
+      "metaLen": 156,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Thông tắc cống Cao Xanh 24/7 , không đục phá, có mặt nhanh 15 phút"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Thông tắc cống Cao Xanh 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi nhanh trong ngày tại nhà dân, nhà hàng.",
+      "issues": [
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2054,
+      "slug": "thong-tac-cong-bai-chay",
+      "title": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "httpStatus": 200,
+      "featured_media": 2196,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "titleLen": 70,
+      "metaDesc": "Thông tắc cống Bãi Cháy 24/7, không đục phá, báo giá rõ. Gọi **0963.953.533 / 0931.156.756** xử lý tắc nghẽn, mùi hôi, có mặt nhanh 15 phút, bảo hành dài hạn.",
+      "metaLen": 158,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "h1Count": 1,
+      "h1s": [
+        "Dịch vụ thông tắc cống Bãi Cháy 24/7 , không đục phá, bảo hành 12 tháng"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Thông tắc cống Bãi Cháy 24/7, không đục phá, báo giá rõ. Gọi **0963.953.533 / 0931.156.756** xử lý tắc nghẽn, mùi hôi, có mặt nhanh 15 phút, bảo hành dài hạn.",
+      "issues": [
+        "còn Markdown ** trong nội dung/excerpt",
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 76
+    },
+    {
+      "id": 2053,
+      "slug": "thong-tac-cong-hong-gai-2",
+      "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "httpStatus": 200,
+      "featured_media": 2196,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+      "titleLen": 68,
+      "metaDesc": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+      "metaLen": 151,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+      "issues": [
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2052,
+      "slug": "hut-be-phot-tien-yen-2",
+      "title": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+      "httpStatus": 200,
+      "featured_media": 2197,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "titleLen": 65,
+      "metaDesc": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 cho nhà dân, nhà hàng, trường học vùng xa. Xe đến tận nơi, hút sạch, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+      "metaLen": 150,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 cho nhà dân, nhà hàng, trường học vùng xa. Xe đến tận nơi, hút sạch, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+      "issues": [
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2051,
+      "slug": "hut-be-phot-hai-ha-2",
+      "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "httpStatus": 200,
+      "featured_media": 2197,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "titleLen": 67,
+      "metaDesc": "Hút bể phốt Hải Hà Quảng Ninh 24/7 cho nhà dân, cơ sở kinh doanh vùng biên. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "metaLen": 153,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Hút bể phốt Hải Hà Quảng Ninh 24/7 cho nhà dân, cơ sở kinh doanh vùng biên. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "issues": [
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2050,
+      "slug": "hut-be-phot-dam-ha-2",
+      "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "titleLen": 70,
+      "metaDesc": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 cho nhà dân, nhà hàng, trang trại. Xe đến tận huyện, hút sạch, báo giá rõ trước khi làm. Gọi 0963.953.533 / 0931.156.756.",
+      "metaLen": 156,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-dam-ha-quang-ninh-anh-dau-bai.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 cho nhà dân, nhà hàng, trang trại. Xe đến tận huyện, hút sạch, báo giá rõ trước khi làm. Gọi 0963.953.533 / 0931.156.756.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 76
+    },
+    {
+      "id": 2049,
+      "slug": "hut-be-phot-co-to-2",
+      "title": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "titleLen": 64,
+      "metaDesc": "Hút bể phốt Cô Tô Quảng Ninh 24/7 cho nhà dân, resort, nhà hàng trên đảo. Điều phối theo chuyến tàu, báo giá minh bạch. Gọi 0963.953.533 / 0931.156.756.",
+      "metaLen": 152,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-co-to-quang-ninh-anh-dau-bai.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Hút bể phốt Cô Tô Quảng Ninh 24/7 cho nhà dân, resort, nhà hàng trên đảo. Điều phối theo chuyến tàu, báo giá minh bạch. Gọi 0963.953.533 / 0931.156.756.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 76
+    },
+    {
+      "id": 2048,
+      "slug": "hut-be-phot-binh-lieu-2",
+      "title": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "titleLen": 66,
+      "metaDesc": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 cho nhà dân, trường học vùng cao biên giới. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "metaLen": 159,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-binh-lieu-quang-ninh-anh-dau-bai.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 cho nhà dân, trường học vùng cao biên giới. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 76
+    },
+    {
+      "id": 2047,
+      "slug": "hut-be-phot-ba-che-2",
+      "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "titleLen": 64,
+      "metaDesc": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+      "metaLen": 158,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-ba-che-quang-ninh-anh-dau-bai.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 76
+    },
+    {
+      "id": 2046,
+      "slug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+      "title": "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý",
+      "link": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý",
+      "titleLen": 53,
+      "metaDesc": "Mùi hôi từ cống, sàn nhà tắm hoặc bồn cầu trong nhà do nguyên nhân gì? Cách xử lý tại nhà và khi nào cần gọi thợ. Gọi 0963.953.533 Quảng Ninh 24/7.",
+      "metaLen": 147,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+      "h1Count": 1,
+      "h1s": [
+        "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai-1.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Mùi hôi từ cống, sàn nhà tắm hoặc bồn cầu trong nhà do nguyên nhân gì? Cách xử lý tại nhà và khi nào cần gọi thợ. Gọi 0963.953.533 Quảng Ninh 24/7.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2045,
+      "slug": "hoa-chat-tu-thong-cong-3",
+      "title": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?",
+      "link": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?",
+      "titleLen": 65,
+      "metaDesc": "Hóa chất thông cống tại nhà có hiệu quả không? So sánh muối nở, giấm, NaOH, enzyme vs gọi thợ. Khi nào nên tự xử lý, khi nào cần 0963.953.533 tại Quảng Ninh.",
+      "metaLen": 157,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+      "h1Count": 1,
+      "h1s": [
+        "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hoa-chat-thong-cong-an-toan-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Hóa chất thông cống tại nhà có hiệu quả không? So sánh muối nở, giấm, NaOH, enzyme vs gọi thợ. Khi nào nên tự xử lý, khi nào cần 0963.953.533 tại Quảng Ninh.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2044,
+      "slug": "chu-ky-hut-be-phot-3",
+      "title": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026",
+      "link": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026",
+      "titleLen": 59,
+      "metaDesc": "Chu kỳ hút bể phốt bao lâu một lần tùy vào số người dùng, thể tích bể và loại công trình. Tìm hiểu cách tính đúng để tránh tràn bể. Gọi 0963.953.533 tại Quảng Ninh.",
+      "metaLen": 164,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+      "h1Count": 1,
+      "h1s": [
+        "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chu-ky-hut-be-phot-anh-dau-bai-1.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Chu kỳ hút bể phốt bao lâu một lần tùy vào số người dùng, thể tích bể và loại công trình. Tìm hiểu cách tính đúng để tránh tràn bể. Gọi 0963.953.533 tại Quảng Ninh.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2043,
+      "slug": "bon-cau-rut-cham-nguyen-nhan-3",
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+      "link": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+      "titleLen": 62,
+      "metaDesc": "Bồn cầu rút nước chậm do tắc đường ống, bể phốt đầy hay van xả hỏng? Tìm hiểu nguyên nhân và cách xử lý đúng. Gọi 0963.953.533 thợ Quảng Ninh đến nhanh 24/7.",
+      "metaLen": 157,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+      "h1Count": 1,
+      "h1s": [
+        "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bon-cau-rut-cham-nguyen-nhan-anh-dau-bai-1.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Bồn cầu rút nước chậm do tắc đường ống, bể phốt đầy hay van xả hỏng? Tìm hiểu nguyên nhân và cách xử lý đúng. Gọi 0963.953.533 thợ Quảng Ninh đến nhanh 24/7.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 84
+    },
+    {
+      "id": 2041,
+      "slug": "thong-tac-cong-tuan-chau",
+      "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 19,
+          "slug": "huong-dan-tai-nha",
+          "name": "Hướng dẫn xử lý tại nhà"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 17,
+          "slug": "nao-vet-ho-ga",
+          "name": "Nạo vét hố ga"
+        },
+        {
+          "id": 16,
+          "slug": "thong-tac-bon-cau",
+          "name": "Thông tắc bồn cầu"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        },
+        {
+          "id": 18,
+          "slug": "xu-ly-mui-hoi",
+          "name": "Xử lý mùi hôi"
+        }
+      ],
+      "titleTag": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "titleLen": 62,
+      "metaDesc": "Thông tắc cống Tuần Châu Hạ Long cho biệt thự, homestay, nhà hàng, xử lý cống nghẹt, mùi hôi, không đục phá. Gọi 0963.953.533 / 0931.156.756 ngay hôm nay.",
+      "metaLen": 154,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "h1Count": 1,
+      "h1s": [
+        "Thông tắc cống Tuần Châu Hạ Long 24/7 , thợ xử lý tận nơi nhanh"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-tuan-chau-resort-01.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Thông tắc cống Tuần Châu Hạ Long cho biệt thự, homestay, nhà hàng, xử lý cống nghẹt, mùi hôi, không đục phá. Gọi 0963.953.533 / 0931.156.756 ngay hôm nay.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized",
+        "intent landing địa phương đang nằm trong luồng Cẩm nang"
+      ],
+      "score": 76
+    },
+    {
+      "id": 2026,
+      "slug": "chi-phi-hut-be-phot-quang-ninh",
+      "title": "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết, báo giá ngay",
+      "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 21,
+          "slug": "bang-gia",
+          "name": "Bảng giá dịch vụ"
+        },
+        {
+          "id": 12,
+          "slug": "blog",
+          "name": "Blog"
+        },
+        {
+          "id": 20,
+          "slug": "canh-bao",
+          "name": "Dấu hiệu cảnh báo"
+        },
+        {
+          "id": 14,
+          "slug": "hut-be-phot",
+          "name": "Hút bể phốt"
+        },
+        {
+          "id": 15,
+          "slug": "thong-tac-cong",
+          "name": "Thông tắc cống"
+        },
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết, báo giá ngay",
+      "titleLen": 69,
+      "metaDesc": "Chi phí hút bể phốt Quảng Ninh 2026 từ 300.000đ – 2.000.000đ tùy thể tích. Xem bảng giá chi tiết, các khoản phát sinh, cách tiết kiệm chi phí. Gọi 0963.953.533.",
+      "metaLen": 160,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+      "h1Count": 1,
+      "h1s": [
+        "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết, báo giá ngay"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-1.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Chi phí hút bể phốt Quảng Ninh 2026 từ 300.000đ – 2.000.000đ tùy thể tích. Xem bảng giá chi tiết, các khoản phát sinh, cách tiết kiệm chi phí. Gọi 0963.953.533.",
+      "issues": [
+        "canonical không khớp link",
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 76
+    },
+    {
+      "id": 1377,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "titleLen": 61,
+      "metaDesc": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành Khi cống tắc, bồn cầu trào ngược hoặc nhà vệ sinh có mùi hôi, người cần xử lý thường",
+      "metaLen": 155,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "h1Count": 1,
+      "h1s": [
+        "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành"
+      ],
+      "ogImage": "",
+      "ogImageStatus": 0,
+      "imageCount": 4,
+      "checkedImageCount": 4,
+      "brokenImages": [],
+      "excerpt": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành Khi cống tắc, bồn cầu trào ngược hoặc nhà vệ sinh có mùi hôi, người cần xử lý thường",
+      "issues": [
+        "thiếu og:image",
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 76
+    },
+    {
+      "id": 1369,
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "title": "Xử lý mùi hôi nhà vệ sinh: tìm đúng nguồn hôi trước khi khử mùi",
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Xử lý mùi hôi nhà vệ sinh: tìm đúng nguồn hôi trước khi khử mùi",
+      "titleLen": 63,
+      "metaDesc": "Muốn xử lý mùi hôi nhà vệ sinh dứt điểm, cần tìm nguồn hôi trước khi dùng nước thơm hoặc hóa chất. Mùi có thể đến từ thoát sàn, lavabo, bồn cầu, bể phốt, h",
+      "metaLen": 155,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "h1Count": 1,
+      "h1s": [
+        "Xử lý mùi hôi nhà vệ sinh: tìm đúng nguồn hôi trước khi khử mùi"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xu-ly-mui-hoi-nha-ve-sinh-tho-kiem-tra.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Muốn xử lý mùi hôi nhà vệ sinh dứt điểm, cần tìm nguồn hôi trước khi dùng nước thơm hoặc hóa chất. Mùi có thể đến từ thoát sàn, lavabo, bồn cầu, bể phốt, h",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 84
+    },
+    {
+      "id": 1368,
+      "slug": "nao-vet-ho-ga",
+      "title": "Nạo vét hố ga: khi nào cần làm, quy trình và chi phí tham khảo",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Nạo vét hố ga: khi nào cần làm, quy trình và chi phí tham khảo",
+      "titleLen": 62,
+      "metaDesc": "Nạo vét hố ga cần làm khi hố đầy bùn, nước thoát chậm, có mùi hôi hoặc sân thường ngập sau mưa. Nếu để lâu, bùn và rác có thể tràn vào đường ống, làm cống",
+      "metaLen": 154,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "h1Count": 1,
+      "h1s": [
+        "Nạo vét hố ga: khi nào cần làm, quy trình và chi phí tham khảo"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-dan-dung-quang-ninh.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Nạo vét hố ga cần làm khi hố đầy bùn, nước thoát chậm, có mùi hôi hoặc sân thường ngập sau mưa. Nếu để lâu, bùn và rác có thể tràn vào đường ống, làm cống",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 84
+    },
+    {
+      "id": 1367,
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "title": "Cách xử lý bồn cầu bị tắc tại nhà: làm gì trước, khi nào gọi thợ",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "httpStatus": 200,
+      "featured_media": 0,
+      "categories": [
+        {
+          "id": 1,
+          "slug": "uncategorized",
+          "name": "Uncategorized"
+        }
+      ],
+      "titleTag": "Cách xử lý bồn cầu bị tắc tại nhà: làm gì trước, khi nào gọi thợ",
+      "titleLen": 64,
+      "metaDesc": "Bồn cầu bị tắc nên xử lý theo mức độ: tắc nhẹ có thể thử pittong, nước ấm hoặc kiểm tra giấy; tắc nặng, có dị vật, nước trào hoặc mùi hôi thì nên gọi thợ.",
+      "metaLen": 154,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "h1Count": 1,
+      "h1s": [
+        "Cách xử lý bồn cầu bị tắc tại nhà: làm gì trước, khi nào gọi thợ"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-bi-tac-nha-ve-sinh.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Bồn cầu bị tắc nên xử lý theo mức độ: tắc nhẹ có thể thử pittong, nước ấm hoặc kiểm tra giấy; tắc nặng, có dị vật, nước trào hoặc mùi hôi thì nên gọi thợ.",
+      "issues": [
+        "thiếu featured image",
+        "còn category Uncategorized"
+      ],
+      "score": 84
+    },
+    {
+      "id": 217,
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính và lưu ý",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "httpStatus": 200,
+      "featured_media": 352,
+      "categories": [
+        {
+          "id": 5,
+          "slug": "bang-gia-blog",
+          "name": "Bảng Giá"
+        }
+      ],
+      "titleTag": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính và lưu ý",
+      "titleLen": 56,
+      "metaDesc": "Giá hút bể phốt tại Quảng Ninh phụ thuộc vào khối lượng bùn, vị trí xe đỗ, độ dài ống hút, mức độ đầy và thời điểm thi công. Vì vậy báo giá chính xác cần k",
+      "metaLen": 155,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "h1Count": 1,
+      "h1s": [
+        "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính và lưu ý"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Giá hút bể phốt tại Quảng Ninh phụ thuộc vào khối lượng bùn, vị trí xe đỗ, độ dài ống hút, mức độ đầy và thời điểm thi công. Vì vậy báo giá chính xác cần k",
+      "issues": [],
+      "score": 100
+    },
+    {
+      "id": 216,
+      "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+      "title": "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ",
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "httpStatus": 200,
+      "featured_media": 348,
+      "categories": [
+        {
+          "id": 4,
+          "slug": "huong-dan",
+          "name": "Hướng Dẫn"
+        }
+      ],
+      "titleTag": "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ",
+      "titleLen": 70,
+      "metaDesc": "Cống thoát nước tắc cần xác định đúng điểm nghẽn: miệng thoát, đoạn ống gần, hố ga hay đường ống chung. Nếu chỉ xử lý ở miệng cống trong khi bùn hoặc mỡ đã",
+      "metaLen": 155,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "h1Count": 1,
+      "h1s": [
+        "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Cống thoát nước tắc cần xác định đúng điểm nghẽn: miệng thoát, đoạn ống gần, hố ga hay đường ống chung. Nếu chỉ xử lý ở miệng cống trong khi bùn hoặc mỡ đã",
+      "issues": [],
+      "score": 100
+    },
+    {
+      "id": 215,
+      "slug": "dau-hieu-be-phot-can-hut",
+      "title": "Dấu hiệu bể phốt cần hút: mùi hôi, rút chậm, trào ngược",
+      "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "httpStatus": 200,
+      "featured_media": 352,
+      "categories": [
+        {
+          "id": 4,
+          "slug": "huong-dan",
+          "name": "Hướng Dẫn"
+        }
+      ],
+      "titleTag": "Dấu hiệu bể phốt cần hút: mùi hôi, rút chậm, trào ngược",
+      "titleLen": 55,
+      "metaDesc": "Bể phốt cần hút khi bồn cầu rút chậm kéo dài, nhà vệ sinh có mùi hôi, nước trào ngược hoặc nhiều thiết bị thoát nước cùng chậm. Không nên chờ đến khi bể tr",
+      "metaLen": 155,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "canonical": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "h1Count": 1,
+      "h1s": [
+        "Dấu hiệu bể phốt cần hút: mùi hôi, rút chậm, trào ngược"
+      ],
+      "ogImage": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "ogImageStatus": 200,
+      "imageCount": 7,
+      "checkedImageCount": 7,
+      "brokenImages": [],
+      "excerpt": "Bể phốt cần hút khi bồn cầu rút chậm kéo dài, nhà vệ sinh có mùi hôi, nước trào ngược hoặc nhiều thiết bị thoát nước cùng chậm. Không nên chờ đến khi bể tr",
+      "issues": [],
+      "score": 100
+    }
+  ]
+}

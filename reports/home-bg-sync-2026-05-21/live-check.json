@@ -1,0 +1,265 @@
+{
+  "generatedAt": "2026-05-20T17:58:09.596Z",
+  "summary": {
+    "pass": true,
+    "count": 2
+  },
+  "results": [
+    {
+      "viewport": 1440,
+      "bodyBg": "rgb(247, 252, 255)",
+      "sections": [
+        {
+          "i": 0,
+          "tag": "nav",
+          "id": "",
+          "cls": "home-nav ttcqn-nav",
+          "heading": "",
+          "y": 0,
+          "height": 96,
+          "bgColor": "rgb(3, 17, 31)",
+          "bgImage": "none"
+        },
+        {
+          "i": 1,
+          "tag": "section",
+          "id": "",
+          "cls": "ttcqn-seo-hero",
+          "heading": "HÚT BỂ PHỐT, THÔNG TẮC CỐNG QUẢNG NINH 24/7",
+          "y": 96,
+          "height": 770,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 55% 78%, rgba(126, 217, 87, 0.25), rgba(0, 0, 0, 0) 31%), radial-gradient(circle at 66% 38%, rgba(19, 136, 245, 0.13), rgba(0, 0, 0, 0) 30%), linear-gradient(105deg, rgb(2, 11, 18) 0%, rgb(3, 19, 27) 48%, rgb(5, 32, 24) 100%)"
+        },
+        {
+          "i": 2,
+          "tag": "section",
+          "id": "",
+          "cls": "section-white ttcqn-region-section",
+          "heading": "PHỤC VỤ 24/7 TẠI QUẢNG NINH",
+          "y": 866,
+          "height": 1029,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "linear-gradient(90deg, rgba(2, 11, 18, 0.86) 0%, rgba(2, 17, 27, 0.66) 36%, rgba(2, 17, 27, 0.72) 100%), linear-gradient(rgba(2, 11, 18, 0.22) 0%, rgba(2, 11, 18, 0.1) 46%, rgba(0, 0, 0, 0.42) 100%), radial-gradient(circle at 45% 45%, rgba(57, 211, 83, 0.16), "
+        },
+        {
+          "i": 3,
+          "tag": "section",
+          "id": "du-an",
+          "cls": "ttcqn-projects",
+          "heading": "DỰ ÁN ĐÃ HOÀN THÀNH",
+          "y": 1895,
+          "height": 1754,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 4,
+          "tag": "section",
+          "id": "",
+          "cls": "home-process",
+          "heading": "QUY TRÌNH 5 BƯỚC",
+          "y": 3649,
+          "height": 1271,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 5,
+          "tag": "section",
+          "id": "",
+          "cls": "ttcqn-area-section",
+          "heading": "PHỤC VỤ TRÊN TOÀN TỈNH QUẢNG NINH",
+          "y": 4919,
+          "height": 871,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "linear-gradient(135deg, rgb(10, 22, 40) 0%, rgb(22, 37, 68) 100%)"
+        },
+        {
+          "i": 6,
+          "tag": "section",
+          "id": "",
+          "cls": "section-gray section-wave-bottom wave-to-white ttcqn-price-redesign",
+          "heading": "MINH BẠCH CHI PHÍ – AN TÂM DỊCH VỤ",
+          "y": 5790,
+          "height": 1552,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 7,
+          "tag": "section",
+          "id": "",
+          "cls": "ttcqn-reviews-section section-wave-bottom wave-to-gray",
+          "heading": "KHÁCH HÀNG NÓI GÌ?",
+          "y": 7343,
+          "height": 687,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 8,
+          "tag": "section",
+          "id": "doi-tac",
+          "cls": "section-gray section-wave-bottom wave-to-white",
+          "heading": "ĐỐI TÁC LÂU NĂM & KHÁCH HÀNG TIÊU BIỂU",
+          "y": 8029,
+          "height": 1068,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 9,
+          "tag": "section",
+          "id": "",
+          "cls": "section-gray section-wave-bottom wave-to-blue",
+          "heading": "CÂU HỎI THƯỜNG GẶP",
+          "y": 9097,
+          "height": 695,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        }
+      ],
+      "lightBgSetCount": 1,
+      "lightBgSamples": [
+        "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rg"
+      ],
+      "h1": 1,
+      "customFooter": 1,
+      "overflow": false,
+      "heroExists": true,
+      "footerExists": true,
+      "viewportName": "desktop",
+      "consoleErrors": [],
+      "pass": true
+    },
+    {
+      "viewport": 390,
+      "bodyBg": "rgb(247, 252, 255)",
+      "sections": [
+        {
+          "i": 0,
+          "tag": "nav",
+          "id": "",
+          "cls": "home-nav ttcqn-nav",
+          "heading": "",
+          "y": 0,
+          "height": 72,
+          "bgColor": "rgb(3, 17, 31)",
+          "bgImage": "none"
+        },
+        {
+          "i": 1,
+          "tag": "section",
+          "id": "",
+          "cls": "ttcqn-seo-hero",
+          "heading": "HÚT BỂ PHỐT, THÔNG TẮC CỐNG QUẢNG NINH 24/7",
+          "y": 72,
+          "height": 939,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 55% 78%, rgba(126, 217, 87, 0.25), rgba(0, 0, 0, 0) 31%), radial-gradient(circle at 66% 38%, rgba(19, 136, 245, 0.13), rgba(0, 0, 0, 0) 30%), linear-gradient(105deg, rgb(2, 11, 18) 0%, rgb(3, 19, 27) 48%, rgb(5, 32, 24) 100%)"
+        },
+        {
+          "i": 2,
+          "tag": "section",
+          "id": "",
+          "cls": "section-white ttcqn-region-section",
+          "heading": "PHỤC VỤ 24/7 TẠI QUẢNG NINH",
+          "y": 1011,
+          "height": 1148,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "linear-gradient(rgba(2, 11, 18, 0.82) 0%, rgba(2, 17, 27, 0.5) 42%, rgba(0, 0, 0, 0.42) 100%), radial-gradient(circle at 50% 56%, rgba(57, 211, 83, 0.14), rgba(0, 0, 0, 0) 46%), url(\"https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-ren"
+        },
+        {
+          "i": 3,
+          "tag": "section",
+          "id": "du-an",
+          "cls": "ttcqn-projects",
+          "heading": "DỰ ÁN ĐÃ HOÀN THÀNH",
+          "y": 2159,
+          "height": 1569,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 4,
+          "tag": "section",
+          "id": "",
+          "cls": "home-process",
+          "heading": "QUY TRÌNH 5 BƯỚC",
+          "y": 3728,
+          "height": 1403,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 5,
+          "tag": "section",
+          "id": "",
+          "cls": "ttcqn-area-section",
+          "heading": "PHỤC VỤ TRÊN TOÀN TỈNH QUẢNG NINH",
+          "y": 5131,
+          "height": 1329,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "linear-gradient(135deg, rgb(10, 22, 40) 0%, rgb(22, 37, 68) 100%)"
+        },
+        {
+          "i": 6,
+          "tag": "section",
+          "id": "",
+          "cls": "section-gray section-wave-bottom wave-to-white ttcqn-price-redesign",
+          "heading": "MINH BẠCH CHI PHÍ – AN TÂM DỊCH VỤ",
+          "y": 6461,
+          "height": 3601,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 7,
+          "tag": "section",
+          "id": "",
+          "cls": "ttcqn-reviews-section section-wave-bottom wave-to-gray",
+          "heading": "KHÁCH HÀNG NÓI GÌ?",
+          "y": 10061,
+          "height": 1170,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 8,
+          "tag": "section",
+          "id": "doi-tac",
+          "cls": "section-gray section-wave-bottom wave-to-white",
+          "heading": "ĐỐI TÁC LÂU NĂM & KHÁCH HÀNG TIÊU BIỂU",
+          "y": 11231,
+          "height": 1861,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        },
+        {
+          "i": 9,
+          "tag": "section",
+          "id": "",
+          "cls": "section-gray section-wave-bottom wave-to-blue",
+          "heading": "CÂU HỎI THƯỜNG GẶP",
+          "y": 13092,
+          "height": 660,
+          "bgColor": "rgba(0, 0, 0, 0)",
+          "bgImage": "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rgba(11, 132, 229, 0.1), rgba(0, 0, 0, 0) 30%), linear-gradient(rgb(247, 252, 255) 0%, rgb(238, 248, 255) 54%, rgb(248, 255, 251) 100%)"
+        }
+      ],
+      "lightBgSetCount": 1,
+      "lightBgSamples": [
+        "radial-gradient(circle at 9% 12%, rgba(126, 217, 87, 0.12), rgba(0, 0, 0, 0) 28%), radial-gradient(circle at 91% 18%, rg"
+      ],
+      "h1": 1,
+      "customFooter": 1,
+      "overflow": false,
+      "heroExists": true,
+      "footerExists": true,
+      "viewportName": "mobile",
+      "consoleErrors": [],
+      "pass": true
+    }
+  ]
+}

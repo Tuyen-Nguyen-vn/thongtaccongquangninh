@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-05-28T09:15:44.352Z",
+  "mode": "apply",
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/hut-be-phot-van-don-p1-fix-2026-05-28T09:15:39.json",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-hut-be-phot-van-don-p1-2026-05-28T09:15:39",
+  "result": {
+    "id": 58,
+    "slug": "hut-be-phot-van-don",
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+    "before": {
+      "wordCount": 2528,
+      "keywordCount": 5,
+      "keywordDensity": 0.99,
+      "imgCount": 3,
+      "hasCauseH2": true,
+      "hasWhyH2": true,
+      "hasNapH2": true,
+      "forbidden": false
+    },
+    "after": {
+      "wordCount": 2580,
+      "keywordCount": 5,
+      "keywordDensity": 0.97,
+      "imgCount": 3,
+      "hasCauseH2": true,
+      "hasWhyH2": true,
+      "hasNapH2": true,
+      "forbidden": false
+    },
+    "oldTitle": "Hút bể phốt Vân Đồn 24/7 cho homestay, resort, nhà dân ven biển",
+    "newTitle": "Hút bể phốt Vân Đồn 24/7 cho homestay, resort, nhà dân ven biển",
+    "pass": true,
+    "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-hut-be-phot-van-don-p1-2026-05-28T09:15:39",
+    "pageBackupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-hut-be-phot-van-don-p1-2026-05-28T09:15:39/pages-58-hut-be-phot-van-don.json",
+    "pushed": {
+      "id": 58,
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/"
+    },
+    "rankMathUpdate": {
+      "slug": true,
+      "schemas": []
+    },
+    "live": {
+      "status": 200,
+      "title": "Hút bể phốt Vân Đồn 24/7 cho homestay, resort, nhà dân ven biển",
+      "canonicalOk": true,
+      "noindex": false,
+      "h1Count": 1,
+      "imgCount": 9,
+      "hasServiceSchema": true,
+      "hasCauseH2": true,
+      "hasWhyH2": true,
+      "hasNapH2": true
+    }
+  },
+  "ok": true
+}

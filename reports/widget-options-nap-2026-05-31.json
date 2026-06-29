@@ -1,0 +1,134 @@
+[
+  {
+    "name": "widget_custom_html",
+    "res": {
+      "status": 200,
+      "sessionId": null,
+      "payload": {
+        "jsonrpc": "2.0",
+        "id": 2,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"success\":true,\"data\":{\"success\":true,\"name\":\"widget_custom_html\",\"value\":{\"1\":{\"title\":\"V\\u1ec0 CH\\u00daNG T\\u00d4I\",\"content\":\"<h4 style=\\\"color:#fff;margin-bottom:15px;\\\">V\\u1ec0 CH\\u00daNG T\\u00d4I<\\/h4>\\n<p style=\\\"color:#ccc;line-height:1.8;\\\">D\\u1ecbch v\\u1ee5 h\\u00fat b\\u1ec3 ph\\u1ed1t, th\\u00f4ng t\\u1eafc c\\u1ed1ng t\\u1ea1i Qu\\u1ea3ng Ninh. Kinh nghi\\u1ec7m 10+ n\\u0103m, ph\\u1ee5c v\\u1ee5 24\\/7.<\\/p>\\n<p style=\\\"color:#ccc;margin-top:15px;\\\">\\n\\ud83d\\udcde <a href=\\\"tel:0931156756\\\" style=\\\"color:#FF6F00;font-weight:bold;\\\">0931.156.756<\\/a><br>\\n\\ud83d\\udcde <a href=\\\"tel:0963953533\\\" style=\\\"color:#FF6F00;font-weight:bold;\\\">0963.953.533<\\/a><br>\\n\\ud83d\\udce7 thongtaccongquangninh@gmail.com<br>\\n\\ud83c\\udfe0 111 C\\u00e1i L\\u00e2n, Ph\\u01b0\\u1eddng B\\u00e3i Ch\\u00e1y, H\\u1ea1 Long<br>\\n\\u23f0 Ph\\u1ee5c v\\u1ee5 24\\/7\\n<\\/p>\"},\"2\":{\"title\":\"\",\"content\":\"<h4 style=\\\"color:#fff;margin-bottom:15px;\\\">D\\u1ecaCH V\\u1ee4<\\/h4>\\n<ul style=\\\"list-style:none;padding:0;\\\">\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-quang-ninh\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 H\\u00fat b\\u1ec3 ph\\u1ed1t<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/thong-tac-cong-quang-ninh\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Th\\u00f4ng t\\u1eafc c\\u1ed1ng<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/thong-tac-bon-cau-quang-ninh\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Th\\u00f4ng t\\u1eafc b\\u1ed3n c\\u1ea7u<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/thong-tac-chau-rua-quang-ninh\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Th\\u00f4ng t\\u1eafc ch\\u1eadu r\\u1eeda<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/nao-vet-ho-ga-quang-ninh\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 N\\u1ea1o v\\u00e9t h\\u1ed1 ga<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/ve-sinh-duong-ong-quang-ninh\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 V\\u1ec7 sinh \\u0111\\u01b0\\u1eddng \\u1ed1ng<\\/a><\\/li>\\n<\\/ul>\"},\"3\":{\"title\":\"\",\"content\":\"<h4 style=\\\"color:#fff;margin-bottom:15px;\\\">KHU V\\u1ef0C<\\/h4>\\n<ul style=\\\"list-style:none;padding:0;\\\">\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-ha-long\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 H\\u1ea1 Long<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-cam-pha\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 C\\u1ea9m Ph\\u1ea3<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-uong-bi\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 U\\u00f4ng B\\u00ed<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-mong-cai\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 M\\u00f3ng C\\u00e1i<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-dong-trieu\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 \\u0110\\u00f4ng Tri\\u1ec1u<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-quang-yen\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Qu\\u1ea3ng Y\\u00ean<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-van-don\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 V\\u00e2n \\u0110\\u1ed3n<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/hut-be-phot-hoanh-bo\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Ho\\u00e0nh B\\u1ed3<\\/a><\\/li>\\n<\\/ul>\"},\"4\":{\"title\":\"\",\"content\":\"<h4 style=\\\"color:#fff;margin-bottom:15px;\\\">H\\u1ed6 TR\\u1ee2<\\/h4>\\n<ul style=\\\"list-style:none;padding:0;\\\">\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/bang-gia\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 B\\u1ea3ng gi\\u00e1 d\\u1ecbch v\\u1ee5<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/gioi-thieu\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 V\\u1ec1 ch\\u00fang t\\u00f4i<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/lien-he\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Li\\u00ean h\\u1ec7<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/chinh-sach-bao-hanh\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Ch\\u00ednh s\\u00e1ch b\\u1ea3o h\\u00e0nh<\\/a><\\/li>\\n<li style=\\\"padding:5px 0;\\\"><a href=\\\"\\/blog\\/\\\" style=\\\"color:#ccc;\\\">\\u27a4 Tin t\\u1ee9c - Blog<\\/a><\\/li>\\n<\\/ul>\\n<p style=\\\"color:#ccc;margin-top:15px;\\\">\\n<a href=\\\"https:\\/\\/zalo.me\\/0931156756\\\" style=\\\"background:#0068FF;color:#fff;padding:8px 15px;border-radius:6px;text-decoration:none;display:inline-block;margin-top:10px;\\\">\\ud83d\\udcac Chat Zalo<\\/a>\\n<\\/p>\"},\"_multiwidget\":1},\"type\":\"array\"}}"
+            }
+          ],
+          "structuredContent": {
+            "success": true,
+            "data": {
+              "success": true,
+              "name": "widget_custom_html",
+              "value": {
+                "1": {
+                  "title": "VỀ CHÚNG TÔI",
+                  "content": "<h4 style=\"color:#fff;margin-bottom:15px;\">VỀ CHÚNG TÔI</h4>\n<p style=\"color:#ccc;line-height:1.8;\">Dịch vụ hút bể phốt, thông tắc cống tại Quảng Ninh. Kinh nghiệm 10+ năm, phục vụ 24/7.</p>\n<p style=\"color:#ccc;margin-top:15px;\">\n📞 <a href=\"tel:0931156756\" style=\"color:#FF6F00;font-weight:bold;\">0931.156.756</a><br>\n📞 <a href=\"tel:0963953533\" style=\"color:#FF6F00;font-weight:bold;\">0963.953.533</a><br>\n📧 thongtaccongquangninh@gmail.com<br>\n🏠 111 Cái Lân, Phường Bãi Cháy, Hạ Long<br>\n⏰ Phục vụ 24/7\n</p>"
+                },
+                "2": {
+                  "title": "",
+                  "content": "<h4 style=\"color:#fff;margin-bottom:15px;\">DỊCH VỤ</h4>\n<ul style=\"list-style:none;padding:0;\">\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-quang-ninh/\" style=\"color:#ccc;\">➤ Hút bể phốt</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/thong-tac-cong-quang-ninh/\" style=\"color:#ccc;\">➤ Thông tắc cống</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/thong-tac-bon-cau-quang-ninh/\" style=\"color:#ccc;\">➤ Thông tắc bồn cầu</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/thong-tac-chau-rua-quang-ninh/\" style=\"color:#ccc;\">➤ Thông tắc chậu rửa</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/nao-vet-ho-ga-quang-ninh/\" style=\"color:#ccc;\">➤ Nạo vét hố ga</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/ve-sinh-duong-ong-quang-ninh/\" style=\"color:#ccc;\">➤ Vệ sinh đường ống</a></li>\n</ul>"
+                },
+                "3": {
+                  "title": "",
+                  "content": "<h4 style=\"color:#fff;margin-bottom:15px;\">KHU VỰC</h4>\n<ul style=\"list-style:none;padding:0;\">\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-ha-long/\" style=\"color:#ccc;\">➤ Hạ Long</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-cam-pha/\" style=\"color:#ccc;\">➤ Cẩm Phả</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-uong-bi/\" style=\"color:#ccc;\">➤ Uông Bí</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-mong-cai/\" style=\"color:#ccc;\">➤ Móng Cái</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-dong-trieu/\" style=\"color:#ccc;\">➤ Đông Triều</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-quang-yen/\" style=\"color:#ccc;\">➤ Quảng Yên</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-van-don/\" style=\"color:#ccc;\">➤ Vân Đồn</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/hut-be-phot-hoanh-bo/\" style=\"color:#ccc;\">➤ Hoành Bồ</a></li>\n</ul>"
+                },
+                "4": {
+                  "title": "",
+                  "content": "<h4 style=\"color:#fff;margin-bottom:15px;\">HỖ TRỢ</h4>\n<ul style=\"list-style:none;padding:0;\">\n<li style=\"padding:5px 0;\"><a href=\"/bang-gia/\" style=\"color:#ccc;\">➤ Bảng giá dịch vụ</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/gioi-thieu/\" style=\"color:#ccc;\">➤ Về chúng tôi</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/lien-he/\" style=\"color:#ccc;\">➤ Liên hệ</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/chinh-sach-bao-hanh/\" style=\"color:#ccc;\">➤ Chính sách bảo hành</a></li>\n<li style=\"padding:5px 0;\"><a href=\"/blog/\" style=\"color:#ccc;\">➤ Tin tức - Blog</a></li>\n</ul>\n<p style=\"color:#ccc;margin-top:15px;\">\n<a href=\"https://zalo.me/0931156756\" style=\"background:#0068FF;color:#fff;padding:8px 15px;border-radius:6px;text-decoration:none;display:inline-block;margin-top:10px;\">💬 Chat Zalo</a>\n</p>"
+                },
+                "_multiwidget": 1
+              },
+              "type": "array"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "sidebars_widgets",
+    "res": {
+      "status": 200,
+      "sessionId": null,
+      "payload": {
+        "jsonrpc": "2.0",
+        "id": 3,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"success\":true,\"data\":{\"success\":true,\"name\":\"sidebars_widgets\",\"value\":{\"wp_inactive_widgets\":[\"block-2\",\"block-3\",\"block-4\",\"block-5\",\"block-6\"],\"sidebar-1\":[],\"sidebar-2\":[],\"header\":[],\"footer-1\":[\"custom_html-1\"],\"footer-2\":[\"custom_html-2\"],\"footer-3\":[\"custom_html-3\"],\"footer-4\":[\"custom_html-4\"],\"footer-5\":[],\"footer-bar\":[],\"top-bar\":[],\"array_version\":3},\"type\":\"array\"}}"
+            }
+          ],
+          "structuredContent": {
+            "success": true,
+            "data": {
+              "success": true,
+              "name": "sidebars_widgets",
+              "value": {
+                "wp_inactive_widgets": [
+                  "block-2",
+                  "block-3",
+                  "block-4",
+                  "block-5",
+                  "block-6"
+                ],
+                "sidebar-1": [],
+                "sidebar-2": [],
+                "header": [],
+                "footer-1": [
+                  "custom_html-1"
+                ],
+                "footer-2": [
+                  "custom_html-2"
+                ],
+                "footer-3": [
+                  "custom_html-3"
+                ],
+                "footer-4": [
+                  "custom_html-4"
+                ],
+                "footer-5": [],
+                "footer-bar": [],
+                "top-bar": [],
+                "array_version": 3
+              },
+              "type": "array"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "widget_text",
+    "res": {
+      "status": 200,
+      "sessionId": null,
+      "payload": {
+        "jsonrpc": "2.0",
+        "id": 4,
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"success\":true,\"data\":{\"success\":true,\"name\":\"widget_text\",\"value\":{\"1\":[],\"_multiwidget\":1},\"type\":\"array\"}}"
+            }
+          ],
+          "structuredContent": {
+            "success": true,
+            "data": {
+              "success": true,
+              "name": "widget_text",
+              "value": {
+                "1": [],
+                "_multiwidget": 1
+              },
+              "type": "array"
+            }
+          }
+        }
+      }
+    }
+  }
+]

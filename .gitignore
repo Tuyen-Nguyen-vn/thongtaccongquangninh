@@ -37,9 +37,11 @@ terminal/
 chrome-*
 _tmp*/
 
+# Sub-projects with own git repos (treat as external)
+video-remotion/
+
 # Sub-project builds
 landing-hut-be-phot-quang-ninh/dist/
-video-remotion/out/
 
 # HTML snapshots & raw dumps
 *.html

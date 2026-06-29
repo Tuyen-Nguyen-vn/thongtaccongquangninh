@@ -1,0 +1,398 @@
+{
+  "sidebars": {
+    "status": 200,
+    "sessionId": null,
+    "payload": {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebars\":[{\"id\":\"sidebar-1\",\"name\":\"Right Sidebar\",\"description\":\"\"},{\"id\":\"sidebar-2\",\"name\":\"Left Sidebar\",\"description\":\"\"},{\"id\":\"header\",\"name\":\"Header\",\"description\":\"\"},{\"id\":\"footer-1\",\"name\":\"Footer Widget 1\",\"description\":\"\"},{\"id\":\"footer-2\",\"name\":\"Footer Widget 2\",\"description\":\"\"},{\"id\":\"footer-3\",\"name\":\"Footer Widget 3\",\"description\":\"\"},{\"id\":\"footer-4\",\"name\":\"Footer Widget 4\",\"description\":\"\"},{\"id\":\"footer-5\",\"name\":\"Footer Widget 5\",\"description\":\"\"},{\"id\":\"footer-bar\",\"name\":\"Footer Bar\",\"description\":\"\"},{\"id\":\"top-bar\",\"name\":\"Top Bar\",\"description\":\"\"}]}}"
+          }
+        ],
+        "structuredContent": {
+          "success": true,
+          "data": {
+            "success": true,
+            "sidebars": [
+              {
+                "id": "sidebar-1",
+                "name": "Right Sidebar",
+                "description": ""
+              },
+              {
+                "id": "sidebar-2",
+                "name": "Left Sidebar",
+                "description": ""
+              },
+              {
+                "id": "header",
+                "name": "Header",
+                "description": ""
+              },
+              {
+                "id": "footer-1",
+                "name": "Footer Widget 1",
+                "description": ""
+              },
+              {
+                "id": "footer-2",
+                "name": "Footer Widget 2",
+                "description": ""
+              },
+              {
+                "id": "footer-3",
+                "name": "Footer Widget 3",
+                "description": ""
+              },
+              {
+                "id": "footer-4",
+                "name": "Footer Widget 4",
+                "description": ""
+              },
+              {
+                "id": "footer-5",
+                "name": "Footer Widget 5",
+                "description": ""
+              },
+              {
+                "id": "footer-bar",
+                "name": "Footer Bar",
+                "description": ""
+              },
+              {
+                "id": "top-bar",
+                "name": "Top Bar",
+                "description": ""
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "details": [
+    {
+      "id": "sidebar-1",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 3,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"sidebar-1\",\"name\":\"Right Sidebar\"},\"widgets\":[]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "sidebar-1",
+                  "name": "Right Sidebar"
+                },
+                "widgets": []
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "sidebar-2",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 4,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"sidebar-2\",\"name\":\"Left Sidebar\"},\"widgets\":[]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "sidebar-2",
+                  "name": "Left Sidebar"
+                },
+                "widgets": []
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "header",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 5,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"header\",\"name\":\"Header\"},\"widgets\":[]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "header",
+                  "name": "Header"
+                },
+                "widgets": []
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "footer-1",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 6,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"footer-1\",\"name\":\"Footer Widget 1\"},\"widgets\":[{\"id\":\"custom_html-1\",\"name\":\"Custom HTML\"}]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "footer-1",
+                  "name": "Footer Widget 1"
+                },
+                "widgets": [
+                  {
+                    "id": "custom_html-1",
+                    "name": "Custom HTML"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "footer-2",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 7,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"footer-2\",\"name\":\"Footer Widget 2\"},\"widgets\":[{\"id\":\"custom_html-2\",\"name\":\"Custom HTML\"}]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "footer-2",
+                  "name": "Footer Widget 2"
+                },
+                "widgets": [
+                  {
+                    "id": "custom_html-2",
+                    "name": "Custom HTML"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "footer-3",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 8,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"footer-3\",\"name\":\"Footer Widget 3\"},\"widgets\":[{\"id\":\"custom_html-3\",\"name\":\"Custom HTML\"}]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "footer-3",
+                  "name": "Footer Widget 3"
+                },
+                "widgets": [
+                  {
+                    "id": "custom_html-3",
+                    "name": "Custom HTML"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "footer-4",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 9,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"footer-4\",\"name\":\"Footer Widget 4\"},\"widgets\":[{\"id\":\"custom_html-4\",\"name\":\"Custom HTML\"}]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "footer-4",
+                  "name": "Footer Widget 4"
+                },
+                "widgets": [
+                  {
+                    "id": "custom_html-4",
+                    "name": "Custom HTML"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "footer-5",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 10,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"footer-5\",\"name\":\"Footer Widget 5\"},\"widgets\":[]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "footer-5",
+                  "name": "Footer Widget 5"
+                },
+                "widgets": []
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "footer-bar",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 11,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"footer-bar\",\"name\":\"Footer Bar\"},\"widgets\":[]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "footer-bar",
+                  "name": "Footer Bar"
+                },
+                "widgets": []
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "top-bar",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 12,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"sidebar\":{\"id\":\"top-bar\",\"name\":\"Top Bar\"},\"widgets\":[]}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "sidebar": {
+                  "id": "top-bar",
+                  "name": "Top Bar"
+                },
+                "widgets": []
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

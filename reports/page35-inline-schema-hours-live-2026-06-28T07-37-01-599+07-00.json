@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-06-28T07:37:01.599+07:00",
+  "timezone": "Asia/Bangkok",
+  "backupPath": "/mnt/d/.thongtaccongquangninh/backups/page35-inline-schema-hours-live-2026-06-28T07-37-01-599+07-00/page-35-inline-schema.before.json",
+  "updateStatus": 200,
+  "public": {
+    "status": 200,
+    "hasOldHours": false,
+    "hasNewHours": true
+  },
+  "success": true
+}

@@ -1,0 +1,1536 @@
+{
+  "generated": "2026-06-03T03-59-24",
+  "summary": {
+    "ok": 97,
+    "redirect": 10,
+    "redirectChainLong": 0,
+    "notFound": 16,
+    "error": 0
+  },
+  "results": {
+    "ok": [
+      {
+        "url": "https://thongtaccongquangninh.com/gia-hut-be-phot-quang-ninh-2026/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/gia-hut-be-phot-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/gia-hut-be-phot-quang-ninh-2026/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-24-7-quang-ninh-2026/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-24-7-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-24-7-quang-ninh-2026/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-khan-cap-quang-ninh-2026/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-khan-cap-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-khan-cap-quang-ninh-2026/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khach-san-quang-ninh-2026/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khach-san-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khach-san-quang-ninh-2026/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-dan-quang-ninh-2026/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-dan-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-dan-quang-ninh-2026/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khong-duc-pha-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khong-duc-pha-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khong-duc-pha-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/gioi-thieu/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/gioi-thieu/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/gioi-thieu/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/lien-he/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/lien-he/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/lien-he/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/nguyen-song-hao/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/nguyen-song-hao/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/nguyen-song-hao/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/blog/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/blog/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/blog/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/bang-gia/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/bang-gia/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/bang-gia/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/uncategorized/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/uncategorized/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/uncategorized/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/huong-dan/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/huong-dan/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/huong-dan/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/bang-gia-blog/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/bang-gia-blog/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/bang-gia-blog/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/blog/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/blog/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/blog/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/hut-be-phot/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/hut-be-phot/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/hut-be-phot/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/thong-tac-cong/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/thong-tac-cong/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/thong-tac-cong/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/thong-tac-bon-cau/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/thong-tac-bon-cau/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/thong-tac-bon-cau/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/nao-vet-ho-ga/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/nao-vet-ho-ga/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/nao-vet-ho-ga/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/huong-dan-tai-nha/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/huong-dan-tai-nha/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/huong-dan-tai-nha/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/canh-bao/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/canh-bao/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/canh-bao/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/bang-gia/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/bang-gia/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/bang-gia/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/tin-tuc/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/tin-tuc/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/category/tin-tuc/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/wp-content/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/wp-content/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/wp-content/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/feed/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/feed/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/feed/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/author/admin/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/author/admin/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/author/admin/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/page/2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/page/2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/page/2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/page/3/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/page/3/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/page/3/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/?page_id=2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/?page_id=2/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/?page_id=2/",
+        "hops": 1
+      },
+      {
+        "url": "https://www.thongtaccongquangninh.com/",
+        "chain": [
+          {
+            "url": "https://www.thongtaccongquangninh.com/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://www.thongtaccongquangninh.com/",
+        "hops": 1
+      }
+    ],
+    "redirect": [
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+        "hops": 2
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "hops": 2
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "hops": 2
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/nao-vet/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/nao-vet/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+        "hops": 2
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+        "hops": 2
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "hops": 2
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "hops": 2
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/gia/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/gia/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/gia-hut-be-phot-quang-ninh-2026/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/gia-hut-be-phot-quang-ninh-2026/",
+        "hops": 2
+      },
+      {
+        "url": "http://thongtaccongquangninh.com/",
+        "chain": [
+          {
+            "url": "http://thongtaccongquangninh.com/",
+            "status": 301
+          },
+          {
+            "url": "https://thongtaccongquangninh.com/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/",
+        "hops": 2
+      },
+      {
+        "url": "http://www.thongtaccongquangninh.com/",
+        "chain": [
+          {
+            "url": "http://www.thongtaccongquangninh.com/",
+            "status": 301
+          },
+          {
+            "url": "https://www.thongtaccongquangninh.com/",
+            "status": 200
+          }
+        ],
+        "finalStatus": 200,
+        "finalUrl": "https://www.thongtaccongquangninh.com/",
+        "hops": 2
+      }
+    ],
+    "notFound": [
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-quang-ninh/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-quang-ninh/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-quang-ninh/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/hut-ham-cau/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/hut-ham-cau/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-ham-cau/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/dich-vu/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/dich-vu/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/dich-vu/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/category/dich-vu/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/category/dich-vu/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/category/dich-vu/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/tag/thong-tac/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/tag/thong-tac/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/tag/thong-tac/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/tag/hut-be-phot/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/tag/hut-be-phot/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/tag/hut-be-phot/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/bao-gia/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/bao-gia/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/bao-gia/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/lien-he-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/lien-he-2/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/lien-he-2/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/contact/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/contact/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/contact/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/dich-vu-hut-be-phot/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/dich-vu-hut-be-phot/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/dich-vu-hut-be-phot/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/dich-vu-thong-tac-cong/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/dich-vu-thong-tac-cong/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/dich-vu-thong-tac-cong/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/ve-chung-toi/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/ve-chung-toi/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/ve-chung-toi/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/about/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/about/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/about/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/tin-tuc/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/tin-tuc/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/tin-tuc/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/news/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/news/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/news/",
+        "hops": 1
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/blog-2/",
+        "chain": [
+          {
+            "url": "https://thongtaccongquangninh.com/blog-2/",
+            "status": 404
+          }
+        ],
+        "finalStatus": 404,
+        "finalUrl": "https://thongtaccongquangninh.com/blog-2/",
+        "hops": 1
+      }
+    ],
+    "error": [],
+    "redirectChainLong": []
+  }
+}

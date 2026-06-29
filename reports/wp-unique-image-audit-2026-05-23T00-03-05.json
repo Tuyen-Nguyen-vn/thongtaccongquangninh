@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-23T00:03:11+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": false,
+  "totalContent": 65,
+  "pagesWithIssues": 0,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 1,
+  "fixes": [],
+  "issues": [],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    }
+  ]
+}

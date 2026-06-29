@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-06-28T07:35:00.710+07:00",
+  "timezone": "Asia/Bangkok",
+  "backups": {
+    "widgetBackup": "/mnt/d/.thongtaccongquangninh/backups/verified-hours-rest-live-2026-06-28T07-35-00-710+07-00/widget-custom_html-1.before.json",
+    "page35Backup": "/mnt/d/.thongtaccongquangninh/backups/verified-hours-rest-live-2026-06-28T07-35-00-710+07-00/page-35.before.json",
+    "post2053Backup": "/mnt/d/.thongtaccongquangninh/backups/verified-hours-rest-live-2026-06-28T07-35-00-710+07-00/post-2053.before.json"
+  },
+  "updates": {
+    "widgetStatus": 200,
+    "page35Status": 200,
+    "post2053Status": 200
+  },
+  "public": {
+    "home": {
+      "status": 200,
+      "hasOldFooter247": false,
+      "hasNewFooterHours": false
+    },
+    "qn": {
+      "status": 200,
+      "has247": false,
+      "hasNewTitle": true,
+      "hasNewHours": true
+    },
+    "baiChay": {
+      "status": 200,
+      "hasOldHongGaiTitle": false,
+      "hasNewHongGaiTitle": true
+    }
+  },
+  "success": false
+}

@@ -1,0 +1,322 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-14T15:37:25+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 44,
+  "pagesWithIssues": 3,
+  "samePageDuplicatePages": 3,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 5,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 37,
+      "type": "pages",
+      "status": "publish",
+      "title": "Thông Tắc Bồn Cầu Quảng Ninh – Xác Định Đúng Nguyên Nhân, Có Mặt 15 Phút",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "slug": "thong-tac-bon-cau-quang-ninh",
+      "service": "thông tắc bồn cầu",
+      "area": "Quảng Ninh",
+      "imageCount": 3,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"713\" src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-2-4.webp\" alt=\"thợ thông tắc bồn cầu tại nhà dân Quảng Ninh bằng máy lò xo không đục phá\" class=\"wp-image-1216\" srcset=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-2-4.webp 1200w, https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-2-4-300x178.webp 300w, https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-2-4-1024x608.webp 1024w, https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-2-4-768x456.webp 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-2-4.webp",
+          "alt": "thợ thông tắc bồn cầu tại nhà dân Quảng Ninh bằng máy lò xo không đục phá",
+          "media_id": "1216",
+          "basename": "tho-thong-bon-cau-2-4.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-2-4.webp",
+          "sha256": "bc46510322635becc455b1a8d08d50caa7a38f2982f014076356db8308bb678b",
+          "dhash": 8246122496790771236,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-nha-ve-sinh-1.webp\" alt=\"Thợ thông tắc bồn cầu tại nhà vệ sinh ở Quảng Ninh\" class=\"wp-image-1408\"/>",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-nha-ve-sinh-1.webp",
+          "alt": "Thợ thông tắc bồn cầu tại nhà vệ sinh ở Quảng Ninh",
+          "media_id": "1408",
+          "basename": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh-1.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-nha-ve-sinh-1.webp",
+          "sha256": "107c76fbd83c653545dc7bc2fddbf6bd2aab0f49c147355199b05b1babdaf606",
+          "dhash": 6448060229684999272,
+          "download_error": ""
+        },
+        {
+          "index": 2,
+          "tag": "<img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"1200\" src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7.webp\" alt=\"thợ kiểm tra và xử lý bồn cầu nghẹt tại nhà dân Quảng Ninh\" class=\"wp-image-1217\" srcset=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7.webp 1200w, https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7-300x300.webp 300w, https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7-1024x1024.webp 1024w, https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7-150x150.webp 150w, https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7-768x768.webp 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7.webp",
+          "alt": "thợ kiểm tra và xử lý bồn cầu nghẹt tại nhà dân Quảng Ninh",
+          "media_id": "1217",
+          "basename": "tho-thong-bon-cau-1-7.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/tho-thong-bon-cau-1-7.webp",
+          "sha256": "315df23a989f0c4f3ea1c9780e83e33bf7e8bd9dd8d4daf40044cb0d5b06d7f6",
+          "dhash": 6446934329794933864,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [
+        {
+          "leftIndex": 1,
+          "rightIndex": 2,
+          "distance": 2,
+          "left": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh-1.webp",
+          "right": "tho-thong-bon-cau-1-7.webp"
+        }
+      ],
+      "missingToThree": 0,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "thợ thông tắc bồn cầu tại nhà vệ sinh ở Quảng Ninh"
+      ]
+    },
+    {
+      "id": 1368,
+      "type": "posts",
+      "status": "publish",
+      "title": "Nạo Vét Hố Ga - Khi Nào Cần Và Chi Phí Bao Nhiêu?",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "slug": "nao-vet-ho-ga",
+      "service": "nạo vét hố ga",
+      "area": "Quảng Ninh",
+      "imageCount": 3,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-dan-dung-quang-ninh.webp\" alt=\"Nạo vét hố ga dân dụng tại Quảng Ninh\" class=\"wp-image-1416\"/>",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-dan-dung-quang-ninh.webp",
+          "alt": "Nạo vét hố ga dân dụng tại Quảng Ninh",
+          "media_id": "1416",
+          "basename": "nao-vet-ho-ga-dan-dung-quang-ninh.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-dan-dung-quang-ninh.webp",
+          "sha256": "f1bcb34a90e1f37b9f35b53f4c9f6564f14add9d4f6831c0358a89d2022c5458",
+          "dhash": 4281487440892671350,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-xe-hut-bun-quang-ninh.webp\" alt=\"Xe hút hỗ trợ nạo vét hố ga tại Quảng Ninh\" class=\"wp-image-1417\"/>",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-xe-hut-bun-quang-ninh.webp",
+          "alt": "Xe hút hỗ trợ nạo vét hố ga tại Quảng Ninh",
+          "media_id": "1417",
+          "basename": "nao-vet-ho-ga-xe-hut-bun-quang-ninh.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-xe-hut-bun-quang-ninh.webp",
+          "sha256": "cf9c28d2ba7009aa4d28879f45d062f92aa199a636e9fde50c6bf2a0fce174a0",
+          "dhash": 3460457676294810668,
+          "download_error": ""
+        },
+        {
+          "index": 2,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-kiem-tra-dong-chay.webp\" alt=\"Kiểm tra dòng chảy sau nạo vét hố ga tại Quảng Ninh\" class=\"wp-image-1418\"/>",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-kiem-tra-dong-chay.webp",
+          "alt": "Kiểm tra dòng chảy sau nạo vét hố ga tại Quảng Ninh",
+          "media_id": "1418",
+          "basename": "nao-vet-ho-ga-kiem-tra-dong-chay.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-kiem-tra-dong-chay.webp",
+          "sha256": "560f72d23b0deb5cbc6dc4c8e4ca1e6569ab15d588f64661bc75b195cbf93471",
+          "dhash": 4281487438745187702,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 2,
+          "distance": 1,
+          "left": "nao-vet-ho-ga-dan-dung-quang-ninh.webp",
+          "right": "nao-vet-ho-ga-kiem-tra-dong-chay.webp"
+        }
+      ],
+      "missingToThree": 0,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "nạo vét hố ga dân dụng tại Quảng Ninh"
+      ]
+    },
+    {
+      "id": 217,
+      "type": "posts",
+      "status": "publish",
+      "title": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026 - Tham Khảo Trước Khi Gọi Thợ",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "service": "hút bể phốt",
+      "area": "Quảng Ninh",
+      "imageCount": 3,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-xe-bon-nha-dan-quang-ninh.webp\" alt=\"Xe bồn hút bể phốt tại nhà dân ở Quảng Ninh\" class=\"wp-image-1424\"/>",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-xe-bon-nha-dan-quang-ninh.webp",
+          "alt": "Xe bồn hút bể phốt tại nhà dân ở Quảng Ninh",
+          "media_id": "1424",
+          "basename": "bang-gia-hut-be-phot-xe-bon-nha-dan-quang-ninh.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-xe-bon-nha-dan-quang-ninh.webp",
+          "sha256": "dcb0903e8a04112ba0f002dacdf62a238d2d376e8a6486ea9ecef4a942f691eb",
+          "dhash": 3460457676294810660,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xe-hut-cong-ty-kcn-0-300x195.webp\" \nalt=\"Xe bồn hút bể phốt của Môi Trường Đô Thị Số 1 Quảng Ninh\" \nclass=\"wp-image-1163\" width=\"300\" height=\"195\"/>",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xe-hut-cong-ty-kcn-0-300x195.webp",
+          "alt": "Xe bồn hút bể phốt của Môi Trường Đô Thị Số 1 Quảng Ninh",
+          "media_id": "1163",
+          "basename": "xe-hut-cong-ty-kcn-0-300x195.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xe-hut-cong-ty-kcn-0-300x195.webp",
+          "sha256": "693de2c360c95495a11fd931b1f48df3ee2751ac4c06b1d6df4507e027cb5ecf",
+          "dhash": 11849590454630686565,
+          "download_error": ""
+        },
+        {
+          "index": 2,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-keo-ong-ngo-sau.webp\" alt=\"Thợ kéo ống hút bể phốt vào ngõ sâu tại Quảng Ninh\" class=\"wp-image-1425\"/>",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-keo-ong-ngo-sau.webp",
+          "alt": "Thợ kéo ống hút bể phốt vào ngõ sâu tại Quảng Ninh",
+          "media_id": "1425",
+          "basename": "bang-gia-hut-be-phot-keo-ong-ngo-sau.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-keo-ong-ngo-sau.webp",
+          "sha256": "35b125bfe78ee61e6797f342b22616e666bd6dbda82b606d2e310e86b01539a2",
+          "dhash": 3460457538855857196,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 2,
+          "distance": 2,
+          "left": "bang-gia-hut-be-phot-xe-bon-nha-dan-quang-ninh.webp",
+          "right": "bang-gia-hut-be-phot-keo-ong-ngo-sau.webp"
+        }
+      ],
+      "missingToThree": 0,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "xe bồn hút bể phốt tại nhà dân ở Quảng Ninh"
+      ]
+    }
+  ],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "c8563ddd89b22a654c250d773b7b5acfcf16f98d6d38f2082ea575781eddf1dc",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/image-briefs/assets/thong-tac-cong-bai-chay-anh-dau-bai.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 0,
+          "file": "thong-tac-cong-bai-chay-anh-dau-bai.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 0,
+          "file": "thong-tac-cong-bai-chay-anh-dau-bai.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/image-briefs/assets/thong-tac-cong-bai-chay-quy-trinh-thi-cong.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 2,
+          "file": "thong-tac-cong-bai-chay-quy-trinh-thi-cong.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 2,
+          "file": "thong-tac-cong-bai-chay-quy-trinh-thi-cong.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/image-briefs/assets/thong-tac-cong-bai-chay-case-study.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 3,
+          "file": "thong-tac-cong-bai-chay-case-study.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 3,
+          "file": "thong-tac-cong-bai-chay-case-study.webp"
+        }
+      ]
+    }
+  ]
+}

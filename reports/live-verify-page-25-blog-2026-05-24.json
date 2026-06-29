@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-05-24T15:44:20.047Z",
+  "url": "https://thongtaccongquangninh.com/blog/",
+  "titleLen": 64,
+  "title": "Blog vệ sinh môi trường Quảng Ninh: xử lý cống, bể phốt, mùi hôi",
+  "descLen": 154,
+  "desc": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý cống tắc, bể phốt đầy, bồn cầu rút chậm, mùi hôi, hố ga tại nhà. Gọi 0963.953.533 / 0931.156.756 ngay.",
+  "words": 9797,
+  "h1": 1,
+  "h2Count": 11,
+  "required": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "forbidden": [],
+  "hotlines": 20,
+  "images": 5,
+  "imgIssues": [],
+  "internalLinks": 5,
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "WebPage",
+      "FAQPage"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "oldEscaped": false,
+  "sourceHtml": "reports/live-after-page-25-blog-2026-05-24.html"
+}

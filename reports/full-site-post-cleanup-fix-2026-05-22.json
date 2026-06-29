@@ -1,0 +1,1070 @@
+{
+  "generatedAt": "2026-05-22T15:35:47.216Z",
+  "media": {
+    "cong": {
+      "key": "cong",
+      "id": 2196,
+      "slug": "service-thong-tac-cong-quang-ninh-may-chuyen-dung",
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp"
+    },
+    "hut": {
+      "key": "hut",
+      "id": 2197,
+      "slug": "service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung",
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp"
+    },
+    "boncau": {
+      "key": "boncau",
+      "id": 2198,
+      "slug": "service-thong-tac-bon-cau-quang-ninh-khong-duc-pha",
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-bon-cau-quang-ninh-khong-duc-pha.webp"
+    },
+    "hoga": {
+      "key": "hoga",
+      "id": 2199,
+      "slug": "service-nao-vet-ho-ga-quang-ninh-24-7",
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-nao-vet-ho-ga-quang-ninh-24-7.webp"
+    },
+    "muihoi": {
+      "key": "muihoi",
+      "id": 2200,
+      "slug": "service-xu-ly-mui-hoi-quang-ninh",
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-xu-ly-mui-hoi-quang-ninh.webp"
+    }
+  },
+  "categories": {
+    "bang-gia-blog": 5,
+    "bang-gia": 21,
+    "blog": 12,
+    "canh-bao": 20,
+    "huong-dan": 4,
+    "huong-dan-tai-nha": 19,
+    "hut-be-phot": 14,
+    "nao-vet-ho-ga": 17,
+    "thong-tac-bon-cau": 16,
+    "thong-tac-cong": 15,
+    "tin-tuc": 13,
+    "uncategorized": 1,
+    "xu-ly-mui-hoi": 18
+  },
+  "before": [
+    {
+      "id": 2051,
+      "slug": "hut-be-phot-hai-ha-2",
+      "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Hút bể phốt Hải Hà Quảng Ninh 24/7 cho nhà dân, cơ sở kinh doanh vùng biên. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2052,
+      "slug": "hut-be-phot-tien-yen-2",
+      "title": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 cho nhà dân, nhà hàng, trường học vùng xa. Xe đến tận nơi, hút sạch, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2053,
+      "slug": "thong-tac-cong-hong-gai-2",
+      "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        15,
+        1
+      ],
+      "excerpt": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2054,
+      "slug": "thong-tac-cong-bai-chay",
+      "title": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Thông tắc cống Bãi Cháy 24/7, không đục phá, báo giá rõ. Gọi **0963.953.533 / 0931.156.756** xử lý tắc nghẽn, mùi hôi, có mặt nhanh 15 phút, bảo hành dài hạn.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "title": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Thông tắc cống Cao Xanh 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi nhanh trong ngày tại nhà dân, nhà hàng.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Thông tắc cống Giếng Đáy Hạ Long cho nhà dân, nhà trọ, cửa hàng, xử lý nước trào, mùi hôi, cống nghẹt. Gọi 0963.953.533 / 0931.156.756 ngay tại Hạ Long.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2043,
+      "slug": "bon-cau-rut-cham-nguyen-nhan-3",
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+      "featured_media": 0,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        16,
+        15,
+        1
+      ],
+      "excerpt": "Bồn cầu rút nước chậm do tắc đường ống, bể phốt đầy hay van xả hỏng? Tìm hiểu nguyên nhân và cách xử lý đúng. Gọi 0963.953.533 thợ Quảng Ninh đến nhanh 24/7.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2044,
+      "slug": "chu-ky-hut-be-phot-3",
+      "title": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026",
+      "featured_media": 0,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        16,
+        15,
+        1
+      ],
+      "excerpt": "Chu kỳ hút bể phốt bao lâu một lần tùy vào số người dùng, thể tích bể và loại công trình. Tìm hiểu cách tính đúng để tránh tràn bể. Gọi 0963.953.533 tại Quảng Ninh.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2045,
+      "slug": "hoa-chat-tu-thong-cong-3",
+      "title": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?",
+      "featured_media": 0,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        16,
+        15,
+        1
+      ],
+      "excerpt": "Hóa chất thông cống tại nhà có hiệu quả không? So sánh muối nở, giấm, NaOH, enzyme vs gọi thợ. Khi nào nên tự xử lý, khi nào cần 0963.953.533 tại Quảng Ninh.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2046,
+      "slug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+      "title": "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý",
+      "featured_media": 0,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Mùi hôi từ cống, sàn nhà tắm hoặc bồn cầu trong nhà do nguyên nhân gì? Cách xử lý tại nhà và khi nào cần gọi thợ. Gọi 0963.953.533 Quảng Ninh 24/7.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2041,
+      "slug": "thong-tac-cong-tuan-chau",
+      "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "featured_media": 0,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Thông tắc cống Tuần Châu Hạ Long cho biệt thự, homestay, nhà hàng, xử lý cống nghẹt, mùi hôi, không đục phá. Gọi 0963.953.533 / 0931.156.756 ngay hôm nay.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2050,
+      "slug": "hut-be-phot-dam-ha-2",
+      "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "featured_media": 0,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 cho nhà dân, nhà hàng, trang trại. Xe đến tận huyện, hút sạch, báo giá rõ trước khi làm. Gọi 0963.953.533 / 0931.156.756.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2049,
+      "slug": "hut-be-phot-co-to-2",
+      "title": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "featured_media": 0,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Hút bể phốt Cô Tô Quảng Ninh 24/7 cho nhà dân, resort, nhà hàng trên đảo. Điều phối theo chuyến tàu, báo giá minh bạch. Gọi 0963.953.533 / 0931.156.756.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2048,
+      "slug": "hut-be-phot-binh-lieu-2",
+      "title": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "featured_media": 0,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 cho nhà dân, trường học vùng cao biên giới. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2047,
+      "slug": "hut-be-phot-ba-che-2",
+      "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "featured_media": 0,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        1,
+        18
+      ],
+      "excerpt": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1367,
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "title": "Cách xử lý bồn cầu bị tắc tại nhà: làm gì trước, khi nào gọi thợ",
+      "featured_media": 0,
+      "categories": [
+        1
+      ],
+      "excerpt": "Bồn cầu bị tắc nên xử lý theo mức độ: tắc nhẹ có thể thử pittong, nước ấm hoặc kiểm tra giấy; tắc nặng, có dị vật, nước trào hoặc mùi hôi thì nên gọi thợ. ",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1368,
+      "slug": "nao-vet-ho-ga",
+      "title": "Nạo vét hố ga: khi nào cần làm, quy trình và chi phí tham khảo",
+      "featured_media": 0,
+      "categories": [
+        1
+      ],
+      "excerpt": "Nạo vét hố ga cần làm khi hố đầy bùn, nước thoát chậm, có mùi hôi hoặc sân thường ngập sau mưa. Nếu để lâu, bùn và rác có thể tràn vào đường ống, làm cống ",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1369,
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "title": "Xử lý mùi hôi nhà vệ sinh: tìm đúng nguồn hôi trước khi khử mùi",
+      "featured_media": 0,
+      "categories": [
+        1
+      ],
+      "excerpt": "Muốn xử lý mùi hôi nhà vệ sinh dứt điểm, cần tìm nguồn hôi trước khi dùng nước thơm hoặc hóa chất. Mùi có thể đến từ thoát sàn, lavabo, bồn cầu, bể phốt, h",
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1377,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "featured_media": 0,
+      "categories": [
+        1
+      ],
+      "excerpt": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành Khi cống tắc, bồn cầu trào ngược hoặc nhà vệ sinh có mùi hôi, người cần xử lý thường",
+      "contentHasMarkdown": false
+    }
+  ],
+  "updates": [
+    {
+      "id": 2051,
+      "slug": "hut-be-phot-hai-ha-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories"
+      ]
+    },
+    {
+      "id": 2052,
+      "slug": "hut-be-phot-tien-yen-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories"
+      ]
+    },
+    {
+      "id": 2053,
+      "slug": "thong-tac-cong-hong-gai-2",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        15
+      ],
+      "changed": [
+        "categories"
+      ]
+    },
+    {
+      "id": 2054,
+      "slug": "thong-tac-cong-bai-chay",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "content",
+        "excerpt"
+      ]
+    },
+    {
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories"
+      ]
+    },
+    {
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories"
+      ]
+    },
+    {
+      "id": 2043,
+      "slug": "bon-cau-rut-cham-nguyen-nhan-3",
+      "featured_media": 2198,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        16,
+        15
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2044,
+      "slug": "chu-ky-hut-be-phot-3",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        16,
+        15
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2045,
+      "slug": "hoa-chat-tu-thong-cong-3",
+      "featured_media": 2196,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        16,
+        15
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2046,
+      "slug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+      "featured_media": 2200,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2041,
+      "slug": "thong-tac-cong-tuan-chau",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2050,
+      "slug": "hut-be-phot-dam-ha-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2049,
+      "slug": "hut-be-phot-co-to-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2048,
+      "slug": "hut-be-phot-binh-lieu-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 2047,
+      "slug": "hut-be-phot-ba-che-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 1367,
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "featured_media": 2198,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 1368,
+      "slug": "nao-vet-ho-ga",
+      "featured_media": 2199,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        17,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 1369,
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "featured_media": 2200,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    },
+    {
+      "id": 1377,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "changed": [
+        "categories",
+        "featured_media"
+      ]
+    }
+  ],
+  "after": [
+    {
+      "id": 2051,
+      "slug": "hut-be-phot-hai-ha-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2052,
+      "slug": "hut-be-phot-tien-yen-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2053,
+      "slug": "thong-tac-cong-hong-gai-2",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        15
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2054,
+      "slug": "thong-tac-cong-bai-chay",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2043,
+      "slug": "bon-cau-rut-cham-nguyen-nhan-3",
+      "featured_media": 2198,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        16,
+        15
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2044,
+      "slug": "chu-ky-hut-be-phot-3",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        16,
+        15
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2045,
+      "slug": "hoa-chat-tu-thong-cong-3",
+      "featured_media": 2196,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        16,
+        15
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2046,
+      "slug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+      "featured_media": 2200,
+      "categories": [
+        12,
+        20,
+        19,
+        14,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2041,
+      "slug": "thong-tac-cong-tuan-chau",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2050,
+      "slug": "hut-be-phot-dam-ha-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2049,
+      "slug": "hut-be-phot-co-to-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2048,
+      "slug": "hut-be-phot-binh-lieu-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 2047,
+      "slug": "hut-be-phot-ba-che-2",
+      "featured_media": 2197,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1367,
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "featured_media": 2198,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1368,
+      "slug": "nao-vet-ho-ga",
+      "featured_media": 2199,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        17,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1369,
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "featured_media": 2200,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    },
+    {
+      "id": 1377,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "featured_media": 2196,
+      "categories": [
+        21,
+        12,
+        20,
+        19,
+        14,
+        17,
+        16,
+        15,
+        18
+      ],
+      "excerptHasMarkdown": false,
+      "contentHasMarkdown": false
+    }
+  ]
+}

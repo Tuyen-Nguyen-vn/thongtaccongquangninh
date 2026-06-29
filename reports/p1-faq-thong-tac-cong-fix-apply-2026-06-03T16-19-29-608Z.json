@@ -1,0 +1,172 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-06-03T16:19:30.858Z",
+  "target": {
+    "id": 1377,
+    "collection": "posts",
+    "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+    "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-faq-thong-tac-cong-2026-06-03T16-19-29-608Z",
+  "before": {
+    "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+    "excerpt": "Thông tắc cống Quảng Ninh 24/7, có mặt 15 phút, không đục phá, bảo hành dài hạn. Gọi 0963.953.533 / 0931.156.756 để báo giá và xử lý trong ngày.",
+    "rawWordCount": 3053,
+    "rawH1Count": 1,
+    "rawH2Count": 20,
+    "exactFocusCount": 27,
+    "keyword": {
+      "count": 26,
+      "total": 3052,
+      "density": 0.05963302752293578,
+      "densityPct": 5.96
+    },
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false,
+    "hasFinalAuthor": false
+  },
+  "update": {
+    "changes": [
+      {
+        "label": "sync_h1_with_title",
+        "changed": true
+      },
+      {
+        "label": "replace_old_author_url",
+        "changed": true
+      },
+      {
+        "label": "reduce_exact_focus_keyword_repeats",
+        "changed": true,
+        "beforeCount": 27,
+        "afterCount": 6
+      },
+      {
+        "label": "remove_repetitive_low_value_paragraphs",
+        "changed": true,
+        "removed": [
+          "Nội dung được viết để người cần thông tắc cống Quảng Ninh đọc nhanh, hiểu đúng tình trạng và biết khi nào phải gọi đội xử lý. Với lỗi nặng, ",
+          "Nếu anh/chị đang tìm câu hỏi thường gặp thông tắc cống trước khi đặt lịch, hãy đọc theo từng mục và đối chiếu với hiện tượng trong nhà. Trườ",
+          "Nếu anh/chị đang so sánh nhiều đơn vị, hãy hỏi thẳng 3 điểm này. nội dung FAQ này về cam kết giúp tránh cảnh gọi xong lại phải gọi lại, hoặc",
+          "Khi gọi ban đêm, anh/chị nên chụp nhanh vị trí tắc, đường vào nhà và khu vực đặt xe nếu có. Thông tin này giúp thợ chuẩn bị đúng máy.",
+          "Sau khi thông, nên xả nước nóng vừa phải theo định kỳ, dùng lưới lọc rác và hạn chế đổ dầu thừa xuống chậu rửa. Đây là mục hỏi đáp này cần n",
+          "Quy trình này giúp việc thông tắc cống Quảng Ninh không bị làm vội. Khi anh/chị cần xử lý khẩn cấp, thợ vẫn phải giữ nguyên bước báo giá và ",
+          "Sau xử lý, nước rút đều hơn, mùi hôi giảm rõ và bếp hoạt động lại trong ngày. nội dung FAQ này rút ra là không nên chỉ đổ hóa chất khi cống ",
+          "Không nên đồng ý nếu thợ chỉ nói giá mơ hồ rồi bắt đầu tháo lắp ngay. Với dịch vụ khẩn cấp, nhanh là cần thiết nhưng vẫn phải rõ tiền, rõ vi"
+        ]
+      },
+      {
+        "label": "remove_duplicate_author_box",
+        "changed": true
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema_and_final_author",
+        "changed": true
+      }
+    ],
+    "afterRawWordCount": 2597,
+    "afterRawH1Count": 1,
+    "afterRawH2Count": 19,
+    "exactFocusCount": 8,
+    "keyword": {
+      "count": 5,
+      "total": 2596,
+      "density": 0.013482280431432974,
+      "densityPct": 1.35
+    },
+    "metaDescLen": 154,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "finalAuthorLine": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/?nowprocket=1&codex=faq-thong-tac-cong-1780503574735",
+    "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+    "titleLen": 61,
+    "metaDesc": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành, xử lý không đục phá. Gọi 0963.953.533 / 0931.156.756 để kiểm tra nhanh trong ngày.",
+    "metaDescLen": 154,
+    "canonical": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+    "h1": [
+      "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nguyên nhân khiến cống tắc và mùi hôi tái phát",
+      "Cam kết 3 Không khi xử lý thông tắc cống",
+      "1. Khi nào cần gọi thợ thông tắc cống ngay?",
+      "2. Thông tắc cống có cần đục nền, phá gạch không?",
+      "3. Bảng giá thông tắc cống Quảng Ninh bao nhiêu?",
+      "4. Có mặt sau bao lâu tại Hạ Long, Cẩm Phả, Uông Bí?",
+      "5. Có nhận thông tắc cống ban đêm không?",
+      "6. Tắc cống do dầu mỡ có xử lý dứt điểm được không?",
+      "7. Có nên tự mua hóa chất thông cống không?",
+      "8. Bồn cầu tắc khác gì cống sàn tắc?",
+      "9. Hút bể phốt khi nào là cần thiết?",
+      "10. Có bảo hành sau khi thông tắc không?",
+      "Quy trình 5 bước khi gọi thợ xử lý",
+      "Tình huống thường gặp: cống bếp nhà hàng Hạ Long tắc nặng",
+      "11. Cần chuẩn bị gì trước khi thợ đến?",
+      "12. Dịch vụ có làm tại Quảng Yên, Đông Triều, Móng Cái, Vân Đồn không?",
+      "13. Làm sao biết thợ báo giá rõ ràng?",
+      "Thông tin liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "FAQ voice search về thông tắc cống Quảng Ninh",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3955,
+    "keyword": {
+      "count": 7,
+      "total": 3954,
+      "density": 0.012392513909964592,
+      "densityPct": 1.24
+    },
+    "schemaTypes": [
+      "LocalBusiness",
+      "HomeAndConstructionBusiness",
+      "PostalAddress",
+      "GeoCoordinates",
+      "City",
+      "AdministrativeArea",
+      "OfferCatalog",
+      "Offer",
+      "Service",
+      "BreadcrumbList",
+      "ListItem",
+      "FAQPage",
+      "Question",
+      "Answer",
+      "BlogPosting",
+      "WebPage",
+      "Person",
+      "Organization",
+      "ImageObject",
+      "ServiceChannel",
+      "ContactPoint"
+    ],
+    "hasServiceSchema": true,
+    "hasCleanupMarker": true,
+    "hasAuthorArchive": true,
+    "hasOldAuthorUrl": false,
+    "hasFinalAuthor": true
+  },
+  "after": {
+    "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+    "excerpt": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành, xử lý không đục phá. Gọi 0963.953.533 / 0931.156.756 để kiểm tra nhanh trong ngày.",
+    "rawWordCount": 2597,
+    "contentLen": 16736
+  }
+}

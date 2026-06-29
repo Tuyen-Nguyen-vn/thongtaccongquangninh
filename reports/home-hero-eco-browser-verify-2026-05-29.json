@@ -1,0 +1,88 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=hero-eco-browser-20260529",
+  "checkedAt": "2026-05-29T11:17:15.179Z",
+  "results": [
+    {
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1100,
+        "dpr": 1
+      },
+      "status": 200,
+      "data": {
+        "title": "HÚT BỂ PHỐT & THÔNG TẮC CỐNG HẠ LONG 24/7",
+        "marker": "2026.05.29.15; direct-template",
+        "imgSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-eco/hero-eco-xe-hut-be-phot-thong-tac-cong-ha-long-mobile.jpg",
+        "imgNatural": "520x520",
+        "imgComplete": true,
+        "heroRect": {
+          "x": 0,
+          "y": 96,
+          "w": 1440,
+          "h": 888
+        },
+        "visualRect": {
+          "x": 380,
+          "y": 217,
+          "w": 520,
+          "h": 650
+        },
+        "bubbleRect": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "formDisplay": "block",
+        "staffCount": 0,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "hasHorizontalOverflow": false
+      },
+      "logs": [],
+      "screenshotPath": "/mnt/d/.thongtaccongquangninh/reports/home-hero-eco-desktop-2026-05-29.png"
+    },
+    {
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 1100,
+        "dpr": 2
+      },
+      "status": 200,
+      "data": {
+        "title": "HÚT BỂ PHỐT & THÔNG TẮC CỐNG HẠ LONG 24/7",
+        "marker": "2026.05.29.15; direct-template",
+        "imgSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-eco/hero-eco-xe-hut-be-phot-thong-tac-cong-ha-long-mobile.jpg",
+        "imgNatural": "358x358",
+        "imgComplete": true,
+        "heroRect": {
+          "x": 0,
+          "y": 72,
+          "w": 390,
+          "h": 807
+        },
+        "visualRect": {
+          "x": 16,
+          "y": 462,
+          "w": 358,
+          "h": 382
+        },
+        "bubbleRect": {
+          "x": 29,
+          "y": 725,
+          "w": 332,
+          "h": 106
+        },
+        "formDisplay": "none",
+        "staffCount": 0,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "hasHorizontalOverflow": false
+      },
+      "logs": [],
+      "screenshotPath": "/mnt/d/.thongtaccongquangninh/reports/home-hero-eco-mobile-2026-05-29.png"
+    }
+  ]
+}

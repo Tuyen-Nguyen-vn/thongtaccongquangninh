@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-06-01T11:47:51.757Z",
+  "results": [
+    {
+      "slug": "manual-url",
+      "title": "https://thongtaccongquangninh.com/",
+      "url": "https://thongtaccongquangninh.com/",
+      "httpStatus": 200,
+      "scripts": [
+        {
+          "index": 1,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "Organization",
+            "ImageObject",
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "WebPage",
+            "Article"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#person",
+            "https://thongtaccongquangninh.com/#logo",
+            "https://thongtaccongquangninh.com/#website",
+            "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/a29c1c07-8ef5-499d-830e-a367d4967da1.png",
+            "https://thongtaccongquangninh.com/#webpage",
+            "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/social-preview-thong-tac-cong-quang-ninh.jpg"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 2,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness",
+            "PostalAddress",
+            "GeoCoordinates",
+            "City",
+            "AdministrativeArea",
+            "OfferCatalog",
+            "Offer",
+            "Service",
+            "FAQPage",
+            "Question",
+            "Answer",
+            "VideoObject"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#service-catalog",
+            "https://thongtaccongquangninh.com/#faq",
+            "https://thongtaccongquangninh.com/#website",
+            "https://thongtaccongquangninh.com/#video-thuc-te-ha-long",
+            "https://thongtaccongquangninh.com/"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        }
+      ],
+      "error": null,
+      "issues": [],
+      "warnings": [],
+      "status": "PASS",
+      "schemaTypes": [
+        "Organization",
+        "ImageObject",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "WebPage",
+        "Article",
+        "LocalBusiness",
+        "HomeAndConstructionBusiness",
+        "PostalAddress",
+        "GeoCoordinates",
+        "City",
+        "AdministrativeArea",
+        "OfferCatalog",
+        "Offer",
+        "Service",
+        "FAQPage",
+        "Question",
+        "Answer",
+        "VideoObject"
+      ]
+    }
+  ]
+}

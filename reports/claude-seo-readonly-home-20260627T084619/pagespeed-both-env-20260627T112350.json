@@ -1,0 +1,2246 @@
+{
+  "url": "https://thongtaccongquangninh.com/",
+  "psi": {
+    "mobile": {
+      "url": "https://thongtaccongquangninh.com/",
+      "strategy": "mobile",
+      "lighthouse_scores": {
+        "performance": 95,
+        "accessibility": 93,
+        "best-practices": 77,
+        "seo": 92
+      },
+      "lab_metrics": {
+        "first-contentful-paint": {
+          "value": 1399.0025913243935,
+          "display": "1.4\u00a0s",
+          "score": 0.97
+        },
+        "largest-contentful-paint": {
+          "value": 2149.0044422703886,
+          "display": "2.1\u00a0s",
+          "score": 0.95
+        },
+        "total-blocking-time": {
+          "value": 193,
+          "display": "190\u00a0ms",
+          "score": 0.9
+        },
+        "cumulative-layout-shift": {
+          "value": 0.009721,
+          "display": "0.01",
+          "score": 1
+        },
+        "speed-index": {
+          "value": 2346.4854365302726,
+          "display": "2.3\u00a0s",
+          "score": 0.98
+        },
+        "interactive": {
+          "value": 9424.501850945995,
+          "display": "9.4\u00a0s",
+          "score": 0.3
+        }
+      },
+      "field_metrics": {},
+      "opportunities": [
+        {
+          "id": "server-response-time",
+          "title": "Initial server response time was short",
+          "savings_ms": 92,
+          "description": "Keep the server response time for the main document short because all other requests depend on it. [Learn more about the Time to First Byte metric](https://developer.chrome.com/docs/lighthouse/performance/time-to-first-byte/)."
+        }
+      ],
+      "diagnostics": [
+        {
+          "id": "total-byte-weight",
+          "title": "Avoids enormous network payloads",
+          "display": "Total size was 2,320\u00a0KiB",
+          "score": 1,
+          "description": "Large network payloads cost users real money and are highly correlated with long load times. [Learn how to reduce payload sizes](https://developer.chrome.com/docs/lighthouse/performance/total-byte-weight/)."
+        },
+        {
+          "id": "mainthread-work-breakdown",
+          "title": "Minimizes main-thread work",
+          "display": "1.7\u00a0s",
+          "score": 1,
+          "description": "Consider reducing the time spent parsing, compiling and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to minimize main-thread work](https://developer.chrome.com/docs/lighthouse/performance/mainthread-work-breakdown/)"
+        },
+        {
+          "id": "bootup-time",
+          "title": "JavaScript execution time",
+          "display": "0.7\u00a0s",
+          "score": 1,
+          "description": "Consider reducing the time spent parsing, compiling, and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to reduce Javascript execution time](https://developer.chrome.com/docs/lighthouse/performance/bootup-time/)."
+        },
+        {
+          "id": "layout-shifts",
+          "title": "Avoid large layout shifts",
+          "display": "1 layout shift found",
+          "score": 1,
+          "description": "These are the largest layout shifts observed on the page. Each table item represents a single layout shift, and shows the element that shifted the most. Below each item are possible root causes that led to the layout shift. Some of these layout shifts may not be included in the CLS metric value due to [windowing](https://web.dev/articles/cls#what_is_cls). [Learn how to improve CLS](https://web.dev/articles/optimize-cls)"
+        },
+        {
+          "id": "long-tasks",
+          "title": "Avoid long main-thread tasks",
+          "display": "7 long tasks found",
+          "score": 1,
+          "description": "Lists the longest tasks on the main thread, useful for identifying worst contributors to input delay. [Learn how to avoid long main-thread tasks](https://web.dev/articles/optimize-long-tasks)"
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "display": "Est savings of 371\u00a0KiB",
+          "score": 0.5,
+          "description": "Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/)."
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "display": "Est savings of 11\u00a0KiB",
+          "score": 0,
+          "description": "Reduce unused rules from stylesheets and defer CSS not used for above-the-fold content to decrease bytes consumed by network activity. [Learn how to reduce unused CSS](https://developer.chrome.com/docs/lighthouse/performance/unused-css-rules/)."
+        }
+      ],
+      "failed_audits": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "score": 0,
+          "display": "",
+          "description": "Meta descriptions may be included in search results to concisely summarize page content. [Learn more about the meta description](https://developer.chrome.com/docs/lighthouse/seo/meta-description/)."
+        },
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "score": 0,
+          "display": "",
+          "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.12/color-contrast)."
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "score": 0,
+          "display": "Est savings of 11\u00a0KiB",
+          "description": "Reduce unused rules from stylesheets and defer CSS not used for above-the-fold content to decrease bytes consumed by network activity. [Learn how to reduce unused CSS](https://developer.chrome.com/docs/lighthouse/performance/unused-css-rules/)."
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0,
+          "display": "Est savings of 308\u00a0KiB",
+          "description": "Reducing the download time of images can improve the perceived load time of the page and LCP. [Learn more about optimizing image size](https://developer.chrome.com/docs/performance/insights/image-delivery)"
+        },
+        {
+          "id": "target-size",
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "score": 0,
+          "display": "",
+          "description": "Touch targets with sufficient size and spacing help users who may have difficulty targeting small controls to activate the targets. [Learn more about touch targets](https://dequeuniversity.com/rules/axe/4.12/target-size)."
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "score": 0,
+          "display": "",
+          "description": "Visible text labels that do not match the accessible name can result in a confusing experience for screen reader users. [Learn more about accessible names](https://dequeuniversity.com/rules/axe/4.12/label-content-name-mismatch)."
+        },
+        {
+          "id": "deprecations",
+          "title": "Uses deprecated APIs",
+          "score": 0,
+          "display": "1 warning found",
+          "description": "Deprecated APIs will eventually be removed from the browser. [Learn more about deprecated APIs](https://developer.chrome.com/docs/lighthouse/best-practices/deprecations/)."
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "score": 0,
+          "display": "Est savings of 1,110\u00a0ms",
+          "description": "Requests are blocking the page's initial render, which may delay LCP. [Deferring or inlining](https://developer.chrome.com/docs/performance/insights/render-blocking) can move these network requests out of the critical path."
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0,
+          "display": "",
+          "description": "A forced reflow occurs when JavaScript queries geometric properties (such as offsetWidth) after styles have been invalidated by a change to the DOM state. This can result in poor performance. Learn more about [forced reflows](https://developer.chrome.com/docs/performance/insights/forced-reflow) and possible mitigations."
+        },
+        {
+          "id": "doctype",
+          "title": "Page lacks the HTML doctype, thus triggering quirks-mode",
+          "score": 0,
+          "display": "",
+          "description": "Specifying a doctype prevents the browser from switching to quirks-mode. [Learn more about the doctype declaration](https://developer.chrome.com/docs/lighthouse/best-practices/doctype/)."
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "display": "",
+          "description": "[Avoid chaining critical requests](https://developer.chrome.com/docs/performance/insights/network-dependency-tree) by reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load."
+        },
+        {
+          "id": "interactive",
+          "title": "Time to Interactive",
+          "score": 0.3,
+          "display": "9.4\u00a0s",
+          "description": "Time to Interactive is the amount of time it takes for the page to become fully interactive. [Learn more about the Time to Interactive metric](https://developer.chrome.com/docs/lighthouse/performance/interactive/)."
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 371\u00a0KiB",
+          "description": "Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/)."
+        },
+        {
+          "id": "unminified-css",
+          "title": "Minify CSS",
+          "score": 0.5,
+          "display": "Est savings of 3\u00a0KiB",
+          "description": "Minifying CSS files can reduce network payload sizes. [Learn how to minify CSS](https://developer.chrome.com/docs/lighthouse/performance/unminified-css/)."
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0.5,
+          "display": "Est savings of 0\u00a0KiB",
+          "description": "A long cache lifetime can speed up repeat visits to your page. [Learn more about caching](https://developer.chrome.com/docs/performance/insights/cache)."
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "score": 0.78,
+          "display": "170\u00a0ms",
+          "description": "The maximum potential First Input Delay that your users could experience is the duration of the longest task. [Learn more about the Maximum Potential First Input Delay metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-max-potential-fid/)."
+        }
+      ],
+      "passed_audits_count": 87,
+      "seo_audits": [
+        {
+          "id": "is-crawlable",
+          "title": "Page isn\u2019t blocked from indexing",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "document-title",
+          "title": "Document has a `<title>` element",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "score": 0,
+          "pass": false
+        },
+        {
+          "id": "http-status-code",
+          "title": "Page has successful HTTP status code",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "link-text",
+          "title": "Links have descriptive text",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "crawlable-anchors",
+          "title": "Links are crawlable",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "robots-txt",
+          "title": "robots.txt is valid",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "image-alt",
+          "title": "Image elements have `[alt]` attributes",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "hreflang",
+          "title": "Document has a valid `hreflang`",
+          "score": 1,
+          "pass": true
+        }
+      ],
+      "accessibility_audits": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "score": 0,
+          "display": ""
+        },
+        {
+          "id": "target-size",
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "score": 0,
+          "display": ""
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "score": 0,
+          "display": ""
+        }
+      ],
+      "audit_details": {
+        "trusted-types-xss": {
+          "title": "Mitigate DOM-based XSS with Trusted Types",
+          "headings": [
+            "description",
+            "severity"
+          ],
+          "items": [
+            {
+              "description": "No `Content-Security-Policy` header with Trusted Types directive found",
+              "severity": "High"
+            }
+          ],
+          "total_items": 1
+        },
+        "color-contrast": {
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'path': '0,HTML,1,BODY,87,MAIN,3,SECTION,0,DIV,0,DIV,1,DIV,8,DIV,0,A', 'explanation': 'Fix any of the following:\\n  Element has insufficient color contrast of 2.6 (foreground color: #ffffff, backgrou"
+            },
+            {
+              "node": "{'nodeLabel': 'G\u1ecdi 0963.953.533', 'lhId': '1-6-A', 'type': 'node', 'boundingRect': {'width': 380, 'bottom': 3568, 'left': 16, 'height': 47, 'right': 396, 'top': 3521}, 'selector': 'div.ttcqn-real-vide"
+            },
+            {
+              "node": "{'boundingRect': {'top': 22491, 'right': 346, 'height': 42, 'left': 66, 'bottom': 22533, 'width': 280}, 'selector': 'article.mtdt-about-member-card > div.mtdt-about-member-content > div.mtdt-about-mem"
+            },
+            {
+              "node": "{'lhId': '1-8-A', 'nodeLabel': 'G\u1ecdi ngay 0963.953.533', 'path': '0,HTML,1,BODY,87,MAIN,29,SECTION,3,DIV,9,DIV,1,DIV,0,A', 'explanation': 'Fix any of the following:\\n  Element has insufficient color co"
+            }
+          ],
+          "total_items": 4
+        },
+        "layout-shifts": {
+          "title": "Avoid large layout shifts",
+          "headings": [
+            "node",
+            "score"
+          ],
+          "items": [
+            {
+              "node": "{'boundingRect': {'left': 0, 'bottom': 33497, 'width': 412, 'top': 0, 'right': 412, 'height': 33497}, 'selector': 'body.home', 'type': 'node', 'snippet': '<body class=\"home wp-singular page-template p",
+              "score": 0.009721
+            }
+          ],
+          "total_items": 1
+        },
+        "main-thread-tasks": {
+          "title": "Tasks",
+          "headings": [
+            "startTime",
+            "duration"
+          ],
+          "items": [
+            {
+              "startTime": 810.239,
+              "duration": 15.383
+            },
+            {
+              "startTime": 1071.775,
+              "duration": 11.192
+            },
+            {
+              "startTime": 1083.148,
+              "duration": 81.081
+            },
+            {
+              "startTime": 1164.871,
+              "duration": 12.424
+            },
+            {
+              "startTime": 1178.104,
+              "duration": 128.42
+            }
+          ],
+          "total_items": 20
+        },
+        "server-response-time": {
+          "title": "Initial server response time was short",
+          "headings": [
+            "url",
+            "responseTime"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "responseTime": 192
+            }
+          ],
+          "total_items": 1
+        },
+        "unused-css-rules": {
+          "title": "Reduce unused CSS",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-home.min.css?ver=2026.06.20.2",
+              "totalBytes": 33274,
+              "wastedBytes": 11442
+            }
+          ],
+          "total_items": 1
+        },
+        "unused-javascript": {
+          "title": "Reduce unused JavaScript",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119&cx=c&gtm=4e66o1",
+              "totalBytes": 145592,
+              "wastedBytes": 106756
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5N59RCXC",
+              "totalBytes": 141984,
+              "wastedBytes": 83617
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-F2BXPJYKEG&cx=c&gtm=4e66o1",
+              "totalBytes": 159544,
+              "wastedBytes": 69163
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "totalBytes": 160182,
+              "wastedBytes": 64126
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119",
+              "totalBytes": 145626,
+              "wastedBytes": 56582
+            }
+          ],
+          "total_items": 5
+        },
+        "image-delivery-insight": {
+          "title": "Improve image delivery",
+          "headings": [
+            "node",
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "node": "{'nodeLabel': '\u0110\u1ed9i ng\u0169 k\u1ef9 thu\u1eadt vi\u00ean h\u00fat b\u1ec3 ph\u1ed1t v\u00e0 th\u00f4ng t\u1eafc c\u1ed1ng t\u1ea1i H\u1ea1 Long Qu\u1ea3ng Ninh', 'lhId': 'page-0-IMG', 'boundingRect': {'width': 364, 'bottom': 2782, 'left': -340, 'height': 273, 'right': 2",
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-ngu-ky-thuat-vien-hut-be-phot-thong-cong-ha-long-quang-ninh-1.webp",
+              "totalBytes": 340000,
+              "wastedBytes": 272373
+            },
+            {
+              "node": "{'snippet': '<img class=\"ttcqn-seo-hero-staff\" src=\"https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-\u2026\" srcset=\"https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home",
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh-640.webp",
+              "totalBytes": 49616,
+              "wastedBytes": 31661
+            },
+            {
+              "node": "{'snippet': '<img src=\"https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-\u2026\" alt=\"M\u00f4i Tr\u01b0\u1eddng \u0110\u00f4 Th\u1ecb S\u1ed1 1 Qu\u1ea3ng Ninh - ph\u1ee5c v\u1ee5 nhanh, s\u1ea1ch s\u1ebd\" class=\"ttcqn-brand-full-logo\" width",
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/logo-moi-truong-do-thi-so-1-quang-ninh-header.webp",
+              "totalBytes": 16860,
+              "wastedBytes": 11283
+            }
+          ],
+          "total_items": 3
+        },
+        "target-size": {
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'boundingRect': {'width': 8, 'bottom': 2772, 'left': 167, 'height': 8, 'right': 175, 'top': 2764}, 'selector': 'div.ttcqn-intro-image-wrapper > div#introSlider > div.ttcqn-intro-slider-dots > button."
+            },
+            {
+              "node": "{'nodeLabel': '\u1ea2nh 2', 'lhId': '1-23-BUTTON', 'boundingRect': {'top': 2762, 'height': 11, 'right': 190, 'left': 180, 'width': 11, 'bottom': 2773}, 'selector': 'div.ttcqn-intro-image-wrapper > div#intr"
+            },
+            {
+              "node": "{'nodeLabel': '\u1ea2nh 3', 'lhId': '1-24-BUTTON', 'boundingRect': {'top': 2764, 'right': 203, 'height': 8, 'left': 195, 'bottom': 2772, 'width': 8}, 'selector': 'div.ttcqn-intro-image-wrapper > div#introS"
+            },
+            {
+              "node": "{'path': '0,HTML,1,BODY,87,MAIN,3,SECTION,0,DIV,0,DIV,3,DIV,0,DIV,2,DIV,1,DIV,3,BUTTON', 'explanation': 'Fix any of the following:\\n  Target has insufficient size (8px by 8px, should be at least 24px "
+            },
+            {
+              "node": "{'snippet': '<button class=\"ttcqn-intro-dot\" onclick=\"introGoTo(4)\" role=\"tab\" aria-label=\"\u1ea2nh 5\">', 'path': '0,HTML,1,BODY,87,MAIN,3,SECTION,0,DIV,0,DIV,3,DIV,0,DIV,2,DIV,1,DIV,4,BUTTON', 'explanatio"
+            }
+          ],
+          "total_items": 10
+        },
+        "bootup-time": {
+          "title": "JavaScript execution time",
+          "headings": [
+            "url",
+            "total",
+            "scripting",
+            "scriptParseCompile"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "total": 967.2936000000005,
+              "scripting": 14.329199999999998,
+              "scriptParseCompile": 6.263999999999997
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "total": 172.28160000000003,
+              "scripting": 112.78680000000001,
+              "scriptParseCompile": 56.242799999999995
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119",
+              "total": 157.44599999999994,
+              "scripting": 104.48159999999993,
+              "scriptParseCompile": 51.8196
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-F2BXPJYKEG&cx=c&gtm=4e66o1",
+              "total": 145.59839999999986,
+              "scripting": 85.95239999999987,
+              "scriptParseCompile": 58.6224
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5N59RCXC",
+              "total": 102.18960000000001,
+              "scripting": 54.337200000000024,
+              "scriptParseCompile": 47.14919999999999
+            }
+          ],
+          "total_items": 7
+        },
+        "non-composited-animations": {
+          "title": "Avoid non-composited animations",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'snippet': '<a href=\"tel:0963953533\" class=\"ttcqn-intro-btn-primary\" aria-label=\"G\u1ecdi \u0111\u1ed9i th\u1ee3 24/7 qua hotline 0963.953.533\">', 'path': '0,HTML,1,BODY,87,MAIN,3,SECTION,0,DIV,0,DIV,1,DIV,8,DIV,0,A', '"
+            },
+            {
+              "node": "{'lhId': 'page-11-::before', 'nodeLabel': 'body.home > nav.ttcqn-mls > a.ttcqn-mls-zalo > ::before', 'path': '0,HTML,1,BODY,110,NAV,1,A,0,::before', 'snippet': '<::before>', 'boundingRect': {'top': 76"
+            },
+            {
+              "node": "{'lhId': 'page-12-::before', 'nodeLabel': 'body.home > nav.ttcqn-mls > a.ttcqn-mls-call > ::before', 'path': '0,HTML,1,BODY,110,NAV,0,A,0,::before', 'snippet': '<::before>', 'type': 'node', 'selector'"
+            }
+          ],
+          "total_items": 3
+        },
+        "label-content-name-mismatch": {
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'lhId': '1-5-A', 'nodeLabel': 'G\u1ecdi 0963.953.533', 'explanation': 'Fix any of the following:\\n  Text inside the element is not included in the accessible name', 'snippet': '<a href=\"tel:0963953533\" cl"
+            },
+            {
+              "node": "{'boundingRect': {'width': 380, 'bottom': 3568, 'left': 16, 'height': 47, 'right': 396, 'top': 3521}, 'selector': 'div.ttcqn-real-video-container > div.ttcqn-real-video-content > div.ttcqn-real-video-"
+            },
+            {
+              "node": "{'nodeLabel': 'D\u1ecaCH V\u1ee4 01\\nT\u1eeb 200.000\u0111\\nH\u00fat b\u1ec3 ph\u1ed1t Qu\u1ea3ng Ninh\\nXe h\u00fat chuy\u00ean d\u1ee5ng x\u1eed l\u00fd b\u1ec3 \u0111\u1ea7y, \u2026', 'lhId': '1-9-A', 'type': 'node', 'boundingRect': {'left': 16, 'width': 380, 'bottom': 5320, 'top': "
+            },
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  Text inside the element is not included in the accessible name', 'snippet': '<a class=\"card anim ttcqn-service-card-link\" href=\"https://thongtaccongquangn"
+            },
+            {
+              "node": "{'lhId': '1-11-A', 'nodeLabel': 'D\u1ecaCH V\u1ee4 03\\nT\u1eeb 100.000\u0111\\nTh\u00f4ng t\u1eafc b\u1ed3n c\u1ea7u Qu\u1ea3ng Ninh\\nX\u1eed l\u00fd b\u1ed3n c\u1ea7u r\u00fat ch\u1eadm, ngh\u2026', 'explanation': 'Fix any of the following:\\n  Text inside the element is not inclu"
+            }
+          ],
+          "total_items": 16
+        },
+        "deprecations": {
+          "title": "Uses deprecated APIs",
+          "headings": [
+            "value",
+            "source"
+          ],
+          "items": [
+            {
+              "value": "Specifying overflow: visible on img, video and canvas tags may cause them to produce visual content outside of the element bounds. See https://github.com/WICG/shared-element-transitions/blob/main/debugging_overflow_on_images.md.",
+              "source": "https://thongtaccongquangninh.com/"
+            }
+          ],
+          "total_items": 1
+        },
+        "render-blocking-insight": {
+          "title": "Render-blocking requests",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedMs"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.6.1",
+              "totalBytes": 1250,
+              "wastedMs": 252
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-shared-footer.css?ver=1782534023",
+              "totalBytes": 5494,
+              "wastedMs": 684
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1",
+              "totalBytes": 5033,
+              "wastedMs": 684
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-home.min.css?ver=2026.06.20.2",
+              "totalBytes": 34003,
+              "wastedMs": 1116
+            }
+          ],
+          "total_items": 4
+        },
+        "identical-links-same-purpose": {
+          "title": "Identical links have the same purpose.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'boundingRect': {'width': 280, 'bottom': 22533, 'left': 66, 'height': 42, 'right': 346, 'top': 22491}, 'selector': 'article.mtdt-about-member-card > div.mtdt-about-member-content > div.mtdt-about-mem"
+            }
+          ],
+          "total_items": 1
+        },
+        "csp-xss": {
+          "title": "Ensure CSP is effective against XSS attacks",
+          "headings": [
+            "description",
+            "directive",
+            "severity"
+          ],
+          "items": [
+            {
+              "description": "`script-src` directive is missing. This can allow the execution of unsafe scripts.",
+              "directive": "script-src",
+              "severity": "High"
+            },
+            {
+              "description": "Missing `object-src` allows the injection of plugins that execute unsafe scripts. Consider setting `object-src` to `'none'` if you can.",
+              "directive": "object-src",
+              "severity": "High"
+            }
+          ],
+          "total_items": 2
+        },
+        "network-requests": {
+          "title": "Network Requests",
+          "headings": [
+            "url",
+            "protocol",
+            "networkRequestTime",
+            "networkEndTime",
+            "transferSize",
+            "resourceSize",
+            "statusCode",
+            "mimeType",
+            "resourceType"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "protocol": "h2",
+              "networkRequestTime": 1.0099999997764826,
+              "networkEndTime": 807.3319999985397,
+              "transferSize": 56715,
+              "resourceSize": 287151,
+              "statusCode": 200,
+              "mimeType": "text/html",
+              "resourceType": "Document"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.6.1",
+              "protocol": "h2",
+              "networkRequestTime": 824.4180000014603,
+              "networkEndTime": 1068.8969999998808,
+              "transferSize": 1250,
+              "resourceSize": 3356,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1",
+              "protocol": "h2",
+              "networkRequestTime": 824.5069999992847,
+              "networkEndTime": 1040.551000000909,
+              "transferSize": 5033,
+              "resourceSize": 19512,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-shared-footer.css?ver=1782534023",
+              "protocol": "h2",
+              "networkRequestTime": 824.5789999999106,
+              "networkEndTime": 1041.0249999985099,
+              "transferSize": 5494,
+              "resourceSize": 25411,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/logo-moi-truong-do-thi-so-1-quang-ninh-header.webp",
+              "protocol": "h2",
+              "networkRequestTime": 824.9900000002235,
+              "networkEndTime": 1006.6009999997914,
+              "transferSize": 17400,
+              "resourceSize": 16860,
+              "statusCode": 200,
+              "mimeType": "image/webp",
+              "resourceType": "Image"
+            }
+          ],
+          "total_items": 35
+        },
+        "viewport-insight": {
+          "title": "Optimize viewport for mobile",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'nodeLabel': 'body.home > meta', 'lhId': 'page-14-META', 'boundingRect': {'top': 0, 'right': 0, 'height': 0, 'left': 0, 'bottom': 0, 'width': 0}, 'selector': 'body.home > meta', 'type': 'node', 'path"
+            }
+          ],
+          "total_items": 1
+        },
+        "js-libraries": {
+          "title": "Detected JavaScript libraries",
+          "headings": [
+            "name",
+            "version"
+          ],
+          "items": [
+            {
+              "name": "WordPress",
+              "version": "6.9.4"
+            }
+          ],
+          "total_items": 1
+        },
+        "dom-size-insight": {
+          "title": "Optimize DOM size",
+          "headings": [
+            "statistic",
+            "node",
+            "value"
+          ],
+          "items": [
+            {
+              "statistic": "Total elements",
+              "value": "{'value': 2141, 'granularity': 1, 'type': 'numeric'}"
+            },
+            {
+              "statistic": "DOM depth",
+              "node": "{'lhId': 'page-15-A', 'nodeLabel': 'H\u00fat b\u1ec3 ph\u1ed1t', 'snippet': '<a class=\"ttcqn-price-service-link\" href=\"https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/\">', 'path': '0,HTML,1,BODY,87,MAIN,18,",
+              "value": "{'type': 'numeric', 'granularity': 1, 'value': 12}"
+            },
+            {
+              "statistic": "Most children",
+              "node": "{'snippet': '<body class=\"home wp-singular page-template page-template-page-home page-template-page-\u2026\">', 'path': '0,HTML,1,BODY', 'boundingRect': {'left': 0, 'bottom': 33497, 'width': 412, 'top': 0, ",
+              "value": "{'value': 96, 'granularity': 1, 'type': 'numeric'}"
+            }
+          ],
+          "total_items": 3
+        },
+        "total-byte-weight": {
+          "title": "Avoids enormous network payloads",
+          "headings": [
+            "url",
+            "totalBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-ngu-ky-thuat-vien-hut-be-phot-thong-cong-ha-long-quang-ninh-1.webp",
+              "totalBytes": 340541
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xe-hut-be-phot-isuzu-chuyen-dung-moi-truong-do-thi-so-1-quang-ninh.webp",
+              "totalBytes": 328597
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-ngu-ky-thuat-moi-truong-do-thi-quang-ninh-san-sang-phuc-vu-24-7.webp",
+              "totalBytes": 229915
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bien-hieu-cong-ty-moi-truong-do-thi-so-1-quang-ninh-ha-long.webp",
+              "totalBytes": 206913
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "totalBytes": 160869
+            }
+          ],
+          "total_items": 10
+        },
+        "third-parties-insight": {
+          "title": "3rd parties",
+          "headings": [
+            "entity",
+            "transferSize",
+            "mainThreadTime"
+          ],
+          "items": [
+            {
+              "entity": "Google Tag Manager",
+              "transferSize": 756494,
+              "mainThreadTime": 514.9459999911487
+            },
+            {
+              "entity": "Google/Doubleclick Ads",
+              "transferSize": 4053,
+              "mainThreadTime": 1.5639999993145466
+            },
+            {
+              "entity": "Other Google APIs/SDKs",
+              "transferSize": 1777,
+              "mainThreadTime": 0
+            },
+            {
+              "entity": "Google Analytics",
+              "transferSize": 1618,
+              "mainThreadTime": 0
+            },
+            {
+              "entity": "google.com.vn",
+              "transferSize": 620,
+              "mainThreadTime": 0
+            }
+          ],
+          "total_items": 5
+        },
+        "network-server-latency": {
+          "title": "Server Backend Latencies",
+          "headings": [
+            "origin",
+            "serverResponseTime"
+          ],
+          "items": [
+            {
+              "origin": "https://thongtaccongquangninh.com",
+              "serverResponseTime": 49
+            },
+            {
+              "origin": "https://www.googletagmanager.com",
+              "serverResponseTime": 5
+            },
+            {
+              "origin": "https://ad.doubleclick.net",
+              "serverResponseTime": 1
+            },
+            {
+              "origin": "https://www.google.com",
+              "serverResponseTime": 1
+            },
+            {
+              "origin": "https://analytics.google.com",
+              "serverResponseTime": 1
+            }
+          ],
+          "total_items": 8
+        },
+        "unminified-css": {
+          "title": "Minify CSS",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-home.min.css?ver=2026.06.20.2",
+              "totalBytes": 34003,
+              "wastedBytes": 2941
+            }
+          ],
+          "total_items": 1
+        },
+        "cache-insight": {
+          "title": "Use efficient cache lifetimes",
+          "headings": [
+            "url",
+            "cacheLifetimeMs",
+            "totalBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1",
+              "cacheLifetimeMs": 604800000,
+              "totalBytes": 2315
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/js/back-to-top.min.js?ver=3.6.1",
+              "cacheLifetimeMs": 604800000,
+              "totalBytes": 973
+            }
+          ],
+          "total_items": 2
+        },
+        "mainthread-work-breakdown": {
+          "title": "Minimizes main-thread work",
+          "headings": [
+            "groupLabel",
+            "duration"
+          ],
+          "items": [
+            {
+              "groupLabel": "Style & Layout",
+              "duration": 414.53039999999993
+            },
+            {
+              "groupLabel": "Script Evaluation",
+              "duration": 392.56199999999774
+            },
+            {
+              "groupLabel": "Other",
+              "duration": 364.4423999999967
+            },
+            {
+              "groupLabel": "Script Parsing & Compilation",
+              "duration": 267.75839999999994
+            },
+            {
+              "groupLabel": "Rendering",
+              "duration": 211.61880000000102
+            }
+          ],
+          "total_items": 6
+        },
+        "aria-allowed-role": {
+          "title": "Uses ARIA roles only on compatible elements",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'lhId': '1-0-ARTICLE', 'nodeLabel': '1\\nG\u1ecdi hotline ho\u1eb7c Zalo\\n\\nTi\u1ebfp nh\u1eadn th\u00f4ng tin, \u0111\u1ecba ch\u1ec9 v\u00e0 m\u1ee9c \u0111\u1ed9 kh\u1ea9n c\u1ea5p.', 'path': '0,HTML,1,BODY,87,MAIN,14,SECTION,0,DIV,2,DIV,1,ARTICLE', 'explanation': 'F"
+            },
+            {
+              "node": "{'nodeLabel': '2\\nH\u1ecfi nhanh t\u00ecnh tr\u1ea1ng\\n\\nX\u00e1c \u0111\u1ecbnh \u0111i\u1ec3m t\u1eafc, m\u00f9i h\u00f4i, tr\u00e0o ng\u01b0\u1ee3c v\u00e0 nhu c\u1ea7u x\u1eed l\u00fd.', 'lhId': '1-1-ARTICLE', 'type': 'node', 'boundingRect': {'top': 11788, 'height': 98, 'right': 396, '"
+            },
+            {
+              "node": "{'boundingRect': {'top': 11899, 'height': 98, 'right': 396, 'left': 16, 'width': 380, 'bottom': 11997}, 'selector': 'section.home-process > div.home-process__container > div.home-process__steps > arti"
+            },
+            {
+              "node": "{'nodeLabel': '4\\nKi\u1ec3m tra v\u00e0 b\u00e1o gi\u00e1\\n\\nKh\u1ea3o s\u00e1t th\u1ef1c t\u1ebf, ch\u1ed1t chi ph\u00ed tr\u01b0\u1edbc khi thi c\u00f4ng.', 'lhId': '1-3-ARTICLE', 'boundingRect': {'width': 380, 'bottom': 12108, 'left': 16, 'height': 98, 'right': "
+            },
+            {
+              "node": "{'path': '0,HTML,1,BODY,87,MAIN,14,SECTION,0,DIV,2,DIV,5,ARTICLE', 'explanation': 'Fix any of the following:\\n  ARIA role listitem is not allowed for given element', 'snippet': '<article class=\"home-p"
+            }
+          ],
+          "total_items": 5
+        },
+        "origin-isolation": {
+          "title": "Ensure proper origin isolation with COOP",
+          "headings": [
+            "description",
+            "directive",
+            "severity"
+          ],
+          "items": [
+            {
+              "description": "No COOP header found",
+              "severity": "High"
+            }
+          ],
+          "total_items": 1
+        },
+        "resource-summary": {
+          "title": "Resources Summary",
+          "headings": [
+            "label",
+            "requestCount",
+            "transferSize"
+          ],
+          "items": [
+            {
+              "label": "Total",
+              "requestCount": 33,
+              "transferSize": 2375612
+            },
+            {
+              "label": "Image",
+              "requestCount": 14,
+              "transferSize": 1506507
+            },
+            {
+              "label": "Script",
+              "requestCount": 8,
+              "transferSize": 763290
+            },
+            {
+              "label": "Document",
+              "requestCount": 1,
+              "transferSize": 56715
+            },
+            {
+              "label": "Stylesheet",
+              "requestCount": 4,
+              "transferSize": 45780
+            }
+          ],
+          "total_items": 9
+        },
+        "long-tasks": {
+          "title": "Avoid long main-thread tasks",
+          "headings": [
+            "url",
+            "startTime",
+            "duration"
+          ],
+          "items": [
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "startTime": 7504.001850945996,
+              "duration": 167
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-F2BXPJYKEG&cx=c&gtm=4e66o1",
+              "startTime": 11104.001850945995,
+              "duration": 143
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119",
+              "startTime": 3429.001850945995,
+              "duration": 81
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5N59RCXC",
+              "startTime": 5604.001850945996,
+              "duration": 79
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "startTime": 1184.0018509459953,
+              "duration": 77
+            }
+          ],
+          "total_items": 7
+        },
+        "network-rtt": {
+          "title": "Network Round Trip Times",
+          "headings": [
+            "origin",
+            "rtt"
+          ],
+          "items": [
+            {
+              "origin": "https://ad.doubleclick.net",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://googleads.g.doubleclick.net",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://www.google.com",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://analytics.google.com",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://www.google-analytics.com",
+              "rtt": 0.8999999999999999
+            }
+          ],
+          "total_items": 8
+        }
+      },
+      "analysis_timestamp": "2026-06-27T04:24:07.608Z",
+      "error": null
+    },
+    "desktop": {
+      "url": "https://thongtaccongquangninh.com/",
+      "strategy": "desktop",
+      "lighthouse_scores": {
+        "performance": 80,
+        "accessibility": 94,
+        "best-practices": 77,
+        "seo": 92
+      },
+      "lab_metrics": {
+        "first-contentful-paint": {
+          "value": 642,
+          "display": "0.6\u00a0s",
+          "score": 0.98
+        },
+        "largest-contentful-paint": {
+          "value": 842,
+          "display": "0.8\u00a0s",
+          "score": 0.97
+        },
+        "total-blocking-time": {
+          "value": 418,
+          "display": "420\u00a0ms",
+          "score": 0.39
+        },
+        "cumulative-layout-shift": {
+          "value": 0.005926,
+          "display": "0.006",
+          "score": 1
+        },
+        "speed-index": {
+          "value": 1262.0142395371324,
+          "display": "1.3\u00a0s",
+          "score": 0.91
+        },
+        "interactive": {
+          "value": 2274.5116542662977,
+          "display": "2.3\u00a0s",
+          "score": 0.92
+        }
+      },
+      "field_metrics": {},
+      "opportunities": [
+        {
+          "id": "server-response-time",
+          "title": "Initial server response time was short",
+          "savings_ms": 110,
+          "description": "Keep the server response time for the main document short because all other requests depend on it. [Learn more about the Time to First Byte metric](https://developer.chrome.com/docs/lighthouse/performance/time-to-first-byte/)."
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "savings_ms": 80,
+          "description": "Reduce unused rules from stylesheets and defer CSS not used for above-the-fold content to decrease bytes consumed by network activity. [Learn how to reduce unused CSS](https://developer.chrome.com/docs/lighthouse/performance/unused-css-rules/)."
+        }
+      ],
+      "diagnostics": [
+        {
+          "id": "total-byte-weight",
+          "title": "Avoid enormous network payloads",
+          "display": "Total size was 2,817\u00a0KiB",
+          "score": 0.5,
+          "description": "Large network payloads cost users real money and are highly correlated with long load times. [Learn how to reduce payload sizes](https://developer.chrome.com/docs/lighthouse/performance/total-byte-weight/)."
+        },
+        {
+          "id": "mainthread-work-breakdown",
+          "title": "Minimize main-thread work",
+          "display": "2.4\u00a0s",
+          "score": 0,
+          "description": "Consider reducing the time spent parsing, compiling and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to minimize main-thread work](https://developer.chrome.com/docs/lighthouse/performance/mainthread-work-breakdown/)"
+        },
+        {
+          "id": "bootup-time",
+          "title": "JavaScript execution time",
+          "display": "0.9\u00a0s",
+          "score": 1,
+          "description": "Consider reducing the time spent parsing, compiling, and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to reduce Javascript execution time](https://developer.chrome.com/docs/lighthouse/performance/bootup-time/)."
+        },
+        {
+          "id": "layout-shifts",
+          "title": "Avoid large layout shifts",
+          "display": "1 layout shift found",
+          "score": 1,
+          "description": "These are the largest layout shifts observed on the page. Each table item represents a single layout shift, and shows the element that shifted the most. Below each item are possible root causes that led to the layout shift. Some of these layout shifts may not be included in the CLS metric value due to [windowing](https://web.dev/articles/cls#what_is_cls). [Learn how to improve CLS](https://web.dev/articles/optimize-cls)"
+        },
+        {
+          "id": "long-tasks",
+          "title": "Avoid long main-thread tasks",
+          "display": "7 long tasks found",
+          "score": 1,
+          "description": "Lists the longest tasks on the main thread, useful for identifying worst contributors to input delay. [Learn how to avoid long main-thread tasks](https://web.dev/articles/optimize-long-tasks)"
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "display": "Est savings of 371\u00a0KiB",
+          "score": 0.5,
+          "description": "Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/)."
+        },
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "display": "Est savings of 103\u00a0KiB",
+          "score": 0,
+          "description": "Reduce unused rules from stylesheets and defer CSS not used for above-the-fold content to decrease bytes consumed by network activity. [Learn how to reduce unused CSS](https://developer.chrome.com/docs/lighthouse/performance/unused-css-rules/)."
+        }
+      ],
+      "failed_audits": [
+        {
+          "id": "deprecations",
+          "title": "Uses deprecated APIs",
+          "score": 0,
+          "display": "1 warning found",
+          "description": "Deprecated APIs will eventually be removed from the browser. [Learn more about deprecated APIs](https://developer.chrome.com/docs/lighthouse/best-practices/deprecations/)."
+        },
+        {
+          "id": "forced-reflow-insight",
+          "title": "Forced reflow",
+          "score": 0,
+          "display": "",
+          "description": "A forced reflow occurs when JavaScript queries geometric properties (such as offsetWidth) after styles have been invalidated by a change to the DOM state. This can result in poor performance. Learn more about [forced reflows](https://developer.chrome.com/docs/performance/insights/forced-reflow) and possible mitigations."
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "score": 0,
+          "display": "Est savings of 975\u00a0KiB",
+          "description": "Reducing the download time of images can improve the perceived load time of the page and LCP. [Learn more about optimizing image size](https://developer.chrome.com/docs/performance/insights/image-delivery)"
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "score": 0,
+          "display": "Est savings of 80\u00a0ms",
+          "description": "Requests are blocking the page's initial render, which may delay LCP. [Deferring or inlining](https://developer.chrome.com/docs/performance/insights/render-blocking) can move these network requests out of the critical path."
+        },
+        {
+          "id": "mainthread-work-breakdown",
+          "title": "Minimize main-thread work",
+          "score": 0,
+          "display": "2.4\u00a0s",
+          "description": "Consider reducing the time spent parsing, compiling and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to minimize main-thread work](https://developer.chrome.com/docs/lighthouse/performance/mainthread-work-breakdown/)"
+        },
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "score": 0,
+          "display": "",
+          "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.12/color-contrast)."
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "score": 0,
+          "display": "",
+          "description": "Visible text labels that do not match the accessible name can result in a confusing experience for screen reader users. [Learn more about accessible names](https://dequeuniversity.com/rules/axe/4.12/label-content-name-mismatch)."
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0,
+          "display": "",
+          "description": "[Avoid chaining critical requests](https://developer.chrome.com/docs/performance/insights/network-dependency-tree) by reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load."
+        },
+        {
+          "id": "doctype",
+          "title": "Page lacks the HTML doctype, thus triggering quirks-mode",
+          "score": 0,
+          "display": "",
+          "description": "Specifying a doctype prevents the browser from switching to quirks-mode. [Learn more about the doctype declaration](https://developer.chrome.com/docs/lighthouse/best-practices/doctype/)."
+        },
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "score": 0,
+          "display": "",
+          "description": "Meta descriptions may be included in search results to concisely summarize page content. [Learn more about the meta description](https://developer.chrome.com/docs/lighthouse/seo/meta-description/)."
+        },
+        {
+          "id": "target-size",
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "score": 0,
+          "display": "",
+          "description": "Touch targets with sufficient size and spacing help users who may have difficulty targeting small controls to activate the targets. [Learn more about touch targets](https://dequeuniversity.com/rules/axe/4.12/target-size)."
+        },
+        {
+          "id": "lcp-discovery-insight",
+          "title": "LCP request discovery",
+          "score": 0,
+          "display": "",
+          "description": "[Optimize LCP](https://developer.chrome.com/docs/performance/insights/lcp-discovery) by making the LCP image discoverable from the HTML immediately, and avoiding lazy-loading"
+        },
+        {
+          "id": "total-blocking-time",
+          "title": "Total Blocking Time",
+          "score": 0.39,
+          "display": "420\u00a0ms",
+          "description": "Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. [Learn more about the Total Blocking Time metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-total-blocking-time/)."
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5,
+          "display": "Est savings of 191\u00a0KiB",
+          "description": "Your first network request is the most important. [Reduce its latency](https://developer.chrome.com/docs/performance/insights/document-latency) by avoiding redirects, ensuring a fast server response, and enabling text compression."
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 371\u00a0KiB",
+          "description": "Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/)."
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0.5,
+          "display": "Est savings of 1\u00a0KiB",
+          "description": "A long cache lifetime can speed up repeat visits to your page. [Learn more about caching](https://developer.chrome.com/docs/performance/insights/cache)."
+        },
+        {
+          "id": "unminified-css",
+          "title": "Minify CSS",
+          "score": 0.5,
+          "display": "Est savings of 18\u00a0KiB",
+          "description": "Minifying CSS files can reduce network payload sizes. [Learn how to minify CSS](https://developer.chrome.com/docs/lighthouse/performance/unminified-css/)."
+        },
+        {
+          "id": "unminified-javascript",
+          "title": "Minify JavaScript",
+          "score": 0.5,
+          "display": "Est savings of 2\u00a0KiB",
+          "description": "Minifying JavaScript files can reduce payload sizes and script parse time. [Learn how to minify JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unminified-javascript/)."
+        },
+        {
+          "id": "total-byte-weight",
+          "title": "Avoid enormous network payloads",
+          "score": 0.5,
+          "display": "Total size was 2,817\u00a0KiB",
+          "description": "Large network payloads cost users real money and are highly correlated with long load times. [Learn how to reduce payload sizes](https://developer.chrome.com/docs/lighthouse/performance/total-byte-weight/)."
+        },
+        {
+          "id": "max-potential-fid",
+          "title": "Max Potential First Input Delay",
+          "score": 0.54,
+          "display": "240\u00a0ms",
+          "description": "The maximum potential First Input Delay that your users could experience is the duration of the longest task. [Learn more about the Maximum Potential First Input Delay metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-max-potential-fid/)."
+        }
+      ],
+      "passed_audits_count": 86,
+      "seo_audits": [
+        {
+          "id": "is-crawlable",
+          "title": "Page isn\u2019t blocked from indexing",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "document-title",
+          "title": "Document has a `<title>` element",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "score": 0,
+          "pass": false
+        },
+        {
+          "id": "http-status-code",
+          "title": "Page has successful HTTP status code",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "link-text",
+          "title": "Links have descriptive text",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "crawlable-anchors",
+          "title": "Links are crawlable",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "robots-txt",
+          "title": "robots.txt is valid",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "image-alt",
+          "title": "Image elements have `[alt]` attributes",
+          "score": 1,
+          "pass": true
+        },
+        {
+          "id": "hreflang",
+          "title": "Document has a valid `hreflang`",
+          "score": 1,
+          "pass": true
+        }
+      ],
+      "accessibility_audits": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "score": 0,
+          "display": ""
+        },
+        {
+          "id": "target-size",
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "score": 0,
+          "display": ""
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "score": 0,
+          "display": ""
+        }
+      ],
+      "audit_details": {
+        "layout-shifts": {
+          "title": "Avoid large layout shifts",
+          "headings": [
+            "node",
+            "score"
+          ],
+          "items": [
+            {
+              "node": "{'type': 'node', 'nodeLabel': 'body.home', 'boundingRect': {'left': 0, 'top': 0, 'width': 1335, 'right': 1335, 'height': 19243, 'bottom': 19243}, 'lhId': 'page-12-BODY', 'path': '0,HTML,1,BODY', 'snip",
+              "score": 0.005926
+            }
+          ],
+          "total_items": 1
+        },
+        "csp-xss": {
+          "title": "Ensure CSP is effective against XSS attacks",
+          "headings": [
+            "description",
+            "directive",
+            "severity"
+          ],
+          "items": [
+            {
+              "description": "`script-src` directive is missing. This can allow the execution of unsafe scripts.",
+              "directive": "script-src",
+              "severity": "High"
+            },
+            {
+              "description": "Missing `object-src` allows the injection of plugins that execute unsafe scripts. Consider setting `object-src` to `'none'` if you can.",
+              "directive": "object-src",
+              "severity": "High"
+            }
+          ],
+          "total_items": 2
+        },
+        "identical-links-same-purpose": {
+          "title": "Identical links have the same purpose.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'type': 'node', 'nodeLabel': 'Xem h\u1ed3 s\u01a1', 'boundingRect': {'width': 182, 'right': 271, 'top': 13343, 'left': 90, 'bottom': 13385, 'height': 42}, 'lhId': '1-7-A', 'path': '0,HTML,1,BODY,89,MAIN,24,SEC"
+            }
+          ],
+          "total_items": 1
+        },
+        "unused-javascript": {
+          "title": "Reduce unused JavaScript",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119&cx=c&gtm=4e66o1",
+              "totalBytes": 145536,
+              "wastedBytes": 106710
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5N59RCXC",
+              "totalBytes": 141984,
+              "wastedBytes": 83617
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-F2BXPJYKEG&cx=c&gtm=4e66o1",
+              "totalBytes": 159546,
+              "wastedBytes": 68383
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "totalBytes": 160182,
+              "wastedBytes": 64126
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119",
+              "totalBytes": 146252,
+              "wastedBytes": 56790
+            }
+          ],
+          "total_items": 5
+        },
+        "deprecations": {
+          "title": "Uses deprecated APIs",
+          "headings": [
+            "value",
+            "source"
+          ],
+          "items": [
+            {
+              "value": "Specifying overflow: visible on img, video and canvas tags may cause them to produce visual content outside of the element bounds. See https://github.com/WICG/shared-element-transitions/blob/main/debugging_overflow_on_images.md.",
+              "source": "https://thongtaccongquangninh.com/"
+            }
+          ],
+          "total_items": 1
+        },
+        "resource-summary": {
+          "title": "Resources Summary",
+          "headings": [
+            "label",
+            "requestCount",
+            "transferSize"
+          ],
+          "items": [
+            {
+              "label": "Total",
+              "requestCount": 39,
+              "transferSize": 2884696
+            },
+            {
+              "label": "Image",
+              "requestCount": 19,
+              "transferSize": 1578930
+            },
+            {
+              "label": "Script",
+              "requestCount": 9,
+              "transferSize": 773382
+            },
+            {
+              "label": "Document",
+              "requestCount": 1,
+              "transferSize": 292683
+            },
+            {
+              "label": "Stylesheet",
+              "requestCount": 4,
+              "transferSize": 236381
+            }
+          ],
+          "total_items": 9
+        },
+        "network-requests": {
+          "title": "Network Requests",
+          "headings": [
+            "url",
+            "protocol",
+            "networkRequestTime",
+            "networkEndTime",
+            "transferSize",
+            "resourceSize",
+            "statusCode",
+            "mimeType",
+            "resourceType"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "protocol": "h2",
+              "networkRequestTime": 5.406999945640564,
+              "networkEndTime": 737.5349999666214,
+              "transferSize": 292683,
+              "resourceSize": 291727,
+              "statusCode": 200,
+              "mimeType": "text/html",
+              "resourceType": "Document"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.6.1",
+              "protocol": "h2",
+              "networkRequestTime": 751.5369999408722,
+              "networkEndTime": 859.5939998626709,
+              "transferSize": 3941,
+              "resourceSize": 3356,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1",
+              "protocol": "h2",
+              "networkRequestTime": 751.6539998054504,
+              "networkEndTime": 818.5469999313354,
+              "transferSize": 20098,
+              "resourceSize": 19512,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-shared-footer.css?ver=1782534023",
+              "protocol": "h2",
+              "networkRequestTime": 751.8609999418259,
+              "networkEndTime": 885.1319999694824,
+              "transferSize": 25997,
+              "resourceSize": 25411,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet"
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/logo-moi-truong-do-thi-so-1-quang-ninh-header.webp",
+              "protocol": "h2",
+              "networkRequestTime": 752.4489998817444,
+              "networkEndTime": 904.7709999084473,
+              "transferSize": 17180,
+              "resourceSize": 16860,
+              "statusCode": 200,
+              "mimeType": "image/webp",
+              "resourceType": "Image"
+            }
+          ],
+          "total_items": 41
+        },
+        "network-rtt": {
+          "title": "Network Round Trip Times",
+          "headings": [
+            "origin",
+            "rtt"
+          ],
+          "items": [
+            {
+              "origin": "https://ad.doubleclick.net",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://googleads.g.doubleclick.net",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://www.google.com",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://analytics.google.com",
+              "rtt": 0.8999999999999999
+            },
+            {
+              "origin": "https://www.google-analytics.com",
+              "rtt": 0.8999999999999999
+            }
+          ],
+          "total_items": 8
+        },
+        "aria-allowed-role": {
+          "title": "Uses ARIA roles only on compatible elements",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'selector': 'section.home-process > div.home-process__container > div.home-process__steps > article.home-process__step', 'snippet': '<article class=\"home-process__step\" role=\"listitem\" style=\"--i:0;\""
+            },
+            {
+              "node": "{'path': '0,HTML,1,BODY,89,MAIN,14,SECTION,0,DIV,2,DIV,2,ARTICLE', 'snippet': '<article class=\"home-process__step\" role=\"listitem\" style=\"--i:1;\">', 'selector': 'section.home-process > div.home-proces"
+            },
+            {
+              "node": "{'snippet': '<article class=\"home-process__step\" role=\"listitem\" style=\"--i:2;\">', 'selector': 'section.home-process > div.home-process__container > div.home-process__steps > article.home-process__ste"
+            },
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  ARIA role listitem is not allowed for given element', 'type': 'node', 'nodeLabel': '4\\nKi\u1ec3m tra v\u00e0 b\u00e1o gi\u00e1\\n\\nKh\u1ea3o s\u00e1t th\u1ef1c t\u1ebf, ch\u1ed1t chi ph\u00ed tr\u01b0\u1edbc khi thi"
+            },
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  ARIA role listitem is not allowed for given element', 'type': 'node', 'nodeLabel': '5\\nThi c\u00f4ng v\u00e0 b\u00e0n giao\\n\\nX\u1eed l\u00fd, v\u1ec7 sinh khu v\u1ef1c, x\u1ea3 th\u1eed v\u00e0 ghi r\u00f5 b\u1ea3"
+            }
+          ],
+          "total_items": 5
+        },
+        "unused-css-rules": {
+          "title": "Reduce unused CSS",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-home.min.css?ver=2026.06.20.2",
+              "totalBytes": 185758,
+              "wastedBytes": 88000
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1",
+              "totalBytes": 19512,
+              "wastedBytes": 17342
+            }
+          ],
+          "total_items": 2
+        },
+        "origin-isolation": {
+          "title": "Ensure proper origin isolation with COOP",
+          "headings": [
+            "description",
+            "directive",
+            "severity"
+          ],
+          "items": [
+            {
+              "description": "No COOP header found",
+              "severity": "High"
+            }
+          ],
+          "total_items": 1
+        },
+        "image-delivery-insight": {
+          "title": "Improve image delivery",
+          "headings": [
+            "node",
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "node": "{'type': 'node', 'nodeLabel': '\u0110\u1ed9i ng\u0169 k\u1ef9 thu\u1eadt vi\u00ean h\u00fat b\u1ec3 ph\u1ed1t v\u00e0 th\u00f4ng t\u1eafc c\u1ed1ng t\u1ea1i H\u1ea1 Long Qu\u1ea3ng Ninh', 'boundingRect': {'height': 480, 'bottom': 1652, 'left': 25, 'top': 1172, 'width': 640, 'righ",
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-ngu-ky-thuat-vien-hut-be-phot-thong-cong-ha-long-quang-ninh-1.webp",
+              "totalBytes": 340000,
+              "wastedBytes": 271734
+            },
+            {
+              "node": "{'nodeLabel': 'Bi\u1ec3n hi\u1ec7u c\u1ed5ng C\u00f4ng ty M\u00f4i Tr\u01b0\u1eddng \u0110\u00f4 Th\u1ecb S\u1ed1 1 Qu\u1ea3ng Ninh t\u1ea1i H\u1ea1 Long', 'boundingRect': {'left': -615, 'top': 1172, 'width': 640, 'right': 25, 'height': 480, 'bottom': 1652}, 'type': 'no",
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bien-hieu-cong-ty-moi-truong-do-thi-so-1-quang-ninh-ha-long.webp",
+              "totalBytes": 206372,
+              "wastedBytes": 152040
+            },
+            {
+              "node": "{'lhId': 'page-2-IMG', 'boundingRect': {'width': 46, 'right': 848, 'top': 4081, 'left': 802, 'bottom': 4127, 'height': 46}, 'type': 'node', 'nodeLabel': 'Ch\u00ednh s\u00e1ch b\u1ea3o h\u00e0nh d\u1ecbch v\u1ee5 th\u00f4ng t\u1eafc c\u1ed1ng, h\u00fa",
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/service-icons/icon-dich-vu-cua-chung-toi-shield.png",
+              "totalBytes": 119388,
+              "wastedBytes": 119035
+            },
+            {
+              "node": "{'snippet': '<img class=\"card-img\" src=\"https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-\u2026\" alt=\"N\u1ea1o v\u00e9t h\u1ed1 ga v\u00e0 kh\u01a1i th\u00f4ng tho\u00e1t n\u01b0\u1edbc t\u1ea1i Qu\u1ea3ng Ninh\" width=\"720\" height=\"540",
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/service-images/service-nao-vet-ho-ga-quang-ninh-24-7.webp",
+              "totalBytes": 104530,
+              "wastedBytes": 98535
+            },
+            {
+              "node": "{'selector': 'div.grid-3 > a.card > span.card-img-wrap > img.card-img', 'snippet': '<img class=\"card-img\" src=\"https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-\u2026\" alt=\"K\u1ef9 thu\u1ead",
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/service-images/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp",
+              "totalBytes": 100340,
+              "wastedBytes": 94345
+            }
+          ],
+          "total_items": 11
+        },
+        "cache-insight": {
+          "title": "Use efficient cache lifetimes",
+          "headings": [
+            "url",
+            "cacheLifetimeMs",
+            "totalBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1",
+              "cacheLifetimeMs": 604800000,
+              "totalBytes": 7932
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+              "cacheLifetimeMs": 604800000,
+              "totalBytes": 3539
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/js/back-to-top.min.js?ver=3.6.1",
+              "cacheLifetimeMs": 604800000,
+              "totalBytes": 1335
+            }
+          ],
+          "total_items": 3
+        },
+        "server-response-time": {
+          "title": "Initial server response time was short",
+          "headings": [
+            "url",
+            "responseTime"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "responseTime": 210
+            }
+          ],
+          "total_items": 1
+        },
+        "dom-size-insight": {
+          "title": "Optimize DOM size",
+          "headings": [
+            "statistic",
+            "node",
+            "value"
+          ],
+          "items": [
+            {
+              "statistic": "Total elements",
+              "value": "{'type': 'numeric', 'value': 2180, 'granularity': 1}"
+            },
+            {
+              "statistic": "DOM depth",
+              "node": "{'path': '0,HTML,1,BODY,89,MAIN,18,SECTION,0,DIV,0,DIV,2,DIV,0,DIV,0,TABLE,1,TBODY,0,TR,0,TD,0,A', 'snippet': '<a class=\"ttcqn-price-service-link\" href=\"https://thongtaccongquangninh.com/hut-be-phot-q",
+              "value": "{'type': 'numeric', 'value': 12, 'granularity': 1}"
+            },
+            {
+              "statistic": "Most children",
+              "node": "{'snippet': '<body class=\"home wp-singular page-template page-template-page-home page-template-page-\u2026\">', 'selector': 'body.home', 'path': '0,HTML,1,BODY', 'lhId': 'page-12-BODY', 'nodeLabel': 'body.h",
+              "value": "{'granularity': 1, 'value': 102, 'type': 'numeric'}"
+            }
+          ],
+          "total_items": 3
+        },
+        "js-libraries": {
+          "title": "Detected JavaScript libraries",
+          "headings": [
+            "name",
+            "version"
+          ],
+          "items": [
+            {
+              "name": "WordPress",
+              "version": "6.9.4"
+            },
+            {
+              "name": "WP Rocket"
+            }
+          ],
+          "total_items": 2
+        },
+        "render-blocking-insight": {
+          "title": "Render-blocking requests",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedMs"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.6.1",
+              "totalBytes": 3941
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1",
+              "totalBytes": 20098,
+              "wastedMs": 163
+            }
+          ],
+          "total_items": 2
+        },
+        "non-composited-animations": {
+          "title": "Avoid non-composited animations",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'lhId': 'page-19-A', 'type': 'node', 'nodeLabel': 'G\u1ecdi 0963.953.533', 'boundingRect': {'left': 20, 'top': 1891, 'width': 215, 'right': 235, 'height': 52, 'bottom': 1943}, 'selector': 'div.ttcqn-intro"
+            }
+          ],
+          "total_items": 1
+        },
+        "mainthread-work-breakdown": {
+          "title": "Minimize main-thread work",
+          "headings": [
+            "groupLabel",
+            "duration"
+          ],
+          "items": [
+            {
+              "groupLabel": "Other",
+              "duration": 652.0439999999968
+            },
+            {
+              "groupLabel": "Script Evaluation",
+              "duration": 577.7439999999921
+            },
+            {
+              "groupLabel": "Style & Layout",
+              "duration": 517.8220000000001
+            },
+            {
+              "groupLabel": "Script Parsing & Compilation",
+              "duration": 324.1749999999999
+            },
+            {
+              "groupLabel": "Rendering",
+              "duration": 237.93800000000746
+            }
+          ],
+          "total_items": 6
+        },
+        "color-contrast": {
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'boundingRect': {'bottom': 1943, 'height': 52, 'top': 1891, 'width': 215, 'right': 235, 'left': 20}, 'type': 'node', 'nodeLabel': 'G\u1ecdi 0963.953.533', 'lhId': '1-5-A', 'path': '0,HTML,1,BODY,89,MAIN,3"
+            },
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  Element has insufficient color contrast of 2.6 (foreground color: #ffffff, background color: #36b757, font size: 11.3pt (15px), font weight: bold). Expect"
+            },
+            {
+              "node": "{'lhId': '1-7-A', 'boundingRect': {'height': 42, 'bottom': 13385, 'left': 90, 'width': 182, 'right': 271, 'top': 13343}, 'type': 'node', 'nodeLabel': 'Xem h\u1ed3 s\u01a1', 'snippet': '<a href=\"https://thongtac"
+            },
+            {
+              "node": "{'type': 'node', 'nodeLabel': 'G\u1ecdi ngay 0963.953.533', 'boundingRect': {'width': 329, 'right': 881, 'top': 15538, 'left': 552, 'bottom': 15588, 'height': 50}, 'lhId': '1-8-A', 'path': '0,HTML,1,BODY,8"
+            }
+          ],
+          "total_items": 4
+        },
+        "bootup-time": {
+          "title": "JavaScript execution time",
+          "headings": [
+            "url",
+            "total",
+            "scripting",
+            "scriptParseCompile"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "total": 1399.445000000008,
+              "scripting": 36.77799999999999,
+              "scriptParseCompile": 8.476
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "total": 237.92899999999966,
+              "scripting": 163.36599999999964,
+              "scriptParseCompile": 71.37100000000001
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119",
+              "total": 205.47599999999977,
+              "scripting": 144.72099999999978,
+              "scriptParseCompile": 59.694
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-F2BXPJYKEG&cx=c&gtm=4e66o1",
+              "total": 187.742,
+              "scripting": 125.78899999999997,
+              "scriptParseCompile": 60.67
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5N59RCXC",
+              "total": 139.91100000000012,
+              "scripting": 79.59200000000011,
+              "scriptParseCompile": 59.684
+            }
+          ],
+          "total_items": 7
+        },
+        "label-content-name-mismatch": {
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  Text inside the element is not included in the accessible name', 'snippet': '<a href=\"tel:0963953533\" class=\"nav-cta ttcqn-header-call\" role=\"menuitem\" ar"
+            },
+            {
+              "node": "{'lhId': '1-5-A', 'boundingRect': {'top': 1891, 'right': 235, 'width': 215, 'left': 20, 'bottom': 1943, 'height': 52}, 'type': 'node', 'nodeLabel': 'G\u1ecdi 0963.953.533', 'selector': 'div.ttcqn-intro-gri"
+            },
+            {
+              "node": "{'path': '0,HTML,1,BODY,89,MAIN,5,SECTION,0,DIV,0,DIV,4,DIV,0,A', 'snippet': '<a class=\"ttcqn-real-video-btn primary\" href=\"tel:0963953533\" aria-label=\"G\u1ecdi hotline 0963.953.533 \u0111\u1ec3 \u0111\u1eb7t d\u1ecbch v\u1ee5 t\u1ea1i H\u1ea1 L"
+            },
+            {
+              "node": "{'snippet': '<a class=\"card anim ttcqn-service-card-link\" href=\"https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/\" aria-label=\"Xem chi ti\u1ebft h\u00fat b\u1ec3 ph\u1ed1t\">', 'selector': 'main#main-content > sec"
+            },
+            {
+              "node": "{'snippet': '<a class=\"card anim ttcqn-service-card-link\" href=\"https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/\" aria-label=\"Xem d\u1ecbch v\u1ee5 th\u00f4ng t\u1eafc c\u1ed1ng\">', 'selector': 'main#main-content "
+            }
+          ],
+          "total_items": 17
+        },
+        "third-parties-insight": {
+          "title": "3rd parties",
+          "headings": [
+            "entity",
+            "transferSize",
+            "mainThreadTime"
+          ],
+          "items": [
+            {
+              "entity": "Google Tag Manager",
+              "transferSize": 757064,
+              "mainThreadTime": 823.7769998311996
+            },
+            {
+              "entity": "Google/Doubleclick Ads",
+              "transferSize": 4057,
+              "mainThreadTime": 2.1009998321533203
+            },
+            {
+              "entity": "Other Google APIs/SDKs",
+              "transferSize": 1777,
+              "mainThreadTime": 0
+            },
+            {
+              "entity": "Google Analytics",
+              "transferSize": 1618,
+              "mainThreadTime": 0
+            },
+            {
+              "entity": "google.com.vn",
+              "transferSize": 620,
+              "mainThreadTime": 0
+            }
+          ],
+          "total_items": 5
+        },
+        "unminified-css": {
+          "title": "Minify CSS",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-home.min.css?ver=2026.06.20.2",
+              "totalBytes": 186345,
+              "wastedBytes": 16118
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-shared-footer.css?ver=1782534023",
+              "totalBytes": 25997,
+              "wastedBytes": 2056
+            }
+          ],
+          "total_items": 2
+        },
+        "long-tasks": {
+          "title": "Avoid long main-thread tasks",
+          "headings": [
+            "url",
+            "startTime",
+            "duration"
+          ],
+          "items": [
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "startTime": 1666.0097606920417,
+              "duration": 235
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-F2BXPJYKEG&cx=c&gtm=4e66o1",
+              "startTime": 2346.01639796263,
+              "duration": 185
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "startTime": 488,
+              "duration": 166
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=AW-18031795119",
+              "startTime": 988.0035138491351,
+              "duration": 104
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5N59RCXC",
+              "startTime": 1128.005856415225,
+              "duration": 101
+            }
+          ],
+          "total_items": 7
+        },
+        "viewport-insight": {
+          "title": "Optimize viewport for mobile",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'lhId': 'page-21-META', 'boundingRect': {'bottom': 0, 'height': 0, 'width': 0, 'right': 0, 'top': 0, 'left': 0}, 'type': 'node', 'nodeLabel': 'body.home > meta', 'selector': 'body.home > meta', 'snip"
+            }
+          ],
+          "total_items": 1
+        },
+        "unminified-javascript": {
+          "title": "Minify JavaScript",
+          "headings": [
+            "url",
+            "totalBytes",
+            "wastedBytes"
+          ],
+          "items": [
+            {
+              "url": "inline: \n/* === PREMIUM FOOTER INTERACTIONS ===\u2026",
+              "totalBytes": 11333,
+              "wastedBytes": 2324
+            }
+          ],
+          "total_items": 1
+        },
+        "network-server-latency": {
+          "title": "Server Backend Latencies",
+          "headings": [
+            "origin",
+            "serverResponseTime"
+          ],
+          "items": [
+            {
+              "origin": "https://www.googletagmanager.com",
+              "serverResponseTime": 6
+            },
+            {
+              "origin": "https://thongtaccongquangninh.com",
+              "serverResponseTime": 2
+            },
+            {
+              "origin": "https://googleads.g.doubleclick.net",
+              "serverResponseTime": 2
+            },
+            {
+              "origin": "https://ad.doubleclick.net",
+              "serverResponseTime": 1
+            },
+            {
+              "origin": "https://www.google.com",
+              "serverResponseTime": 1
+            }
+          ],
+          "total_items": 8
+        },
+        "total-byte-weight": {
+          "title": "Avoid enormous network payloads",
+          "headings": [
+            "url",
+            "totalBytes"
+          ],
+          "items": [
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-ngu-ky-thuat-vien-hut-be-phot-thong-cong-ha-long-quang-ninh-1.webp",
+              "totalBytes": 340541
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/",
+              "totalBytes": 292683
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bien-hieu-cong-ty-moi-truong-do-thi-so-1-quang-ninh-ha-long.webp",
+              "totalBytes": 206913
+            },
+            {
+              "url": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-home.min.css?ver=2026.06.20.2",
+              "totalBytes": 186345
+            },
+            {
+              "url": "https://www.googletagmanager.com/gtag/js?id=G-KDPB94Y7Y7&cx=c&gtm=4e66o1",
+              "totalBytes": 160869
+            }
+          ],
+          "total_items": 10
+        },
+        "trusted-types-xss": {
+          "title": "Mitigate DOM-based XSS with Trusted Types",
+          "headings": [
+            "description",
+            "severity"
+          ],
+          "items": [
+            {
+              "description": "No `Content-Security-Policy` header with Trusted Types directive found",
+              "severity": "High"
+            }
+          ],
+          "total_items": 1
+        },
+        "target-size": {
+          "title": "Touch targets do not have sufficient size or spacing.",
+          "headings": [
+            "node"
+          ],
+          "items": [
+            {
+              "node": "{'lhId': '1-23-BUTTON', 'nodeLabel': '\u1ea2nh 1', 'boundingRect': {'bottom': 1642, 'height': 8, 'top': 1634, 'width': 8, 'right': 954, 'left': 946}, 'type': 'node', 'snippet': '<button class=\"ttcqn-intro-"
+            },
+            {
+              "node": "{'type': 'node', 'nodeLabel': '\u1ea2nh 2', 'boundingRect': {'width': 11, 'right': 969, 'top': 1633, 'left': 958, 'bottom': 1644, 'height': 11}, 'lhId': '1-24-BUTTON', 'path': '0,HTML,1,BODY,89,MAIN,3,SECT"
+            },
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  Target has insufficient size (8px by 8px, should be at least 24px by 24px)\\n  Target has insufficient space to its closest neighbors. Safe clickable space"
+            },
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  Target has insufficient size (8px by 8px, should be at least 24px by 24px)\\n  Target has insufficient space to its closest neighbors. Safe clickable space"
+            },
+            {
+              "node": "{'explanation': 'Fix any of the following:\\n  Target has insufficient size (8px by 8px, should be at least 24px by 24px)\\n  Target has insufficient space to its closest neighbors. Safe clickable space"
+            }
+          ],
+          "total_items": 8
+        },
+        "main-thread-tasks": {
+          "title": "Tasks",
+          "headings": [
+            "startTime",
+            "duration"
+          ],
+          "items": [
+            {
+              "startTime": 741.245,
+              "duration": 18.039
+            },
+            {
+              "startTime": 761.253,
+              "duration": 6.736
+            },
+            {
+              "startTime": 931.762,
+              "duration": 10.304
+            },
+            {
+              "startTime": 942.885,
+              "duration": 14.474
+            },
+            {
+              "startTime": 958.398,
+              "duration": 331.14
+            }
+          ],
+          "total_items": 59
+        }
+      },
+      "analysis_timestamp": "2026-06-27T04:24:28.762Z",
+      "error": null
+    }
+  },
+  "crux": {
+    "target": "https://thongtaccongquangninh.com/",
+    "metrics": {},
+    "collection_period": null,
+    "form_factor": "ALL",
+    "error": "CrUX API request failed: 403 Client Error: Forbidden for url: https://chromeuxreport.googleapis.com/v1/records:queryRecord"
+  },
+  "error": null
+}

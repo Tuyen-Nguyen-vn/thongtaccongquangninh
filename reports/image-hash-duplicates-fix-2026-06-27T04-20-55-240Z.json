@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-27T04:20:55.249Z",
+  "backupDir": null,
+  "targets": [
+    {
+      "id": 2054,
+      "type": "posts",
+      "slug": "thong-tac-cong-bai-chay",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "changed": true,
+      "replaced": 1,
+      "beforeHasOld": true,
+      "afterHasOld": false,
+      "afterHasNew": true,
+      "media": null,
+      "liveVerify": null
+    },
+    {
+      "id": 282,
+      "type": "pages",
+      "slug": "chinh-sach-bao-mat",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "changed": false,
+      "replaced": 0,
+      "beforeHasOld": false,
+      "afterHasOld": false,
+      "afterHasNew": true,
+      "media": null,
+      "liveVerify": null
+    }
+  ]
+}

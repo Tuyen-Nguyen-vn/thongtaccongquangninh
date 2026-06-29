@@ -1,0 +1,91 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-03T15:00:57.444Z",
+  "target": {
+    "id": 2332,
+    "collection": "posts",
+    "slug": "cam-nang-thong-tac-cong-tai-ha-long",
+    "url": "https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-cam-nang-ha-long-2026-06-03T15-00-55-487Z",
+  "newTitle": "Cẩm nang thông tắc cống tại Hạ Long: xử lý nhanh theo từng khu",
+  "newTitleLen": 62,
+  "newDesc": "Cẩm nang thông tắc cống tại Hạ Long theo từng khu: Hồng Gai, Bãi Cháy, Cao Xanh, Hà Khẩu, Giếng Đáy. Gọi 0963.953.533 / 0931.156.756 xử lý 24/7, không đục phá.",
+  "newDescLen": 159,
+  "before": {
+    "title": "Thông Tắc Cống Tại Hạ Long: Cẩm Nang Xử Lý Nhanh Theo Từng Khu",
+    "excerpt": "Thông tắc cống tại Hạ Long theo từng khu — Hồng Gai, Bãi Cháy, Cao Xanh, Hà Khẩu, Giếng Đáy. Gọi 0963.953.533 xử lý 24/7, không đục phá.",
+    "rawWordCount": 3757,
+    "rawH1Count": 0,
+    "rawH2Count": 11,
+    "images": 5,
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false,
+    "forbidden": {
+      "chuyenNghiep": 1,
+      "uyTin": 1
+    }
+  },
+  "update": {
+    "replacements": [
+      {
+        "label": "remove_toc",
+        "changed": true,
+        "beforeWords": 91,
+        "afterWords": 0
+      },
+      {
+        "label": "shorten_when_to_call",
+        "changed": true,
+        "beforeWords": 316,
+        "afterWords": 137
+      },
+      {
+        "label": "shorten_causes",
+        "changed": true,
+        "beforeWords": 428,
+        "afterWords": 123
+      },
+      {
+        "label": "shorten_local_sections",
+        "changed": true,
+        "beforeWords": 636,
+        "afterWords": 133
+      },
+      {
+        "label": "shorten_pricing",
+        "changed": true,
+        "beforeWords": 305,
+        "afterWords": 134
+      },
+      {
+        "label": "shorten_process",
+        "changed": true,
+        "beforeWords": 292,
+        "afterWords": 104
+      },
+      {
+        "label": "replace_case_with_common_situations",
+        "changed": true,
+        "beforeWords": 453,
+        "afterWords": 110
+      }
+    ],
+    "afterRawWordCount": 1989,
+    "afterRawH1Count": 0,
+    "afterRawH2Count": 10,
+    "images": 3,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "forbidden": {
+      "chuyenNghiep": 0,
+      "uyTin": 0
+    },
+    "finalAuthorLine": true
+  },
+  "rankMath": null,
+  "verify": null
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "thong-tac-cong-bai-chay",
+  "status": "READY_FOR_REVIEW",
+  "service": "thông tắc cống",
+  "area": "Bãi Cháy",
+  "sourceType": "real",
+  "images": [
+    {
+      "slot": "hero",
+      "type": "đầu bài",
+      "placement": "sau mở bài",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-bai-chay\\thong-tac-cong-bai-chay-may-lo-xo-quang-ninh-01.webp",
+      "fileName": "thong-tac-cong-bai-chay-may-lo-xo-quang-ninh-01.webp",
+      "fileSizeKb": 106,
+      "altText": "Thông tắc cống Bãi Cháy bằng máy lò xo – Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "title": "Thông tắc cống Bãi Cháy",
+      "caption": "Dịch vụ thông tắc cống Bãi Cháy 24/7 – không đục phá, xử lý nhanh. Hotline: 0963.953.533",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "case-study",
+      "type": "case study",
+      "placement": "trong phần case study",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-bai-chay\\thong-tac-cong-bai-chay-kiem-tra-ho-ga-02.webp",
+      "fileName": "thong-tac-cong-bai-chay-kiem-tra-ho-ga-02.webp",
+      "fileSizeKb": 106,
+      "altText": "Kiểm tra hố ga thông tắc cống tắc nghẽn khu nhà hàng khách sạn Bãi Cháy",
+      "title": "Kiểm tra hố ga Bãi Cháy",
+      "caption": "Kiểm tra hố ga trước khi thông tắc cống Bãi Cháy – xác định đúng điểm tắc",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "process",
+      "type": "quy trình thi công",
+      "placement": "trong phần quy trình thi công",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-bai-chay\\thong-tac-cong-bai-chay-xu-ly-nha-hang-03.webp",
+      "fileName": "thong-tac-cong-bai-chay-xu-ly-nha-hang-03.webp",
+      "fileSizeKb": 149,
+      "altText": "Thợ thi công thông tắc cống nhà hàng khách sạn Bãi Cháy không đục phá",
+      "title": "Thông cống nhà hàng Bãi Cháy",
+      "caption": "Thông tắc cống cho nhà hàng, khách sạn, homestay tại Bãi Cháy – gọi 0963.953.533 / 0931.156.756",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    }
+  ]
+}

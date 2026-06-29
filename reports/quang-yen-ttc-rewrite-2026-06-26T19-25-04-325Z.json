@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-06-26T19:25:07.591Z",
+  "mode": "apply",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-quang-yen-ttc-rewrite-2026-06-26T19-25-04-325Z",
+  "beforeMetrics": {
+    "words": 2213,
+    "h1Count": 0,
+    "h2Count": 16,
+    "tableCount": 2,
+    "figureCount": 3,
+    "faqSchemaCount": 0,
+    "repeatedCaptionCount": 2,
+    "internalLinks": 0,
+    "hasHotline": true,
+    "hasForbiddenClaims": false
+  },
+  "afterMetrics": {
+    "words": 1899,
+    "h1Count": 0,
+    "h2Count": 13,
+    "tableCount": 3,
+    "figureCount": 3,
+    "faqSchemaCount": 1,
+    "repeatedCaptionCount": 0,
+    "internalLinks": 6,
+    "hasHotline": true,
+    "hasForbiddenClaims": false
+  },
+  "gates": {
+    "noRawH1": true,
+    "enoughWords": true,
+    "hasTables": true,
+    "hasFigures": true,
+    "hasFaqSchema": true,
+    "hasInternalLinks": true,
+    "noRepeatedCaption": true,
+    "noForbiddenClaims": true
+  },
+  "okBeforeApply": true,
+  "update": {
+    "status": 200,
+    "id": 424,
+    "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/"
+  },
+  "rankMath": {
+    "status": 200,
+    "data": {
+      "slug": true,
+      "schemas": []
+    }
+  },
+  "live": {
+    "status": 200,
+    "h1Count": 1,
+    "canonicalOk": true,
+    "noindex": false,
+    "titleOk": true,
+    "descOk": true,
+    "body": {
+      "words": 2904,
+      "h1Count": 1,
+      "h2Count": 19,
+      "tableCount": 3,
+      "figureCount": 4,
+      "faqSchemaCount": 1,
+      "repeatedCaptionCount": 0,
+      "internalLinks": 6,
+      "hasHotline": true,
+      "hasForbiddenClaims": false
+    }
+  },
+  "okAfterApply": true
+}

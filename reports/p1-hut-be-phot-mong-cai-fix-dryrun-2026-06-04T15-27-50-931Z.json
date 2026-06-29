@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-04T15:27:52.782Z",
+  "target": {
+    "id": 55,
+    "collection": "pages",
+    "slug": "hut-be-phot-mong-cai",
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-p1-hut-be-phot-mong-cai-2026-06-04T15-27-50-931Z",
+  "title": "Hút Bể Phốt Móng Cái 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+  "titleLen": 64,
+  "metaDesc": "Hút bể phốt Móng Cái 24/7 sạch triệt để, thợ có mặt sau 15 phút, cam kết không đục phá bừa bãi, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756 ngay.",
+  "metaDescLen": 156,
+  "before": {
+    "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+    "excerpt": "Dịch vụ xử lý bể phốt, hầm cầu tại khu vực Móng Cái, đáp ứng nhanh cho kho bãi, chợ trung tâm và các hộ dân vùng biên.",
+    "contentLen": 11402,
+    "rawWordCount": 1231,
+    "keyword": {
+      "count": 5,
+      "total": 1231,
+      "density": 0.020308692120227456,
+      "densityPct": 2.03
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changed": true,
+    "contentLen": 18320,
+    "rawWordCount": 2494,
+    "keyword": {
+      "count": 4,
+      "total": 2494,
+      "density": 0.00801924619085806,
+      "densityPct": 0.8
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "hasFinalAuthor": true
+  },
+  "rankMath": null,
+  "rankScore": null,
+  "verify": null
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1300
+    },
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/projects-section-mockup-live-2026-05-18-final/desktop.png",
+    "before": {
+      "meta": "2026.05.18.24; direct-template",
+      "docWidth": 1440,
+      "winWidth": 1440,
+      "visibleCards": 6,
+      "activeFilter": "all",
+      "mobileItems": 5,
+      "ctaHref": "tel:0963953533",
+      "stickyHiddenInProjects": true,
+      "cardImages": [
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-hut-be-phot-ho-gia-dinh-ha-long.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-chau-rua-bai-chay.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-nao-vet-ho-ga-cam-pha.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-bon-cau-uong-bi.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-xu-ly-mui-hoi-quang-yen.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-cong-dong-trieu.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        }
+      ]
+    },
+    "afterFilter": {
+      "visibleCards": [
+        "Thông tắc bồn cầu nhà trọ"
+      ],
+      "activeFilter": "bon-cau",
+      "mobileItems": 0
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "viewport": {
+      "name": "tablet",
+      "width": 900,
+      "height": 1200
+    },
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/projects-section-mockup-live-2026-05-18-final/tablet.png",
+    "before": {
+      "meta": "2026.05.18.24; direct-template",
+      "docWidth": 900,
+      "winWidth": 900,
+      "visibleCards": 6,
+      "activeFilter": "all",
+      "mobileItems": 5,
+      "ctaHref": "tel:0963953533",
+      "stickyHiddenInProjects": true,
+      "cardImages": [
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-hut-be-phot-ho-gia-dinh-ha-long.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-chau-rua-bai-chay.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-nao-vet-ho-ga-cam-pha.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-bon-cau-uong-bi.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-xu-ly-mui-hoi-quang-yen.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-cong-dong-trieu.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        }
+      ]
+    },
+    "afterFilter": {
+      "visibleCards": [
+        "Hút bể phốt biệt thự tại Hạ Long",
+        "Thông tắc chậu rửa nhà hàng",
+        "Nạo vét hố ga khu dân cư",
+        "Thông tắc bồn cầu nhà trọ",
+        "Xử lý mùi hôi nhà vệ sinh",
+        "Thông tắc cống nhà dân"
+      ],
+      "activeFilter": "all",
+      "mobileItems": 5
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "viewport": {
+      "name": "mobile",
+      "width": 390,
+      "height": 1100
+    },
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/projects-section-mockup-live-2026-05-18-final/mobile.png",
+    "before": {
+      "meta": "2026.05.18.24; direct-template",
+      "docWidth": 390,
+      "winWidth": 390,
+      "visibleCards": 1,
+      "activeFilter": "all",
+      "mobileItems": 5,
+      "ctaHref": "tel:0963953533",
+      "stickyHiddenInProjects": true,
+      "cardImages": [
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-hut-be-phot-ho-gia-dinh-ha-long.webp",
+          "complete": true,
+          "w": 900,
+          "h": 900
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-chau-rua-bai-chay.webp",
+          "complete": false,
+          "w": 0,
+          "h": 0
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-nao-vet-ho-ga-cam-pha.webp",
+          "complete": false,
+          "w": 0,
+          "h": 0
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-bon-cau-uong-bi.webp",
+          "complete": false,
+          "w": 0,
+          "h": 0
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-xu-ly-mui-hoi-quang-yen.webp",
+          "complete": false,
+          "w": 0,
+          "h": 0
+        },
+        {
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-cong-dong-trieu.webp",
+          "complete": false,
+          "w": 0,
+          "h": 0
+        }
+      ]
+    },
+    "afterFilter": {
+      "visibleCards": [
+        "Thông tắc bồn cầu nhà trọ"
+      ],
+      "activeFilter": "bon-cau",
+      "mobileItems": 0
+    },
+    "accordion": {
+      "expanded": "true",
+      "openPanels": 1
+    },
+    "consoleErrors": []
+  }
+]

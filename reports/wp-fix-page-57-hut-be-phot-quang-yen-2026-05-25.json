@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-24T18:48:42.440Z",
+  "baseUrl": "https://thongtaccongquangninh.com",
+  "type": "pages",
+  "id": 57,
+  "slug": "hut-be-phot-quang-yen",
+  "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+  "title": "Hút bể phốt Quảng Yên: xe bồn cho nhà ven sông, khu công nghiệp",
+  "description": "Hút bể phốt Quảng Yên cho nhà dân, nhà xưởng, khu công nghiệp và khu thấp dễ trào ngược. Gọi 0963.953.533 / 0931.156.756 để khảo sát xe bồn, báo giá trước.",
+  "focus": "hút bể phốt Quảng Yên",
+  "contentPath": "seo-revisions/page-57-hut-be-phot-quang-yen-seo-fix-2026-05-25.html",
+  "before": {
+    "title": "Hút bể phốt Quảng Yên cho nhà ven sông, khu công nghiệp",
+    "excerpt": "hút bể phốt Quảng Yên cần khảo sát đúng vị trí bể, đường xe vào và mức độ đầy trước khi báo giá. Nếu bể quá đầy, bùn đặc hoặc nắp bể khó tiếp cận, chi phí ",
+    "contentLength": 7511
+  },
+  "after": {
+    "title": "Hút bể phốt Quảng Yên: xe bồn cho nhà ven sông, khu công nghiệp",
+    "excerpt": "Hút bể phốt Quảng Yên cho nhà dân, nhà xưởng, khu công nghiệp và khu thấp dễ trào ngược. Gọi 0963.953.533 / 0931.156.756 để khảo sát xe bồn, báo giá trước.",
+    "contentLength": 15159,
+    "schemaOwnership": "FAQPage in post_content; LocalBusiness, BreadcrumbList and Service supplied by existing live layers",
+    "finalSyncModified": "2026-05-25T01:51:53"
+  },
+  "rankMathMeta": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankMathScore": 1,
+  "pluginFix": "ttcqn-home-emergency-renderer 2026.05.25.1 skips automatic FAQ/takeaways/schema when content has managed FAQPage"
+}

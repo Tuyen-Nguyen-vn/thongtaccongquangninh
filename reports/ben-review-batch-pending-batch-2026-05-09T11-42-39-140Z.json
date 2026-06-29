@@ -1,0 +1,8 @@
+{
+  "type": "batch-pending",
+  "generated_at": "2026-05-09T11:42:39.140Z",
+  "count": 4,
+  "pending_slugs": [],
+  "verdict": "CONDITIONAL",
+  "recommendation": "Review từng slug pending."
+}

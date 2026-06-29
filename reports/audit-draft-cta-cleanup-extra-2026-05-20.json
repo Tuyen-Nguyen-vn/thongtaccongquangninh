@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2026-05-19T18:31:31.203Z",
+  "backupDir": "backups/audit-draft-cta-cleanup-2026-05-20",
+  "results": [
+    {
+      "id": 1771,
+      "slug": "thong-tac-cong-chung-cu-ha-long",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1765,
+      "slug": "thong-tac-cong-nha-hang-ha-long",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.155Z",
+  "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+  "url": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+  "focusKeyword": "bảng giá hút bể phốt Quảng Ninh 2026",
+  "service": "hút bể phốt",
+  "area": "bảng giá hút bể phốt Quảng Ninh 2026",
+  "subAreas": "nhận bảng giá hút bể phốt Quảng Ninh 2026 Môi Trường Đô Thị Số 1 Quảng Ninh nhận bảng giá hút bể phốt Quảng Ninh 2026 tại Quảng Ninh và các khu vực lân cận. Đội kỹ thuật có thể điều thợ hoặc xe gần nhất theo tình trạng thực tế. Nhà dân thườ...",
+  "searchIntent": "Khách muốn tham khảo giá hút bể phốt, yếu tố làm thay đổi chi phí và hotline báo giá.",
+  "caseStudy": "E-E-A-T: xử lý sự cố tại nhà trọ tại Uông Bí Một khách tại nhà trọ tại Uông Bí gọi vào buổi tối vì bể đầy, mùi hôi, bồn cầu rút chậm hoặc trào ngược. Gia đình đã thử tự xử lý nhưng tình trạng chỉ giảm tạm thời rồi quay lại sau vài ngày. Kỹ thuật hỏi nhanh qua điện thoại và nhận thấy dấu hiệu không chỉ nằm ở bề mặt. Công trình đã sử dụng nhiều năm, có nhiều điểm thoát liên quan và chưa được kiểm tra định kỳ. Sau khi đến nơi, đội bảng giá hút bể phốt Quảng Ninh 2026 kiểm tra điểm phát sinh, hố ga, đường thoát và thiết bị liên quan. Thợ dùng thiết bị phù hợp để xử lý đoạn nghẹt hoặc phần quá tải trước, sau đó xả thử nhiều lần. Vì hệ thống có dấu hiệu phát sinh từ nguyên nhân gốc, khách được báo thêm phương án xử lý triệt để. Sau khi hoàn tất, dòng thoát ổn định hơn, mùi hôi giảm và khu vực làm việc được vệ sinh. Case này cho thấy cần đánh giá toàn hệ thống. Nếu chỉ xử lý điểm nhìn thấy mà b...",
+  "shouldUse": [
+    "xe bồn",
+    "ống hút",
+    "hố ga",
+    "bể phốt",
+    "thợ kéo ống"
+  ],
+  "shouldAvoid": [
+    "ảnh chỉ có máy lò xo trong nhà vệ sinh"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

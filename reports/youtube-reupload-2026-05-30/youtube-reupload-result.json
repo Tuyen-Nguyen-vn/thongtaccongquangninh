@@ -1,0 +1,35 @@
+{
+  "applied": true,
+  "privacyStatus": "public",
+  "channel": {
+    "id": "UCwwTwTl7rm83e4xtIY9Hmqw",
+    "title": "Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "customUrl": "@moitruongdothiso1quangninh"
+  },
+  "rows": [
+    {
+      "sourceId": "vcVjDZLV_O0",
+      "ok": true,
+      "newVideoId": "DmiPD6WM9Jg",
+      "url": "https://www.youtube.com/watch?v=DmiPD6WM9Jg",
+      "title": "Hút bể phốt, thông tắc cống Quảng Ninh 24/7 | Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "privacyStatus": "public"
+    },
+    {
+      "sourceId": "oWFUTKj4O18",
+      "ok": true,
+      "newVideoId": "pXSJIOhrO3Q",
+      "url": "https://www.youtube.com/watch?v=pXSJIOhrO3Q",
+      "title": "Thông tắc cống Quảng Ninh 24/7, không đục phá | Gọi 0963.953.533",
+      "privacyStatus": "public"
+    },
+    {
+      "sourceId": "52u9a3u86uk",
+      "ok": true,
+      "newVideoId": "IlNPZHmrYss",
+      "url": "https://www.youtube.com/watch?v=IlNPZHmrYss",
+      "title": "Xử lý mùi hôi cống thoát nước Quảng Ninh | Gọi 0963.953.533",
+      "privacyStatus": "public"
+    }
+  ]
+}

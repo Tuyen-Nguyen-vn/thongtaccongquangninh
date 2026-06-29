@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-06-29T03:00:50.587+07:00",
+  "timezone": "Asia/Bangkok",
+  "plugin": {
+    "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php",
+    "remote": "/public_html/wp-content/plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php",
+    "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/ttcqn-meta-desc-fix.remote.php",
+    "remoteMatches": true,
+    "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php\",\"status\":\"ok\"}"
+  },
+  "targets": [
+    {
+      "id": 35,
+      "type": "pages",
+      "slug": "thong-tac-cong-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/pages-35-thong-tac-cong-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Dịch vụ thông tắc cống Quảng Ninh - Uy tín, xử lý nhanh",
+      "afterTitle": "Dịch vụ thông tắc cống Quảng Ninh - Uy tín, xử lý nhanh",
+      "ok": true
+    },
+    {
+      "id": 2377,
+      "type": "posts",
+      "slug": "thong-tac-bon-cau-khan-cap-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2377-thong-tac-bon-cau-khan-cap-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Thông tắc bồn cầu khẩn cấp Quảng Ninh, có thợ sau 15 phút",
+      "afterTitle": "Thông tắc bồn cầu khẩn cấp Quảng Ninh, có thợ sau 15 phút",
+      "ok": true
+    },
+    {
+      "id": 2379,
+      "type": "posts",
+      "slug": "thong-tac-bon-cau-ban-dem-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2379-thong-tac-bon-cau-ban-dem-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Thông tắc bồn cầu ban đêm Quảng Ninh: thợ trực đến tận nơi",
+      "afterTitle": "Thông tắc bồn cầu Quảng Ninh: thợ xử lý nhanh tận nơi",
+      "ok": true
+    },
+    {
+      "id": 2412,
+      "type": "posts",
+      "slug": "thong-tac-bon-cau-nha-hang-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2412-thong-tac-bon-cau-nha-hang-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Thông Tắc Bồn Cầu Nhà Hàng Quảng Ninh",
+      "afterTitle": "Thông Tắc Bồn Cầu Nhà Hàng Quảng Ninh",
+      "ok": true
+    },
+    {
+      "id": 2417,
+      "type": "posts",
+      "slug": "thong-tac-bon-cau-khach-san-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2417-thong-tac-bon-cau-khach-san-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Thông tắc bồn cầu khách sạn Quảng Ninh: tới nhanh 15 phút",
+      "afterTitle": "Thông tắc bồn cầu khách sạn Quảng Ninh: tới nhanh 15 phút",
+      "ok": true
+    },
+    {
+      "id": 2430,
+      "type": "posts",
+      "slug": "hut-be-phot-khan-cap-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2430-hut-be-phot-khan-cap-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Hút bể phốt khẩn cấp Quảng Ninh: xử lý tràn hầm trong 15 phút",
+      "afterTitle": "Hút bể phốt khẩn cấp Quảng Ninh: xử lý tràn hầm trong 15 phút",
+      "ok": true
+    },
+    {
+      "id": 2687,
+      "type": "posts",
+      "slug": "hut-be-phot-nha-hang-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2687-hut-be-phot-nha-hang-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Hút Bể Phốt Nhà Hàng Quảng Ninh – Không Gián Đoạn Kinh Doanh",
+      "afterTitle": "Hút Bể Phốt Nhà Hàng Quảng Ninh – Không Gián Đoạn Kinh Doanh",
+      "ok": true
+    },
+    {
+      "id": 2702,
+      "type": "posts",
+      "slug": "hut-be-phot-khach-san-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2702-hut-be-phot-khach-san-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Hút bể phốt khách sạn Quảng Ninh giá minh bạch, có mặt nhanh",
+      "afterTitle": "Hút bể phốt khách sạn Quảng Ninh giá minh bạch, có mặt nhanh",
+      "ok": true
+    },
+    {
+      "id": 2777,
+      "type": "posts",
+      "slug": "thong-tac-cong-khan-cap-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2777-thong-tac-cong-khan-cap-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Thông Tắc Cống Khẩn Cấp Quảng Ninh: Có Mặt Nhanh Trong 15 Phút",
+      "afterTitle": "Thông Tắc Cống Khẩn Cấp Quảng Ninh: Có Mặt Nhanh Trong 15 Phút",
+      "ok": true
+    },
+    {
+      "id": 2787,
+      "type": "posts",
+      "slug": "gia-thong-tac-cong-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-out-of-hours-service-claims-live-2026-06-29T03-00-50-587+07-00/posts-2787-gia-thong-tac-cong-quang-ninh.before.json",
+      "needsUpdate": true,
+      "updateStatus": 200,
+      "beforeTitle": "Giá Thông Tắc Cống Quảng Ninh 2026: Bảng Giá Mới, Không Phát Sinh",
+      "afterTitle": "Giá Thông Tắc Cống Quảng Ninh 2026: Bảng Giá Mới, Không Phát Sinh",
+      "ok": true
+    }
+  ],
+  "public": [
+    {
+      "path": "/thong-tac-cong-quang-ninh/",
+      "status": 200,
+      "title": "Dịch vụ thông tắc cống Quảng Ninh - Uy tín, xử lý nhanh",
+      "desc": "Thông tắc cống Quảng Ninh – thông cống rãnh, thoát sàn, ống nhựa toàn tỉnh. Thợ có mặt 15 phút, máy chuyên dụng, báo giá minh bạch. Gọi 0963.953.533.",
+      "h1": "Dịch vụ thông tắc cống Quảng Ninh - Uy tín, xử lý nhanh",
+      "has247": false,
+      "hasNightCopy": false,
+      "hasOldHours": false,
+      "ok": true
+    },
+    {
+      "path": "/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "status": 200,
+      "title": "Thông tắc bồn cầu khẩn cấp Quảng Ninh, có thợ sau 15 phút",
+      "desc": "Thông tắc bồn cầu khẩn cấp Quảng Ninh, điều phối nhanh trong khung 05:00-22:00 hằng ngày cho ca tắc hoàn toàn, rút chậm và trào ngược. Gọi 0963.953.533.",
+      "h1": "Thông tắc bồn cầu khẩn cấp Quảng Ninh, có thợ sau 15 phút",
+      "has247": false,
+      "hasNightCopy": false,
+      "hasOldHours": false,
+      "ok": true
+    },
+    {
+      "path": "/thong-tac-bon-cau-ban-dem-quang-ninh/",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Quảng Ninh: thợ xử lý nhanh tận nơi",
+      "desc": "Thông tắc bồn cầu Quảng Ninh, điều phối nhanh trong khung 05:00-22:00 hằng ngày cho ca nghẹt, trào ngược và xử lý tận nơi. Gọi 0963.953.533.",
+      "h1": "Thông tắc bồn cầu Quảng Ninh: thợ xử lý nhanh tận nơi",
+      "has247": false,
+      "hasNightCopy": true,
+      "hasOldHours": false,
+      "ok": false
+    },
+    {
+      "path": "/thong-tac-bon-cau-nha-hang-quang-ninh/",
+      "status": 200,
+      "title": "Thông Tắc Bồn Cầu Nhà Hàng Quảng Ninh",
+      "desc": "Thông tắc bồn cầu nhà hàng Quảng Ninh – hỗ trợ nhanh giờ cao điểm, thợ có mặt 15 phút, xử lý không ảnh hưởng kinh doanh. Gọi 0963.953.533.",
+      "h1": "Thông Tắc Bồn Cầu Nhà Hàng Quảng Ninh",
+      "has247": false,
+      "hasNightCopy": false,
+      "hasOldHours": false,
+      "ok": true
+    },
+    {
+      "path": "/thong-tac-bon-cau-khach-san-quang-ninh/",
+      "status": 200,
+      "title": "Thông tắc bồn cầu khách sạn Quảng Ninh: tới nhanh 15 phút",
+      "desc": "Thông tắc bồn cầu khách sạn Quảng Ninh – thợ có mặt 15 phút, xử lý nghẹt không gián đoạn hoạt động, không đục phá, ưu tiên giờ cao điểm. Gọi 0963.953.533.",
+      "h1": "Thông tắc bồn cầu khách sạn Quảng Ninh: tới nhanh 15 phút",
+      "has247": false,
+      "hasNightCopy": true,
+      "hasOldHours": false,
+      "ok": false
+    },
+    {
+      "path": "/hut-be-phot-khan-cap-quang-ninh/",
+      "status": 200,
+      "title": "Hút bể phốt khẩn cấp Quảng Ninh: xử lý tràn hầm trong 15 phút",
+      "desc": "Hút bể phốt khẩn cấp Quảng Ninh, điều phối nhanh trong khung 05:00-22:00 hằng ngày cho ca tràn hầm và bể đầy gấp. Gọi 0963.953.533.",
+      "h1": "Hút bể phốt khẩn cấp Quảng Ninh: xử lý tràn hầm trong 15 phút",
+      "has247": false,
+      "hasNightCopy": false,
+      "hasOldHours": false,
+      "ok": true
+    },
+    {
+      "path": "/hut-be-phot-nha-hang-quang-ninh/",
+      "status": 200,
+      "title": "Hút Bể Phốt Nhà Hàng Quảng Ninh – Không Gián Đoạn Kinh Doanh",
+      "desc": "Hút bể phốt nhà hàng Quảng Ninh – xử lý nhanh không gián đoạn kinh doanh, hút sạch không mùi, xe bồn đủ tải và điều phối linh hoạt trong ngày. Gọi 0963.953.533.",
+      "h1": "Hút Bể Phốt Nhà Hàng Quảng Ninh – Không Gián Đoạn Kinh Doanh",
+      "has247": false,
+      "hasNightCopy": false,
+      "hasOldHours": false,
+      "ok": true
+    },
+    {
+      "path": "/hut-be-phot-khach-san-quang-ninh/",
+      "status": 200,
+      "title": "Hút bể phốt khách sạn Quảng Ninh giá minh bạch, có mặt nhanh",
+      "desc": "Hút bể phốt khách sạn, nhà nghỉ tại Quảng Ninh. Có mặt 15 phút, xử lý sạch mùi, báo giá trước, không ảnh hưởng khách lưu trú. Gọi 0963.953.533 để điều xe.",
+      "h1": "Hút bể phốt khách sạn Quảng Ninh giá minh bạch, có mặt nhanh",
+      "has247": true,
+      "hasNightCopy": true,
+      "hasOldHours": true,
+      "ok": false
+    },
+    {
+      "path": "/thong-tac-cong-khan-cap-quang-ninh/",
+      "status": 200,
+      "title": "Thông Tắc Cống Khẩn Cấp Quảng Ninh: Có Mặt Nhanh Trong 15 Phút",
+      "desc": "Thông tắc cống khẩn cấp Quảng Ninh, điều phối nhanh trong khung 05:00-22:00 hằng ngày cho ca nước trào, tắc nặng và mùi hôi. Gọi 0963.953.533.",
+      "h1": "Thông Tắc Cống Khẩn Cấp Quảng Ninh: Có Mặt Nhanh Trong 15 Phút",
+      "has247": false,
+      "hasNightCopy": false,
+      "hasOldHours": false,
+      "ok": true
+    },
+    {
+      "path": "/gia-thong-tac-cong-quang-ninh/",
+      "status": 200,
+      "title": "Giá Thông Tắc Cống Quảng Ninh 2026: Bảng Giá Mới, Không Phát Sinh",
+      "desc": "Giá thông tắc cống Quảng Ninh 2026 tại Hạ Long, Cẩm Phả, Uông Bí; có bảng giá, phụ phí, bảo hành rõ ràng, không báo giá ảo. Gọi 0963.953.533 tư vấn trong khung 05:00-22:00 hằng ngày.",
+      "h1": "Giá Thông Tắc Cống Quảng Ninh 2026: Bảng Giá Mới, Không Phát Sinh",
+      "has247": false,
+      "hasNightCopy": false,
+      "hasOldHours": false,
+      "ok": true
+    }
+  ],
+  "success": false
+}

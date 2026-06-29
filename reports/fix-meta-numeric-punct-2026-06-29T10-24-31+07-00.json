@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-06-29T03:24:31.722Z",
+  "plugin": {
+    "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php",
+    "remote": "/public_html/wp-content/plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php",
+    "backupPath": "/mnt/d/.thongtaccongquangninh/backups/fix-meta-numeric-punct-2026-06-29T10-24-31+07-00/ttcqn-meta-desc-fix.remote.php",
+    "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php\",\"status\":\"ok\"}",
+    "remoteMatches": true
+  },
+  "zip": {
+    "path": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-meta-desc-fix.zip",
+    "bytes": 51755
+  },
+  "purge": {
+    "ok": false,
+    "text": "",
+    "warning": "PHP Warning:  Constant DISALLOW_FILE_EDIT already defined in phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1309) : eval()'d code on line 116\n[ERROR] WordPress ability 'wp-mcp-ultimate/discover-abilities' does not exist. | Context: [\"RegisterAbilityAsMcpTool::wp-mcp-ultimate\\/discover-abilities\"] | User ID: 0\n[ERROR] WordPress ability 'wp-mcp-ultimate/get-ability-info' does not exist. | Context: [\"RegisterAbilityAsMcpTool::wp-mcp-ultimate\\/get-ability-info\"] | User ID: 0\n[ERROR] WordPress ability 'wp-mcp-ultimate/execute-ability' does not exist. | Context: [\"RegisterAbilityAsMcpTool::wp-mcp-ultimate\\/execute-ability\"] | User ID: 0\nError: 'litespeed-purge' is not a registered wp command. See 'wp help' for available commands.\n"
+  },
+  "success": true
+}

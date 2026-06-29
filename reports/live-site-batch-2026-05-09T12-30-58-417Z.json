@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-05-09T12:30:58.416Z",
+  "total_entries": 7,
+  "completed_entries": 3,
+  "pending_count": 4,
+  "pending_slugs": [
+    "https://thongtaccongquangninh.com/",
+    "https://thongtaccongquangninh.com/",
+    "https://thongtaccongquangninh.com/"
+  ],
+  "seo_progress_score": 43,
+  "issues": [
+    "Có 4 task chưa completed trong SEO_PROGRESS.csv.",
+    "Có URL lặp trong tiến độ: https://thongtaccongquangninh.com/"
+  ],
+  "verdict": "CONDITIONAL",
+  "notes": [
+    "Deep batch audit checks CSV quality, duplicate URLs, and required docs presence."
+  ]
+}

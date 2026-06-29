@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-29T03:28:55+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 89,
+  "pagesWithIssues": 2,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 2,
+  "globalReuseGroups": 0,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 3175,
+      "type": "pages",
+      "status": "publish",
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành",
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "contentSource": "post_content",
+      "service": "thông tắc cống",
+      "area": "Quảng Ninh",
+      "imageCount": 0,
+      "images": [],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 3,
+      "replacementNeeded": 3,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Quảng Ninh bằng máy lò xo",
+        "kiểm tra hố ga và đường ống thoát nước tại Quảng Ninh",
+        "xử lý cống bếp dầu mỡ cho nhà hàng/quán ăn tại Quảng Ninh"
+      ]
+    },
+    {
+      "id": 2702,
+      "type": "posts",
+      "status": "publish",
+      "title": "Hút bể phốt khách sạn Quảng Ninh giá minh bạch, có mặt nhanh",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "slug": "hut-be-phot-khach-san-quang-ninh",
+      "contentSource": "post_content",
+      "service": "hút bể phốt",
+      "area": "Quảng Ninh",
+      "imageCount": 0,
+      "images": [],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 3,
+      "replacementNeeded": 3,
+      "missingTopics": [
+        "xe bồn hút bể phốt tại nhà dân ở Quảng Ninh",
+        "thợ kéo ống hút bể phốt vào ngõ sâu tại Quảng Ninh",
+        "mở nắp bể phốt hoặc hố ga trước khi hút tại Quảng Ninh"
+      ]
+    }
+  ],
+  "globalReuse": []
+}

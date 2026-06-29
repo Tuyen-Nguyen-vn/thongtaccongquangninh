@@ -1,0 +1,81 @@
+{
+  "mode": "write",
+  "generatedAt": "2026-06-29T03-31-23",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-missing-images-unique-audit-2026-06-29T03-31-23",
+  "targets": [
+    {
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "restBase": "pages",
+      "id": 3175,
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "beforeImageCount": 0,
+      "changed": true,
+      "outputs": [
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/cau-hoi-thuong-gap-thong-tac-cong-tho-kiem-tra.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/cau-hoi-thuong-gap-thong-tac-cong-may-lo-xo.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/cau-hoi-thuong-gap-thong-tac-cong-ho-ga.webp"
+      ],
+      "media": [
+        {
+          "id": 3215,
+          "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/cau-hoi-thuong-gap-thong-tac-cong-tho-kiem-tra.webp"
+        },
+        {
+          "id": 3216,
+          "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/cau-hoi-thuong-gap-thong-tac-cong-may-lo-xo.webp"
+        },
+        {
+          "id": 3217,
+          "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/cau-hoi-thuong-gap-thong-tac-cong-ho-ga.webp"
+        }
+      ],
+      "liveVerify": {
+        "writeStatus": 200,
+        "liveStatus": 200,
+        "h1Count": 1,
+        "imageCount": 9,
+        "hasAllImages": true,
+        "hasAllAlts": true,
+        "hasAllCaptions": true,
+        "hasAuthorByline": false
+      }
+    },
+    {
+      "slug": "hut-be-phot-khach-san-quang-ninh",
+      "restBase": "posts",
+      "id": 2702,
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "beforeImageCount": 0,
+      "changed": true,
+      "outputs": [
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/hut-be-phot-khach-san-quang-ninh-xe-bon.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/hut-be-phot-khach-san-quang-ninh-keo-ong.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/hut-be-phot-khach-san-quang-ninh-kiem-tra-nap-be.webp"
+      ],
+      "media": [
+        {
+          "id": 3219,
+          "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/hut-be-phot-khach-san-quang-ninh-xe-bon.webp"
+        },
+        {
+          "id": 3220,
+          "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/hut-be-phot-khach-san-quang-ninh-keo-ong.webp"
+        },
+        {
+          "id": 3221,
+          "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/hut-be-phot-khach-san-quang-ninh-kiem-tra-nap-be.webp"
+        }
+      ],
+      "liveVerify": {
+        "writeStatus": 200,
+        "liveStatus": 200,
+        "h1Count": 1,
+        "imageCount": 9,
+        "hasAllImages": true,
+        "hasAllAlts": true,
+        "hasAllCaptions": true,
+        "hasAuthorByline": true
+      }
+    }
+  ]
+}

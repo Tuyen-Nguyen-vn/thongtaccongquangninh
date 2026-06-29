@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-06-28T07:55:44.789385",
+  "date": "2026-06-28",
+  "rows": [
+    {
+      "dateHour": "2026062801",
+      "pagePath": "/",
+      "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh",
+      "screenPageViews": 2,
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "dateHour": "2026062802",
+      "pagePath": "/",
+      "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh",
+      "screenPageViews": 2,
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "dateHour": "2026062802",
+      "pagePath": "/",
+      "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh - Gọi Thợ Tới Nhanh",
+      "screenPageViews": 1,
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "dateHour": "2026062802",
+      "pagePath": "/",
+      "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh (3:09:48 AM)",
+      "screenPageViews": 1,
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "dateHour": "2026062802",
+      "pagePath": "/",
+      "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh (3:42:29 AM)",
+      "screenPageViews": 1,
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "dateHour": "2026062803",
+      "pagePath": "/",
+      "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh - Gọi Thợ Tới Nhanh",
+      "screenPageViews": 6,
+      "sessions": 5,
+      "activeUsers": 5
+    }
+  ],
+  "hours": {
+    "2026062801": [
+      {
+        "dateHour": "2026062801",
+        "pagePath": "/",
+        "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh",
+        "screenPageViews": 2,
+        "sessions": 2,
+        "activeUsers": 2
+      }
+    ],
+    "2026062802": [
+      {
+        "dateHour": "2026062802",
+        "pagePath": "/",
+        "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh",
+        "screenPageViews": 2,
+        "sessions": 2,
+        "activeUsers": 2
+      },
+      {
+        "dateHour": "2026062802",
+        "pagePath": "/",
+        "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh - Gọi Thợ Tới Nhanh",
+        "screenPageViews": 1,
+        "sessions": 1,
+        "activeUsers": 1
+      },
+      {
+        "dateHour": "2026062802",
+        "pagePath": "/",
+        "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh (3:09:48 AM)",
+        "screenPageViews": 1,
+        "sessions": 1,
+        "activeUsers": 1
+      },
+      {
+        "dateHour": "2026062802",
+        "pagePath": "/",
+        "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh (3:42:29 AM)",
+        "screenPageViews": 1,
+        "sessions": 1,
+        "activeUsers": 1
+      }
+    ],
+    "2026062803": [
+      {
+        "dateHour": "2026062803",
+        "pagePath": "/",
+        "pageTitle": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh - Gọi Thợ Tới Nhanh",
+        "screenPageViews": 6,
+        "sessions": 5,
+        "activeUsers": 5
+      }
+    ]
+  }
+}

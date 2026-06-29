@@ -1,0 +1,102 @@
+{
+  "site": "https://thongtaccongquangninh.com",
+  "generatedAtLocal": "2026-06-17",
+  "mode": "read-only audit",
+  "summary": {
+    "inventoryEntries": 160,
+    "publishedUrlsAudited": 86,
+    "seoPass": 42,
+    "seoFail": 8,
+    "seoWarn": 36,
+    "sitemapUrls": 80,
+    "sitemapIndexabilityProblems": 0,
+    "gsc404": 0,
+    "redirectChains": 0,
+    "oneStepRedirects": 27,
+    "brokenInternalLinks": 3,
+    "pagesUnderThreeImages": 1,
+    "globalImageReuseGroups": 2,
+    "structuredDataWarn": 1
+  },
+  "p0": [
+    {
+      "id": "P0-1",
+      "issue": "Public internal links point to draft/non-public URLs that return 404",
+      "brokenUrls": [
+        "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/"
+      ],
+      "sourceUrls": [
+        "https://thongtaccongquangninh.com/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/"
+      ],
+      "recommendedAction": "Publish these pages if they should rank, or remove/replace the public links if they should remain draft."
+    },
+    {
+      "id": "P0-2",
+      "issue": "Duplicate published page/post objects share the same permalink",
+      "duplicates": [
+        {
+          "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+          "objects": ["page:52", "post:2913"]
+        },
+        {
+          "url": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+          "objects": ["page:400", "post:2917"]
+        }
+      ],
+      "recommendedAction": "Choose one source of truth per permalink and draft/noindex/redirect the duplicate object after backup."
+    },
+    {
+      "id": "P0-3",
+      "issue": "xe-hut-be-phot-quang-ninh is noindex and excluded from sitemap",
+      "url": "https://thongtaccongquangninh.com/xe-hut-be-phot-quang-ninh/",
+      "verifiedRobots": "noindex, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "note": "This appears consistent with prior cannibalization handling for post 2554. Do not remove noindex unless the SEO target changes."
+    }
+  ],
+  "p1": [
+    {
+      "id": "P1-1",
+      "url": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+      "issues": ["WORD_LOW(1925)", "IMG_LOW(0)", "MISSING_FAQPAGE", "not in sitemap"],
+      "recommendedAction": "Add useful legal/service content, 3 SEO images, visible FAQ, and matching FAQPage schema if this page should be indexable."
+    },
+    {
+      "id": "P1-2",
+      "url": "https://thongtaccongquangninh.com/",
+      "issues": ["ALT_NO_SERVICE_OR_LOCATION x4", "BROKEN_LINK(2)", "distinct footer variant"],
+      "recommendedAction": "Fix broken links first; review remaining icon alt warnings when editing homepage renderer."
+    },
+    {
+      "id": "P1-3",
+      "issue": "Old address marker appears in NAP/social audit",
+      "marker": "111 Cái Lân",
+      "recommendedAction": "Confirm whether this is the current Hạ Long address before changing schema/live NAP."
+    },
+    {
+      "id": "P1-4",
+      "url": "https://thongtaccongquangninh.com/",
+      "issue": "BreadcrumbList has fewer than 2 items",
+      "recommendedAction": "Fix when touching homepage schema/renderer."
+    }
+  ],
+  "evidence": [
+    "reports/site-full-audit-2026-06-17.md",
+    "reports/seo-full-audit-2026-06-17.md",
+    "reports/indexability-audit-2026-06-16T18-50-29.md",
+    "reports/gsc-404-redirect-audit-2026-06-16T18-50-29.md",
+    "reports/wp-unique-image-audit-2026-06-17T01-51-57.md",
+    "reports/structured-data-live-audit-2026-06-16T18-51-59.md",
+    "reports/nap-social-audit-2026-05-31.json"
+  ],
+  "blockedOrIncomplete": [
+    {
+      "command": "node .\\tools\\audit_live_links_assets.mjs",
+      "status": "stopped_after_timeout",
+      "reason": "Still running after more than 5 minutes; no fresh report produced."
+    }
+  ],
+  "nextAction": "Fix P0 broken internal links on homepage and /thong-tac-cong-quang-ninh/, then resolve duplicate permalink source of truth."
+}

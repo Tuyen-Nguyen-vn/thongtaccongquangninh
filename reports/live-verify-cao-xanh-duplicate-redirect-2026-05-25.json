@@ -1,0 +1,45 @@
+{
+  "retiredUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+  "redirectStatus": 301,
+  "location": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+  "followStatus": 200,
+  "followFinalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+  "retiredInSitemap": false,
+  "targetInSitemap": true,
+  "target": {
+    "status": 200,
+    "h1": [
+      "Thông tắc cống Cao Xanh cho nhà dân, quán ăn tại Hạ Long 24/7"
+    ],
+    "words": 2801,
+    "requiredH2": {
+      "hit": [
+        "Nguyên nhân",
+        "Tại sao chọn / Cam kết",
+        "Bảng giá",
+        "Quy trình",
+        "NAP / Liên hệ",
+        "FAQ / Câu hỏi"
+      ],
+      "missing": []
+    },
+    "forbidden": [],
+    "density": {
+      "count": 7,
+      "total": 2801,
+      "density": 0.012495537308104248
+    },
+    "images": 3,
+    "imageIssues": [],
+    "schema": {
+      "types": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "Service",
+        "FAQPage"
+      ],
+      "problems": [],
+      "parseErrors": []
+    }
+  }
+}

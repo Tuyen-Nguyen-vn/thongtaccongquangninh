@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-03T19:07:36.437Z",
+  "target": {
+    "id": 56,
+    "collection": "pages",
+    "slug": "hut-be-phot-dong-trieu",
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-p1-hut-be-phot-dong-trieu-2026-06-03T19-07-35-139Z",
+  "title": "Hút Bể Phốt Đông Triều 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+  "titleLen": 66,
+  "metaDesc": "Hút bể phốt Đông Triều 24/7 sạch triệt để, thợ giỏi có mặt sau 15 phút, cam kết không đục phá, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756",
+  "metaDescLen": 149,
+  "before": {
+    "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+    "excerpt": "Hút bể phốt Đông Triều 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+    "contentLen": 11742,
+    "rawWordCount": 1224,
+    "keyword": {
+      "count": 7,
+      "total": 1224,
+      "density": 0.028594771241830064,
+      "densityPct": 2.86
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changed": true,
+    "contentLen": 21537,
+    "rawWordCount": 3192,
+    "keyword": {
+      "count": 4,
+      "total": 3192,
+      "density": 0.006265664160401002,
+      "densityPct": 0.63
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "hasFinalAuthor": true
+  },
+  "rankMath": null,
+  "rankScore": null,
+  "verify": null
+}

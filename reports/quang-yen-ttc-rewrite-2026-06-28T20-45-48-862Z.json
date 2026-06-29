@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-06-28T20:45:49.277Z",
+  "mode": "apply",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-quang-yen-ttc-rewrite-2026-06-28T20-45-48-862Z",
+  "beforeMetrics": {
+    "words": 1929,
+    "h1Count": 0,
+    "h2Count": 13,
+    "tableCount": 3,
+    "figureCount": 3,
+    "faqSchemaCount": 1,
+    "repeatedCaptionCount": 0,
+    "internalLinks": 6,
+    "hasHotline": true,
+    "hasForbiddenClaims": false,
+    "stale247Count": 1
+  },
+  "afterMetrics": {
+    "words": 1903,
+    "h1Count": 0,
+    "h2Count": 13,
+    "tableCount": 3,
+    "figureCount": 3,
+    "faqSchemaCount": 1,
+    "repeatedCaptionCount": 0,
+    "internalLinks": 6,
+    "hasHotline": true,
+    "hasForbiddenClaims": false,
+    "stale247Count": 0
+  },
+  "gates": {
+    "noRawH1": true,
+    "enoughWords": true,
+    "hasTables": true,
+    "hasFigures": true,
+    "hasFaqSchema": true,
+    "hasInternalLinks": true,
+    "noRepeatedCaption": true,
+    "noForbiddenClaims": true,
+    "noStale247": true
+  },
+  "okBeforeApply": true,
+  "update": {
+    "status": 200,
+    "id": 424,
+    "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/"
+  },
+  "rankMath": {
+    "status": 200,
+    "data": {
+      "slug": true,
+      "schemas": []
+    }
+  },
+  "live": {
+    "status": 200,
+    "h1Count": 1,
+    "canonicalOk": true,
+    "noindex": false,
+    "titleOk": true,
+    "descOk": true,
+    "body": {
+      "words": 2912,
+      "h1Count": 1,
+      "h2Count": 19,
+      "tableCount": 3,
+      "figureCount": 4,
+      "faqSchemaCount": 1,
+      "repeatedCaptionCount": 0,
+      "internalLinks": 6,
+      "hasHotline": true,
+      "hasForbiddenClaims": false,
+      "stale247Count": 0
+    }
+  },
+  "okAfterApply": true
+}

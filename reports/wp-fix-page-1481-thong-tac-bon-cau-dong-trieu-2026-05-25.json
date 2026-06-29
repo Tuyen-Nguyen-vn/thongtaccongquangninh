@@ -1,0 +1,40 @@
+{
+  "date": "2026-05-25",
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+  "pageId": 1481,
+  "revision": "seo-revisions/page-1481-thong-tac-bon-cau-dong-trieu-seo-fix-2026-05-25.html",
+  "backup": "backups/page-1481-thong-tac-bon-cau-dong-trieu-before-seo-fix-2026-05-25.json",
+  "request": {
+    "title": "Thông tắc bồn cầu Đông Triều cho nhà dân, nhà trọ và cửa hàng",
+    "description": "Thông tắc bồn cầu Đông Triều cho nhà dân, nhà trọ, cửa hàng khi nước rút chậm, mùi hôi hoặc trào ngược. Gọi 0963.953.533 / 0931.156.756 để kiểm tra sớm.",
+    "focusKeyword": "thông tắc bồn cầu Đông Triều",
+    "score": 90
+  },
+  "result": {
+    "updated": {
+      "id": 1481,
+      "status": "publish",
+      "modified": "2026-05-25T12:27:47",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "title": "Thông tắc bồn cầu Đông Triều cho nhà dân, nhà trọ và cửa hàng"
+    },
+    "updateMeta": {
+      "slug": true,
+      "schemas": []
+    },
+    "updateSeoScore": 1,
+    "finalImageContentUpdate": {
+      "id": 1481,
+      "status": "publish",
+      "modified": "2026-05-25T12:33:49",
+      "reason": "Replace globally reused images with page-specific processed uploads",
+      "imageUploadReport": "reports/wp-upload-images-page-1481-thong-tac-bon-cau-dong-trieu-2026-05-25.json"
+    },
+    "finalWordCountUpdate": {
+      "id": 1481,
+      "status": "publish",
+      "modified": "2026-05-25T12:34:58",
+      "reason": "Raise rendered word count above 2500 after image caption replacement"
+    }
+  }
+}

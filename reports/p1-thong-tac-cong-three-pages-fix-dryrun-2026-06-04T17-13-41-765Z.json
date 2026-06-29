@@ -1,0 +1,107 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-04T17:13:45.925Z",
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-p1-thong-tac-cong-three-pages-2026-06-04T17-13-41-765Z",
+  "results": [
+    {
+      "id": 425,
+      "slug": "thong-tac-cong-dong-trieu",
+      "title": "Thông tắc cống Đông Triều 24/7, không đục phá, thợ có mặt nhanh",
+      "metaDesc": "Thông tắc cống Đông Triều 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi nhanh chóng tại nhà.",
+      "before": {
+        "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+        "excerpt": "Thông cống nghẹt tại Đông Triều, từ cống ngầm hộ gia đình đến cống nổi khu chăn nuôi.",
+        "contentLen": 11167,
+        "rawWordCount": 1122,
+        "keyword": {
+          "count": 4,
+          "total": 1122,
+          "density": 0.017825311942959002,
+          "densityPct": 1.78
+        }
+      },
+      "update": {
+        "changed": true,
+        "contentLen": 30481,
+        "rawWordCount": 5060,
+        "keyword": {
+          "count": 24,
+          "total": 5060,
+          "density": 0.023715415019762844,
+          "densityPct": 2.37
+        },
+        "hasServiceSchema": true,
+        "hasFinalAuthor": true
+      },
+      "rankMath": null,
+      "verify": null
+    },
+    {
+      "id": 426,
+      "slug": "thong-tac-cong-mong-cai",
+      "title": "Thông tắc cống Móng Cái 24/7, không đục phá, thợ có mặt nhanh",
+      "metaDesc": "Thông tắc cống Móng Cái 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi nhanh chóng tại nhà.",
+      "before": {
+        "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+        "excerpt": "Xử lý sự cố cống thoát nước chậm, trào ngược tại Móng Cái. Đội phản ứng nhanh 24/7.",
+        "contentLen": 10912,
+        "rawWordCount": 1107,
+        "keyword": {
+          "count": 4,
+          "total": 1107,
+          "density": 0.018066847335140017,
+          "densityPct": 1.81
+        }
+      },
+      "update": {
+        "changed": true,
+        "contentLen": 29297,
+        "rawWordCount": 4805,
+        "keyword": {
+          "count": 24,
+          "total": 4805,
+          "density": 0.02497398543184183,
+          "densityPct": 2.5
+        },
+        "hasServiceSchema": true,
+        "hasFinalAuthor": true
+      },
+      "rankMath": null,
+      "verify": null
+    },
+    {
+      "id": 427,
+      "slug": "thong-tac-cong-van-don",
+      "title": "Thông tắc cống Vân Đồn 24/7, không đục phá, thợ có mặt nhanh",
+      "metaDesc": "Thông tắc cống Vân Đồn 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi nhanh chóng tại nhà.",
+      "before": {
+        "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+        "excerpt": "Thông nghẹt cống rãnh, đường thoát sàn khu vực Vân Đồn. Hạn chế mùi hôi, bảo vệ nguồn nước xung quanh.",
+        "contentLen": 11115,
+        "rawWordCount": 1102,
+        "keyword": {
+          "count": 4,
+          "total": 1102,
+          "density": 0.018148820326678767,
+          "densityPct": 1.81
+        }
+      },
+      "update": {
+        "changed": true,
+        "contentLen": 29030,
+        "rawWordCount": 4770,
+        "keyword": {
+          "count": 24,
+          "total": 4770,
+          "density": 0.025157232704402517,
+          "densityPct": 2.52
+        },
+        "hasServiceSchema": true,
+        "hasFinalAuthor": true
+      },
+      "rankMath": null,
+      "verify": null
+    }
+  ]
+}

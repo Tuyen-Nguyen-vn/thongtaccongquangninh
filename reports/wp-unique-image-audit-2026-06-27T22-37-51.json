@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-27T22:38:38+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 88,
+  "pagesWithIssues": 0,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 1,
+  "fixes": [],
+  "issues": [],
+  "globalReuse": [
+    {
+      "kind": "same_bytes",
+      "key": "ecb792cbb8e4558daff7f522a3d9665a1eb88e5fb13d18d398ea27dadf0a1a4b",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+          "title": "Đối tác bể phốt Quảng Ninh và hệ thống truyền thông",
+          "index": 2,
+          "file": "he-thong-lien-ket-doi-tac-may-lo-xo-thong-cong-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+          "title": "Thông Tắc Cống Tuần Châu Hạ Long 24/7 - Không Đục Phá",
+          "index": 3,
+          "file": "thong-tac-cong-tuan-chau-quy-trinh-thi-cong-1.webp"
+        }
+      ]
+    }
+  ]
+}

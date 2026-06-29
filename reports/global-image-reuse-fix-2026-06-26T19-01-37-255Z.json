@@ -1,0 +1,158 @@
+{
+  "ok": true,
+  "mode": "write",
+  "generatedAt": "2026-06-26T19:01:37.260Z",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-global-image-reuse-2026-06-26T19-01-37-255Z",
+  "targets": [
+    {
+      "id": 2976,
+      "type": "posts",
+      "slug": "thong-tac-cong-gieng-day-bai-viet",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-bai-viet/",
+      "before": {
+        "imageCount": 3,
+        "missingOldCount": 3,
+        "missingNewCount": 3,
+        "missingAltCount": 3
+      },
+      "after": {
+        "imageCount": 3,
+        "missingOldCount": 0,
+        "missingNewCount": 0,
+        "missingAltCount": 0
+      },
+      "changed": true,
+      "changes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-ha-long-01.webp",
+          "fileName": "reuse-fix-gieng-day-bai-viet-kiem-tra-ho-ga.webp",
+          "replaced": 1
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-may-lo-xo-03.webp",
+          "fileName": "reuse-fix-gieng-day-bai-viet-may-lo-xo.webp",
+          "replaced": 1
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-tho-xu-ly-02.webp",
+          "fileName": "reuse-fix-gieng-day-bai-viet-xu-ly-duong-thoat.webp",
+          "replaced": 1
+        }
+      ],
+      "uploads": [
+        {
+          "fileName": "reuse-fix-gieng-day-bai-viet-kiem-tra-ho-ga.webp",
+          "mediaId": 3010,
+          "sourceUrl": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/reuse-fix-gieng-day-bai-viet-kiem-tra-ho-ga.webp"
+        },
+        {
+          "fileName": "reuse-fix-gieng-day-bai-viet-may-lo-xo.webp",
+          "mediaId": 3011,
+          "sourceUrl": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/reuse-fix-gieng-day-bai-viet-may-lo-xo.webp"
+        },
+        {
+          "fileName": "reuse-fix-gieng-day-bai-viet-xu-ly-duong-thoat.webp",
+          "mediaId": 3012,
+          "sourceUrl": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/reuse-fix-gieng-day-bai-viet-xu-ly-duong-thoat.webp"
+        }
+      ],
+      "liveVerify": {
+        "status": 200,
+        "statusOk": true,
+        "h1Count": 1,
+        "totalImages": 9,
+        "hasNewFiles": true,
+        "hasOldFiles": true,
+        "missingAlt": 0,
+        "hasBannedWord": false
+      }
+    },
+    {
+      "id": 427,
+      "type": "pages",
+      "slug": "thong-tac-cong-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "before": {
+        "imageCount": 3,
+        "missingOldCount": 1,
+        "missingNewCount": 1,
+        "missingAltCount": 1
+      },
+      "after": {
+        "imageCount": 3,
+        "missingOldCount": 0,
+        "missingNewCount": 0,
+        "missingAltCount": 0
+      },
+      "changed": true,
+      "changes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "fileName": "reuse-fix-thong-tac-cong-van-don-may-lo-xo.webp",
+          "replaced": 1
+        }
+      ],
+      "uploads": [
+        {
+          "fileName": "reuse-fix-thong-tac-cong-van-don-may-lo-xo.webp",
+          "mediaId": 3014,
+          "sourceUrl": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/reuse-fix-thong-tac-cong-van-don-may-lo-xo.webp"
+        }
+      ],
+      "liveVerify": {
+        "status": 200,
+        "statusOk": true,
+        "h1Count": 1,
+        "totalImages": 9,
+        "hasNewFiles": true,
+        "hasOldFiles": true,
+        "missingAlt": 0,
+        "hasBannedWord": false
+      }
+    },
+    {
+      "id": 25,
+      "type": "pages",
+      "slug": "blog",
+      "link": "https://thongtaccongquangninh.com/blog/",
+      "before": {
+        "imageCount": 3,
+        "missingOldCount": 1,
+        "missingNewCount": 1,
+        "missingAltCount": 1
+      },
+      "after": {
+        "imageCount": 3,
+        "missingOldCount": 0,
+        "missingNewCount": 0,
+        "missingAltCount": 0
+      },
+      "changed": true,
+      "changes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "fileName": "reuse-fix-blog-cam-nang-duong-ong-quang-ninh.webp",
+          "replaced": 1
+        }
+      ],
+      "uploads": [
+        {
+          "fileName": "reuse-fix-blog-cam-nang-duong-ong-quang-ninh.webp",
+          "mediaId": 3016,
+          "sourceUrl": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/reuse-fix-blog-cam-nang-duong-ong-quang-ninh.webp"
+        }
+      ],
+      "liveVerify": {
+        "status": 200,
+        "statusOk": true,
+        "h1Count": 1,
+        "totalImages": 9,
+        "hasNewFiles": true,
+        "hasOldFiles": true,
+        "missingAlt": 0,
+        "hasBannedWord": false
+      }
+    }
+  ]
+}

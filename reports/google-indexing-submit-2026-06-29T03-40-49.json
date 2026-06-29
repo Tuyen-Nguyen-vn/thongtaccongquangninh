@@ -1,0 +1,27 @@
+{
+  "submittedAt": "2026-06-29T03:40:49+07:00",
+  "tool": "tools/google_indexing_direct.mjs",
+  "type": "URL_UPDATED",
+  "urlCount": 4,
+  "successCount": 4,
+  "failCount": 0,
+  "results": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "ok": true
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "ok": true
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "ok": true
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "ok": true
+    }
+  ],
+  "note": "Report does not store OAuth tokens, service account keys, or response payload secrets."
+}

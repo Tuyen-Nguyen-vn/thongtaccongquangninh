@@ -1,0 +1,235 @@
+{
+  "generatedAt": "2026-06-26T18:29:50.275Z",
+  "mode": "apply",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+  "pagePatch": {
+    "changed": true,
+    "reason": "patched"
+  },
+  "optionPatches": [
+    {
+      "name": "ttcqn_doorway_safe_page_296_content",
+      "changed": true,
+      "reason": "patched",
+      "updateStatus": "ok"
+    },
+    {
+      "name": "ttcqn_doorway_safe_page_296_content_v2",
+      "changed": true,
+      "reason": "patched",
+      "updateStatus": "ok"
+    }
+  ],
+  "before": {
+    "page": {
+      "hasSeverityColumn": false,
+      "hasCostColumn": false,
+      "patchedRowCount": 0,
+      "h1CountInBody": 0,
+      "h2Texts": [
+        "Giới thiệu - Kinh nghiệm & Cam kết thông tắc cống Hạ Long",
+        "Tại sao phải xác định đúng điểm tắc nghẽn",
+        "Dấu hiệu & Nguyên nhân cống tắc thường gặp tại Hạ Long",
+        "Đặc thù hệ thống thoát nước từng khu vực tại Hạ Long",
+        "Quy trình thông tắc cống Hạ Long từng bước chuẩn kỹ thuật",
+        "Cam kết 3 Không bảo vệ quyền lợi khách hàng",
+        "Tình huống thực tế & Cách xử lý điểm nghẽn phức tạp",
+        "Khi nào tự xử lý được - Khi nào cần gọi thợ thông cống",
+        "Bảng so sánh dịch vụ và bảng giá thông tắc cống Hạ Long",
+        "Cách hạn chế tái phát sau khi xử lý cống nghẹt",
+        "Liên kết liên quan và quy chuẩn xây dựng chuyên ngành",
+        "Liên hệ dịch vụ thông tắc cống Hạ Long (NAP liên hệ)",
+        "Câu hỏi thường gặp (FAQ) về thông tắc cống Hạ Long"
+      ],
+      "hasQcvn": true,
+      "hasAuthor": true,
+      "hasSchemaPerson": true,
+      "hasSchemaLocalBusiness": true,
+      "hasFaqPage": true
+    },
+    "options": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "inspect": {
+          "hasSeverityColumn": false,
+          "hasCostColumn": false,
+          "patchedRowCount": 0,
+          "h1CountInBody": 0,
+          "h2Texts": [
+            "Giới thiệu - Kinh nghiệm & Cam kết thông tắc cống Hạ Long",
+            "Tại sao phải xác định đúng điểm tắc nghẽn",
+            "Dấu hiệu & Nguyên nhân cống tắc thường gặp tại Hạ Long",
+            "Đặc thù hệ thống thoát nước từng khu vực tại Hạ Long",
+            "Quy trình thông tắc cống Hạ Long từng bước chuẩn kỹ thuật",
+            "Cam kết 3 Không bảo vệ quyền lợi khách hàng",
+            "Tình huống thực tế & Cách xử lý điểm nghẽn phức tạp",
+            "Khi nào tự xử lý được - Khi nào cần gọi thợ thông cống",
+            "Bảng so sánh dịch vụ và bảng giá thông tắc cống Hạ Long",
+            "Cách hạn chế tái phát sau khi xử lý cống nghẹt",
+            "Liên kết liên quan và quy chuẩn xây dựng chuyên ngành",
+            "Liên hệ dịch vụ thông tắc cống Hạ Long (NAP liên hệ)",
+            "Câu hỏi thường gặp (FAQ) về thông tắc cống Hạ Long"
+          ],
+          "hasQcvn": true,
+          "hasAuthor": true,
+          "hasSchemaPerson": true,
+          "hasSchemaLocalBusiness": true,
+          "hasFaqPage": true
+        }
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "inspect": {
+          "hasSeverityColumn": false,
+          "hasCostColumn": false,
+          "patchedRowCount": 0,
+          "h1CountInBody": 0,
+          "h2Texts": [
+            "Giới thiệu - Kinh nghiệm & Cam kết thông tắc cống Hạ Long",
+            "Tại sao phải xác định đúng điểm tắc nghẽn",
+            "Dấu hiệu & Nguyên nhân cống tắc thường gặp tại Hạ Long",
+            "Đặc thù hệ thống thoát nước từng khu vực tại Hạ Long",
+            "Quy trình thông tắc cống Hạ Long từng bước chuẩn kỹ thuật",
+            "Cam kết 3 Không bảo vệ quyền lợi khách hàng",
+            "Tình huống thực tế & Cách xử lý điểm nghẽn phức tạp",
+            "Khi nào tự xử lý được - Khi nào cần gọi thợ thông cống",
+            "Bảng so sánh dịch vụ và bảng giá thông tắc cống Hạ Long",
+            "Cách hạn chế tái phát sau khi xử lý cống nghẹt",
+            "Liên kết liên quan và quy chuẩn xây dựng chuyên ngành",
+            "Liên hệ dịch vụ thông tắc cống Hạ Long (NAP liên hệ)",
+            "Câu hỏi thường gặp (FAQ) về thông tắc cống Hạ Long"
+          ],
+          "hasQcvn": true,
+          "hasAuthor": true,
+          "hasSchemaPerson": true,
+          "hasSchemaLocalBusiness": true,
+          "hasFaqPage": true
+        }
+      }
+    ]
+  },
+  "after": {
+    "page": {
+      "hasSeverityColumn": true,
+      "hasCostColumn": true,
+      "patchedRowCount": 4,
+      "h1CountInBody": 0,
+      "h2Texts": [
+        "Giới thiệu - Kinh nghiệm & Cam kết thông tắc cống Hạ Long",
+        "Tại sao phải xác định đúng điểm tắc nghẽn",
+        "Dấu hiệu & Nguyên nhân cống tắc thường gặp tại Hạ Long",
+        "Đặc thù hệ thống thoát nước từng khu vực tại Hạ Long",
+        "Quy trình thông tắc cống Hạ Long từng bước chuẩn kỹ thuật",
+        "Cam kết 3 Không bảo vệ quyền lợi khách hàng",
+        "Tình huống thực tế & Cách xử lý điểm nghẽn phức tạp",
+        "Khi nào tự xử lý được - Khi nào cần gọi thợ thông cống",
+        "Bảng so sánh dịch vụ và bảng giá thông tắc cống Hạ Long",
+        "Cách hạn chế tái phát sau khi xử lý cống nghẹt",
+        "Liên kết liên quan và quy chuẩn xây dựng chuyên ngành",
+        "Liên hệ dịch vụ thông tắc cống Hạ Long (NAP liên hệ)",
+        "Câu hỏi thường gặp (FAQ) về thông tắc cống Hạ Long"
+      ],
+      "hasQcvn": true,
+      "hasAuthor": true,
+      "hasSchemaPerson": true,
+      "hasSchemaLocalBusiness": true,
+      "hasFaqPage": true
+    },
+    "options": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "inspect": {
+          "hasSeverityColumn": true,
+          "hasCostColumn": true,
+          "patchedRowCount": 4,
+          "h1CountInBody": 0,
+          "h2Texts": [
+            "Giới thiệu - Kinh nghiệm & Cam kết thông tắc cống Hạ Long",
+            "Tại sao phải xác định đúng điểm tắc nghẽn",
+            "Dấu hiệu & Nguyên nhân cống tắc thường gặp tại Hạ Long",
+            "Đặc thù hệ thống thoát nước từng khu vực tại Hạ Long",
+            "Quy trình thông tắc cống Hạ Long từng bước chuẩn kỹ thuật",
+            "Cam kết 3 Không bảo vệ quyền lợi khách hàng",
+            "Tình huống thực tế & Cách xử lý điểm nghẽn phức tạp",
+            "Khi nào tự xử lý được - Khi nào cần gọi thợ thông cống",
+            "Bảng so sánh dịch vụ và bảng giá thông tắc cống Hạ Long",
+            "Cách hạn chế tái phát sau khi xử lý cống nghẹt",
+            "Liên kết liên quan và quy chuẩn xây dựng chuyên ngành",
+            "Liên hệ dịch vụ thông tắc cống Hạ Long (NAP liên hệ)",
+            "Câu hỏi thường gặp (FAQ) về thông tắc cống Hạ Long"
+          ],
+          "hasQcvn": true,
+          "hasAuthor": true,
+          "hasSchemaPerson": true,
+          "hasSchemaLocalBusiness": true,
+          "hasFaqPage": true
+        },
+        "reason": "patched"
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "inspect": {
+          "hasSeverityColumn": true,
+          "hasCostColumn": true,
+          "patchedRowCount": 4,
+          "h1CountInBody": 0,
+          "h2Texts": [
+            "Giới thiệu - Kinh nghiệm & Cam kết thông tắc cống Hạ Long",
+            "Tại sao phải xác định đúng điểm tắc nghẽn",
+            "Dấu hiệu & Nguyên nhân cống tắc thường gặp tại Hạ Long",
+            "Đặc thù hệ thống thoát nước từng khu vực tại Hạ Long",
+            "Quy trình thông tắc cống Hạ Long từng bước chuẩn kỹ thuật",
+            "Cam kết 3 Không bảo vệ quyền lợi khách hàng",
+            "Tình huống thực tế & Cách xử lý điểm nghẽn phức tạp",
+            "Khi nào tự xử lý được - Khi nào cần gọi thợ thông cống",
+            "Bảng so sánh dịch vụ và bảng giá thông tắc cống Hạ Long",
+            "Cách hạn chế tái phát sau khi xử lý cống nghẹt",
+            "Liên kết liên quan và quy chuẩn xây dựng chuyên ngành",
+            "Liên hệ dịch vụ thông tắc cống Hạ Long (NAP liên hệ)",
+            "Câu hỏi thường gặp (FAQ) về thông tắc cống Hạ Long"
+          ],
+          "hasQcvn": true,
+          "hasAuthor": true,
+          "hasSchemaPerson": true,
+          "hasSchemaLocalBusiness": true,
+          "hasFaqPage": true
+        },
+        "reason": "patched"
+      }
+    ]
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-ttc-ha-long-table-2026-06-26T18-29-45",
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/ttc-ha-long-table-fix-2026-06-26T18-29-45.json",
+  "live": {
+    "status": 200,
+    "hasSeverityColumn": true,
+    "hasCostColumn": true,
+    "patchedRowCount": 4,
+    "h1CountInBody": 1,
+    "h2Texts": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Giới thiệu - Kinh nghiệm & Cam kết thông tắc cống Hạ Long",
+      "Tại sao phải xác định đúng điểm tắc nghẽn",
+      "Dấu hiệu & Nguyên nhân cống tắc thường gặp tại Hạ Long",
+      "Đặc thù hệ thống thoát nước từng khu vực tại Hạ Long",
+      "Quy trình thông tắc cống Hạ Long từng bước chuẩn kỹ thuật",
+      "Cam kết 3 Không bảo vệ quyền lợi khách hàng",
+      "Tình huống thực tế & Cách xử lý điểm nghẽn phức tạp",
+      "Khi nào tự xử lý được - Khi nào cần gọi thợ thông cống",
+      "Bảng so sánh dịch vụ và bảng giá thông tắc cống Hạ Long",
+      "Cách hạn chế tái phát sau khi xử lý cống nghẹt",
+      "Liên kết liên quan và quy chuẩn xây dựng chuyên ngành",
+      "Liên hệ dịch vụ thông tắc cống Hạ Long (NAP liên hệ)",
+      "Câu hỏi thường gặp (FAQ) về thông tắc cống Hạ Long",
+      "Địa chỉ văn phòng tại Quảng Ninh"
+    ],
+    "hasQcvn": true,
+    "hasAuthor": true,
+    "hasSchemaPerson": true,
+    "hasSchemaLocalBusiness": true,
+    "hasFaqPage": true,
+    "h1Count": 1,
+    "metaDescriptionLength": 159
+  }
+}

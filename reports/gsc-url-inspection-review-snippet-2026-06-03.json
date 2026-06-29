@@ -1,0 +1,261 @@
+{
+  "generatedAt": "2026-06-03T01:38:44",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "items": [
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-06-02T16:20:54Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/",
+      "userCanonical": "https://thongtaccongquangninh.com/",
+      "richResultsVerdict": "PASS",
+      "richDetectedItems": [
+        "FAQ",
+        "Videos"
+      ],
+      "richIssues": [
+        {
+          "richResultType": "FAQ",
+          "items": [
+            {
+              "name": "Unnamed item"
+            }
+          ]
+        },
+        {
+          "richResultType": "Videos",
+          "items": [
+            {
+              "name": "Video khảo sát dịch vụ môi trường tại Hạ Long"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-06-01T03:25:45Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "richResultsVerdict": "FAIL",
+      "richDetectedItems": [
+        "Breadcrumbs",
+        "FAQ",
+        "Review snippets",
+        "Videos"
+      ],
+      "richIssues": [
+        {
+          "richResultType": "Breadcrumbs",
+          "items": [
+            {
+              "name": "Unnamed item"
+            }
+          ]
+        },
+        {
+          "richResultType": "FAQ",
+          "items": [
+            {
+              "name": "Unnamed item"
+            }
+          ]
+        },
+        {
+          "richResultType": "Review snippets",
+          "items": [
+            {
+              "name": "Môi Trường Đô Thị Số 1 Quảng Ninh"
+            },
+            {
+              "name": "Thông tắc cống Quảng Ninh",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Thông tắc cống Quảng Ninh",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Thông tắc cống Quảng Ninh",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Thông tắc cống Quảng Ninh",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Thông tắc cống Quảng Ninh",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Thông tắc cống Quảng Ninh",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Thông tắc cống Quảng Ninh",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "richResultType": "Videos",
+          "items": [
+            {
+              "name": "Đội thợ thông tắc cống Quảng Ninh xử lý nhanh trong ngày"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-05-30T20:08:26Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "richResultsVerdict": "FAIL",
+      "richDetectedItems": [
+        "Breadcrumbs",
+        "FAQ",
+        "Review snippets"
+      ],
+      "richIssues": [
+        {
+          "richResultType": "Breadcrumbs",
+          "items": [
+            {
+              "name": "Unnamed item"
+            },
+            {
+              "name": "Unnamed item"
+            }
+          ]
+        },
+        {
+          "richResultType": "FAQ",
+          "items": [
+            {
+              "name": "Unnamed item"
+            }
+          ]
+        },
+        {
+          "richResultType": "Review snippets",
+          "items": [
+            {
+              "name": "Hút bể phốt Móng Cái",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Hút bể phốt Móng Cái",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Hút bể phốt Móng Cái",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Hút bể phốt Móng Cái",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Hút bể phốt Móng Cái",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Hút bể phốt Móng Cái",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            },
+            {
+              "name": "Hút bể phốt Móng Cái",
+              "issues": [
+                {
+                  "issueMessage": "Invalid object type for field \"<parent_node>\"",
+                  "severity": "ERROR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

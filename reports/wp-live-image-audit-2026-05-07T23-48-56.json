@@ -1,0 +1,1939 @@
+{
+  "generatedAt": "2026-05-07T23:48:56+0700",
+  "totalUrls": 42,
+  "urlsWithIssues": 42,
+  "samePageDuplicateUrls": 1,
+  "urlsWithHeavyImages": 42,
+  "issues": [
+    {
+      "endpoint": "pages",
+      "id": 436,
+      "slug": "hut-be-phot-bai-chay",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "title": "Hút bể phốt Bãi Cháy 24/7, xe bồn có mặt nhanh",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 431,
+      "slug": "thong-tac-bon-cau-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "title": "Thông tắc bồn cầu Vân Đồn 24/7, không đục phá, có mặt nhanh gọn",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 430,
+      "slug": "thong-tac-bon-cau-mong-cai",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "title": "Thông tắc bồn cầu Móng Cái 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 429,
+      "slug": "thong-tac-bon-cau-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "title": "Thông tắc bồn cầu Đông Triều 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 428,
+      "slug": "thong-tac-bon-cau-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "title": "Thông tắc bồn cầu Quảng Yên 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 58,
+      "slug": "hut-be-phot-van-don",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "title": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 55,
+      "slug": "hut-be-phot-mong-cai",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 56,
+      "slug": "hut-be-phot-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 57,
+      "slug": "hut-be-phot-quang-yen",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+      "imageCount": 6,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 427,
+      "slug": "thong-tac-cong-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        },
+        {
+          "file": "thong-tac-cong-van-don-kiem-tra-ho-ga-2.webp",
+          "kb": 396.5,
+          "width": 1600,
+          "height": 893,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-van-don-kiem-tra-ho-ga-2.webp"
+        },
+        {
+          "file": "thong-tac-cong-van-don-may-lo-xo-thong-cong-3.webp",
+          "kb": 380.6,
+          "width": 1600,
+          "height": 1600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-van-don-may-lo-xo-thong-cong-3.webp"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 426,
+      "slug": "thong-tac-cong-mong-cai",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 425,
+      "slug": "thong-tac-cong-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        },
+        {
+          "file": "thong-tac-cong-dong-trieu-thong-cong-ho-ga-3.webp",
+          "kb": 354.1,
+          "width": 1122,
+          "height": 1402,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-dong-trieu-thong-cong-ho-ga-3.webp"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 424,
+      "slug": "thong-tac-cong-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 405,
+      "slug": "thong-tac-cong-uong-bi",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 400,
+      "slug": "thong-tac-cong-cam-pha",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 398,
+      "slug": "thong-tac-bon-cau-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "title": "Thông tắc bồn cầu Hạ Long 24/7, không đục phá, có mặt nhanh ngay",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 386,
+      "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+      "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 384,
+      "slug": "thong-tac-cong-ngo-nho-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 383,
+      "slug": "thong-tac-cong-nha-hang-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 380,
+      "slug": "thong-tac-cong-chung-cu-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 311,
+      "slug": "xu-ly-mui-hoi-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "title": "Xử Lý Mùi Hôi Nhà Vệ Sinh Quảng Ninh Triệt Để Cống Trào",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 296,
+      "slug": "thong-tac-cong-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+      "imageCount": 6,
+      "dupSrc": [
+        [
+          {
+            "index": 2,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          },
+          {
+            "index": 3,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          }
+        ]
+      ],
+      "dupSha": [
+        [
+          {
+            "index": 2,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          },
+          {
+            "index": 3,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          }
+        ]
+      ],
+      "nearDuplicatePairs": [
+        {
+          "left": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "right": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "distance": 0,
+          "sameSha": true
+        }
+      ],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 282,
+      "slug": "chinh-sach-bao-mat",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "title": "Chính sách bảo mật 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 166,
+      "slug": "thong-tac-toilet-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+      "title": "Thông Tắc Toilet Quảng Ninh Bằng Công Nghệ Mới",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 64,
+      "slug": "chinh-sach-bao-hanh",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "title": "Chính sách bảo hành 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 63,
+      "slug": "lien-he",
+      "link": "https://thongtaccongquangninh.com/lien-he/",
+      "title": "Liên hệ 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 62,
+      "slug": "gioi-thieu",
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "title": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 61,
+      "slug": "bang-gia",
+      "link": "https://thongtaccongquangninh.com/bang-gia/",
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 59,
+      "slug": "hut-be-phot-hoanh-bo",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+      "title": "Hút bể phốt Hoành Bồ 24/7, xe bồn có mặt nhanh",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 54,
+      "slug": "hut-be-phot-uong-bi",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 53,
+      "slug": "hut-be-phot-cam-pha",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 52,
+      "slug": "hut-be-phot-ha-long",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "title": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 38,
+      "slug": "nao-vet-ho-ga-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 37,
+      "slug": "thong-tac-bon-cau-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "title": "Thông tắc bồn cầu Quảng Ninh 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 36,
+      "slug": "thong-tac-chau-rua-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 35,
+      "slug": "thong-tac-cong-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 26,
+      "slug": "hut-be-phot-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 25,
+      "slug": "blog",
+      "link": "https://thongtaccongquangninh.com/blog/",
+      "title": "Blog vệ sinh môi trường Quảng Ninh 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 23,
+      "slug": "trang-chu",
+      "link": "https://thongtaccongquangninh.com/",
+      "title": "Trang chủ 24/7, xử lý nhanh trong ngày",
+      "imageCount": 14,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        },
+        {
+          "file": "favicon-thong-tac-cong-quang-ninh-2.png",
+          "kb": 1051.8,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/favicon-thong-tac-cong-quang-ninh-2.png"
+        },
+        {
+          "file": "1.png",
+          "kb": 1656.8,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/1.png"
+        },
+        {
+          "file": "325.png",
+          "kb": 1448.4,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/325.png"
+        },
+        {
+          "file": "Thiet-ke-chua-co-ten.png",
+          "kb": 1166.5,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/Thiet-ke-chua-co-ten.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "posts",
+      "id": 217,
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "title": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026: Cập Nhật Mới Nhất",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "posts",
+      "id": 216,
+      "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "title": "Cách xử lý cống thoát nước tắc 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "posts",
+      "id": 215,
+      "slug": "dau-hieu-be-phot-can-hut",
+      "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "title": "Dấu hiệu bể phốt cần hút 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "all": [
+    {
+      "endpoint": "pages",
+      "id": 436,
+      "slug": "hut-be-phot-bai-chay",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "title": "Hút bể phốt Bãi Cháy 24/7, xe bồn có mặt nhanh",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 431,
+      "slug": "thong-tac-bon-cau-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "title": "Thông tắc bồn cầu Vân Đồn 24/7, không đục phá, có mặt nhanh gọn",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 430,
+      "slug": "thong-tac-bon-cau-mong-cai",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "title": "Thông tắc bồn cầu Móng Cái 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 429,
+      "slug": "thong-tac-bon-cau-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "title": "Thông tắc bồn cầu Đông Triều 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 428,
+      "slug": "thong-tac-bon-cau-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "title": "Thông tắc bồn cầu Quảng Yên 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 58,
+      "slug": "hut-be-phot-van-don",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "title": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 55,
+      "slug": "hut-be-phot-mong-cai",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 56,
+      "slug": "hut-be-phot-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 57,
+      "slug": "hut-be-phot-quang-yen",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+      "imageCount": 6,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 427,
+      "slug": "thong-tac-cong-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        },
+        {
+          "file": "thong-tac-cong-van-don-kiem-tra-ho-ga-2.webp",
+          "kb": 396.5,
+          "width": 1600,
+          "height": 893,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-van-don-kiem-tra-ho-ga-2.webp"
+        },
+        {
+          "file": "thong-tac-cong-van-don-may-lo-xo-thong-cong-3.webp",
+          "kb": 380.6,
+          "width": 1600,
+          "height": 1600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-van-don-may-lo-xo-thong-cong-3.webp"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 426,
+      "slug": "thong-tac-cong-mong-cai",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 425,
+      "slug": "thong-tac-cong-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        },
+        {
+          "file": "thong-tac-cong-dong-trieu-thong-cong-ho-ga-3.webp",
+          "kb": 354.1,
+          "width": 1122,
+          "height": 1402,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-dong-trieu-thong-cong-ho-ga-3.webp"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 424,
+      "slug": "thong-tac-cong-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 405,
+      "slug": "thong-tac-cong-uong-bi",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 400,
+      "slug": "thong-tac-cong-cam-pha",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 398,
+      "slug": "thong-tac-bon-cau-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "title": "Thông tắc bồn cầu Hạ Long 24/7, không đục phá, có mặt nhanh ngay",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 386,
+      "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+      "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 384,
+      "slug": "thong-tac-cong-ngo-nho-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 383,
+      "slug": "thong-tac-cong-nha-hang-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 380,
+      "slug": "thong-tac-cong-chung-cu-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 311,
+      "slug": "xu-ly-mui-hoi-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "title": "Xử Lý Mùi Hôi Nhà Vệ Sinh Quảng Ninh Triệt Để Cống Trào",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 296,
+      "slug": "thong-tac-cong-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+      "imageCount": 6,
+      "dupSrc": [
+        [
+          {
+            "index": 2,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          },
+          {
+            "index": 3,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          }
+        ]
+      ],
+      "dupSha": [
+        [
+          {
+            "index": 2,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          },
+          {
+            "index": 3,
+            "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+          }
+        ]
+      ],
+      "nearDuplicatePairs": [
+        {
+          "left": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "right": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "distance": 0,
+          "sameSha": true
+        }
+      ],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 282,
+      "slug": "chinh-sach-bao-mat",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "title": "Chính sách bảo mật 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 166,
+      "slug": "thong-tac-toilet-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+      "title": "Thông Tắc Toilet Quảng Ninh Bằng Công Nghệ Mới",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 64,
+      "slug": "chinh-sach-bao-hanh",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "title": "Chính sách bảo hành 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 63,
+      "slug": "lien-he",
+      "link": "https://thongtaccongquangninh.com/lien-he/",
+      "title": "Liên hệ 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 62,
+      "slug": "gioi-thieu",
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "title": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 61,
+      "slug": "bang-gia",
+      "link": "https://thongtaccongquangninh.com/bang-gia/",
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 59,
+      "slug": "hut-be-phot-hoanh-bo",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+      "title": "Hút bể phốt Hoành Bồ 24/7, xe bồn có mặt nhanh",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 54,
+      "slug": "hut-be-phot-uong-bi",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 53,
+      "slug": "hut-be-phot-cam-pha",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 52,
+      "slug": "hut-be-phot-ha-long",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "title": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 38,
+      "slug": "nao-vet-ho-ga-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 37,
+      "slug": "thong-tac-bon-cau-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "title": "Thông tắc bồn cầu Quảng Ninh 24/7, không đục phá, có mặt nhanh",
+      "imageCount": 2,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 36,
+      "slug": "thong-tac-chau-rua-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 35,
+      "slug": "thong-tac-cong-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 26,
+      "slug": "hut-be-phot-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 25,
+      "slug": "blog",
+      "link": "https://thongtaccongquangninh.com/blog/",
+      "title": "Blog vệ sinh môi trường Quảng Ninh 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "pages",
+      "id": 23,
+      "slug": "trang-chu",
+      "link": "https://thongtaccongquangninh.com/",
+      "title": "Trang chủ 24/7, xử lý nhanh trong ngày",
+      "imageCount": 14,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        },
+        {
+          "file": "favicon-thong-tac-cong-quang-ninh-2.png",
+          "kb": 1051.8,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/favicon-thong-tac-cong-quang-ninh-2.png"
+        },
+        {
+          "file": "1.png",
+          "kb": 1656.8,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/1.png"
+        },
+        {
+          "file": "325.png",
+          "kb": 1448.4,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/325.png"
+        },
+        {
+          "file": "Thiet-ke-chua-co-ten.png",
+          "kb": 1166.5,
+          "width": 1200,
+          "height": 600,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/Thiet-ke-chua-co-ten.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "posts",
+      "id": 217,
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "title": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026: Cập Nhật Mới Nhất",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "posts",
+      "id": 216,
+      "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "title": "Cách xử lý cống thoát nước tắc 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "endpoint": "posts",
+      "id": 215,
+      "slug": "dau-hieu-be-phot-can-hut",
+      "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "title": "Dấu hiệu bể phốt cần hút 24/7, xử lý nhanh trong ngày",
+      "imageCount": 5,
+      "dupSrc": [],
+      "dupSha": [],
+      "nearDuplicatePairs": [],
+      "heavyImages": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

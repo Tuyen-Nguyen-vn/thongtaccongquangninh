@@ -1,0 +1,261 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=footer-v32-1779191162763",
+  "results": [
+    {
+      "vp": {
+        "name": "desktop-1920",
+        "width": 1920,
+        "height": 950
+      },
+      "consoleErrors": [],
+      "metrics": {
+        "version": "2026.05.19.32; direct-template",
+        "h1Total": 1,
+        "footerCount": 1,
+        "footerDisplay": "block",
+        "footerHeight": "1067.48px",
+        "footerOverflow": "hidden",
+        "footerRect": {
+          "top": -1409.609375,
+          "bottom": -342.125,
+          "x": 0,
+          "y": -1409.609375,
+          "w": 1920,
+          "h": 1067.484375
+        },
+        "copyrightRect": {
+          "top": -422.625,
+          "bottom": -372.125,
+          "x": 140,
+          "y": -422.625,
+          "w": 1640,
+          "h": 50.5
+        },
+        "exitPopupCount": 1,
+        "exitDisplay": "none",
+        "exitPosition": "static",
+        "exitRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "prBlockCount": 1,
+        "prDisplay": "none",
+        "prRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "aiBackTopDisplay": "block",
+        "footerBackTopDisplay": "grid",
+        "bodyH": 12798,
+        "docH": 12798,
+        "scrollY": 11213,
+        "innerH": 950,
+        "footerNearBottom": false,
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 1920,
+        "clientWidth": 1920
+      }
+    },
+    {
+      "vp": {
+        "name": "desktop-1440",
+        "width": 1440,
+        "height": 950
+      },
+      "consoleErrors": [],
+      "metrics": {
+        "version": "2026.05.19.32; direct-template",
+        "h1Total": 1,
+        "footerCount": 1,
+        "footerDisplay": "block",
+        "footerHeight": "1110.73px",
+        "footerOverflow": "hidden",
+        "footerRect": {
+          "top": -1127.734375,
+          "bottom": -17,
+          "x": 0,
+          "y": -1127.734375,
+          "w": 1440,
+          "h": 1110.734375
+        },
+        "copyrightRect": {
+          "top": -97.5,
+          "bottom": -47,
+          "x": 22,
+          "y": -97.5,
+          "w": 1396,
+          "h": 50.5
+        },
+        "exitPopupCount": 1,
+        "exitDisplay": "none",
+        "exitPosition": "static",
+        "exitRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "prBlockCount": 1,
+        "prDisplay": "none",
+        "prRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "aiBackTopDisplay": "block",
+        "footerBackTopDisplay": "grid",
+        "bodyH": 12351,
+        "docH": 12351,
+        "scrollY": 10920,
+        "innerH": 950,
+        "footerNearBottom": false,
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      }
+    },
+    {
+      "vp": {
+        "name": "mobile-390",
+        "width": 390,
+        "height": 1200
+      },
+      "consoleErrors": [],
+      "metrics": {
+        "version": "2026.05.19.32; direct-template",
+        "h1Total": 1,
+        "footerCount": 1,
+        "footerDisplay": "block",
+        "footerHeight": "3085.28px",
+        "footerOverflow": "hidden",
+        "footerRect": {
+          "top": -1555.28125,
+          "bottom": 1530,
+          "x": 0,
+          "y": -1555.28125,
+          "w": 390,
+          "h": 3085.28125
+        },
+        "copyrightRect": {
+          "top": 1391.21875,
+          "bottom": 1508,
+          "x": 16,
+          "y": 1391.21875,
+          "w": 358,
+          "h": 116.78125
+        },
+        "exitPopupCount": 1,
+        "exitDisplay": "none",
+        "exitPosition": "static",
+        "exitRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "prBlockCount": 1,
+        "prDisplay": "none",
+        "prRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "aiBackTopDisplay": "block",
+        "footerBackTopDisplay": "grid",
+        "bodyH": 17305,
+        "docH": 17305,
+        "scrollY": 15307,
+        "innerH": 1200,
+        "footerNearBottom": false,
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      }
+    },
+    {
+      "vp": {
+        "name": "mobile-375",
+        "width": 375,
+        "height": 1200
+      },
+      "consoleErrors": [],
+      "metrics": {
+        "version": "2026.05.19.32; direct-template",
+        "h1Total": 1,
+        "footerCount": 1,
+        "footerDisplay": "block",
+        "footerHeight": "3238.36px",
+        "footerOverflow": "hidden",
+        "footerRect": {
+          "top": -1544.84375,
+          "bottom": 1693.515625,
+          "x": 0,
+          "y": -1544.84375,
+          "w": 375,
+          "h": 3238.359375
+        },
+        "copyrightRect": {
+          "top": 1524.140625,
+          "bottom": 1671.515625,
+          "x": 16,
+          "y": 1524.140625,
+          "w": 343,
+          "h": 147.375
+        },
+        "exitPopupCount": 1,
+        "exitDisplay": "none",
+        "exitPosition": "static",
+        "exitRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "prBlockCount": 1,
+        "prDisplay": "none",
+        "prRect": {
+          "top": 0,
+          "bottom": 0,
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "aiBackTopDisplay": "block",
+        "footerBackTopDisplay": "grid",
+        "bodyH": 17553,
+        "docH": 17553,
+        "scrollY": 15407,
+        "innerH": 1200,
+        "footerNearBottom": false,
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 375,
+        "clientWidth": 375
+      }
+    }
+  ]
+}

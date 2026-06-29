@@ -1,0 +1,46 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "slug": "mui-hoi-cong-nguyen-nhan-xu-ly",
+  "service": "hút bể phốt",
+  "area": "Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai.jpg",
+      "fileNameWebP": "mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\mui-hoi-cong-nguyen-nhan-xu-ly\\mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai.jpg",
+      "fileSizeKb": 134,
+      "altText": "Mùi hôi từ cống bể phốt trong nhà nguyên nhân xử lý",
+      "title": "Mùi hôi từ cống – Nguyên nhân và cách xử lý dứt điểm",
+      "caption": "Nguyên nhân mùi hôi từ cống, bể phốt và cách xử lý dứt điểm tại nhà",
+      "pageUrl": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui.jpg",
+      "fileNameWebP": "mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\mui-hoi-cong-nguyen-nhan-xu-ly\\mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui.jpg",
+      "fileSizeKb": 136,
+      "altText": "Xử lý mùi hôi cống bể phốt trong nhà Quảng Ninh",
+      "title": "Xử lý mùi hôi từ cống tại Quảng Ninh – 24/7",
+      "caption": "Đội thợ xử lý mùi hôi từ cống, bể phốt chuyên nghiệp tại Quảng Ninh",
+      "pageUrl": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly/",
+      "placement": "trong nội dung",
+      "slot": "Ảnh 2 – minh họa",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

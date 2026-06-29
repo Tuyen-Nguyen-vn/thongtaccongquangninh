@@ -1,0 +1,187 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-06-03T16:46:36.287Z",
+  "target": {
+    "id": 2047,
+    "collection": "posts",
+    "slug": "hut-be-phot-ba-che",
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-hut-be-phot-ba-che-2026-06-03T16-46-35-069Z",
+  "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 - Xe vào vùng núi, báo giá rõ",
+  "titleLen": 64,
+  "metaDesc": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+  "metaDescLen": 158,
+  "before": {
+    "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+    "excerpt": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+    "contentLen": 17236,
+    "rawWordCount": 2746,
+    "keyword": {
+      "count": 29,
+      "total": 2745,
+      "density": 0.052823315118397086,
+      "densityPct": 5.28
+    },
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false,
+    "badAlt": true
+  },
+  "update": {
+    "changed": true,
+    "contentLen": 15873,
+    "rawWordCount": 2387,
+    "keyword": {
+      "count": 6,
+      "total": 2386,
+      "density": 0.012573344509639563,
+      "densityPct": 1.26
+    },
+    "changes": [
+      {
+        "label": "replace_old_author_url",
+        "changed": true
+      },
+      {
+        "label": "fix_case_image_alt",
+        "changed": true
+      },
+      {
+        "label": "remove_duplicate_author_box",
+        "changed": true
+      },
+      {
+        "label": "remove_duplicate_reminder_section",
+        "changed": true
+      },
+      {
+        "label": "remove_escaped_schema_text",
+        "changed": true
+      },
+      {
+        "label": "normalize_keyword_heavy_headings",
+        "changed": true,
+        "count": 9
+      },
+      {
+        "label": "reduce_exact_keyword_repeats",
+        "changed": true,
+        "kept": 7,
+        "replaced": 11
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema_and_final_author",
+        "changed": true
+      }
+    ],
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "hasFinalAuthor": true,
+    "badAlt": false
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankScore": {
+    "error": "WP 400 /rankmath/v1/updateSeoScore: Missing parameter(s): postScores"
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/?nowprocket=1&codex=ba-che-1780505201375",
+    "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 - Xe vào vùng núi, báo giá rõ",
+    "titleLen": 64,
+    "metaDesc": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+    "metaDescLen": 158,
+    "canonical": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+    "h1": [
+      "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 &#8211; Xe vào vùng núi, báo giá rõ"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Khi nào cần gọi xe hút bể tại Ba Chẽ",
+      "Nguyên nhân bể phốt đầy tại Ba Chẽ",
+      "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Cam kết 3 Không khi xử lý bể phốt tại Ba Chẽ",
+      "Bảng giá dịch vụ tại Ba Chẽ 2026",
+      "Quy trình 5 bước cho ca bể đầy tại Ba Chẽ",
+      "Case study E-E-A-T tại Ba Chẽ",
+      "Khu vực phục vụ tại huyện Ba Chẽ",
+      "Lưu ý riêng trước khi đặt lịch tại Ba Chẽ",
+      "Các tình huống bể đầy thường gặp tại Ba Chẽ",
+      "Chu kỳ bảo trì sau khi xử lý bể tại Ba Chẽ",
+      "Gọi xử lý bể đầy tại Ba Chẽ ngay",
+      "NAP liên hệ",
+      "FAQ về dịch vụ bể phốt tại Ba Chẽ",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3790,
+    "keyword": {
+      "count": 9,
+      "total": 3789,
+      "density": 0.011876484560570071,
+      "densityPct": 1.19
+    },
+    "schemaTypes": [
+      "LocalBusiness",
+      "HomeAndConstructionBusiness",
+      "PostalAddress",
+      "GeoCoordinates",
+      "City",
+      "AdministrativeArea",
+      "OfferCatalog",
+      "Offer",
+      "Service",
+      "BreadcrumbList",
+      "ListItem",
+      "FAQPage",
+      "Question",
+      "Answer",
+      "BlogPosting",
+      "WebPage",
+      "Person",
+      "Organization",
+      "ImageObject",
+      "ServiceChannel",
+      "ContactPoint"
+    ],
+    "hasServiceSchema": true,
+    "hasCleanupMarker": true,
+    "hasAuthorArchive": true,
+    "hasOldAuthorUrl": false,
+    "hasFinalAuthor": true,
+    "imageAlts": [
+      "Môi Trường Đô Thị Số 1 Quảng Ninh - hút bể phốt thông tắc cống 24/7",
+      "Logo Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Xe hút bể phốt chuyên dụng tại Quảng Ninh",
+      "Kỹ thuật viên Môi Trường Đô Thị Số 1 Quảng Ninh tư vấn dịch vụ",
+      "Xe hút bể phốt Ba Chẽ Quảng Ninh vào vùng núi",
+      "Hút bể phốt nhà trường và nhà dân huyện miền núi Ba Chẽ",
+      "Đội thợ hút bể phốt xử lý bùn cứng tại Ba Chẽ",
+      "Xe hút bể phốt chuyên dụng màu xanh phục vụ tại Quảng Ninh",
+      "Kỹ thuật viên thông tắc cống tại Quảng Ninh"
+    ]
+  },
+  "after": {
+    "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 - Xe vào vùng núi, báo giá rõ",
+    "excerpt": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+    "contentLen": 15873,
+    "rawWordCount": 2387,
+    "keyword": {
+      "count": 6,
+      "total": 2386,
+      "density": 0.012573344509639563,
+      "densityPct": 1.26
+    }
+  }
+}

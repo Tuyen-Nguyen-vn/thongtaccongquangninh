@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-25",
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+  "pageId": 1486,
+  "restContentMatchesRevision": true,
+  "output": {
+    "title": "Thông tắc bồn cầu Uông Bí cho nhà trọ, dân cư và công trình ống cũ",
+    "titleLength": 66,
+    "description": "Thông tắc bồn cầu Uông Bí cho nhà trọ, khu dân cư và nhà ống cũ khi nước rút chậm, trào ngược, có mùi hôi. Gọi 0963.953.533 / 0931.156.756 để kiểm tra sớm.",
+    "metaLength": 155,
+    "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+    "canonicalOk": true,
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "indexable": true,
+    "h1Count": 1,
+    "h1": [
+      "Thông tắc bồn cầu Uông Bí cho nhà trọ, dân cư và công trình ống cũ"
+    ],
+    "h1Source": "full rendered HTML; hero replaces content H1",
+    "h2": [
+      "Dấu hiệu cần xử lý sớm tại Uông Bí",
+      "Nguyên nhân bồn cầu tắc thường gặp",
+      "Khi nào có thể tự xử lý, khi nào nên gọi thợ",
+      "Bảng giá thông tắc bồn cầu Uông Bí",
+      "Quy trình xử lý 5 bước",
+      "Checklist trước khi gọi thợ",
+      "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Tình huống thường gặp tại Uông Bí",
+      "Case study E-E-A-T: hồ sơ kiểm tra một ca bồn cầu tắc",
+      "Khu vực phục vụ tại Uông Bí",
+      "NAP liên hệ xử lý bồn cầu tại Uông Bí",
+      "Câu hỏi thường gặp"
+    ],
+    "missingH2": [],
+    "words": 2668,
+    "forbidden": [],
+    "hotline": 8,
+    "density": {
+      "count": 5,
+      "total": 2668,
+      "density": 0.011244377811094454
+    },
+    "imageCount": 3,
+    "imageIssues": [],
+    "images": [
+      {
+        "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-uong-bi-kiem-tra-nha-tro.webp",
+        "alt": "Kiểm tra thông tắc bồn cầu tại nhà trọ Uông Bí",
+        "filename": "thong-tac-bon-cau-uong-bi-kiem-tra-nha-tro.webp",
+        "external": false
+      },
+      {
+        "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-uong-bi-may-lo-xo-ong-cu.webp",
+        "alt": "Máy lò xo xử lý bồn cầu tắc trong công trình ống cũ Uông Bí",
+        "filename": "thong-tac-bon-cau-uong-bi-may-lo-xo-ong-cu.webp",
+        "external": false
+      },
+      {
+        "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-uong-bi-xa-thu-khu-dan-cu.webp",
+        "alt": "Xả thử bồn cầu sau thông tắc tại khu dân cư Uông Bí",
+        "filename": "thong-tac-bon-cau-uong-bi-xa-thu-khu-dan-cu.webp",
+        "external": false
+      }
+    ],
+    "schema": {
+      "types": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "Service",
+        "FAQPage"
+      ],
+      "problems": [],
+      "parseErrors": []
+    },
+    "internalLinks": [
+      {
+        "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "url": "https://thongtaccongquangninh.com/lien-he/",
+        "status": 200,
+        "ok": true
+      }
+    ],
+    "internalBad": [],
+    "sitemap": true
+  },
+  "seoScore": {
+    "command": "python3 tools/seo_score.py reports/live-after-page-1486-thong-tac-bon-cau-uong-bi-2026-05-25.html \"thông tắc bồn cầu Uông Bí\"",
+    "internalScore": 95,
+    "status": "DAT"
+  },
+  "imageAudit": {
+    "report": "reports/wp-unique-image-audit-2026-05-25T23-31-26.json",
+    "targetIssueCount": 0,
+    "targetReuseGroupCount": 0
+  }
+}

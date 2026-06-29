@@ -1,0 +1,12 @@
+{
+  "slug": "demo-slug",
+  "checked_at": "2026-05-09T12:30:58.698Z",
+  "doorway_risk": 0,
+  "pass": true,
+  "issues": [
+    "Không tìm thấy draft để phân tích."
+  ],
+  "notes": [
+    "Doorway scan now estimates repetition and local-entity stuffing risk."
+  ]
+}

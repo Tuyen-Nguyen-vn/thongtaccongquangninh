@@ -1,0 +1,686 @@
+[
+  {
+    "name": "home",
+    "width": 375,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 375,
+      "h": 774
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "38px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-628be0e7-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2F&scrsrc=www.googletagmanager.com&rnd=1935255953.1779135176&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938469~118694324&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135175948&tfd=5753",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135175905&cv=11&fst=1779135175905&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938469~118694324&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2F%3Fnowprocket%3D1%26codex%3D1779135170193&rcb=7&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-KDPB94Y7Y7&gtm=45je65e0v9249785378z89249769984za20gzb9249769984zd9249769984&_p=1779135175475&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&cid=1023551025.1779135176&frm=0&pscdl=noapi&rcb=13&sr=800x600&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115616985~115938465~115938469&sid=1779135176&sct=1&seg=0&dl=https%3A%2F%2Fthongtaccongquangninh.com%2F%3Fnowprocket%3D1%26codex%3D1779135170193&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&en=page_view&_fv=1&_nsi=1&_ss=1&gap.plf=5&tfd=5977",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 390,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 390,
+      "h": 789
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "43.68px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-628be0e7-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2F&scrsrc=www.googletagmanager.com&rnd=1206392546.1779135179&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135178769&tfd=1538",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135178748&cv=11&fst=1779135178748&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2F%3Fnowprocket%3D1%26codex%3D1779135177230&rcb=18&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 768,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 768,
+      "h": 700
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "42px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2F&scrsrc=www.googletagmanager.com&rnd=152616416.1779135182&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938469~118012009&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135181566&tfd=1601",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135181530&cv=11&fst=1779135181530&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938469~118012009&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2F%3Fnowprocket%3D1%26codex%3D1779135179964&rcb=1&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 1024,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1024,
+      "h": 700
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "54.272px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2F&scrsrc=www.googletagmanager.com&rnd=447024570.1779135184&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135183884&tfd=1533",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135183848&cv=11&fst=1779135183848&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2F%3Fnowprocket%3D1%26codex%3D1779135182350&rcb=12&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 1440,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1440,
+      "h": 770
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "72px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2F&scrsrc=www.googletagmanager.com&rnd=671369024.1779135186&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938468~118168308&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135186273&tfd=1653",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135186235&cv=11&fst=1779135186235&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938468~118168308&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2F%3Fnowprocket%3D1%26codex%3D1779135184619&rcb=0&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%2C%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%20%E2%80%94%20c%C3%B3%20m%E1%BA%B7t%2015-30%20ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 375,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 375,
+      "h": 818
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "38px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-8ab5390f-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F&scrsrc=www.googletagmanager.com&rnd=1375266126.1779135195&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118694324&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135194782&tfd=7562",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135194759&cv=11&fst=1779135194759&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118694324&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F%3Fnowprocket%3D1%26codex%3D1779135187219&rcb=1&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 390,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 390,
+      "h": 838
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "43.68px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-8ab5390f-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F&scrsrc=www.googletagmanager.com&rnd=1141065277.1779135198&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468&apve=1&apvf=f&gap.plf=5&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135197642&tfd=1762",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135197612&cv=11&fst=1779135197612&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938466~115938468&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F%3Fnowprocket%3D1%26codex%3D1779135195880&rcb=7&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gap.plf=5&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 768,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 768,
+      "h": 700
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "42px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F&scrsrc=www.googletagmanager.com&rnd=77952354.1779135200&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135200415&tfd=1618",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135200392&cv=11&fst=1779135200392&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F%3Fnowprocket%3D1%26codex%3D1779135198796&rcb=0&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 1024,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1024,
+      "h": 700
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "54.272px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F&scrsrc=www.googletagmanager.com&rnd=972304860.1779135203&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118128923&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135202854&tfd=1604",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135202824&cv=11&fst=1779135202824&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118128923&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F%3Fnowprocket%3D1%26codex%3D1779135201250&rcb=9&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 1440,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1440,
+      "h": 921
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "72px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135205320&cv=11&fst=1779135205320&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938469&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F%3Fnowprocket%3D1%26codex%3D1779135203765&rcb=15&frm=0&tiba=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fhut-be-phot-quang-ninh%2F&scrsrc=www.googletagmanager.com&rnd=734218931.1779135205&dt=H%C3%BAt%20b%E1%BB%83%20ph%E1%BB%91t%20Qu%E1%BA%A3ng%20Ninh%2024%2F7%2C%20h%C3%BAt%20s%E1%BA%A1ch%2C%20b%C3%A1o%20gi%C3%A1%20r%C3%B5%2C%20c%C3%B3%20m%E1%BA%B7t%20nhanh&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938469&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135205347&tfd=1581",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "area",
+    "width": 375,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 375,
+      "h": 865
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "38px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-4f6e7c44-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=11&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F&scrsrc=www.googletagmanager.com&rnd=1759461674.1779135208&dt=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135207882&tfd=1429",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135207854&cv=11&fst=1779135207854&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F%3Fnowprocket%3D1%26codex%3D1779135206452&rcb=11&frm=0&tiba=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "area",
+    "width": 390,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 390,
+      "h": 961
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "43.68px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-4f6e7c44-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F&scrsrc=www.googletagmanager.com&rnd=784685643.1779135210&dt=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938466~115938468~119027222&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135210400&tfd=1467",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135210373&cv=11&fst=1779135210373&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938466~115938468~119027222&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F%3Fnowprocket%3D1%26codex%3D1779135208932&rcb=19&frm=0&tiba=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "area",
+    "width": 768,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 768,
+      "h": 724
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "42px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F&scrsrc=www.googletagmanager.com&rnd=1187812359.1779135213&dt=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118168306&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135213111&tfd=1553",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135213084&cv=11&fst=1779135213084&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118168306&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F%3Fnowprocket%3D1%26codex%3D1779135211556&rcb=7&frm=0&tiba=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "area",
+    "width": 1024,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1024,
+      "h": 728
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "54.272px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135215555&cv=11&fst=1779135215555&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938466~115938469&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F%3Fnowprocket%3D1%26codex%3D1779135213999&rcb=17&frm=0&tiba=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F&scrsrc=www.googletagmanager.com&rnd=1945532432.1779135216&dt=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938466~115938469&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135215581&tfd=1580",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "area",
+    "width": 1440,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1440,
+      "h": 946
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "72px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F&scrsrc=www.googletagmanager.com&rnd=1897118034.1779135218&dt=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135217994&tfd=1637",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135217974&cv=11&fst=1779135217974&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fthong-tac-cong-ha-long%2F%3Fnowprocket%3D1%26codex%3D1779135216354&rcb=6&frm=0&tiba=Th%C3%B4ng%20T%E1%BA%AFc%20C%E1%BB%91ng%20H%E1%BA%A1%20Long%20%E2%80%93%20Th%E1%BB%A3%2024%2F7%2C%20C%C3%B3%20M%E1%BA%B7t%20Sau%2015%20Ph%C3%BAt&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "blog",
+    "width": 375,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 375,
+      "h": 857
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "38px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-9824f057-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F&scrsrc=www.googletagmanager.com&rnd=261418659.1779135221&dt=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938469~118851535&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135220570&tfd=1504",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135220544&cv=11&fst=1779135220544&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616986~115938465~115938469~118851535&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F%3Fnowprocket%3D1%26codex%3D1779135219066&rcb=12&frm=0&tiba=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "blog",
+    "width": 390,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 390,
+      "h": 908
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "43.68px",
+    "formDisplay": "none",
+    "bubbleDisplay": "grid",
+    "sheetOpened": true,
+    "sheetClosed": true,
+    "activeTag": "input#ttcqn-seo-hero-9824f057-mobileform-phone",
+    "failed": [
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135222935&cv=11&fst=1779135222935&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938469~118168308&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F%3Fnowprocket%3D1%26codex%3D1779135221539&rcb=5&frm=0&tiba=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F&scrsrc=www.googletagmanager.com&rnd=2065570614.1779135223&dt=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938469~118168308&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135222972&tfd=1432",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "blog",
+    "width": 768,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 768,
+      "h": 742
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "42px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F&scrsrc=www.googletagmanager.com&rnd=863075737.1779135226&dt=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938465~115938469&apve=1&apvf=f&gap.plf=5&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135225681&tfd=1597",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135225645&cv=11&fst=1779135225645&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115616985~115938465~115938469&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F%3Fnowprocket%3D1%26codex%3D1779135224083&rcb=16&frm=0&tiba=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gap.plf=5&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "blog",
+    "width": 1024,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1024,
+      "h": 700
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "54.272px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F&scrsrc=www.googletagmanager.com&rnd=1482281691.1779135228&dt=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118168306&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135228120&tfd=1670",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135228063&cv=11&fst=1779135228063&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938468~118168306&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F%3Fnowprocket%3D1%26codex%3D1779135226447&rcb=14&frm=0&tiba=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "blog",
+    "width": 1440,
+    "status": 200,
+    "h1": 1,
+    "seoHero": 1,
+    "oldBlocks": 0,
+    "overflowX": 0,
+    "heroInsideArticle": false,
+    "heroRect": {
+      "x": 0,
+      "w": 1440,
+      "h": 921
+    },
+    "h1Color": "rgb(255, 255, 255)",
+    "h1Size": "72px",
+    "formDisplay": "block",
+    "bubbleDisplay": "none",
+    "sheetOpened": false,
+    "sheetClosed": false,
+    "activeTag": "",
+    "failed": [
+      {
+        "url": "https://www.google.com/rmkt/collect/18031795119/?random=1779135229942&cv=11&fst=1779135229942&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469~118168307&u_w=800&u_h=600&url=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F%3Fnowprocket%3D1%26codex%3D1779135228825&rcb=4&frm=0&tiba=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=43542659.1779135176&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gcp=5",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&en=page_view&dl=https%3A%2F%2Fthongtaccongquangninh.com%2Fcau-hoi-thuong-gap-thong-tac-cong%2F&scrsrc=www.googletagmanager.com&rnd=604123423.1779135230&dt=C%C3%A2u%20h%E1%BB%8Fi%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p%20th%C3%B4ng%20t%E1%BA%AFc%20c%E1%BB%91ng%20Qu%E1%BA%A3ng%20Ninh%2C%20gi%C3%A1%20v%C3%A0%20b%E1%BA%A3o%20h%C3%A0nh%20-%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4%20Th%E1%BB%8B%20S%E1%BB%91%201&auid=43542659.1779135176&navt=n&npa=0&gtm=45be65e0v9251571820za200zd9251571820xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469~118168307&apve=1&apvf=f&apvc=1&tids=AW-18031795119&tid=AW-18031795119&tft=1779135229981&tfd=1155",
+        "reason": "net::ERR_ABORTED"
+      }
+    ],
+    "consoleErrors": [],
+    "misses": []
+  }
+]

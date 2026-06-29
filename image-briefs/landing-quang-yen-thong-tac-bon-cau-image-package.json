@@ -1,0 +1,46 @@
+{
+  "slug": "landing-quang-yen-thong-tac-bon-cau",
+  "status": "READY_FOR_REVIEW",
+  "images": [
+    {
+      "slot": "anh-dau-bai",
+      "fileName": "thong-tac-bon-cau-quang-yen-anh-dau-bai.png",
+      "filePath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\thong-tac-bon-cau-quang-yen-anh-dau-bai.png",
+      "altText": "Thông tắc bồn cầu Quảng Yên – Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "title": "Thông tắc bồn cầu Quảng Yên",
+      "caption": "Dịch vụ thông tắc bồn cầu Quảng Yên 24/7 – 0963.953.533"
+    },
+    {
+      "slot": "quy-trinh-thi-cong",
+      "fileName": "thong-tac-bon-cau-quang-yen-quy-trinh-thi-cong.png",
+      "filePath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\thong-tac-bon-cau-quang-yen-quy-trinh-thi-cong.png",
+      "altText": "Quy trình thông tắc bồn cầu Quảng Yên – không đục phá",
+      "title": "Thông tắc bồn cầu Quảng Yên",
+      "caption": "Dịch vụ thông tắc bồn cầu Quảng Yên 24/7 – 0963.953.533"
+    },
+    {
+      "slot": "case-study",
+      "fileName": "thong-tac-bon-cau-quang-yen-case-study.png",
+      "filePath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\thong-tac-bon-cau-quang-yen-case-study.png",
+      "altText": "Case study thực tế thông tắc bồn cầu Quảng Yên",
+      "title": "Thông tắc bồn cầu Quảng Yên",
+      "caption": "Dịch vụ thông tắc bồn cầu Quảng Yên 24/7 – 0963.953.533"
+    },
+    {
+      "slot": "cta-niem-tin",
+      "fileName": "thong-tac-bon-cau-quang-yen-cta-niem-tin.png",
+      "filePath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\thong-tac-bon-cau-quang-yen-cta-niem-tin.png",
+      "altText": "Dịch vụ thông tắc bồn cầu Quảng Yên – cam kết 3 không",
+      "title": "Thông tắc bồn cầu Quảng Yên",
+      "caption": "Dịch vụ thông tắc bồn cầu Quảng Yên 24/7 – 0963.953.533"
+    },
+    {
+      "slot": "khu-vuc-phuc-vu",
+      "fileName": "thong-tac-bon-cau-quang-yen-khu-vuc-phuc-vu.png",
+      "filePath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\thong-tac-bon-cau-quang-yen-khu-vuc-phuc-vu.png",
+      "altText": "Khu vực phục vụ thông tắc bồn cầu Quảng Yên và lân cận",
+      "title": "Thông tắc bồn cầu Quảng Yên",
+      "caption": "Dịch vụ thông tắc bồn cầu Quảng Yên 24/7 – 0963.953.533"
+    }
+  ]
+}

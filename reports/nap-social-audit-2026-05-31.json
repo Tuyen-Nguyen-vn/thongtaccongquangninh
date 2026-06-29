@@ -1,0 +1,561 @@
+{
+  "generatedAt": "2026-06-21T01:29:17.966Z",
+  "expectedNap": {
+    "name": "Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "phone": [
+      "0963.953.533",
+      "0931.156.756"
+    ],
+    "locality": "Hạ Long",
+    "region": "Quảng Ninh",
+    "streetAddress": "Gần Nhà Văn hóa, khu 3, Hà Lầm",
+    "postalCode": "01111"
+  },
+  "expectedSocial": {
+    "youtube": "https://www.youtube.com/@moitruongdothiso1quangninh",
+    "facebook": "https://www.facebook.com/thongtacconghalong24h",
+    "tiktok": "https://www.tiktok.com/@thongtaccongquangninh",
+    "zalo": "https://zalo.me/0931156756"
+  },
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Thông Tắc Cống, Hút Bể Phốt Quảng Ninh 24/7 - Gọi Thợ Tới Nhanh",
+      "h1": [
+        "HÚT BỂ PHỐT, THÔNG TẮC CỐNG QUẢNG NINH 24/7"
+      ],
+      "phones": {
+        "hotline0963": 27,
+        "hotline0931": 15,
+        "tel0963": 16,
+        "tel0931": 4
+      },
+      "oldMarkers": [
+        "111 Cái Lân"
+      ],
+      "expectedSocialPresent": {
+        "youtube": true,
+        "facebook": false,
+        "tiktok": true,
+        "zalo": true
+      },
+      "external": [
+        "https://zalo.me/0931156756",
+        "https://g.page/r/CQSOCygK1e8sEAE/review",
+        "https://www.google.com/maps/search/?api=1&#038;query=20.962384198791902%2C107.05220536959965",
+        "https://www.facebook.com/moitruongquangninh",
+        "https://www.youtube.com/@moitruongdothiso1quangninh",
+        "https://www.tiktok.com/@thongtaccongquangninh",
+        "https://www.quangninh.gov.vn/so/sotainguyenmt/Trang/default.aspx",
+        "https://baotainguyenmoitruong.vn/"
+      ],
+      "jsonLdCount": 2,
+      "localBusiness": [
+        {
+          "type": [
+            "Organization"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "sameAs": [
+            "https://www.facebook.com/moitruongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân",
+            "addressLocality": "Bãi Cháy",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com/",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "sameAs": [
+            "https://thongtaccongquangninh.com/",
+            "https://www.youtube.com/@moitruongdothiso1quangninh",
+            "https://www.facebook.com/moitruongquangninh",
+            "https://www.tiktok.com/@thongtaccongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/hut-be-phot-quang-ninh/",
+      "status": 200,
+      "title": "Hút Bể Phốt Quảng Ninh 24/7 – Xe Bồn Hút Sạch, Có Mặt 15 Phút",
+      "h1": [
+        "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút"
+      ],
+      "phones": {
+        "hotline0963": 28,
+        "hotline0931": 24,
+        "tel0963": 15,
+        "tel0931": 11
+      },
+      "oldMarkers": [
+        "111 Cái Lân"
+      ],
+      "expectedSocialPresent": {
+        "youtube": true,
+        "facebook": false,
+        "tiktok": true,
+        "zalo": true
+      },
+      "external": [
+        "https://www.google.com/maps/search/?api=1&#038;query=111%20C%C3%A1i%20L%C3%A2n%2C%20B%C3%A3i%20Ch%C3%A1y%2C%20Qu%E1%BA%A3ng%20Ninh",
+        "https://www.google.com/maps/search/?api=1&#038;query=20.962384198791902%2C107.05220536959965",
+        "https://www.facebook.com/moitruongquangninh",
+        "https://zalo.me/0931156756",
+        "https://www.youtube.com/@moitruongdothiso1quangninh",
+        "https://www.tiktok.com/@thongtaccongquangninh"
+      ],
+      "jsonLdCount": 7,
+      "localBusiness": [
+        {
+          "type": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com/",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "sameAs": [
+            "https://thongtaccongquangninh.com/",
+            "https://www.youtube.com/@moitruongdothiso1quangninh",
+            "https://www.facebook.com/moitruongquangninh",
+            "https://www.tiktok.com/@thongtaccongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": [
+            "Organization"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "sameAs": [
+            "https://www.facebook.com/moitruongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân",
+            "addressLocality": "Bãi Cháy",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": "LocalBusiness",
+          "name": "Môi Trường Đô Thị Số 1 Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy, Quảng Ninh",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "postalCode": "200000",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/thong-tac-cong-quang-ninh/",
+      "status": 200,
+      "title": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+      "h1": [
+        "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút"
+      ],
+      "phones": {
+        "hotline0963": 30,
+        "hotline0931": 25,
+        "tel0963": 16,
+        "tel0931": 12
+      },
+      "oldMarkers": [
+        "111 Cái Lân"
+      ],
+      "expectedSocialPresent": {
+        "youtube": true,
+        "facebook": false,
+        "tiktok": true,
+        "zalo": true
+      },
+      "external": [
+        "https://www.google.com/maps/search/?api=1&#038;query=111%20C%C3%A1i%20L%C3%A2n%2C%20B%C3%A3i%20Ch%C3%A1y%2C%20Qu%E1%BA%A3ng%20Ninh",
+        "https://www.google.com/maps/search/?api=1&#038;query=20.962384198791902%2C107.05220536959965",
+        "https://www.facebook.com/moitruongquangninh",
+        "https://zalo.me/0931156756",
+        "https://www.youtube.com/@moitruongdothiso1quangninh",
+        "https://www.tiktok.com/@thongtaccongquangninh"
+      ],
+      "jsonLdCount": 7,
+      "localBusiness": [
+        {
+          "type": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com/",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "sameAs": [
+            "https://thongtaccongquangninh.com/",
+            "https://www.youtube.com/@moitruongdothiso1quangninh",
+            "https://www.facebook.com/moitruongquangninh",
+            "https://www.tiktok.com/@thongtaccongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": [
+            "Organization"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "sameAs": [
+            "https://www.facebook.com/moitruongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân",
+            "addressLocality": "Bãi Cháy",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": "LocalBusiness",
+          "name": "Môi Trường Đô Thị Số 1 Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy, Quảng Ninh",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "postalCode": "200000",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/lien-he/",
+      "status": 200,
+      "title": "Liên hệ thông tắc cống Quảng Ninh, hút bể phốt 24/7",
+      "h1": [
+        "Liên hệ thông tắc cống Quảng Ninh, hút bể phốt 24/7"
+      ],
+      "phones": {
+        "hotline0963": 27,
+        "hotline0931": 27,
+        "tel0963": 13,
+        "tel0931": 9
+      },
+      "oldMarkers": [
+        "111 Cái Lân"
+      ],
+      "expectedSocialPresent": {
+        "youtube": true,
+        "facebook": false,
+        "tiktok": true,
+        "zalo": true
+      },
+      "external": [
+        "https://www.google.com/maps/search/?api=1&#038;query=111%20C%C3%A1i%20L%C3%A2n%2C%20B%C3%A3i%20Ch%C3%A1y%2C%20Qu%E1%BA%A3ng%20Ninh",
+        "https://www.google.com/maps/search/?api=1&#038;query=20.962384198791902%2C107.05220536959965",
+        "https://www.facebook.com/moitruongquangninh",
+        "https://zalo.me/0931156756",
+        "https://www.youtube.com/@moitruongdothiso1quangninh",
+        "https://www.tiktok.com/@thongtaccongquangninh"
+      ],
+      "jsonLdCount": 4,
+      "localBusiness": [
+        {
+          "type": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com/",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "sameAs": [
+            "https://thongtaccongquangninh.com/",
+            "https://www.youtube.com/@moitruongdothiso1quangninh",
+            "https://www.facebook.com/moitruongquangninh",
+            "https://www.tiktok.com/@thongtaccongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": [
+            "Organization"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "sameAs": [
+            "https://www.facebook.com/moitruongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân",
+            "addressLocality": "Bãi Cháy",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/gioi-thieu/",
+      "status": 200,
+      "title": "Giới thiệu dịch vụ thông tắc cống, hút bể phốt Quảng Ninh",
+      "h1": [
+        "Giới thiệu dịch vụ thông tắc cống, hút bể phốt Quảng Ninh"
+      ],
+      "phones": {
+        "hotline0963": 20,
+        "hotline0931": 18,
+        "tel0963": 12,
+        "tel0931": 8
+      },
+      "oldMarkers": [
+        "111 Cái Lân"
+      ],
+      "expectedSocialPresent": {
+        "youtube": true,
+        "facebook": false,
+        "tiktok": true,
+        "zalo": true
+      },
+      "external": [
+        "https://www.google.com/maps/search/?api=1&#038;query=111%20C%C3%A1i%20L%C3%A2n%2C%20B%C3%A3i%20Ch%C3%A1y%2C%20Qu%E1%BA%A3ng%20Ninh",
+        "https://www.google.com/maps/search/?api=1&#038;query=20.962384198791902%2C107.05220536959965",
+        "https://www.facebook.com/moitruongquangninh",
+        "https://zalo.me/0931156756",
+        "https://www.youtube.com/@moitruongdothiso1quangninh",
+        "https://www.tiktok.com/@thongtaccongquangninh"
+      ],
+      "jsonLdCount": 2,
+      "localBusiness": [
+        {
+          "type": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com/",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "sameAs": [
+            "https://thongtaccongquangninh.com/",
+            "https://www.youtube.com/@moitruongdothiso1quangninh",
+            "https://www.facebook.com/moitruongquangninh",
+            "https://www.tiktok.com/@thongtaccongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": [
+            "Organization"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "sameAs": [
+            "https://www.facebook.com/moitruongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân",
+            "addressLocality": "Bãi Cháy",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/bang-gia/",
+      "status": 200,
+      "title": "Bảng giá hút bể phốt thông tắc cống Quảng Ninh 2026",
+      "h1": [
+        "Bảng giá hút bể phốt thông tắc cống Quảng Ninh 2026"
+      ],
+      "phones": {
+        "hotline0963": 28,
+        "hotline0931": 19,
+        "tel0963": 12,
+        "tel0931": 8
+      },
+      "oldMarkers": [
+        "111 Cái Lân"
+      ],
+      "expectedSocialPresent": {
+        "youtube": true,
+        "facebook": false,
+        "tiktok": true,
+        "zalo": true
+      },
+      "external": [
+        "https://www.google.com/maps/search/?api=1&#038;query=111%20C%C3%A1i%20L%C3%A2n%2C%20B%C3%A3i%20Ch%C3%A1y%2C%20Qu%E1%BA%A3ng%20Ninh",
+        "https://www.google.com/maps/search/?api=1&#038;query=20.962384198791902%2C107.05220536959965",
+        "https://www.facebook.com/moitruongquangninh",
+        "https://zalo.me/0931156756",
+        "https://www.youtube.com/@moitruongdothiso1quangninh",
+        "https://www.tiktok.com/@thongtaccongquangninh"
+      ],
+      "jsonLdCount": 4,
+      "localBusiness": [
+        {
+          "type": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com/",
+          "telephone": [
+            "+84963953533",
+            "+84931156756"
+          ],
+          "sameAs": [
+            "https://thongtaccongquangninh.com/",
+            "https://www.youtube.com/@moitruongdothiso1quangninh",
+            "https://www.facebook.com/moitruongquangninh",
+            "https://www.tiktok.com/@thongtaccongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân, Bãi Cháy",
+            "addressLocality": "Hạ Long",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        },
+        {
+          "type": [
+            "Organization"
+          ],
+          "name": "Thông Tắc Cống Quảng Ninh",
+          "url": "https://thongtaccongquangninh.com",
+          "sameAs": [
+            "https://www.facebook.com/moitruongquangninh"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "111 Cái Lân",
+            "addressLocality": "Bãi Cháy",
+            "addressRegion": "Quảng Ninh",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    }
+  ],
+  "socialChecks": [
+    {
+      "url": "https://www.youtube.com/@moitruongdothiso1quangninh",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@moitruongdothiso1quangninh",
+      "ok": true
+    },
+    {
+      "url": "https://www.facebook.com/thongtacconghalong24h",
+      "status": 200,
+      "finalUrl": "https://www.facebook.com/thongtacconghalong24h",
+      "ok": true
+    },
+    {
+      "url": "https://www.tiktok.com/@thongtaccongquangninh",
+      "status": 200,
+      "finalUrl": "https://www.tiktok.com/@thongtaccongquangninh",
+      "ok": true
+    },
+    {
+      "url": "https://zalo.me/0931156756",
+      "status": 200,
+      "finalUrl": "https://id.zalo.me/account/login?continue=http%3A%2F%2Fzalo.me%2F0931156756",
+      "ok": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DmiPD6WM9Jg",
+      "status": 200,
+      "ok": true,
+      "title": "Hút bể phốt, thông tắc cống Quảng Ninh 24/7 | Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "author_name": "Môi Trường Đô Thị Số 1 Quảng Ninh"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pXSJIOhrO3Q",
+      "status": 200,
+      "ok": true,
+      "title": "Thông tắc cống Quảng Ninh 24/7, không đục phá | Gọi 0963.953.533",
+      "author_name": "Môi Trường Đô Thị Số 1 Quảng Ninh"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IlNPZHmrYss",
+      "status": 200,
+      "ok": true,
+      "title": "Xử lý mùi hôi cống thoát nước Quảng Ninh | Gọi 0963.953.533",
+      "author_name": "Môi Trường Đô Thị Số 1 Quảng Ninh"
+    }
+  ]
+}

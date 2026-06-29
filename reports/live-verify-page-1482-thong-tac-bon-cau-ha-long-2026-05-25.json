@@ -1,0 +1,93 @@
+{
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+  "status": 200,
+  "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+  "indexable": true,
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "title": "Thông tắc bồn cầu Hạ Long cho khách sạn, nhà hàng và nhà dân 24/7",
+  "titleLength": 65,
+  "metaDescription": "Thông tắc bồn cầu Hạ Long cho khách sạn, nhà hàng, nhà dân khi nước rút chậm, trào ngược hoặc có mùi hôi. Gọi 0963.953.533 / 0931.156.756 để kiểm tra sớm.",
+  "metaLength": 154,
+  "h1": [
+    "Thông tắc bồn cầu Hạ Long cho khách sạn, nhà hàng và nhà dân 24/7"
+  ],
+  "h1Count": 1,
+  "h2": [
+    "Dấu hiệu cần xử lý sớm tại Hạ Long",
+    "Nguyên nhân bồn cầu tắc thường gặp",
+    "Khi nào có thể tự xử lý, khi nào nên gọi thợ",
+    "Bảng giá thông tắc bồn cầu Hạ Long",
+    "Quy trình xử lý 5 bước",
+    "Checklist trước khi gọi thợ",
+    "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "Tình huống thường gặp tại Hạ Long",
+    "Case study E-E-A-T: hồ sơ kiểm tra một ca bồn cầu tắc",
+    "Khu vực phục vụ tại Hạ Long",
+    "NAP liên hệ xử lý bồn cầu tại Hạ Long",
+    "Câu hỏi thường gặp"
+  ],
+  "missingH2": [],
+  "words": 2622,
+  "forbidden": [],
+  "hotline": 8,
+  "density": {
+    "count": 5,
+    "total": 2622,
+    "density": 0.011441647597254004
+  },
+  "images": [
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-ha-long-kiem-tra-bon-cau-khach-san.webp",
+      "alt": "Thợ xử lý thông tắc bồn cầu tại khách sạn Hạ Long",
+      "filename": "thong-tac-bon-cau-ha-long-kiem-tra-bon-cau-khach-san.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-ha-long-may-lo-xo-bai-chay.webp",
+      "alt": "Máy lò xo xử lý bồn cầu tắc tại Bãi Cháy Hạ Long",
+      "filename": "thong-tac-bon-cau-ha-long-may-lo-xo-bai-chay.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-ha-long-xa-thu-sau-xu-ly.webp",
+      "alt": "Kiểm tra bồn cầu sau thông tắc tại Hạ Long Quảng Ninh",
+      "filename": "thong-tac-bon-cau-ha-long-xa-thu-sau-xu-ly.webp",
+      "external": false
+    }
+  ],
+  "imageCount": 3,
+  "imageIssues": [],
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "Service",
+      "FAQPage"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "internalLinks": [
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/lien-he/",
+      "status": 200
+    }
+  ],
+  "sitemap": true
+}

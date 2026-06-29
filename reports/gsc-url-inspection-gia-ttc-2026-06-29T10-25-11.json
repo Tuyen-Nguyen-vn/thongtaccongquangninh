@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-06-29T10:25:11",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "inspectionUrl": "https://thongtaccongquangninh.com/gia-thong-tac-cong-quang-ninh/",
+  "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=kAfxbO2nK0P3tEDbu9AWbw&utm_medium=link&utm_source=api",
+  "indexStatus": {
+    "verdict": "NEUTRAL",
+    "coverageState": "URL is unknown to Google",
+    "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED",
+    "lastCrawlTime": null,
+    "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "googleCanonical": null,
+    "userCanonical": null,
+    "sitemap": null,
+    "referringUrls": []
+  },
+  "richResults": {
+    "verdict": null,
+    "detectedItems": []
+  },
+  "mobileUsability": {
+    "verdict": "VERDICT_UNSPECIFIED"
+  },
+  "amp": {},
+  "raw": {
+    "inspectionResult": {
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=kAfxbO2nK0P3tEDbu9AWbw&utm_medium=link&utm_source=api",
+      "indexStatusResult": {
+        "verdict": "NEUTRAL",
+        "coverageState": "URL is unknown to Google",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+      },
+      "mobileUsabilityResult": {
+        "verdict": "VERDICT_UNSPECIFIED"
+      }
+    }
+  }
+}

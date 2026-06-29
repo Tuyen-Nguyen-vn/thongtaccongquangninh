@@ -1,0 +1,18 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "slug": "hut-be-phot-hong-gai-rankmath-90",
+  "title": "Hút bể phốt Hồng Gai 24/7, xe vào ngõ hẹp phố cổ, có mặt nhanh",
+  "service": "hút bể phốt",
+  "area": "Quảng Ninh",
+  "briefPath": "D:\\.thongtaccongquangninh\\image-briefs\\hut-be-phot-hong-gai-rankmath-90-image-brief.json",
+  "packagePath": "D:\\.thongtaccongquangninh\\image-briefs\\hut-be-phot-hong-gai-rankmath-90-image-package.json",
+  "sourceType": "pending",
+  "imagesNeeded": 5,
+  "content": {
+    "summary": "Hút bể phốt Hồng Gai 24/7, xe vào ngõ hẹp phố cổ, có mặt nhanh",
+    "h2Count": 10,
+    "bodyWordCount": 3270
+  },
+  "nextAction": "Gọi image-agent để chọn ảnh và tạo image-package.json",
+  "images": []
+}

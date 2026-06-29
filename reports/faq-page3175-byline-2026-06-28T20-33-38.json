@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-06-28T20:33:38.751Z",
+  "mode": "apply",
+  "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+  "pageId": 3175,
+  "changed": true,
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-faq-page3175-byline-2026-06-28T20-33-38",
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/faq-page3175-byline-2026-06-28T20-33-38.json",
+  "live": {
+    "status": 200,
+    "h1Count": 1,
+    "imageCount": 9,
+    "hasMarker": true,
+    "hasAuthorName": true,
+    "hasAuthorUrl": true,
+    "hasFaqImages": true
+  },
+  "status": "pass"
+}

@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-05-09T12:28:39.327Z",
+  "total_entries": 7,
+  "pending_count": 4,
+  "pending_slugs": [
+    "https://thongtaccongquangninh.com/",
+    "https://thongtaccongquangninh.com/",
+    "https://thongtaccongquangninh.com/"
+  ],
+  "verdict": "CONDITIONAL",
+  "notes": [
+    "Batch audit scaffold only."
+  ]
+}

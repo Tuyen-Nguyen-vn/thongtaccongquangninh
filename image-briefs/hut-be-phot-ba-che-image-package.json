@@ -1,0 +1,61 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T03:30:00.000Z",
+  "slug": "hut-be-phot-ba-che",
+  "service": "hút bể phốt",
+  "area": "Ba Chẽ – Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "hut-be-phot-ba-che-quang-ninh-anh-dau-bai.jpg",
+      "fileNameWebP": "hut-be-phot-ba-che-quang-ninh-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-ba-che\\hut-be-phot-ba-che-quang-ninh-anh-dau-bai.jpg",
+      "fileSizeKb": 194,
+      "altText": "Xe hút bể phốt Ba Chẽ Quảng Ninh vào vùng núi",
+      "title": "Hút bể phốt Ba Chẽ – Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "caption": "Dịch vụ hút bể phốt Ba Chẽ, gọi 0963.953.533",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – Ảnh đầu bài / hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-ba-che-quang-ninh-xe-hut-be-phot.jpg",
+      "fileNameWebP": "hut-be-phot-ba-che-quang-ninh-xe-hut-be-phot.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-ba-che\\hut-be-phot-ba-che-quang-ninh-xe-hut-be-phot.jpg",
+      "fileSizeKb": 214,
+      "altText": "Hút bể phốt nhà trường và nhà dân huyện miền núi Ba Chẽ",
+      "title": "Xe hút bể phốt Ba Chẽ – xe bồn chuyên dụng",
+      "caption": "Xe hút bể phốt huyện Ba Chẽ, điều phối 24/7",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+      "placement": "trong phần Tại sao chọn hoặc Quy trình",
+      "slot": "Ảnh 2 – Xe hút bể phốt",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-ba-che-quang-ninh-case-study.jpg",
+      "fileNameWebP": "hut-be-phot-ba-che-quang-ninh-case-study.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-ba-che\\hut-be-phot-ba-che-quang-ninh-case-study.jpg",
+      "fileSizeKb": 172,
+      "altText": "Đội thợ xử lý bùn cứng nhiều năm tại Ba Chẽ",
+      "title": "Case study hút bể phốt Ba Chẽ",
+      "caption": "Xử lý thực tế bể phốt tại huyện Ba Chẽ, Quảng Ninh",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+      "placement": "trong phần Case study E-E-A-T",
+      "slot": "Ảnh 3 – Case study",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

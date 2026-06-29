@@ -1,0 +1,57 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "slug": "thong-tac-cong-cam-pha",
+  "service": "thông tắc cống",
+  "area": "Cẩm Phả",
+  "sourceType": "manual_script",
+  "images": [
+    {
+      "fileName": "thong-tac-cong-cam-pha-tho-thong-tac-cong-tai-nha-dan-o-cam-pha-bang-may-lo-xo-1.webp",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-cam-pha-tho-thong-tac-cong-tai-nha-dan-o-cam-pha-bang-may-lo-xo-1.webp",
+      "altText": "thợ thông tắc cống tại nhà dân ở Cẩm Phả bằng máy lò xo",
+      "caption": "thợ thông tắc cống tại nhà dân ở Cẩm Phả bằng máy lò xo",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "placement": "sau mở bài",
+      "note": "processed from source image",
+      "fileSizeKb": 150,
+      "reusedAcrossPages": 0,
+      "privacyOk": true,
+      "containsPrivateInfo": false,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false
+    },
+    {
+      "fileName": "thong-tac-cong-cam-pha-quy-trinh-thi-cong.webp",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-cam-pha-quy-trinh-thi-cong.webp",
+      "altText": "Đội thợ chuẩn bị thiết bị xử lý cống nghẹt tại Cẩm Phả",
+      "caption": "Đội thợ chuẩn bị thiết bị xử lý cống nghẹt tại Cẩm Phả.",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "placement": "sau quy trình",
+      "note": "processed from source image",
+      "fileSizeKb": 150,
+      "reusedAcrossPages": 0,
+      "privacyOk": true,
+      "containsPrivateInfo": false,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false
+    },
+    {
+      "fileName": "thong-tac-cong-cam-pha-case-study.webp",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-cam-pha-case-study.webp",
+      "altText": "kiểm tra hố ga và đường thoát nước tại khu vực Cẩm Phả bằng máy lò xo chuyên dụng",
+      "caption": "Ảnh thi công kiểm tra hố ga và đường thoát nước tại khu vực Cẩm Phả bằng máy lò xo chuyên dụng.",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "placement": "sau case study",
+      "note": "processed from source image",
+      "fileSizeKb": 150,
+      "reusedAcrossPages": 0,
+      "privacyOk": true,
+      "containsPrivateInfo": false,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false
+    }
+  ]
+}

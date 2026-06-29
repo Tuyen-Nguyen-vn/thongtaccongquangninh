@@ -1,0 +1,46 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "slug": "bon-cau-rut-cham-nguyen-nhan",
+  "service": "hút bể phốt",
+  "area": "Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "bon-cau-rut-cham-nguyen-nhan-anh-dau-bai.jpg",
+      "fileNameWebP": "bon-cau-rut-cham-nguyen-nhan-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\bon-cau-rut-cham-nguyen-nhan\\bon-cau-rut-cham-nguyen-nhan-anh-dau-bai.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\bon-cau-rut-cham-nguyen-nhan-anh-dau-bai.jpg",
+      "fileSizeKb": 86,
+      "altText": "Bồn cầu rút nước chậm nguyên nhân xử lý",
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý 2026",
+      "caption": "Nguyên nhân bồn cầu rút chậm và cách xử lý nhanh tại nhà",
+      "pageUrl": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "bon-cau-rut-cham-nguyen-nhan-thong-bon-cau.jpg",
+      "fileNameWebP": "bon-cau-rut-cham-nguyen-nhan-thong-bon-cau.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\bon-cau-rut-cham-nguyen-nhan\\bon-cau-rut-cham-nguyen-nhan-thong-bon-cau.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\bon-cau-rut-cham-nguyen-nhan-thong-bon-cau.jpg",
+      "fileSizeKb": 146,
+      "altText": "Thợ thông tắc bồn cầu rút chậm tại Quảng Ninh",
+      "title": "Thông tắc bồn cầu Quảng Ninh – Xử lý bồn cầu rút chậm",
+      "caption": "Thợ chuyên nghiệp thông tắc bồn cầu rút nước chậm tại Quảng Ninh",
+      "pageUrl": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/",
+      "placement": "trong nội dung",
+      "slot": "Ảnh 2 – minh họa",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

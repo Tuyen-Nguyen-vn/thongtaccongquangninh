@@ -1,0 +1,84 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-03T16:21:09.237Z",
+  "target": {
+    "id": 1377,
+    "collection": "posts",
+    "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+    "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-faq-thong-tac-cong-2026-06-03T16-21-08-111Z",
+  "before": {
+    "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+    "excerpt": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành, xử lý không đục phá. Gọi 0963.953.533 / 0931.156.756 để kiểm tra nhanh trong ngày.",
+    "rawWordCount": 2597,
+    "rawH1Count": 1,
+    "rawH2Count": 19,
+    "exactFocusCount": 8,
+    "keyword": {
+      "count": 5,
+      "total": 2596,
+      "density": 0.013482280431432974,
+      "densityPct": 1.35
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "hasFinalAuthor": true
+  },
+  "update": {
+    "changes": [
+      {
+        "label": "sync_h1_with_title",
+        "changed": false
+      },
+      {
+        "label": "replace_old_author_url",
+        "changed": false
+      },
+      {
+        "label": "reduce_exact_focus_keyword_repeats",
+        "changed": true,
+        "beforeCount": 8,
+        "afterCount": 6
+      },
+      {
+        "label": "remove_repetitive_low_value_paragraphs",
+        "changed": true,
+        "removed": [
+          "Với ca khẩn cấp, hãy gọi hotline để được điều phối gần nhất. Không nên chỉ nhắn tin nếu nước đang trào hoặc nhà vệ sinh không dùng được."
+        ]
+      },
+      {
+        "label": "remove_duplicate_author_box",
+        "changed": false
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema_and_final_author",
+        "changed": true
+      }
+    ],
+    "afterRawWordCount": 2568,
+    "afterRawH1Count": 1,
+    "afterRawH2Count": 19,
+    "exactFocusCount": 8,
+    "keyword": {
+      "count": 5,
+      "total": 2567,
+      "density": 0.013634592910011687,
+      "densityPct": 1.36
+    },
+    "metaDescLen": 154,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "finalAuthorLine": true
+  },
+  "rankMath": null,
+  "verify": null
+}

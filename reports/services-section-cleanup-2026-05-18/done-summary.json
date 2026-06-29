@@ -1,0 +1,32 @@
+{
+  "desktop-done": {
+    "htmlVersion": true,
+    "cardCount": 6,
+    "gridColumns": "436px 436px 436px",
+    "titleOpacity": "1",
+    "descOpacity": "1",
+    "titleColor": "rgb(255, 255, 255)",
+    "descColor": "rgb(221, 231, 223)",
+    "badgeHasSvg": true,
+    "visibleVectors": 10,
+    "firstCardBg": "rgba(255, 255, 255, 0.97)",
+    "firstImageAspect": "200x200",
+    "horizontalScroll": false,
+    "consoleErrors": []
+  },
+  "mobile-done": {
+    "htmlVersion": true,
+    "cardCount": 6,
+    "gridColumns": "358px",
+    "titleOpacity": "1",
+    "descOpacity": "1",
+    "titleColor": "rgb(255, 255, 255)",
+    "descColor": "rgb(221, 231, 223)",
+    "badgeHasSvg": true,
+    "visibleVectors": 5,
+    "firstCardBg": "rgba(255, 255, 255, 0.97)",
+    "firstImageAspect": "356x356",
+    "horizontalScroll": false,
+    "consoleErrors": []
+  }
+}

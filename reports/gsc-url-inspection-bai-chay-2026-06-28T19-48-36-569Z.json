@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-06-28T19:48:36.569Z",
+  "siteUrl": "sc-domain:thongtaccongquangninh.com",
+  "inspectionUrl": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+  "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:thongtaccongquangninh.com&id=HAmlDeSTFbOoKpBW3o44CA&utm_medium=link&utm_source=api",
+  "indexStatus": {
+    "verdict": "NEUTRAL",
+    "coverageState": "URL is unknown to Google",
+    "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED",
+    "lastCrawlTime": null,
+    "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "googleCanonical": null,
+    "userCanonical": null,
+    "sitemap": null,
+    "referringUrls": []
+  },
+  "raw": {
+    "inspectionResult": {
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:thongtaccongquangninh.com&id=HAmlDeSTFbOoKpBW3o44CA&utm_medium=link&utm_source=api",
+      "indexStatusResult": {
+        "verdict": "NEUTRAL",
+        "coverageState": "URL is unknown to Google",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+      },
+      "mobileUsabilityResult": {
+        "verdict": "VERDICT_UNSPECIFIED"
+      }
+    }
+  }
+}

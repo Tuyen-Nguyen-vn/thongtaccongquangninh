@@ -1,0 +1,195 @@
+[
+  {
+    "name": "desktop",
+    "before": {
+      "meta": "2026.05.18.26; direct-template",
+      "viewport": {
+        "winWidth": 1440,
+        "docWidth": 1440
+      },
+      "activeFilter": "all",
+      "visibleTitles": [
+        "Hút bể phốt biệt thự tại Hạ Long",
+        "Thông tắc chậu rửa nhà hàng",
+        "Nạo vét hố ga khu dân cư",
+        "Thông tắc bồn cầu nhà trọ",
+        "Xử lý mùi hôi nhà vệ sinh",
+        "Thông tắc cống nhà dân"
+      ],
+      "ctaHrefs": [
+        "tel:0963953533"
+      ],
+      "fixed": [
+        {
+          "cls": "footer-back-top",
+          "id": "",
+          "opacity": "0",
+          "rect": {
+            "x": 1348,
+            "y": 1310,
+            "w": 66,
+            "h": 66
+          }
+        },
+        {
+          "cls": "show",
+          "id": "ai-back-to-top",
+          "opacity": "0",
+          "rect": {
+            "x": 1355,
+            "y": 1315,
+            "w": 55,
+            "h": 55
+          }
+        },
+        {
+          "cls": "ttcqn-sga",
+          "id": "",
+          "opacity": "0",
+          "rect": {
+            "x": 1098,
+            "y": 570,
+            "w": 330,
+            "h": 260
+          }
+        }
+      ]
+    },
+    "afterFilter": {
+      "activeFilter": "bon-cau",
+      "visibleTitles": [
+        "Thông tắc bồn cầu nhà trọ"
+      ]
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "tablet",
+    "before": {
+      "meta": "2026.05.18.26; direct-template",
+      "viewport": {
+        "winWidth": 900,
+        "docWidth": 900
+      },
+      "activeFilter": "all",
+      "visibleTitles": [
+        "Hút bể phốt biệt thự tại Hạ Long",
+        "Thông tắc chậu rửa nhà hàng",
+        "Nạo vét hố ga khu dân cư",
+        "Thông tắc bồn cầu nhà trọ",
+        "Xử lý mùi hôi nhà vệ sinh",
+        "Thông tắc cống nhà dân"
+      ],
+      "ctaHrefs": [
+        "tel:0963953533"
+      ],
+      "fixed": [
+        {
+          "cls": "footer-back-top",
+          "id": "",
+          "opacity": "0",
+          "rect": {
+            "x": 808,
+            "y": 1210,
+            "w": 66,
+            "h": 66
+          }
+        },
+        {
+          "cls": "show",
+          "id": "ai-back-to-top",
+          "opacity": "0",
+          "rect": {
+            "x": 815,
+            "y": 1215,
+            "w": 55,
+            "h": 55
+          }
+        },
+        {
+          "cls": "ttcqn-sga",
+          "id": "",
+          "opacity": "0",
+          "rect": {
+            "x": 588,
+            "y": 558,
+            "w": 300,
+            "h": 184
+          }
+        }
+      ]
+    },
+    "afterFilter": {
+      "activeFilter": "bon-cau",
+      "visibleTitles": [
+        "Thông tắc bồn cầu nhà trọ"
+      ]
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "mobile",
+    "before": {
+      "meta": "2026.05.18.26; direct-template",
+      "viewport": {
+        "winWidth": 390,
+        "docWidth": 390
+      },
+      "activeFilter": "all",
+      "visibleTitles": [
+        "Hút bể phốt biệt thự tại Hạ Long"
+      ],
+      "ctaHrefs": [
+        "tel:0963953533"
+      ],
+      "fixed": [
+        {
+          "cls": "footer-back-top",
+          "id": "",
+          "opacity": "0",
+          "rect": {
+            "x": 318,
+            "y": 1226,
+            "w": 56,
+            "h": 56
+          }
+        },
+        {
+          "cls": "show",
+          "id": "ai-back-to-top",
+          "opacity": "0",
+          "rect": {
+            "x": 305,
+            "y": 1215,
+            "w": 55,
+            "h": 55
+          }
+        },
+        {
+          "cls": "ttcqn-mls",
+          "id": "",
+          "opacity": "0",
+          "rect": {
+            "x": 8,
+            "y": 1243,
+            "w": 105,
+            "h": 49
+          }
+        }
+      ]
+    },
+    "afterFilter": {
+      "activeFilter": "bon-cau",
+      "visibleTitles": [
+        "Thông tắc bồn cầu nhà trọ"
+      ]
+    },
+    "accordion": {
+      "expanded": "true",
+      "openPanels": 1
+    },
+    "consoleErrors": []
+  }
+]

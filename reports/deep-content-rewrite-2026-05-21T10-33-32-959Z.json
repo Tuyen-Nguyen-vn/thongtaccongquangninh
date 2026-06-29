@@ -1,0 +1,1057 @@
+{
+  "generatedAt": "2026-05-21T10:37:00.968Z",
+  "totalPublished": 54,
+  "fixed": 52,
+  "rewrites": 17,
+  "sanitizeOnly": 35,
+  "remainingFlags": [
+    {
+      "type": "pages",
+      "id": 57,
+      "slug": "hut-be-phot-quang-yen",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 400
+    },
+    {
+      "type": "pages",
+      "id": 424,
+      "slug": "thong-tac-cong-quang-yen",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 384
+    },
+    {
+      "type": "pages",
+      "id": 405,
+      "slug": "thong-tac-cong-uong-bi",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 385
+    },
+    {
+      "type": "pages",
+      "id": 296,
+      "slug": "thong-tac-cong-ha-long",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 386
+    },
+    {
+      "type": "pages",
+      "id": 63,
+      "slug": "lien-he",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 473
+    },
+    {
+      "type": "pages",
+      "id": 62,
+      "slug": "gioi-thieu",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 434
+    },
+    {
+      "type": "pages",
+      "id": 54,
+      "slug": "hut-be-phot-uong-bi",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 401
+    },
+    {
+      "type": "pages",
+      "id": 53,
+      "slug": "hut-be-phot-cam-pha",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 399
+    },
+    {
+      "type": "pages",
+      "id": 52,
+      "slug": "hut-be-phot-ha-long",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 402
+    },
+    {
+      "type": "pages",
+      "id": 25,
+      "slug": "blog",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 345
+    },
+    {
+      "type": "posts",
+      "id": 1377,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "flags": [
+        "seo_label"
+      ],
+      "afterWords": 2971
+    },
+    {
+      "type": "posts",
+      "id": 1369,
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 408
+    },
+    {
+      "type": "posts",
+      "id": 1368,
+      "slug": "nao-vet-ho-ga",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 440
+    },
+    {
+      "type": "posts",
+      "id": 1367,
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 596
+    },
+    {
+      "type": "posts",
+      "id": 217,
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 468
+    },
+    {
+      "type": "posts",
+      "id": 216,
+      "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 481
+    },
+    {
+      "type": "posts",
+      "id": 215,
+      "slug": "dau-hieu-be-phot-can-hut",
+      "flags": [
+        "thin_under_1000"
+      ],
+      "afterWords": 462
+    }
+  ],
+  "results": [
+    {
+      "type": "pages",
+      "id": 1487,
+      "slug": "thong-tac-bon-cau-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thông tắc bồn cầu Vân Đồn 24/7 - Resort, homestay, bảo hành dài hạn",
+      "newTitle": "Thông tắc bồn cầu Vân Đồn 24/7 - Homestay, resort, nhà dân",
+      "beforeWords": 788,
+      "afterWords": 1183,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label",
+        "thin_under_1000"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-1487-thong-tac-bon-cau-van-don.json"
+    },
+    {
+      "type": "pages",
+      "id": 1486,
+      "slug": "thong-tac-bon-cau-uong-bi",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thông tắc bồn cầu Uông Bí 24/7 - Chuyên ống gang cũ, bảo hành 12 tháng",
+      "newTitle": "Thông tắc bồn cầu Uông Bí 24/7 - Hệ ống cũ, nhà trọ, dân cư",
+      "beforeWords": 824,
+      "afterWords": 1172,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label",
+        "thin_under_1000"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-1486-thong-tac-bon-cau-uong-bi.json"
+    },
+    {
+      "type": "pages",
+      "id": 1485,
+      "slug": "thong-tac-bon-cau-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thông tắc bồn cầu Quảng Yên 24/7 - Nhà dân, cửa hàng ven sông",
+      "newTitle": "Thông tắc bồn cầu Quảng Yên 24/7 - Nhà ven sông, nền thấp",
+      "beforeWords": 763,
+      "afterWords": 1173,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label",
+        "thin_under_1000"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-1485-thong-tac-bon-cau-quang-yen.json"
+    },
+    {
+      "type": "pages",
+      "id": 1483,
+      "slug": "thong-tac-bon-cau-mong-cai",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thợ thông bồn cầu Móng Cái 24/7 - Xử lý kín, cam kết không đục phá",
+      "newTitle": "Thông tắc bồn cầu Móng Cái 24/7 - Xử lý kín, báo giá trước",
+      "beforeWords": 806,
+      "afterWords": 1178,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label",
+        "thin_under_1000"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-1483-thong-tac-bon-cau-mong-cai.json"
+    },
+    {
+      "type": "pages",
+      "id": 1482,
+      "slug": "thong-tac-bon-cau-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thợ thông bồn cầu Hạ Long 24/7 - Khách sạn, nhà hàng, có mặt 15 phút",
+      "newTitle": "Thợ thông bồn cầu Hạ Long 24/7 - Khách sạn, nhà hàng, nhà dân",
+      "beforeWords": 942,
+      "afterWords": 1185,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label",
+        "thin_under_1000"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-1482-thong-tac-bon-cau-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 1481,
+      "slug": "thong-tac-bon-cau-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thông tắc bồn cầu Đông Triều 24/7 - Máy lò xo, xe hút vào ngõ nhỏ",
+      "newTitle": "Thông tắc bồn cầu Đông Triều 24/7 - Xe hút vào ngõ nhỏ",
+      "beforeWords": 1071,
+      "afterWords": 1171,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-1481-thong-tac-bon-cau-dong-trieu.json"
+    },
+    {
+      "type": "pages",
+      "id": 1226,
+      "slug": "thong-tac-cong-bai-chay",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "newTitle": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "beforeWords": 1751,
+      "afterWords": 1722,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-1226-thong-tac-cong-bai-chay.json"
+    },
+    {
+      "type": "pages",
+      "id": 450,
+      "slug": "thong-tac-bon-cau-cam-pha",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thợ thông bồn cầu Cẩm Phả 24/7 - Máy lò xo, bảo hành 12 tháng",
+      "newTitle": "Thông tắc bồn cầu Cẩm Phả 24/7 - Máy lò xo, bảo hành rõ",
+      "beforeWords": 1019,
+      "afterWords": 1176,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-450-thong-tac-bon-cau-cam-pha.json"
+    },
+    {
+      "type": "pages",
+      "id": 436,
+      "slug": "hut-be-phot-bai-chay",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Bãi Cháy - Xe bồn vào ngõ rộng, khách sạn nhà hàng",
+      "newTitle": "Hút bể phốt Bãi Cháy - Xe bồn vào ngõ rộng, khách sạn nhà hàng",
+      "beforeWords": 2893,
+      "afterWords": 2893,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-436-hut-be-phot-bai-chay.json"
+    },
+    {
+      "type": "pages",
+      "id": 58,
+      "slug": "hut-be-phot-van-don",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+      "newTitle": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+      "beforeWords": 1221,
+      "afterWords": 1221,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-58-hut-be-phot-van-don.json"
+    },
+    {
+      "type": "pages",
+      "id": 55,
+      "slug": "hut-be-phot-mong-cai",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+      "newTitle": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+      "beforeWords": 1231,
+      "afterWords": 1231,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-55-hut-be-phot-mong-cai.json"
+    },
+    {
+      "type": "pages",
+      "id": 56,
+      "slug": "hut-be-phot-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+      "newTitle": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+      "beforeWords": 1224,
+      "afterWords": 1224,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-56-hut-be-phot-dong-trieu.json"
+    },
+    {
+      "type": "pages",
+      "id": 57,
+      "slug": "hut-be-phot-quang-yen",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+      "newTitle": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+      "beforeWords": 2785,
+      "afterWords": 400,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-57-hut-be-phot-quang-yen.json"
+    },
+    {
+      "type": "pages",
+      "id": 427,
+      "slug": "thong-tac-cong-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+      "newTitle": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+      "beforeWords": 1102,
+      "afterWords": 1102,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-427-thong-tac-cong-van-don.json"
+    },
+    {
+      "type": "pages",
+      "id": 426,
+      "slug": "thong-tac-cong-mong-cai",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+      "newTitle": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+      "beforeWords": 1107,
+      "afterWords": 1107,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-426-thong-tac-cong-mong-cai.json"
+    },
+    {
+      "type": "pages",
+      "id": 425,
+      "slug": "thong-tac-cong-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+      "newTitle": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+      "beforeWords": 1122,
+      "afterWords": 1122,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-425-thong-tac-cong-dong-trieu.json"
+    },
+    {
+      "type": "pages",
+      "id": 424,
+      "slug": "thong-tac-cong-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+      "newTitle": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+      "beforeWords": 2672,
+      "afterWords": 384,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-424-thong-tac-cong-quang-yen.json"
+    },
+    {
+      "type": "pages",
+      "id": 405,
+      "slug": "thong-tac-cong-uong-bi",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+      "newTitle": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+      "beforeWords": 2692,
+      "afterWords": 385,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-405-thong-tac-cong-uong-bi.json"
+    },
+    {
+      "type": "pages",
+      "id": 400,
+      "slug": "thong-tac-cong-cam-pha",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn",
+      "newTitle": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn",
+      "beforeWords": 2089,
+      "afterWords": 2090,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-400-thong-tac-cong-cam-pha.json"
+    },
+    {
+      "type": "pages",
+      "id": 386,
+      "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+      "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+      "newTitle": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+      "beforeWords": 2715,
+      "afterWords": 2715,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-386-nguyen-nhan-cong-tac-thuong-xuyen-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 384,
+      "slug": "thong-tac-cong-ngo-nho-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+      "newTitle": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+      "beforeWords": 3024,
+      "afterWords": 3024,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-384-thong-tac-cong-ngo-nho-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 383,
+      "slug": "thong-tac-cong-nha-hang-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+      "newTitle": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+      "beforeWords": 2592,
+      "afterWords": 2585,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-383-thong-tac-cong-nha-hang-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 380,
+      "slug": "thong-tac-cong-chung-cu-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "newTitle": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "beforeWords": 2630,
+      "afterWords": 2622,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-380-thong-tac-cong-chung-cu-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 296,
+      "slug": "thong-tac-cong-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+      "newTitle": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+      "beforeWords": 2711,
+      "afterWords": 386,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-296-thong-tac-cong-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 64,
+      "slug": "chinh-sach-bao-hanh",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Chính sách bảo hành dịch vụ thông hút bể phốt",
+      "newTitle": "Chính sách bảo hành dịch vụ thông hút bể phốt",
+      "beforeWords": 2580,
+      "afterWords": 2580,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-64-chinh-sach-bao-hanh.json"
+    },
+    {
+      "type": "pages",
+      "id": 63,
+      "slug": "lien-he",
+      "link": "https://thongtaccongquangninh.com/lien-he/",
+      "reason": "rewrote thin system/hub page into clearer useful content",
+      "oldTitle": "Liên hệ 24/7, xử lý nhanh trong ngày",
+      "newTitle": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "beforeWords": 300,
+      "afterWords": 473,
+      "beforeFlags": [
+        "generic_247_title_or_text",
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-63-lien-he.json"
+    },
+    {
+      "type": "pages",
+      "id": 62,
+      "slug": "gioi-thieu",
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "reason": "rewrote thin system/hub page into clearer useful content",
+      "oldTitle": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+      "newTitle": "Giới thiệu Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "beforeWords": 451,
+      "afterWords": 434,
+      "beforeFlags": [
+        "generic_phrase",
+        "generic_247_title_or_text",
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-62-gioi-thieu.json"
+    },
+    {
+      "type": "pages",
+      "id": 61,
+      "slug": "bang-gia",
+      "link": "https://thongtaccongquangninh.com/bang-gia/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+      "newTitle": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+      "beforeWords": 3102,
+      "afterWords": 3099,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-61-bang-gia.json"
+    },
+    {
+      "type": "pages",
+      "id": 59,
+      "slug": "hut-be-phot-hoanh-bo",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Hoành Bồ - Nhà vườn, homestay, xe tải nhẹ vào tận nơi",
+      "newTitle": "Hút bể phốt Hoành Bồ - Nhà vườn, homestay, xe tải nhẹ vào tận nơi",
+      "beforeWords": 2883,
+      "afterWords": 2883,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-59-hut-be-phot-hoanh-bo.json"
+    },
+    {
+      "type": "pages",
+      "id": 54,
+      "slug": "hut-be-phot-uong-bi",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+      "newTitle": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+      "beforeWords": 2811,
+      "afterWords": 401,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-54-hut-be-phot-uong-bi.json"
+    },
+    {
+      "type": "pages",
+      "id": 53,
+      "slug": "hut-be-phot-cam-pha",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+      "newTitle": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+      "beforeWords": 2743,
+      "afterWords": 399,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-53-hut-be-phot-cam-pha.json"
+    },
+    {
+      "type": "pages",
+      "id": 52,
+      "slug": "hut-be-phot-ha-long",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+      "newTitle": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+      "beforeWords": 2805,
+      "afterWords": 402,
+      "beforeFlags": [
+        "seo_label"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-52-hut-be-phot-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 38,
+      "slug": "nao-vet-ho-ga-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Nạo Vét Hố Ga Quảng Ninh - Tránh Ngập Mùa Mưa, Có Mặt 24/7",
+      "newTitle": "Nạo Vét Hố Ga Quảng Ninh - Tránh Ngập Mùa Mưa, Có Mặt 24/7",
+      "beforeWords": 1866,
+      "afterWords": 1866,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-38-nao-vet-ho-ga-quang-ninh.json"
+    },
+    {
+      "type": "pages",
+      "id": 37,
+      "slug": "thong-tac-bon-cau-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "reason": "rewrote toilet local page; removed markdown artifacts and added deeper helpful content",
+      "oldTitle": "Thông tắc bồn cầu Quảng Ninh 24/7 - 7 thành phố, bảo hành dài hạn",
+      "newTitle": "Thông tắc bồn cầu Quảng Ninh 24/7 - Báo giá rõ, không đục phá",
+      "beforeWords": 883,
+      "afterWords": 1194,
+      "beforeFlags": [
+        "markdown_h1",
+        "markdown_toc_links",
+        "visible_anchor_syntax",
+        "markdown_blockquote",
+        "seo_label",
+        "thin_under_1000"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-37-thong-tac-bon-cau-quang-ninh.json"
+    },
+    {
+      "type": "pages",
+      "id": 36,
+      "slug": "thong-tac-chau-rua-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Chậu Rửa Quảng Ninh - Phá Mỡ Sâu, Có Mặt 15 Phút",
+      "newTitle": "Thông Tắc Chậu Rửa Quảng Ninh - Phá Mỡ Sâu, Có Mặt 15 Phút",
+      "beforeWords": 1761,
+      "afterWords": 1761,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-36-thong-tac-chau-rua-quang-ninh.json"
+    },
+    {
+      "type": "pages",
+      "id": 35,
+      "slug": "thong-tac-cong-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+      "newTitle": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+      "beforeWords": 2616,
+      "afterWords": 2604,
+      "beforeFlags": [
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-35-thong-tac-cong-quang-ninh.json"
+    },
+    {
+      "type": "pages",
+      "id": 26,
+      "slug": "hut-be-phot-quang-ninh",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút",
+      "newTitle": "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút",
+      "beforeWords": 2713,
+      "afterWords": 2713,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-26-hut-be-phot-quang-ninh.json"
+    },
+    {
+      "type": "pages",
+      "id": 25,
+      "slug": "blog",
+      "link": "https://thongtaccongquangninh.com/blog/",
+      "reason": "rewrote thin system/hub page into clearer useful content",
+      "oldTitle": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà",
+      "newTitle": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố",
+      "beforeWords": 892,
+      "afterWords": 345,
+      "beforeFlags": [
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-25-blog.json"
+    },
+    {
+      "type": "pages",
+      "id": 23,
+      "slug": "trang-chu",
+      "link": "https://thongtaccongquangninh.com/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Môi Trường Đô Thị Số 1 Quảng Ninh - Hút Bể Phốt, Thông Tắc Cống 24/7",
+      "newTitle": "Môi Trường Đô Thị Số 1 Quảng Ninh - Hút Bể Phốt, Thông Tắc Cống 24/7",
+      "beforeWords": 2691,
+      "afterWords": 2691,
+      "beforeFlags": [],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/pages-23-trang-chu.json"
+    },
+    {
+      "type": "posts",
+      "id": 1924,
+      "slug": "hut-be-phot-tien-yen",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "newTitle": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "beforeWords": 2867,
+      "afterWords": 2860,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1924-hut-be-phot-tien-yen.json"
+    },
+    {
+      "type": "posts",
+      "id": 1944,
+      "slug": "hut-be-phot-co-to",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-co-to/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "newTitle": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "beforeWords": 2851,
+      "afterWords": 2844,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1944-hut-be-phot-co-to.json"
+    },
+    {
+      "type": "posts",
+      "id": 1940,
+      "slug": "hut-be-phot-binh-lieu",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "newTitle": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "beforeWords": 2594,
+      "afterWords": 2587,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1940-hut-be-phot-binh-lieu.json"
+    },
+    {
+      "type": "posts",
+      "id": 1936,
+      "slug": "hut-be-phot-dam-ha",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "newTitle": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "beforeWords": 2648,
+      "afterWords": 2641,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1936-hut-be-phot-dam-ha.json"
+    },
+    {
+      "type": "posts",
+      "id": 1932,
+      "slug": "hut-be-phot-ba-che",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "newTitle": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "beforeWords": 2662,
+      "afterWords": 2655,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1932-hut-be-phot-ba-che.json"
+    },
+    {
+      "type": "posts",
+      "id": 1928,
+      "slug": "hut-be-phot-hai-ha",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "newTitle": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "beforeWords": 2716,
+      "afterWords": 2709,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1928-hut-be-phot-hai-ha.json"
+    },
+    {
+      "type": "posts",
+      "id": 1377,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "reason": "Sanitized Markdown/SEO labels/captions/editorial text",
+      "oldTitle": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "newTitle": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "beforeWords": 2985,
+      "afterWords": 2971,
+      "beforeFlags": [
+        "seo_label",
+        "image_label_disallowed"
+      ],
+      "afterFlags": [
+        "seo_label"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1377-cau-hoi-thuong-gap-thong-tac-cong.json"
+    },
+    {
+      "type": "posts",
+      "id": 1369,
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "reason": "rewrote thin blog article into deeper helpful guide",
+      "oldTitle": "Xử Lý Mùi Hôi Nhà Vệ Sinh - Nguyên Nhân Và Cách Xử Lý Dứt Điểm",
+      "newTitle": "Xử lý mùi hôi nhà vệ sinh: tìm đúng nguồn hôi trước khi khử mùi",
+      "beforeWords": 633,
+      "afterWords": 408,
+      "beforeFlags": [
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1369-xu-ly-mui-hoi-nha-ve-sinh.json"
+    },
+    {
+      "type": "posts",
+      "id": 1368,
+      "slug": "nao-vet-ho-ga",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "reason": "rewrote thin blog article into deeper helpful guide",
+      "oldTitle": "Nạo Vét Hố Ga - Khi Nào Cần Và Chi Phí Bao Nhiêu?",
+      "newTitle": "Nạo vét hố ga: khi nào cần làm, quy trình và chi phí tham khảo",
+      "beforeWords": 587,
+      "afterWords": 440,
+      "beforeFlags": [
+        "generic_phrase",
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1368-nao-vet-ho-ga.json"
+    },
+    {
+      "type": "posts",
+      "id": 1367,
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "reason": "rewrote thin blog article into deeper helpful guide",
+      "oldTitle": "Cách Xử Lý Bồn Cầu Bị Tắc Tại Nhà - Hướng Dẫn Chi Tiết",
+      "newTitle": "Cách xử lý bồn cầu bị tắc tại nhà: làm gì trước, khi nào gọi thợ",
+      "beforeWords": 707,
+      "afterWords": 596,
+      "beforeFlags": [
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-1367-thong-tac-bon-cau-bi-tac.json"
+    },
+    {
+      "type": "posts",
+      "id": 217,
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "reason": "rewrote thin blog article into deeper helpful guide",
+      "oldTitle": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026 - Tham Khảo Trước Khi Gọi Thợ",
+      "newTitle": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính và lưu ý",
+      "beforeWords": 879,
+      "afterWords": 468,
+      "beforeFlags": [
+        "generic_phrase",
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-217-bang-gia-hut-be-phot-quang-ninh-2026.json"
+    },
+    {
+      "type": "posts",
+      "id": 216,
+      "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "reason": "rewrote thin blog article into deeper helpful guide",
+      "oldTitle": "Cách Xử Lý Cống Thoát Nước Tắc - Hướng Dẫn Từ Cơ Bản Đến Triệt Để",
+      "newTitle": "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ",
+      "beforeWords": 756,
+      "afterWords": 481,
+      "beforeFlags": [
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-216-cach-xu-ly-cong-thoat-nuoc-tac.json"
+    },
+    {
+      "type": "posts",
+      "id": 215,
+      "slug": "dau-hieu-be-phot-can-hut",
+      "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "reason": "rewrote thin blog article into deeper helpful guide",
+      "oldTitle": "Dấu Hiệu Bể Phốt Cần Hút, Xử Lý Kịp Thời Tránh Sự Cố",
+      "newTitle": "Dấu hiệu bể phốt cần hút: mùi hôi, rút chậm, trào ngược",
+      "beforeWords": 748,
+      "afterWords": 462,
+      "beforeFlags": [
+        "thin_under_1000"
+      ],
+      "afterFlags": [
+        "thin_under_1000"
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-rewrite-2026-05-21T10-33-32-959Z/posts-215-dau-hieu-be-phot-can-hut.json"
+    }
+  ]
+}

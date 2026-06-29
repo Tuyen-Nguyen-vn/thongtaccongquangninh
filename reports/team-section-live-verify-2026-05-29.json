@@ -1,0 +1,55 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=team-mockup-v5-20260529064939",
+  "status": 200,
+  "version_marker_present": true,
+  "names": {
+    "Nguyễn Song Hào": 10,
+    "Lê Hữu Ninh": 5,
+    "Nguyễn Tâm An": 5,
+    "Lê Quốc Quang": 5,
+    "Nguyễn Thu Hà": 5
+  },
+  "avatars": {
+    "avatar-nguyen-song-hao.webp": 1,
+    "avatar-le-huu-ninh.webp": 1,
+    "avatar-nguyen-tam-an.webp": 1,
+    "avatar-le-quoc-quang.webp": 1,
+    "avatar-nguyen-thu-ha.webp": 1
+  },
+  "old_markers": {
+    "Trần Minh Quân": 0,
+    "Nguyễn Hoàng Long": 0,
+    "Phạm Đức Hải": 0,
+    "avatar-tuyen-nguyen.webp": 0,
+    "avatar-tran-minh-quan.webp": 0,
+    "avatar-nguyen-hoang-long.webp": 0,
+    "avatar-pham-duc-hai.webp": 0
+  },
+  "asset_results": {
+    "avatar-nguyen-song-hao.webp": {
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 13140
+    },
+    "avatar-le-huu-ninh.webp": {
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 11484
+    },
+    "avatar-nguyen-tam-an.webp": {
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 11878
+    },
+    "avatar-le-quoc-quang.webp": {
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 12304
+    },
+    "avatar-nguyen-thu-ha.webp": {
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 11918
+    }
+  }
+}

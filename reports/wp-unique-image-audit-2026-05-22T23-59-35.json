@@ -1,0 +1,301 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-22T23:59:40+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": false,
+  "totalContent": 65,
+  "pagesWithIssues": 6,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 6,
+  "globalReuseGroups": 1,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 2055,
+      "type": "posts",
+      "status": "publish",
+      "title": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "service": "thông tắc cống",
+      "area": "Cao Xanh",
+      "imageCount": 1,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cao-xanh-ha-long-01.webp\" alt=\"thông tắc cống Cao Xanh bằng máy lò xo không đục phá\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cao-xanh-ha-long-01.webp",
+          "alt": "thông tắc cống Cao Xanh bằng máy lò xo không đục phá",
+          "media_id": "",
+          "basename": "thong-tac-cong-cao-xanh-ha-long-01.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cao-xanh-ha-long-01.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 2,
+      "replacementNeeded": 2,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Cao Xanh bằng máy lò xo",
+        "kiểm tra hố ga và đường ống thoát nước tại Cao Xanh"
+      ]
+    },
+    {
+      "id": 2053,
+      "type": "posts",
+      "status": "publish",
+      "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "slug": "thong-tac-cong-hong-gai-2",
+      "service": "thông tắc cống",
+      "area": "Hạ Long",
+      "imageCount": 2,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-hong-gai-ha-long-anh-dau-bai.png\" alt=\"Thông tắc cống Hồng Gai cần thiết bị gọn để vào nhà ống và ngõ hẹp\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-hong-gai-ha-long-anh-dau-bai.png",
+          "alt": "Thông tắc cống Hồng Gai cần thiết bị gọn để vào nhà ống và ngõ hẹp",
+          "media_id": "",
+          "basename": "thong-tac-cong-hong-gai-ha-long-anh-dau-bai.png",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-hong-gai-ha-long-anh-dau-bai.png",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-hong-gai-ha-long-khu-vuc-phuc-vu.png\" alt=\"Quy trình xử lý cống tắc Hồng Gai ưu tiên không đục phá và xả thử sau khi thông\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-hong-gai-ha-long-khu-vuc-phuc-vu.png",
+          "alt": "Quy trình xử lý cống tắc Hồng Gai ưu tiên không đục phá và xả thử sau khi thông",
+          "media_id": "",
+          "basename": "thong-tac-cong-hong-gai-ha-long-khu-vuc-phuc-vu.png",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-hong-gai-ha-long-khu-vuc-phuc-vu.png",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 1,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Hạ Long bằng máy lò xo"
+      ]
+    },
+    {
+      "id": 2046,
+      "type": "posts",
+      "status": "publish",
+      "title": "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý",
+      "link": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+      "slug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+      "service": "thông tắc cống",
+      "area": "Quảng Ninh",
+      "imageCount": 2,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai-1.webp\" alt=\"Mùi hôi từ cống thường liên quan xi phông khô, hố ga hoặc bể phốt đầy\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai-1.webp",
+          "alt": "Mùi hôi từ cống thường liên quan xi phông khô, hố ga hoặc bể phốt đầy",
+          "media_id": "",
+          "basename": "mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai-1.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/mui-hoi-cong-nguyen-nhan-xu-ly-anh-dau-bai-1.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui-1.webp\" alt=\"Kiểm tra nguồn mùi giúp xử lý đúng điểm thay vì che mùi tạm thời\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui-1.webp",
+          "alt": "Kiểm tra nguồn mùi giúp xử lý đúng điểm thay vì che mùi tạm thời",
+          "media_id": "",
+          "basename": "mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui-1.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/mui-hoi-cong-nguyen-nhan-xu-ly-xu-ly-mui-1.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 1,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Quảng Ninh bằng máy lò xo"
+      ]
+    },
+    {
+      "id": 2045,
+      "type": "posts",
+      "status": "publish",
+      "title": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?",
+      "link": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+      "slug": "hoa-chat-tu-thong-cong-3",
+      "service": "thông tắc cống",
+      "area": "Quảng Ninh",
+      "imageCount": 2,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hoa-chat-thong-cong-an-toan-quang-ninh-01.webp\" alt=\"Hóa chất thông cống chỉ nên dùng khi xác định đúng loại tắc và vật liệu đường ống\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hoa-chat-thong-cong-an-toan-quang-ninh-01.webp",
+          "alt": "Hóa chất thông cống chỉ nên dùng khi xác định đúng loại tắc và vật liệu đường ống",
+          "media_id": "",
+          "basename": "hoa-chat-thong-cong-an-toan-quang-ninh-01.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hoa-chat-thong-cong-an-toan-quang-ninh-01.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chuyen-nghiep-quang-ninh-02.webp\" alt=\"Tắc cống nặng cần thiết bị cơ học thay vì lạm dụng hóa chất mạnh\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chuyen-nghiep-quang-ninh-02.webp",
+          "alt": "Tắc cống nặng cần thiết bị cơ học thay vì lạm dụng hóa chất mạnh",
+          "media_id": "",
+          "basename": "thong-tac-cong-chuyen-nghiep-quang-ninh-02.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chuyen-nghiep-quang-ninh-02.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 1,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Quảng Ninh bằng máy lò xo"
+      ]
+    },
+    {
+      "id": 2044,
+      "type": "posts",
+      "status": "publish",
+      "title": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026",
+      "link": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+      "slug": "chu-ky-hut-be-phot-3",
+      "service": "hút bể phốt",
+      "area": "Quảng Ninh",
+      "imageCount": 2,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chu-ky-hut-be-phot-anh-dau-bai-1.webp\" alt=\"Chu kỳ hút bể phốt nên tính theo số người dùng và dung tích bể\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chu-ky-hut-be-phot-anh-dau-bai-1.webp",
+          "alt": "Chu kỳ hút bể phốt nên tính theo số người dùng và dung tích bể",
+          "media_id": "",
+          "basename": "chu-ky-hut-be-phot-anh-dau-bai-1.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chu-ky-hut-be-phot-anh-dau-bai-1.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chu-ky-hut-be-phot-minh-hoa-1.webp\" alt=\"Kiểm tra dấu hiệu đầy bể giúp chọn thời điểm hút phù hợp\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chu-ky-hut-be-phot-minh-hoa-1.webp",
+          "alt": "Kiểm tra dấu hiệu đầy bể giúp chọn thời điểm hút phù hợp",
+          "media_id": "",
+          "basename": "chu-ky-hut-be-phot-minh-hoa-1.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chu-ky-hut-be-phot-minh-hoa-1.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 1,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "xe bồn hút bể phốt tại nhà dân ở Quảng Ninh"
+      ]
+    },
+    {
+      "id": 2043,
+      "type": "posts",
+      "status": "publish",
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+      "link": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+      "slug": "bon-cau-rut-cham-nguyen-nhan-3",
+      "service": "thông tắc bồn cầu",
+      "area": "Quảng Ninh",
+      "imageCount": 2,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bon-cau-rut-cham-nguyen-nhan-anh-dau-bai-1.webp\" alt=\"Bồn cầu rút nước chậm cần kiểm tra đường thoát, xi phông và bể phốt trước khi xử lý\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bon-cau-rut-cham-nguyen-nhan-anh-dau-bai-1.webp",
+          "alt": "Bồn cầu rút nước chậm cần kiểm tra đường thoát, xi phông và bể phốt trước khi xử lý",
+          "media_id": "",
+          "basename": "bon-cau-rut-cham-nguyen-nhan-anh-dau-bai-1.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bon-cau-rut-cham-nguyen-nhan-anh-dau-bai-1.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bon-cau-rut-cham-nguyen-nhan-thong-bon-cau-1.webp\" alt=\"Thợ dùng thiết bị phù hợp để kiểm tra nguyên nhân bồn cầu rút chậm\" loading=\"lazy\" />",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bon-cau-rut-cham-nguyen-nhan-thong-bon-cau-1.webp",
+          "alt": "Thợ dùng thiết bị phù hợp để kiểm tra nguyên nhân bồn cầu rút chậm",
+          "media_id": "",
+          "basename": "bon-cau-rut-cham-nguyen-nhan-thong-bon-cau-1.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bon-cau-rut-cham-nguyen-nhan-thong-bon-cau-1.webp",
+          "sha256": "",
+          "dhash": null,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 1,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "thợ thông tắc bồn cầu tại nhà vệ sinh ở Quảng Ninh"
+      ]
+    }
+  ],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    }
+  ]
+}

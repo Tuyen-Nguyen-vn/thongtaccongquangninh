@@ -1,0 +1,48 @@
+{
+  "slug": "thong-tac-cong-cao-xanh",
+  "status": "READY_FOR_REVIEW",
+  "service": "thông tắc cống",
+  "area": "Cao Xanh",
+  "sourceType": "real",
+  "images": [
+    {
+      "slot": "hero",
+      "type": "đầu bài",
+      "placement": "sau mở bài",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-cao-xanh\\thong-tac-cong-cao-xanh-ha-long-01.webp",
+      "fileName": "thong-tac-cong-cao-xanh-ha-long-01.webp",
+      "fileSizeKb": 103,
+      "altText": "Thông tắc cống Cao Xanh Hạ Long – xử lý tắc nghẽn khu dân cư đông",
+      "title": "Thông tắc cống Cao Xanh",
+      "caption": "Dịch vụ thông tắc cống Cao Xanh – khu dân cư đông đúc, ngõ hẹp. Hotline: 0963.953.533",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "process",
+      "type": "quy trình thi công",
+      "placement": "trong phần quy trình thi công",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-cao-xanh\\thong-tac-cong-cao-xanh-quy-trinh-02.webp",
+      "fileName": "thong-tac-cong-cao-xanh-quy-trinh-02.webp",
+      "fileSizeKb": 217,
+      "altText": "Quy trình thi công thông tắc cống Cao Xanh Hạ Long bằng máy lò xo chuyên dụng",
+      "title": "Quy trình thông cống Cao Xanh",
+      "caption": "Thợ Môi Trường Đô Thị Số 1 xử lý cống tắc Cao Xanh không đục phá",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "case-study",
+      "type": "case study",
+      "placement": "trong phần case study",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-cao-xanh\\thong-tac-cong-cao-xanh-chung-cu-03.webp",
+      "fileName": "thong-tac-cong-cao-xanh-chung-cu-03.webp",
+      "fileSizeKb": 85,
+      "altText": "Thông tắc cống chung cư khu dân cư Cao Xanh Hạ Long",
+      "title": "Thông cống chung cư Cao Xanh",
+      "caption": "Xử lý cống tắc chung cư, nhà liền kề tại Cao Xanh – gọi 0963.953.533 / 0931.156.756",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    }
+  ]
+}

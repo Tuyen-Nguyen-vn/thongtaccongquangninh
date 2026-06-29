@@ -1,0 +1,40 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-06-16T00:00:00.000Z",
+  "slug": "thong-tac-cong-cam-pha",
+  "service": "thông tắc cống",
+  "area": "Cẩm Phả",
+  "sourceType": "edited_ai",
+  "images": [
+    {
+      "slot": "Ảnh đầu bài",
+      "fileName": "thong-tac-cong-cam-pha-tho-xu-ly-cong-khu-mo.webp",
+      "altText": "Ảnh minh họa thợ thông tắc cống tại khu mỏ than Cẩm Phả Quảng Ninh",
+      "caption": "Ảnh minh họa đội thợ xử lý cống nghẹt tại khu vực mỏ than Cẩm Phả, nơi bùn than thường xuyên gây tắc đường ống thoát nước.",
+      "placement": "sau mở bài, trước H2 đầu tiên",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "fileSizeKb": 101,
+      "note": "edited_ai"
+    },
+    {
+      "slot": "Ảnh case study",
+      "fileName": "thong-tac-cong-cam-pha-may-lo-xo-cong-bun-than.webp",
+      "altText": "Ảnh minh họa máy lò xo thông tắc cống bùn than tại Cẩm Phả Quảng Ninh",
+      "caption": "Ảnh minh họa kỹ thuật viên dùng máy lò xo áp suất cao xử lý cống tắc bùn than tại khu công nghiệp Vũng Đục, TP. Cẩm Phả.",
+      "placement": "trong phần case study / H2 kỹ thuật xử lý",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "fileSizeKb": 105,
+      "note": "edited_ai"
+    },
+    {
+      "slot": "Ảnh quy trình thi công",
+      "fileName": "thong-tac-cong-cam-pha-xe-hut-bun-khu-cong-nghiep.webp",
+      "altText": "Ảnh minh họa xe hút bùn thông tắc cống khu công nghiệp Cẩm Phả Quảng Ninh",
+      "caption": "Ảnh minh họa xe hút bùn chuyên dụng hỗ trợ thông tắc cống thoát nước tại khu công nghiệp Cẩm Phả, Quảng Ninh.",
+      "placement": "trong phần quy trình thi công, H2 quy trình xử lý",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "fileSizeKb": 245,
+      "note": "edited_ai"
+    }
+  ]
+}

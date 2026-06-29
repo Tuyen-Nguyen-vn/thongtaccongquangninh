@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-14T15:40:31+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 44,
+  "pagesWithIssues": 0,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 5,
+  "fixes": [],
+  "issues": [],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "c8563ddd89b22a654c250d773b7b5acfcf16f98d6d38f2082ea575781eddf1dc",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/image-briefs/assets/thong-tac-cong-bai-chay-anh-dau-bai.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 0,
+          "file": "thong-tac-cong-bai-chay-anh-dau-bai.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 0,
+          "file": "thong-tac-cong-bai-chay-anh-dau-bai.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/image-briefs/assets/thong-tac-cong-bai-chay-quy-trinh-thi-cong.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 2,
+          "file": "thong-tac-cong-bai-chay-quy-trinh-thi-cong.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 2,
+          "file": "thong-tac-cong-bai-chay-quy-trinh-thi-cong.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/image-briefs/assets/thong-tac-cong-bai-chay-case-study.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 3,
+          "file": "thong-tac-cong-bai-chay-case-study.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+          "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+          "index": 3,
+          "file": "thong-tac-cong-bai-chay-case-study.webp"
+        }
+      ]
+    }
+  ]
+}

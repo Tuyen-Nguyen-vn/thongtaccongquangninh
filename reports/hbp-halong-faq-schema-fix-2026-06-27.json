@@ -1,0 +1,41 @@
+{
+  "updatedAt": "2026-06-27T05:10:00+07:00",
+  "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+  "pageId": 52,
+  "change": "Replaced stale generic FAQPage output with 5 visible FAQ questions for the HBP Ha Long page.",
+  "filesChanged": [
+    "tools/wp-plugins/ttcqn-doorway-schema/ttcqn-doorway-schema.php",
+    "tools/fix_hbp_halong_h1_brief_2026_06_27.mjs"
+  ],
+  "verification": {
+    "status": 200,
+    "h1Count": 1,
+    "h1": "Hút Bể Phốt Hạ Long Giá Rõ Ràng, Có Mặt Nhanh Tại Nhà Dân, Khách Sạn, Homestay",
+    "h1Ok": true,
+    "h2Matched": 8,
+    "tableOk": true,
+    "faqSchemaCount": 5,
+    "faqSchemaQuestions": [
+      "Bao lâu nên hút bể phốt một lần tại Hạ Long?",
+      "Bồn cầu rút chậm có phải luôn do bể phốt đầy không?",
+      "Giá hút bể phốt Hạ Long được tính như thế nào?",
+      "Nhà trong ngõ nhỏ hoặc đường dốc có hút được không?",
+      "Có nên tự đổ hóa chất khi bể phốt trào ngược không?"
+    ],
+    "staleFaqRemoved": true,
+    "linksOk": true,
+    "ctaOk": true,
+    "internalLinkStatuses": {
+      "/bang-gia-hut-be-phot-quang-ninh/": 200,
+      "/thong-tac-bon-cau-ha-long/": 200,
+      "/thong-tac-cong-ha-long/": 200,
+      "/hut-be-phot-khach-san-quang-ninh/": 200,
+      "/lien-he/": 200
+    },
+    "seoScore": {
+      "score": 95,
+      "result": "DAT",
+      "wordCount": 3095
+    }
+  }
+}

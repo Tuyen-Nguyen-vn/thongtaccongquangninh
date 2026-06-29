@@ -1,0 +1,46 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "slug": "chu-ky-hut-be-phot",
+  "service": "hút bể phốt",
+  "area": "Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "chu-ky-hut-be-phot-anh-dau-bai.jpg",
+      "fileNameWebP": "chu-ky-hut-be-phot-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\chu-ky-hut-be-phot\\chu-ky-hut-be-phot-anh-dau-bai.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\chu-ky-hut-be-phot-anh-dau-bai.jpg",
+      "fileSizeKb": 216,
+      "altText": "Xe hút bể phốt theo chu kỳ định kỳ tại nhà",
+      "title": "Chu kỳ hút bể phốt bao lâu một lần – Hướng dẫn 2026",
+      "caption": "Lên lịch hút bể phốt định kỳ đúng chu kỳ để tránh tràn và mùi hôi",
+      "pageUrl": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "chu-ky-hut-be-phot-minh-hoa.jpg",
+      "fileNameWebP": "chu-ky-hut-be-phot-minh-hoa.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\chu-ky-hut-be-phot\\chu-ky-hut-be-phot-minh-hoa.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\chu-ky-hut-be-phot-minh-hoa.jpg",
+      "fileSizeKb": 207,
+      "altText": "Kiểm tra bể phốt trước khi hút theo lịch định kỳ",
+      "title": "Kiểm tra bể phốt – Tư vấn chu kỳ hút đúng chuẩn",
+      "caption": "Kỹ thuật viên kiểm tra và tư vấn chu kỳ hút phù hợp từng hộ gia đình",
+      "pageUrl": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot/",
+      "placement": "trong nội dung",
+      "slot": "Ảnh 2 – minh họa",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

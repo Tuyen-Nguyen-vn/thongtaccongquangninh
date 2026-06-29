@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-06-28T20:27:35.262Z",
+  "mode": "apply",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+  "targetImage": "thong-tac-cong-ha-long-kiem-tra-ho-ga.webp",
+  "sourceErrors": [],
+  "needsSync": [
+    "ttcqn_doorway_safe_page_296_content",
+    "ttcqn_doorway_safe_page_296_content_v2"
+  ],
+  "before": {
+    "page": {
+      "length": 25635,
+      "hash": "839f0dd4a1ccf807",
+      "imageCount": 3,
+      "h1Count": 0,
+      "hasTargetImage": true,
+      "targetImageCount": 1,
+      "hasTargetAlt": true,
+      "hasTargetCaption": true,
+      "hasAuthorByline": true,
+      "hasHotline": true,
+      "forbiddenHits": []
+    },
+    "options": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "inspect": {
+          "length": 24563,
+          "hash": "53ad496b104c353d",
+          "imageCount": 2,
+          "h1Count": 0,
+          "hasTargetImage": false,
+          "targetImageCount": 0,
+          "hasTargetAlt": false,
+          "hasTargetCaption": false,
+          "hasAuthorByline": true,
+          "hasHotline": true,
+          "forbiddenHits": []
+        }
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "inspect": {
+          "length": 24563,
+          "hash": "53ad496b104c353d",
+          "imageCount": 2,
+          "h1Count": 0,
+          "hasTargetImage": false,
+          "targetImageCount": 0,
+          "hasTargetAlt": false,
+          "hasTargetCaption": false,
+          "hasAuthorByline": true,
+          "hasHotline": true,
+          "forbiddenHits": []
+        }
+      }
+    ]
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-ttc-ha-long-option-image-sync-2026-06-28T20-27-33",
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/ttc-ha-long-option-image-sync-2026-06-28T20-27-33.json",
+  "updates": [
+    {
+      "name": "ttcqn_doorway_safe_page_296_content",
+      "status": "ok",
+      "error": null
+    },
+    {
+      "name": "ttcqn_doorway_safe_page_296_content_v2",
+      "status": "ok",
+      "error": null
+    }
+  ],
+  "live": {
+    "status": 200,
+    "inspect": {
+      "length": 179691,
+      "hash": "bb3c1bf73757bc0d",
+      "imageCount": 9,
+      "h1Count": 1,
+      "hasTargetImage": true,
+      "targetImageCount": 1,
+      "hasTargetAlt": true,
+      "hasTargetCaption": true,
+      "hasAuthorByline": true,
+      "hasHotline": true,
+      "forbiddenHits": []
+    },
+    "canonicalOk": true
+  },
+  "status": "pass"
+}

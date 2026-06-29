@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-06-27T17:19:49.242Z",
+  "files": [
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html",
+      "found": true,
+      "length": 282952,
+      "firstChars": "<!DOCTYPE html>\n<html lang=\"vi\" prefix=\"",
+      "firstHex": "3c21444f43545950452068746d6c3e0a",
+      "startsWithBom": false,
+      "startsWithDoctype": true
+    },
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html_gzip",
+      "found": true,
+      "length": 55165,
+      "firstChars": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003��k�\u001c�q �~\u0016�g�Cr�R�\u0011�j���:���\u0010",
+      "firstHex": "1fefbfbd0800000000000003efbfbdefbfbd6befbfbd1cefbfbd",
+      "startsWithBom": false,
+      "startsWithDoctype": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-06-29T02:44:17",
+  "rows": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "referringUrls": []
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "referringUrls": [
+        "https://www.thongtaccongquangninh.com/"
+      ]
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-18T12:41:56Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "referringUrls": []
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T16:15:16Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "referringUrls": [
+        "https://thongtaccongquangninh.com/"
+      ]
+    }
+  ]
+}

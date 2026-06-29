@@ -1,0 +1,33 @@
+{
+  "target": "hut-be-phot-ha-long",
+  "checked_at": "2026-06-16T16:15:24.059Z",
+  "status": "PENDING_IMAGE_SEO",
+  "pass": false,
+  "slug": "hut-be-phot-ha-long",
+  "image_count": 3,
+  "package_path": "D:\\.thongtaccongquangninh\\image-briefs\\hut-be-phot-ha-long-image-package.json",
+  "notes": [
+    "Package status phải là READY_FOR_REVIEW.",
+    "Thiếu ảnh đầu bài.",
+    "Thiếu ảnh case study.",
+    "Thiếu ảnh quy trình thi công.",
+    "Ảnh 1: thiếu tên file.",
+    "Ảnh 1: thiếu fileSizeKb hoặc filePath để kiểm tra dung lượng.",
+    "Ảnh 1: thiếu alt text.",
+    "Ảnh 1: thiếu vị trí chèn.",
+    "Ảnh 1: thiếu trang sử dụng.",
+    "Ảnh 1: thiếu ghi chú ảnh thật/ảnh minh họa.",
+    "Ảnh 2: thiếu tên file.",
+    "Ảnh 2: thiếu fileSizeKb hoặc filePath để kiểm tra dung lượng.",
+    "Ảnh 2: thiếu alt text.",
+    "Ảnh 2: thiếu vị trí chèn.",
+    "Ảnh 2: thiếu trang sử dụng.",
+    "Ảnh 2: thiếu ghi chú ảnh thật/ảnh minh họa.",
+    "Ảnh 3: thiếu tên file.",
+    "Ảnh 3: thiếu fileSizeKb hoặc filePath để kiểm tra dung lượng.",
+    "Ảnh 3: thiếu alt text.",
+    "Ảnh 3: thiếu vị trí chèn.",
+    "Ảnh 3: thiếu trang sử dụng.",
+    "Ảnh 3: thiếu ghi chú ảnh thật/ảnh minh họa."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/?nowprocket=1&codex=after20260524",
+  "fetchedAt": "2026-05-24T16:12:12.019Z",
+  "title": "Hút bể phốt Cẩm Phả: xe bồn vào ngõ hẹp, xử lý bể đầy lâu năm",
+  "ogTitle": "Hút bể phốt Cẩm Phả: xe bồn vào ngõ hẹp, xử lý bể đầy lâu năm",
+  "titleLength": 61,
+  "metaDesc": "Hút bể phốt Cẩm Phả cho nhà dân, khu mỏ, nhà trọ, ngõ hẹp và bể đầy lâu năm. Gọi 0963.953.533 / 0931.156.756 để xe bồn hỗ trợ nhanh trong ngày, báo giá rõ.",
+  "metaLength": 155,
+  "fullWordCount": 11579,
+  "mainWordCount": 3135,
+  "fullForbidden": [
+    {
+      "word": "chuyên nghiệp",
+      "count": 1
+    },
+    {
+      "word": "uy tín",
+      "count": 1
+    },
+    {
+      "word": "hàng đầu",
+      "count": 1
+    },
+    {
+      "word": "tận tâm",
+      "count": 1
+    }
+  ],
+  "mainForbidden": [],
+  "fullH1": [
+    "Hút bể phốt Cẩm Phả: xe bồn vào ngõ hẹp, xử lý bể đầy lâu năm"
+  ],
+  "mainH1": [],
+  "mainH2": [
+    "Nguyên nhân bể phốt Cẩm Phả nhanh đầy hoặc trào ngược",
+    "Dấu hiệu cần gọi xe hút bể phốt Cẩm Phả sớm",
+    "Bảng giá hút bể phốt Cẩm Phả phụ thuộc yếu tố nào?",
+    "Quy trình 5 bước hút bể phốt tại Cẩm Phả",
+    "Checklist khảo sát trước khi xe hút bể phốt đến",
+    "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh?",
+    "Khu vực phục vụ hút bể phốt tại Cẩm Phả",
+    "Những trường hợp cần báo rõ để tránh phát sinh",
+    "Cách hạn chế bể nhanh đầy sau khi xử lý",
+    "NAP liên hệ hút bể phốt Cẩm Phả",
+    "Câu hỏi thường gặp về hút bể phốt Cẩm Phả"
+  ],
+  "requiredH2": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "hotlinesMain": 16,
+  "densityMain": {
+    "count": 7,
+    "total": 3135,
+    "density": 0.011164274322169059
+  },
+  "images": [
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-cam-pha-xe-hut-be-phot-ho-gia-dinh-1.webp",
+      "alt": "Xe bồn hút bể phốt hộ gia đình cho dịch vụ hút bể phốt tại Cẩm Phả",
+      "filename": "hut-be-phot-cam-pha-xe-hut-be-phot-ho-gia-dinh-1.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-cam-pha-xe-hut-be-phot-ho-gia-dinh-2.webp",
+      "alt": "Xe bồn hút bể phốt hộ gia đình cho dịch vụ hút bể phốt tại Cẩm Phả",
+      "filename": "hut-be-phot-cam-pha-xe-hut-be-phot-ho-gia-dinh-2.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-cam-pha-xe-hut-be-phot-khu-cong-nghiep-3.webp",
+      "alt": "Xe bồn hút bể phốt khu công nghiệp cho dịch vụ hút bể phốt tại Cẩm Phả",
+      "filename": "hut-be-phot-cam-pha-xe-hut-be-phot-khu-cong-nghiep-3.webp",
+      "external": false
+    }
+  ],
+  "imageIssues": [],
+  "internalLinksMain": 6,
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "FAQPage",
+      "Service",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "Service",
+      "FAQPage"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "oldEscaped": false,
+  "scopeNote": "Forbidden-word gate is evaluated on main content; full page still contains legacy footer marketing phrases.",
+  "pass": true
+}

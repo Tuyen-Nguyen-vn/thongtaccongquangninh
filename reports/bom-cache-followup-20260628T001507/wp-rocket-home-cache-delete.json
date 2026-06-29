@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-06-27T17:18:34.169Z",
+  "files": [
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html",
+      "backup": "backups/bom-cache-followup-20260628T001507/index-https.html.remote-before-delete",
+      "backupLength": 282953,
+      "firstChars": "﻿<!DOCTYPE html>\n<ht",
+      "deleteResult": "event: message\ndata: {\"jsonrpc\":\"2.0\",\"id\":4,\"error\":{\"code\":-32602,\"message\":\"invalid params: validating \\\"arguments\\\": validating root: required: missing properties: [\\\"type\\\"]\"}}\n\n"
+    },
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html_gzip",
+      "backup": "backups/bom-cache-followup-20260628T001507/index-https.html_gzip.remote-before-delete",
+      "backupLength": 55071,
+      "firstChars": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003��k�\u001c�q �~",
+      "deleteResult": "event: message\ndata: {\"jsonrpc\":\"2.0\",\"id\":6,\"error\":{\"code\":-32602,\"message\":\"invalid params: validating \\\"arguments\\\": validating root: required: missing properties: [\\\"type\\\"]\"}}\n\n"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+[
+  {
+    "name": "home",
+    "width": 390,
+    "status": 200,
+    "bodyClass": "home wp-singular page-template page-template-page-home page-template-page-home-php page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-generatepress home-page-direct right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 0,
+    "mastheadDisplay": null,
+    "bodyBg": "none",
+    "bodyBgColor": "rgb(2, 13, 23)",
+    "pageBg": "",
+    "pageRect": null,
+    "contentRect": null,
+    "heroRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 789
+    },
+    "cardRect": null,
+    "cardBg": "",
+    "cardRadius": "",
+    "cardShadow": "",
+    "beforeContent": "",
+    "beforeBg": "",
+    "afterBg": "",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 768,
+    "status": 200,
+    "bodyClass": "home wp-singular page-template page-template-page-home page-template-page-home-php page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-generatepress home-page-direct right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 0,
+    "mastheadDisplay": null,
+    "bodyBg": "none",
+    "bodyBgColor": "rgb(2, 13, 23)",
+    "pageBg": "",
+    "pageRect": null,
+    "contentRect": null,
+    "heroRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 700
+    },
+    "cardRect": null,
+    "cardBg": "",
+    "cardRadius": "",
+    "cardShadow": "",
+    "beforeContent": "",
+    "beforeBg": "",
+    "afterBg": "",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 1440,
+    "status": 200,
+    "bodyClass": "home wp-singular page-template page-template-page-home page-template-page-home-php page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-generatepress home-page-direct right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 0,
+    "mastheadDisplay": null,
+    "bodyBg": "none",
+    "bodyBgColor": "rgb(2, 13, 23)",
+    "pageBg": "",
+    "pageRect": null,
+    "contentRect": null,
+    "heroRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 770
+    },
+    "cardRect": null,
+    "cardBg": "",
+    "cardRadius": "",
+    "cardShadow": "",
+    "beforeContent": "",
+    "beforeBg": "",
+    "afterBg": "",
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 390,
+    "status": 200,
+    "bodyClass": "wp-singular page-template-default page page-id-26 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active elementor-default elementor-kit-19 elementor-page elementor-page-26",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 910,
+      "w": 390,
+      "h": 12671
+    },
+    "contentRect": {
+      "x": 0,
+      "y": 910,
+      "w": 390,
+      "h": 12671
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 838
+    },
+    "cardRect": {
+      "x": 14,
+      "y": 946,
+      "w": 362,
+      "h": 12529
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "18px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "service",
+    "width": 768,
+    "status": 200,
+    "bodyClass": "wp-singular page-template-default page page-id-26 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active elementor-default elementor-kit-19 elementor-page elementor-page-26",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 782,
+      "w": 768,
+      "h": 9162
+    },
+    "contentRect": {
+      "x": 0,
+      "y": 782,
+      "w": 768,
+      "h": 9162
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 700
+    },
+    "cardRect": {
+      "x": 14,
+      "y": 838,
+      "w": 740,
+      "h": 8978
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "18px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "service",
+    "width": 1440,
+    "status": 200,
+    "bodyClass": "wp-singular page-template-default page page-id-26 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active elementor-default elementor-kit-19 elementor-page elementor-page-26",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 1017,
+      "w": 1440,
+      "h": 9913
+    },
+    "contentRect": {
+      "x": 120,
+      "y": 1017,
+      "w": 1200,
+      "h": 9913
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 921
+    },
+    "cardRect": {
+      "x": 136,
+      "y": 1073,
+      "w": 798,
+      "h": 9759
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "22px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "area",
+    "width": 390,
+    "status": 200,
+    "bodyClass": "wp-singular page-template-default page page-id-296 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-service-page ttcqn-service-page-ha-long ttcqn-shared-header-active no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 14169
+    },
+    "contentRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 14169
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 961
+    },
+    "cardRect": {
+      "x": 14,
+      "y": 1069,
+      "w": 362,
+      "h": 13056
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "18px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "area",
+    "width": 768,
+    "status": 200,
+    "bodyClass": "wp-singular page-template-default page page-id-296 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-service-page ttcqn-service-page-ha-long ttcqn-shared-header-active no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 9966
+    },
+    "contentRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 9966
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 724
+    },
+    "cardRect": {
+      "x": 14,
+      "y": 862,
+      "w": 740,
+      "h": 9040
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "18px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "area",
+    "width": 1440,
+    "status": 200,
+    "bodyClass": "wp-singular page-template-default page page-id-296 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-service-page ttcqn-service-page-ha-long ttcqn-shared-header-active no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 9429
+    },
+    "contentRect": {
+      "x": 120,
+      "y": 96,
+      "w": 1200,
+      "h": 9429
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 946
+    },
+    "cardRect": {
+      "x": 160,
+      "y": 1098,
+      "w": 1120,
+      "h": 8281
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "22px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "blog",
+    "width": 390,
+    "status": 200,
+    "bodyClass": "wp-singular post-template-default single single-post postid-1377 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover elementor-default elementor-kit-19",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 980,
+      "w": 390,
+      "h": 11839
+    },
+    "contentRect": {
+      "x": 0,
+      "y": 980,
+      "w": 390,
+      "h": 11839
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 908
+    },
+    "cardRect": {
+      "x": 14,
+      "y": 1016,
+      "w": 362,
+      "h": 11697
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "18px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "blog",
+    "width": 768,
+    "status": 200,
+    "bodyClass": "wp-singular post-template-default single single-post postid-1377 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover elementor-default elementor-kit-19",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 824,
+      "w": 768,
+      "h": 7033
+    },
+    "contentRect": {
+      "x": 0,
+      "y": 824,
+      "w": 768,
+      "h": 7033
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 742
+    },
+    "cardRect": {
+      "x": 14,
+      "y": 880,
+      "w": 740,
+      "h": 6849
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "18px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  },
+  {
+    "name": "blog",
+    "width": 1440,
+    "status": 200,
+    "bodyClass": "wp-singular post-template-default single single-post postid-1377 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover elementor-default elementor-kit-19",
+    "h1Count": 1,
+    "h1Color": "rgb(255, 255, 255)",
+    "sharedHeaders": 1,
+    "mastheadDisplay": "none",
+    "bodyBg": "radial-gradient(circle at 8% 22%, rgba(126, 217, 87, 0.15), rgba(0, 0, 0, 0) 27%), radial-gradient(circle at 88% 30%, rgba(0, 184, 217, 0.13), rgba(0, 0, 0, 0) 31%), radial-gradien",
+    "bodyBgColor": "rgba(0, 0, 0, 0)",
+    "pageBg": "radial-gradient(circle at 78% 18%, rgba(126, 217, 87, 0.1), rgba(0, 0, 0, 0) 26%), radial-gradient(circle at 12% 54%, rgba(0, 184, 217, 0.1), rgba(0, 0, 0, 0) 28%), linear-gradient",
+    "pageRect": {
+      "x": 0,
+      "y": 1017,
+      "w": 1440,
+      "h": 7991
+    },
+    "contentRect": {
+      "x": 120,
+      "y": 1017,
+      "w": 1200,
+      "h": 7991
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 921
+    },
+    "cardRect": {
+      "x": 136,
+      "y": 1073,
+      "w": 798,
+      "h": 7837
+    },
+    "cardBg": "rgba(255, 255, 255, 0.97)",
+    "cardRadius": "22px",
+    "cardShadow": "rgba(0, 0, 0, 0.34) 0px 28px 70px 0px, rgba(255, 255, 255, 0.06) 0px 0px 0px 1px",
+    "beforeContent": "\"\"",
+    "beforeBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "afterBg": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3",
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "consoleErrors": [],
+    "misses": [
+      "bodyBgNotDark",
+      "pageBgNotDark"
+    ]
+  }
+]

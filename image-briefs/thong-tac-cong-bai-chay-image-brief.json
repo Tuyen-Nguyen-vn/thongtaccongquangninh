@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.193Z",
+  "slug": "thong-tac-cong-bai-chay",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+  "focusKeyword": "thông tắc cống Bãi Cháy",
+  "service": "thông tắc cống",
+  "area": "Bãi Cháy",
+  "subAreas": "nhận thông tắc cống tại Bãi Cháy và Hạ Long Đội thợ nhận thông tắc cống Bãi Cháy tại các tuyến phố, khu dân cư, khu du lịch, khu nhà hàng, khách sạn, homestay, nhà trọ và mặt bằng kinh doanh quanh Bãi Cháy. Ngoài Bãi Cháy, chúng tôi còn phụ...",
+  "searchIntent": "Khách tại Bãi Cháy cần xử lý cống tắc gấp tại nhà dân, nhà hàng, khách sạn, homestay, khu trọ hoặc mặt bằng kinh doanh. Bài cần giúp khách nhận biết nguyên nhân, giá, quy trình, cam kết không đục phá và gọi hotline ngay khi nước trào, mùi hôi hoặc thoát chậm.",
+  "caseStudy": "E-E-A-T tại Bãi Cháy Một nhà hàng nhỏ gần khu du lịch Bãi Cháy gặp tình trạng nước khu rửa bát rút rất chậm, càng xả càng có mùi dầu mỡ nặng. Nhân viên đã thử dùng bột thông tắc nhưng chỉ đỡ trong vài giờ rồi nước lại dâng. Khi tiếp nhận, đội kỹ thuật xác định khả năng cao là tắc do mảng bám dầu mỡ trong cống bếp và hố ga phía sau quá tải. Thợ kiểm tra miệng thoát, mở nắp hố ga, dùng máy lò xo xử lý đoạn ống nghẹt trước, sau đó xả nước nhiều lần để kiểm tra dòng chảy. *Ảnh minh họa tình huống thông tắc cống Bãi Cháy tại khu bếp có nước rút chậm và mùi dầu mỡ.* Sau khi xử lý, nước thoát nhanh hơn, mùi hôi giảm rõ và khu bếp có thể hoạt động lại trong buổi tối. Khách được nhắc đặt rổ chắn rác, không đổ dầu mỡ nóng xuống cống và lên lịch vệ sinh hố ga định kỳ. Trường hợp này cho thấy thông tắc cống Bãi Cháy cần đi đúng nguyên nhân. Nếu chỉ đổ hóa chất hoặc thông miệng cống, điểm tắc do dầu...",
+  "shouldUse": [
+    "máy lò xo",
+    "cống",
+    "hố ga",
+    "đường ống",
+    "thợ xử lý ngoài trời/bếp"
+  ],
+  "shouldAvoid": [
+    "ảnh xe hút bể phốt nếu bài không nói đến hút"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

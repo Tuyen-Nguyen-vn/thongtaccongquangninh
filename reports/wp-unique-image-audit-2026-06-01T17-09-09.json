@@ -1,0 +1,215 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-01T17:09:50+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 73,
+  "pagesWithIssues": 2,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 2,
+  "globalReuseGroups": 8,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 2378,
+      "type": "posts",
+      "status": "publish",
+      "title": "Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh – Có Mặt 15 Phút 2026",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh-2/",
+      "slug": "thong-tac-bon-cau-khan-cap-quang-ninh-2",
+      "service": "thông tắc bồn cầu",
+      "area": "Quảng Ninh",
+      "imageCount": 0,
+      "images": [],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 3,
+      "replacementNeeded": 3,
+      "missingTopics": [
+        "thợ thông tắc bồn cầu tại nhà vệ sinh ở Quảng Ninh",
+        "máy lò xo xử lý bồn cầu nghẹt không đục phá tại Quảng Ninh",
+        "xả thử bồn cầu sau xử lý tại Quảng Ninh"
+      ]
+    },
+    {
+      "id": 2377,
+      "type": "posts",
+      "status": "publish",
+      "title": "Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh – Có Mặt 15 Phút 2026",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "slug": "thong-tac-bon-cau-khan-cap-quang-ninh",
+      "service": "thông tắc bồn cầu",
+      "area": "Quảng Ninh",
+      "imageCount": 0,
+      "images": [],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 3,
+      "replacementNeeded": 3,
+      "missingTopics": [
+        "thợ thông tắc bồn cầu tại nhà vệ sinh ở Quảng Ninh",
+        "máy lò xo xử lý bồn cầu nghẹt không đục phá tại Quảng Ninh",
+        "xả thử bồn cầu sau xử lý tại Quảng Ninh"
+      ]
+    }
+  ],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh: xử lý cống, bể phốt, mùi hôi",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "ecb792cbb8e4558daff7f522a3d9665a1eb88e5fb13d18d398ea27dadf0a1a4b",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+          "title": "Hệ Thống Liên Kết Đối Tác & Truyền Thông",
+          "index": 2,
+          "file": "he-thong-lien-ket-doi-tac-may-lo-xo-thong-cong-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 1,
+          "file": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long-cuon-day-thong-cong-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "cb0ecece3feac70d6511ed9c7f17dff40e5cee7aa4468f34d2f343f14abf8dc0",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh: xử lý cống, bể phốt, mùi hôi",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "3fc14749de2f8e4f9f1375bff300ab8249394eb86423d0202878a60ced6c6ac2",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+          "title": "Hút bể phốt tại Cẩm Phả: xe bồn vào ngõ hẹp, xử lý bể đầy lâu năm",
+          "index": 1,
+          "file": "hut-be-phot-cam-pha-xe-hut-be-phot-ho-gia-dinh-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+          "index": 3,
+          "file": "thong-tac-cong-quang-ninh-anh-ai-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "9d4c8283f1935e94d9ce6d783dda9b6d7777d59c6beb2cc1dbd275d5ae4a108d",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+          "index": 4,
+          "file": "thong-tac-cong-quang-ninh-anh-ai-1.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+          "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+          "index": 2,
+          "file": "bon-cau-rut-cham-nguyen-nhan-3-tho-thong-bon-cau-3-new.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "a302000e9ab1de48f5f3f152f48e4301a435e301722341b30626f5803cfb8111",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+          "title": "Thông Tắc Bồn Cầu Ban Đêm Quảng Ninh – Gọi Là Có Ngay 2026",
+          "index": 1,
+          "file": "bang-gia-thong-tac-bon-cau-ban-dem-quang-ninh-2026.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/",
+          "title": "Giá Thông Tắc Bồn Cầu Quảng Ninh 2026 – Báo Giá Thật, Không Phát Sinh",
+          "index": 1,
+          "file": "bang-gia-thong-tac-bon-cau-quang-ninh-2026.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "ee2b0eaacdbc2660d84f04404dada8bb646f3fb9805fddbcb81bebe5420c6ec2",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+          "title": "Thông Tắc Bồn Cầu Ban Đêm Quảng Ninh – Gọi Là Có Ngay 2026",
+          "index": 2,
+          "file": "may-lo-xo-thong-bon-cau-ban-dem-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/",
+          "title": "Giá Thông Tắc Bồn Cầu Quảng Ninh 2026 – Báo Giá Thật, Không Phát Sinh",
+          "index": 2,
+          "file": "thong-tac-bon-cau-khach-san-bai-chay-ha-long.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "576ddad901f62401d12e1b2b425ebc9133aeaa0ab63a7ab0ab4f4d3f3b3806dc",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/",
+          "title": "Thông Tắc Cống Tại Hạ Long: Cẩm Nang Xử Lý Nhanh Theo Từng Khu",
+          "index": 3,
+          "file": "cam-nang-thong-tac-cong-tai-ha-long-quy-trinh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+          "title": "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý",
+          "index": 2,
+          "file": "mui-hoi-cong-nguyen-nhan-xu-ly-4-may-lo-xo-thong-cong-3.webp"
+        }
+      ]
+    }
+  ]
+}

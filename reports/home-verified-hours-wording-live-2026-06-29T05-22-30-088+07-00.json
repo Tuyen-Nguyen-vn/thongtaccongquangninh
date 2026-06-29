@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-06-29T05:22:30.088+07:00",
+  "timezone": "Asia/Bangkok",
+  "targets": [
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/home-verified-hours-wording-live-2026-06-29T05-22-30-088+07-00/ttcqn-home-emergency-renderer.remote.php",
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php\",\"status\":\"ok\"}",
+      "remoteMatches": true,
+      "requiredOk": true,
+      "forbiddenGone": true
+    },
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/home-verified-hours-wording-live-2026-06-29T05-22-30-088+07-00/page-home-direct.remote.php",
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php\",\"status\":\"ok\"}",
+      "remoteMatches": false,
+      "requiredOk": true,
+      "forbiddenGone": true
+    }
+  ],
+  "purge": {
+    "ok": false,
+    "text": "",
+    "warning": "path not found"
+  },
+  "public": {
+    "home": {
+      "status": 200,
+      "hasNewFaqQuestion": true,
+      "hasOldFaqQuestion": false
+    },
+    "baiChay": {
+      "status": 200,
+      "hasOldFaqQuestion": false,
+      "hasOldBaiChayWording": false
+    }
+  },
+  "success": true
+}

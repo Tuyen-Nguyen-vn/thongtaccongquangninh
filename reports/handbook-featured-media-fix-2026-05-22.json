@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-05-22T15:07:22.172Z",
+  "before": [
+    {
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+      "title": {
+        "rendered": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh"
+      },
+      "featured_media": 0
+    },
+    {
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+      "title": {
+        "rendered": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút"
+      },
+      "featured_media": 0
+    },
+    {
+      "id": 2054,
+      "slug": "thong-tac-cong-bai-chay",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "title": {
+        "rendered": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng"
+      },
+      "featured_media": 0
+    },
+    {
+      "id": 2053,
+      "slug": "thong-tac-cong-hong-gai-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "title": {
+        "rendered": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá"
+      },
+      "featured_media": 0
+    },
+    {
+      "id": 2052,
+      "slug": "hut-be-phot-tien-yen-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+      "title": {
+        "rendered": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ"
+      },
+      "featured_media": 0
+    },
+    {
+      "id": 2051,
+      "slug": "hut-be-phot-hai-ha-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "title": {
+        "rendered": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay"
+      },
+      "featured_media": 0
+    }
+  ],
+  "media": {
+    "cong": {
+      "id": 2196,
+      "source": "uploaded",
+      "slug": "service-thong-tac-cong-quang-ninh-may-chuyen-dung",
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung.webp"
+    },
+    "hutbephot": {
+      "id": 2197,
+      "source": "uploaded",
+      "slug": "service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung",
+      "url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung.webp"
+    }
+  },
+  "updates": [
+    {
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "featured_media": 2196,
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/"
+    },
+    {
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "featured_media": 2196,
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/"
+    },
+    {
+      "id": 2054,
+      "slug": "thong-tac-cong-bai-chay",
+      "featured_media": 2196,
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/"
+    },
+    {
+      "id": 2053,
+      "slug": "thong-tac-cong-hong-gai-2",
+      "featured_media": 2196,
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/"
+    },
+    {
+      "id": 2052,
+      "slug": "hut-be-phot-tien-yen-2",
+      "featured_media": 2197,
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/"
+    },
+    {
+      "id": 2051,
+      "slug": "hut-be-phot-hai-ha-2",
+      "featured_media": 2197,
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/"
+    }
+  ],
+  "after": [
+    {
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+      "title": {
+        "rendered": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh"
+      },
+      "featured_media": 2196
+    },
+    {
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+      "title": {
+        "rendered": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút"
+      },
+      "featured_media": 2196
+    },
+    {
+      "id": 2054,
+      "slug": "thong-tac-cong-bai-chay",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "title": {
+        "rendered": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng"
+      },
+      "featured_media": 2196
+    },
+    {
+      "id": 2053,
+      "slug": "thong-tac-cong-hong-gai-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "title": {
+        "rendered": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá"
+      },
+      "featured_media": 2196
+    },
+    {
+      "id": 2052,
+      "slug": "hut-be-phot-tien-yen-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+      "title": {
+        "rendered": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ"
+      },
+      "featured_media": 2197
+    },
+    {
+      "id": 2051,
+      "slug": "hut-be-phot-hai-ha-2",
+      "status": "publish",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "title": {
+        "rendered": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay"
+      },
+      "featured_media": 2197
+    }
+  ]
+}

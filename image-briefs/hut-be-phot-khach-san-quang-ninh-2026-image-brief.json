@@ -1,0 +1,26 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "slug": "hut-be-phot-khach-san-quang-ninh-2026",
+  "title": "Dịch Vụ Hút Bể Phốt Khách Sạn Quảng Ninh – Xử Lý 24/7, Có Mặt Trong 15 Phút",
+  "service": "hút bể phốt",
+  "area": "Quảng Ninh",
+  "briefPath": "D:\\.thongtaccongquangninh\\image-briefs\\hut-be-phot-khach-san-quang-ninh-2026-image-brief.json",
+  "packagePath": "D:\\.thongtaccongquangninh\\image-briefs\\hut-be-phot-khach-san-quang-ninh-2026-image-package.json",
+  "sourceType": "processed",
+  "imagesNeeded": 5,
+  "imagesReady": 5,
+  "content": {
+    "summary": "Dịch Vụ Hút Bể Phốt Khách Sạn Quảng Ninh – Xử Lý 24/7, Có Mặt Trong 15 Phút",
+    "h2Count": 12,
+    "bodyWordCount": 4052
+  },
+  "processedAt": "2026-06-28",
+  "nextAction": "Tuyền duyệt upload WordPress",
+  "images": [
+    "hut-be-phot-khach-san-xe-hut-chuyen-dung-quang-ninh.webp",
+    "hut-be-phot-khach-san-xe-bon-lam-sach-be-phot-quang-ninh.webp",
+    "hut-be-phot-khach-san-ky-thuat-vien-xu-ly-be-phot-quang-ninh.webp",
+    "hut-be-phot-khach-san-ky-thuat-hut-be-phot-bai-chay-ha-long.webp",
+    "hut-be-phot-khach-san-tho-hut-be-phot-thuc-te-quang-ninh.webp"
+  ]
+}

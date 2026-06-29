@@ -1,0 +1,46 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "slug": "dau-hieu-be-phot-can-hut",
+  "service": "hút bể phốt",
+  "area": "Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "dau-hieu-be-phot-can-hut-anh-dau-bai.jpg",
+      "fileNameWebP": "dau-hieu-be-phot-can-hut-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\dau-hieu-be-phot-can-hut\\dau-hieu-be-phot-can-hut-anh-dau-bai.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\dau-hieu-be-phot-can-hut-anh-dau-bai.jpg",
+      "fileSizeKb": 211,
+      "altText": "Dấu hiệu bể phốt đầy cần hút tại nhà",
+      "title": "Dấu hiệu bể phốt cần hút – Nhận biết sớm tránh tràn bể",
+      "caption": "Nhận biết đúng 5 dấu hiệu bể phốt sắp đầy để xử lý kịp thời",
+      "pageUrl": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "dau-hieu-be-phot-can-hut-dau-hieu-nhan-biet.jpg",
+      "fileNameWebP": "dau-hieu-be-phot-can-hut-dau-hieu-nhan-biet.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\dau-hieu-be-phot-can-hut\\dau-hieu-be-phot-can-hut-dau-hieu-nhan-biet.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\dau-hieu-be-phot-can-hut-dau-hieu-nhan-biet.jpg",
+      "fileSizeKb": 164,
+      "altText": "Kiểm tra bể phốt nhận biết dấu hiệu đầy",
+      "title": "Kiểm tra bể phốt – Dấu hiệu bể phốt cần hút",
+      "caption": "Thợ kiểm tra bể phốt phát hiện sớm dấu hiệu cần xử lý",
+      "pageUrl": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "placement": "trong nội dung",
+      "slot": "Ảnh 2 – minh họa",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

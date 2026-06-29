@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-03T15:35:46.594Z",
+  "target": {
+    "id": 2053,
+    "collection": "posts",
+    "slug": "thong-tac-cong-hong-gai",
+    "url": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-thong-tac-cong-hong-gai-2026-06-03T15-35-44-959Z",
+  "newTitle": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+  "newTitleLen": 68,
+  "newDesc": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+  "newDescLen": 151,
+  "before": {
+    "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+    "excerpt": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+    "rawWordCount": 2096,
+    "rawH1Count": 0,
+    "rawH2Count": 11,
+    "hasNapHeading": false,
+    "hasNapMarker": false,
+    "oldAltCount": 2,
+    "newAltCount": 0,
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changes": [
+      {
+        "label": "fix_image_alt",
+        "changed": true
+      },
+      {
+        "label": "rename_nap_heading",
+        "changed": true
+      },
+      {
+        "label": "add_nap_word_count_block",
+        "changed": true
+      },
+      {
+        "label": "replace_old_author_url",
+        "changed": true
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema",
+        "changed": true
+      },
+      {
+        "label": "ensure_final_author_line",
+        "changed": true
+      }
+    ],
+    "afterRawWordCount": 2308,
+    "afterRawH1Count": 0,
+    "afterRawH2Count": 11,
+    "hasNapHeading": true,
+    "hasNapMarker": true,
+    "oldAltCount": 0,
+    "newAltCount": 2,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "finalAuthorLine": true
+  },
+  "rankMath": null,
+  "verify": null
+}

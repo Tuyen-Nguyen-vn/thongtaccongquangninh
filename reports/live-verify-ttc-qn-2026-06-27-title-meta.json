@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-06-26T19:19:59.554Z",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/?nowprocket=1&codex=20260627-title-meta",
+  "status": 200,
+  "title": "Dịch vụ thông tắc cống Quảng Ninh 24/7 | Song Hào xử lý nhanh",
+  "metaDescription": "Thông tắc cống Quảng Ninh tại Hạ Long, Cẩm Phả, Uông Bí, Móng Cái. Không đục phá, báo giá trước, bảo hành theo ca. Gọi 0963.953.533 / 0931.156.756.",
+  "ogTitle": "Dịch vụ thông tắc cống Quảng Ninh 24/7 | Song Hào xử lý nhanh",
+  "ogDescription": "Thông tắc cống Quảng Ninh tại Hạ Long, Cẩm Phả, Uông Bí, Móng Cái. Không đục phá, báo giá trước, bảo hành theo ca. Gọi 0963.953.533 / 0931.156.756.",
+  "h1s": [
+    "Dịch vụ thông tắc cống Quảng Ninh - Uy tín, chuyên nghiệp 24/7"
+  ],
+  "schemaTypes": [
+    "LocalBusiness",
+    "HomeAndConstructionBusiness",
+    "Organization",
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Article",
+    "Service",
+    "VideoObject",
+    "Person",
+    "Organization",
+    "LocalBusiness",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "ImageObject",
+    "Service",
+    "Article",
+    "BreadcrumbList",
+    "FAQPage"
+  ],
+  "checks": {
+    "status200": true,
+    "titleOk": true,
+    "metaOk": true,
+    "ogTitleOk": true,
+    "ogDescriptionOk": true,
+    "h1Count": 1,
+    "h1Ok": true,
+    "hasMap": true,
+    "hasPerson": true,
+    "hasLocalBusiness": true,
+    "hasFAQ": true,
+    "noRatingSchema": true,
+    "imageCount": 13,
+    "localAltCount": 10
+  }
+}

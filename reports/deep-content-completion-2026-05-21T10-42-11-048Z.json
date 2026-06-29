@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-05-21T10:43:16.665Z",
+  "changed": [
+    {
+      "type": "pages",
+      "id": 57,
+      "slug": "hut-be-phot-quang-yen",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "reason": "rewrote thin hut-be-phot local page",
+      "before": {
+        "words": 400,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 618,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-57-hut-be-phot-quang-yen.json"
+    },
+    {
+      "type": "pages",
+      "id": 424,
+      "slug": "thong-tac-cong-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "reason": "rewrote thin thong-tac-cong local page",
+      "before": {
+        "words": 384,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 537,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-424-thong-tac-cong-quang-yen.json"
+    },
+    {
+      "type": "pages",
+      "id": 405,
+      "slug": "thong-tac-cong-uong-bi",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "reason": "rewrote thin thong-tac-cong local page",
+      "before": {
+        "words": 385,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 545,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-405-thong-tac-cong-uong-bi.json"
+    },
+    {
+      "type": "pages",
+      "id": 296,
+      "slug": "thong-tac-cong-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "reason": "rewrote thin thong-tac-cong local page",
+      "before": {
+        "words": 386,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 546,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-296-thong-tac-cong-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 63,
+      "slug": "lien-he",
+      "link": "https://thongtaccongquangninh.com/lien-he/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 473,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 1037,
+        "flags": []
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-63-lien-he.json"
+    },
+    {
+      "type": "pages",
+      "id": 62,
+      "slug": "gioi-thieu",
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 434,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 996,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-62-gioi-thieu.json"
+    },
+    {
+      "type": "pages",
+      "id": 54,
+      "slug": "hut-be-phot-uong-bi",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "reason": "rewrote thin hut-be-phot local page",
+      "before": {
+        "words": 401,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 617,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-54-hut-be-phot-uong-bi.json"
+    },
+    {
+      "type": "pages",
+      "id": 53,
+      "slug": "hut-be-phot-cam-pha",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "reason": "rewrote thin hut-be-phot local page",
+      "before": {
+        "words": 399,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 624,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-53-hut-be-phot-cam-pha.json"
+    },
+    {
+      "type": "pages",
+      "id": 52,
+      "slug": "hut-be-phot-ha-long",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "reason": "rewrote thin hut-be-phot local page",
+      "before": {
+        "words": 402,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 632,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-52-hut-be-phot-ha-long.json"
+    },
+    {
+      "type": "pages",
+      "id": 25,
+      "slug": "blog",
+      "link": "https://thongtaccongquangninh.com/blog/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 345,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 907,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/pages-25-blog.json"
+    },
+    {
+      "type": "posts",
+      "id": 1377,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 2971,
+        "flags": [
+          "seo_label"
+        ]
+      },
+      "after": {
+        "words": 2971,
+        "flags": []
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/posts-1377-cau-hoi-thuong-gap-thong-tac-cong.json"
+    },
+    {
+      "type": "posts",
+      "id": 1369,
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 408,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 685,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/posts-1369-xu-ly-mui-hoi-nha-ve-sinh.json"
+    },
+    {
+      "type": "posts",
+      "id": 1368,
+      "slug": "nao-vet-ho-ga",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 440,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 716,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/posts-1368-nao-vet-ho-ga.json"
+    },
+    {
+      "type": "posts",
+      "id": 1367,
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 596,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 872,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/posts-1367-thong-tac-bon-cau-bi-tac.json"
+    },
+    {
+      "type": "posts",
+      "id": 217,
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 468,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 747,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/posts-217-bang-gia-hut-be-phot-quang-ninh-2026.json"
+    },
+    {
+      "type": "posts",
+      "id": 216,
+      "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 481,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 757,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/posts-216-cach-xu-ly-cong-thoat-nuoc-tac.json"
+    },
+    {
+      "type": "posts",
+      "id": 215,
+      "slug": "dau-hieu-be-phot-can-hut",
+      "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "reason": "completed remaining thin content and labels",
+      "before": {
+        "words": 462,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "after": {
+        "words": 740,
+        "flags": [
+          "thin_under_1000"
+        ]
+      },
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/deep-content-completion-2026-05-21T10-42-11-048Z/posts-215-dau-hieu-be-phot-can-hut.json"
+    }
+  ]
+}

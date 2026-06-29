@@ -1,0 +1,32 @@
+{
+  "state": "open",
+  "collapse": {
+    "width": 36,
+    "height": 36,
+    "padding": "0px",
+    "lineHeight": "0px",
+    "display": "grid"
+  },
+  "close": {
+    "width": 36,
+    "height": 36,
+    "padding": "0px",
+    "lineHeight": "0px",
+    "display": "grid"
+  },
+  "collapseSvg": {
+    "width": 18,
+    "height": 18,
+    "padding": "0px",
+    "lineHeight": "0px",
+    "display": "block"
+  },
+  "closeSvg": {
+    "width": 17,
+    "height": 17,
+    "padding": "0px",
+    "lineHeight": "0px",
+    "display": "block"
+  },
+  "consoleErrors": []
+}

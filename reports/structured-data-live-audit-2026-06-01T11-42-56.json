@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-06-01T11:42:56.853Z",
+  "results": [
+    {
+      "slug": "manual-url",
+      "title": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "httpStatus": 200,
+      "scripts": [
+        {
+          "index": 1,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness",
+            "PostalAddress",
+            "GeoCoordinates",
+            "City",
+            "AdministrativeArea",
+            "OfferCatalog",
+            "Offer",
+            "Service"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#service-catalog"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 2,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "BreadcrumbList",
+            "ListItem"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/#breadcrumb",
+            "https://thongtaccongquangninh.com",
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 3,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "Service",
+            "LocalBusiness",
+            "PostalAddress",
+            "City",
+            "AdministrativeArea",
+            "FAQPage",
+            "Question",
+            "Answer"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/#service",
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/#faq"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        }
+      ],
+      "error": null,
+      "issues": [],
+      "warnings": [],
+      "status": "PASS",
+      "schemaTypes": [
+        "LocalBusiness",
+        "HomeAndConstructionBusiness",
+        "PostalAddress",
+        "GeoCoordinates",
+        "City",
+        "AdministrativeArea",
+        "OfferCatalog",
+        "Offer",
+        "Service",
+        "BreadcrumbList",
+        "ListItem",
+        "FAQPage",
+        "Question",
+        "Answer"
+      ]
+    }
+  ]
+}

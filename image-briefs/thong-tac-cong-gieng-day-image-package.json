@@ -1,0 +1,48 @@
+{
+  "slug": "thong-tac-cong-gieng-day",
+  "status": "READY_FOR_REVIEW",
+  "service": "thông tắc cống",
+  "area": "Giếng Đáy",
+  "sourceType": "real",
+  "images": [
+    {
+      "slot": "hero",
+      "type": "đầu bài",
+      "placement": "sau mở bài",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-gieng-day\\thong-tac-cong-gieng-day-ha-long-01.webp",
+      "fileName": "thong-tac-cong-gieng-day-ha-long-01.webp",
+      "fileSizeKb": 132,
+      "altText": "Thông tắc cống Giếng Đáy Hạ Long – khu công nghiệp và khu dân cư",
+      "title": "Thông tắc cống Giếng Đáy",
+      "caption": "Dịch vụ thông tắc cống Giếng Đáy – khu công nghiệp, nhà dân, xưởng sản xuất. Hotline: 0963.953.533",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "case-study",
+      "type": "case study",
+      "placement": "trong phần case study",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-gieng-day\\thong-tac-cong-gieng-day-tho-xu-ly-02.webp",
+      "fileName": "thong-tac-cong-gieng-day-tho-xu-ly-02.webp",
+      "fileSizeKb": 106,
+      "altText": "Thợ thông tắc cống Giếng Đáy xử lý cống khu công nghiệp nhỏ Hạ Long",
+      "title": "Thợ thông cống Giếng Đáy",
+      "caption": "Thợ Môi Trường Đô Thị Số 1 xử lý cống tắc nặng khu công nghiệp Giếng Đáy – gọi 0963.953.533",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "process",
+      "type": "quy trình thi công",
+      "placement": "trong phần quy trình thi công",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-gieng-day\\thong-tac-cong-gieng-day-may-lo-xo-03.webp",
+      "fileName": "thong-tac-cong-gieng-day-may-lo-xo-03.webp",
+      "fileSizeKb": 88,
+      "altText": "Máy lò xo thi công thông tắc cống Giếng Đáy Hạ Long không đục phá",
+      "title": "Máy lò xo thông cống Giếng Đáy",
+      "caption": "Thông tắc cống Giếng Đáy bằng lò xo chuyên dụng – bảo hành dài hạn. Gọi 0931.156.756",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "READY",
+  "slug": "hut-be-phot-khach-san-quang-ninh-2026",
+  "generatedAt": "2026-06-28",
+  "imageCount": 5,
+  "outputDir": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-khach-san-quang-ninh-2026",
+  "images": [
+    {
+      "slot": "anh-dau-bai",
+      "fileName": "hut-be-phot-khach-san-xe-hut-chuyen-dung-quang-ninh.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-khach-san-quang-ninh-2026\\hut-be-phot-khach-san-xe-hut-chuyen-dung-quang-ninh.webp",
+      "sizeKB": 135,
+      "altText": "Ảnh minh họa xe hút bể phốt chuyên dụng phục vụ khách sạn tại Quảng Ninh",
+      "caption": "Xe hút bể phốt chuyên dụng của Môi Trường Đô Thị Số 1 phục vụ khách sạn tại Quảng Ninh 24/7",
+      "placement": "sau mở bài"
+    },
+    {
+      "slot": "xe-bon-hut",
+      "fileName": "hut-be-phot-khach-san-xe-bon-lam-sach-be-phot-quang-ninh.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-khach-san-quang-ninh-2026\\hut-be-phot-khach-san-xe-bon-lam-sach-be-phot-quang-ninh.webp",
+      "sizeKB": 221,
+      "altText": "Ảnh minh họa xe bồn hút sạch bể phốt khách sạn tại Hạ Long, Bãi Cháy, Quảng Ninh",
+      "caption": "Xe bồn hút sạch bể phốt khách sạn – dịch vụ hút bể phốt khách sạn Quảng Ninh uy tín, không mùi hôi",
+      "placement": "trong phần giới thiệu dịch vụ"
+    },
+    {
+      "slot": "ky-thuat-vien",
+      "fileName": "hut-be-phot-khach-san-ky-thuat-vien-xu-ly-be-phot-quang-ninh.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-khach-san-quang-ninh-2026\\hut-be-phot-khach-san-ky-thuat-vien-xu-ly-be-phot-quang-ninh.webp",
+      "sizeKB": 180,
+      "altText": "Ảnh minh họa kỹ thuật viên xử lý bể phốt khách sạn tại Quảng Ninh chuyên nghiệp",
+      "caption": "Kỹ thuật viên hút bể phốt khách sạn Quảng Ninh – trang bị bảo hộ đầy đủ, xử lý sạch không để mùi",
+      "placement": "trong phần quy trình thi công"
+    },
+    {
+      "slot": "case-study-bai-chay",
+      "fileName": "hut-be-phot-khach-san-ky-thuat-hut-be-phot-bai-chay-ha-long.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-khach-san-quang-ninh-2026\\hut-be-phot-khach-san-ky-thuat-hut-be-phot-bai-chay-ha-long.webp",
+      "sizeKB": 198,
+      "altText": "Ảnh minh họa kỹ thuật hút bể phốt khách sạn khu vực Bãi Cháy, Hạ Long, Quảng Ninh",
+      "caption": "Hút bể phốt khách sạn Bãi Cháy – Hạ Long: công việc được thực hiện nhanh gọn, đúng lịch hoạt động khách sạn",
+      "placement": "trong phần case study / khu vực phục vụ"
+    },
+    {
+      "slot": "tho-thuc-te",
+      "fileName": "hut-be-phot-khach-san-tho-hut-be-phot-thuc-te-quang-ninh.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-khach-san-quang-ninh-2026\\hut-be-phot-khach-san-tho-hut-be-phot-thuc-te-quang-ninh.webp",
+      "sizeKB": 82,
+      "altText": "Ảnh minh họa thợ hút bể phốt thực tế tại công trình khách sạn Quảng Ninh",
+      "caption": "Thợ hút bể phốt khách sạn Quảng Ninh thực hiện tại công trình – ảnh hoạt động thực tế Môi Trường Đô Thị Số 1",
+      "placement": "trước phần CTA / niềm tin"
+    }
+  ]
+}

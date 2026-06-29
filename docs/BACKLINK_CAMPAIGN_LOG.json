@@ -1,0 +1,125 @@
+[
+  {
+    "timestamp": "2026-06-28T21:53:04.947Z",
+    "platform": "Gmail Draft",
+    "target": "quangninhtoplist-email",
+    "backlinkUrl": "draft:r1034074458902519343",
+    "targetUrl": "https://thongtaccongquangninh.com/",
+    "status": "draft_created",
+    "notes": "Draft created in Gmail. Tuyen needs to send manually."
+  },
+  {
+    "timestamp": "2026-06-28T21:53:03.438Z",
+    "platform": "Telegraph",
+    "target": "ha-long-ttc-telegraph",
+    "backlinkUrl": "https://telegra.ph/Thong-tac-cong-Ha-Long---Moi-Truong-Do-Thi-So-1-Quang-Ninh-06-28",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-06-28T21:53:01.682Z",
+    "platform": "Telegraph",
+    "target": "tuan-chau-telegraph",
+    "backlinkUrl": "https://telegra.ph/Thong-tac-cong-Tuan-Chau-Ha-Long---Moi-Truong-Do-Thi-So-1-Quang-Ninh-06-28",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-06-28T21:52:59.931Z",
+    "platform": "Telegraph",
+    "target": "gieng-day-telegraph",
+    "backlinkUrl": "https://telegra.ph/Thong-tac-cong-Gieng-Day-Ha-Long---Moi-Truong-Do-Thi-So-1-Quang-Ninh-06-28",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-06-28T21:31:46.892Z",
+    "platform": "Rentry.co",
+    "target": "ha-long",
+    "backlinkUrl": "https://rentry.co/prmqh5dg",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-06-28T21:31:42.693Z",
+    "platform": "Rentry.co",
+    "target": "tuan-chau",
+    "backlinkUrl": "https://rentry.co/ox958x9s",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-06-28T21:31:38.431Z",
+    "platform": "Rentry.co",
+    "target": "gieng-day",
+    "backlinkUrl": "https://rentry.co/hc7i6mk5",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-05-26T17:47:04.981Z",
+    "platform": "Rentry.co",
+    "backlinkUrl": "https://rentry.co/5iakbtn3",
+    "editCode": "ao49hij2",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-05-26T17:45:18.795Z",
+    "platform": "Rentry.co",
+    "backlinkUrl": "https://rentry.co/2o3h7c9n",
+    "editCode": "kfh8sxie",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-05-26T17:41:02.599Z",
+    "platform": "Rentry.co",
+    "backlinkUrl": "https://rentry.co/hacnq8tf",
+    "editCode": "qgqhq35p",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-05-26T17:40:15.329Z",
+    "platform": "Rentry.co",
+    "backlinkUrl": "https://rentry.co/",
+    "editCode": "0aqp6kwm",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-05-26T17:38:32.412Z",
+    "platform": "Rentry.co",
+    "backlinkUrl": "https://rentry.co/",
+    "editCode": "454ogwpt",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-05-26T17:37:40.838Z",
+    "platform": "Rentry.co",
+    "backlinkUrl": "https://rentry.co/",
+    "editCode": "enpbyels",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+    "indexedSubmitted": false,
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-05-26T17:37:04.539Z",
+    "platform": "Rentry.co",
+    "backlinkUrl": "https://rentry.co/",
+    "editCode": "y3ha8zzb",
+    "targetUrl": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+    "indexedSubmitted": false,
+    "status": "success"
+  }
+]

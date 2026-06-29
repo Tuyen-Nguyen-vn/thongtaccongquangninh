@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-05-28T07:57:26.177Z",
+  "mode": "dry-run",
+  "target": {
+    "collection": "pages",
+    "id": 993,
+    "slug": "thong-tac-cong-tuan-chau",
+    "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+    "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+    "excerpt": "Thông tắc cống Tuần Châu Hạ Long cho biệt thự, homestay, nhà hàng, xử lý cống nghẹt, mùi hôi, không đục phá. Gọi 0963.953.533 / 0931.156.756."
+  },
+  "draftPath": "/mnt/d/.thongtaccongquangninh/content-drafts/thong-tac-cong-tuan-chau-ha-long-rankmath-draft.md",
+  "packagePath": "/mnt/d/.thongtaccongquangninh/image-briefs/thong-tac-cong-tuan-chau-image-package.json",
+  "backupDir": null,
+  "before": {
+    "wordCount": 2646,
+    "keywordCount": 7,
+    "keywordDensity": 1.32,
+    "imgCount": 3,
+    "hasServiceSchema": true,
+    "h2Count": 10
+  },
+  "after": {
+    "wordCount": 2487,
+    "keywordCount": 7,
+    "keywordDensity": 1.41,
+    "imgCount": 3,
+    "hasServiceSchema": true,
+    "h2Count": 10
+  },
+  "uploads": [
+    {
+      "fileName": "thong-tac-cong-tuan-chau-resort-01.jpg",
+      "mediaId": 0,
+      "url": "DRY_RUN/thong-tac-cong-tuan-chau-resort-01.jpg",
+      "uploaded": false
+    },
+    {
+      "fileName": "thong-tac-cong-tuan-chau-may-ap-luc-02.jpg",
+      "mediaId": 0,
+      "url": "DRY_RUN/thong-tac-cong-tuan-chau-may-ap-luc-02.jpg",
+      "uploaded": false
+    },
+    {
+      "fileName": "thong-tac-cong-tuan-chau-kiem-tra-03.jpg",
+      "mediaId": 0,
+      "url": "DRY_RUN/thong-tac-cong-tuan-chau-kiem-tra-03.jpg",
+      "uploaded": false
+    }
+  ],
+  "pass": true
+}

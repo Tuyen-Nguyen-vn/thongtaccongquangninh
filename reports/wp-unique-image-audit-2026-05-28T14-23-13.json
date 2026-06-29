@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-28T14:23:18+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": false,
+  "totalContent": 69,
+  "pagesWithIssues": 1,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 1,
+  "globalReuseGroups": 4,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 993,
+      "type": "pages",
+      "status": "publish",
+      "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "slug": "thong-tac-cong-tuan-chau",
+      "service": "thông tắc cống",
+      "area": "Tuần Châu",
+      "imageCount": 0,
+      "images": [],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 3,
+      "replacementNeeded": 3,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Tuần Châu bằng máy lò xo",
+        "kiểm tra hố ga và đường ống thoát nước tại Tuần Châu",
+        "xử lý cống bếp dầu mỡ cho nhà hàng/quán ăn tại Tuần Châu"
+      ]
+    }
+  ],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-1.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+          "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính chi phí thực tế",
+          "index": 0,
+          "file": "chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-1.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/",
+          "title": "Chi phí hút bể phốt Quảng Ninh: tự tính theo m3 và vị trí xe",
+          "index": 0,
+          "file": "chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-1.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-2.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+          "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính chi phí thực tế",
+          "index": 1,
+          "file": "chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/",
+          "title": "Chi phí hút bể phốt Quảng Ninh: tự tính theo m3 và vị trí xe",
+          "index": 1,
+          "file": "chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-3.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+          "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính chi phí thực tế",
+          "index": 2,
+          "file": "chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/",
+          "title": "Chi phí hút bể phốt Quảng Ninh: tự tính theo m3 và vị trí xe",
+          "index": 2,
+          "file": "chi-phi-hut-be-phot-quang-ninh-2-xe-hut-be-phot-ho-gia-dinh-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh: xử lý cống, bể phốt, mùi hôi",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    }
+  ]
+}

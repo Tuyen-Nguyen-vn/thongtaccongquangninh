@@ -1,0 +1,137 @@
+{
+  "ok": false,
+  "mode": "apply",
+  "generatedAt": "2026-06-04T17:36:51.719Z",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p0-ttc-local-batch-2026-06-04T17-36-51-713Z",
+  "items": [
+    {
+      "id": 425,
+      "slug": "thong-tac-cong-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "before": {
+        "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+        "titleLen": 57,
+        "excerpt": "Thông cống nghẹt tại Đông Triều, từ cống ngầm hộ gia đình đến cống nổi khu chăn nuôi.",
+        "excerptLen": 85,
+        "wordCount": 1122,
+        "hasMarker": false
+      },
+      "planned": {
+        "title": "Thông Tắc Cống Đông Triều 24/7 Cho Nhà Vườn, Khu Trọ Dân Cư Cũ",
+        "titleLen": 62,
+        "meta": "Thông tắc cống Đông Triều 24/7 cho nhà vườn, khu trọ, cơ sở kinh doanh. Xử lý nước trào, mùi hôi, không đục phá khi chưa cần. Gọi 0963.953.533 / 0931.156.756.",
+        "metaLen": 158,
+        "wordCount": 2479,
+        "changed": true,
+        "forbidden": []
+      },
+      "rankMath": {
+        "slug": true,
+        "schemas": []
+      },
+      "verify": {
+        "status": 200,
+        "title": "Thông Tắc Cống Đông Triều 24/7 Cho Nhà Vườn, Khu Trọ Dân Cư Cũ",
+        "titleLen": 62,
+        "metaDesc": "Thông tắc cống Đông Triều 24/7 cho nhà vườn, khu trọ, cơ sở kinh doanh. Xử lý nước trào, mùi hôi, không đục phá khi chưa cần. Gọi 0963.953.533 / 0931.156.756.",
+        "metaDescLen": 158,
+        "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+        "h1Count": 1,
+        "hasNguyenNhan": true,
+        "wordCount": 3496,
+        "hasServiceSchema": true,
+        "hasFAQPage": true,
+        "hasAuthorArchive": false,
+        "forbidden": [
+          "tận tâm"
+        ]
+      }
+    },
+    {
+      "id": 426,
+      "slug": "thong-tac-cong-mong-cai",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "before": {
+        "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+        "titleLen": 55,
+        "excerpt": "Xử lý sự cố cống thoát nước chậm, trào ngược tại Móng Cái. Đội phản ứng nhanh 24/7.",
+        "excerptLen": 83,
+        "wordCount": 1107,
+        "hasMarker": false
+      },
+      "planned": {
+        "title": "Thông Tắc Cống Móng Cái 24/7 Cho Nhà Phố, Quán Ăn, Khu Chợ Cửa Khẩu",
+        "titleLen": 67,
+        "meta": "Thông tắc cống Móng Cái 24/7 cho nhà phố, quán ăn, khu chợ cửa khẩu. Xử lý cống nghẹt, nước trào, báo giá rõ trong ngày. Gọi 0963.953.533 / 0931.156.756.",
+        "metaLen": 153,
+        "wordCount": 2396,
+        "changed": true,
+        "forbidden": []
+      },
+      "rankMath": {
+        "slug": true,
+        "schemas": []
+      },
+      "verify": {
+        "status": 200,
+        "title": "Thông Tắc Cống Móng Cái 24/7 Cho Nhà Phố, Quán Ăn, Khu Chợ Cửa Khẩu",
+        "titleLen": 67,
+        "metaDesc": "Thông tắc cống Móng Cái 24/7 cho nhà phố, quán ăn, khu chợ cửa khẩu. Xử lý cống nghẹt, nước trào, báo giá rõ trong ngày. Gọi 0963.953.533 / 0931.156.756.",
+        "metaDescLen": 153,
+        "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+        "h1Count": 1,
+        "hasNguyenNhan": true,
+        "wordCount": 3414,
+        "hasServiceSchema": true,
+        "hasFAQPage": true,
+        "hasAuthorArchive": false,
+        "forbidden": [
+          "tận tâm"
+        ]
+      }
+    },
+    {
+      "id": 427,
+      "slug": "thong-tac-cong-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "before": {
+        "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+        "titleLen": 54,
+        "excerpt": "Thông nghẹt cống rãnh, đường thoát sàn khu vực Vân Đồn. Hạn chế mùi hôi, bảo vệ nguồn nước xung quanh.",
+        "excerptLen": 102,
+        "wordCount": 1102,
+        "hasMarker": false
+      },
+      "planned": {
+        "title": "Thông Tắc Cống Vân Đồn 24/7 Cho Nhà Hàng, Homestay Ven Biển Đảo",
+        "titleLen": 63,
+        "meta": "Thông tắc cống Vân Đồn 24/7 cho nhà hàng, homestay, công trình ven biển. Xử lý cát, mỡ, mùi hôi, báo giá rõ trong ngày. Gọi 0963.953.533 / 0931.156.756.",
+        "metaLen": 152,
+        "wordCount": 2407,
+        "changed": true,
+        "forbidden": []
+      },
+      "rankMath": {
+        "slug": true,
+        "schemas": []
+      },
+      "verify": {
+        "status": 200,
+        "title": "Thông Tắc Cống Vân Đồn 24/7 Cho Nhà Hàng, Homestay Ven Biển Đảo",
+        "titleLen": 63,
+        "metaDesc": "Thông tắc cống Vân Đồn 24/7 cho nhà hàng, homestay, công trình ven biển. Xử lý cát, mỡ, mùi hôi, báo giá rõ trong ngày. Gọi 0963.953.533 / 0931.156.756.",
+        "metaDescLen": 152,
+        "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+        "h1Count": 1,
+        "hasNguyenNhan": true,
+        "wordCount": 3420,
+        "hasServiceSchema": true,
+        "hasFAQPage": true,
+        "hasAuthorArchive": false,
+        "forbidden": [
+          "tận tâm"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-06-03T16:05:15.653Z",
+  "target": {
+    "id": 2377,
+    "collection": "posts",
+    "slug": "thong-tac-bon-cau-khan-cap-quang-ninh",
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-bon-cau-khan-cap-2026-06-03T16-05-14-062Z",
+  "before": {
+    "title": "Thông tắc bồn cầu khẩn cấp Quảng Ninh 24/7, có thợ sau 15 phút",
+    "excerpt": "Bồn cầu tắc trào ngược tại Quảng Ninh? Gọi 0963.953.533 / 0931.156.756, thợ đến nhanh 24/7, xử lý bằng máy lò xo, không đục phá, báo giá trước cho nhà dân.",
+    "rawWordCount": 1975,
+    "rawH1Count": 1,
+    "rawH2Count": 9,
+    "hasNguyenNhanH2": false,
+    "hasCauseMarker": false,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changes": [
+      {
+        "label": "sync_raw_h1_with_title",
+        "changed": true
+      },
+      {
+        "label": "add_nguyen_nhan_h2_and_extra_content",
+        "changed": true
+      },
+      {
+        "label": "replace_old_author_url",
+        "changed": false
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema_before_final_author",
+        "changed": true
+      }
+    ],
+    "afterRawWordCount": 2191,
+    "afterRawH1Count": 1,
+    "afterRawH2Count": 10,
+    "hasNguyenNhanH2": true,
+    "hasCauseMarker": true,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "finalAuthorLine": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/?nowprocket=1&codex=bon-cau-khan-cap-1780502720284",
+    "title": "Thông tắc bồn cầu khẩn cấp Quảng Ninh 24/7, có thợ sau 15 phút",
+    "titleLen": 62,
+    "metaDesc": "Bồn cầu tắc trào ngược tại Quảng Ninh? Gọi 0963.953.533 / 0931.156.756, thợ đến nhanh 24/7, xử lý bằng máy lò xo, không đục phá, báo giá trước cho nhà dân.",
+    "metaDescLen": 155,
+    "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+    "h1": [
+      "Thông tắc bồn cầu khẩn cấp Quảng Ninh 24/7 , có thợ sau 15 phút"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nguyên nhân cần thông tắc bồn cầu khẩn cấp Quảng Ninh trong ngày",
+      "Bồn Cầu Bị Tắc Có Dấu Hiệu Nào Cần Gọi Thợ Ngay?",
+      "Thông Tắc Bồn Cầu Khẩn Cấp Là Gì? Khi Nào Phải Gọi Ngay?",
+      "Quy Trình Thông Tắc Bồn Cầu Khẩn Cấp 5 Bước Tại Quảng Ninh",
+      "Bảng Giá Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh 2026",
+      "Tại Sao Chọn Môi Trường Đô Thị Số 1 Quảng Ninh?",
+      "Thực Tế Xử Lý Tại Quảng Ninh",
+      "Tác giả bài viết",
+      "Khu Vực Phục Vụ &amp; Thông Tin Liên Hệ",
+      "Câu Hỏi Thường Gặp Về Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3585,
+    "schemaTypes": [
+      "LocalBusiness",
+      "HomeAndConstructionBusiness",
+      "PostalAddress",
+      "GeoCoordinates",
+      "City",
+      "AdministrativeArea",
+      "OfferCatalog",
+      "Offer",
+      "Service",
+      "BreadcrumbList",
+      "ListItem",
+      "FAQPage",
+      "Question",
+      "Answer",
+      "BlogPosting",
+      "WebPage",
+      "Person",
+      "Organization",
+      "ImageObject",
+      "ServiceChannel",
+      "ContactPoint"
+    ],
+    "hasServiceSchema": true,
+    "hasCauseMarker": true,
+    "hasAuthorArchive": true,
+    "hasOldAuthorUrl": false,
+    "hasFinalAuthor": true
+  },
+  "after": {
+    "title": "Thông tắc bồn cầu khẩn cấp Quảng Ninh 24/7, có thợ sau 15 phút",
+    "excerpt": "Bồn cầu tắc trào ngược tại Quảng Ninh? Gọi 0963.953.533 / 0931.156.756, thợ đến nhanh 24/7, xử lý bằng máy lò xo, không đục phá, báo giá trước cho nhà dân.",
+    "rawWordCount": 2191,
+    "contentLen": 16336
+  }
+}

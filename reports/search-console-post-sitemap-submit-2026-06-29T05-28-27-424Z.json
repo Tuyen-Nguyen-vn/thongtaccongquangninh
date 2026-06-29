@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-06-29T05:28:27.422Z",
+  "site": "https://thongtaccongquangninh.com/",
+  "sitemap": "https://thongtaccongquangninh.com/post-sitemap.xml",
+  "submitStatus": 204,
+  "submitOk": true,
+  "submitResponse": "",
+  "matchedSitemap": {
+    "path": "https://thongtaccongquangninh.com/post-sitemap.xml",
+    "lastSubmitted": "2026-06-29T05:28:27.316Z",
+    "isPending": true,
+    "isSitemapsIndex": false,
+    "type": "sitemap",
+    "lastDownloaded": "2026-06-29T05:11:45.550Z",
+    "warnings": "0",
+    "errors": "0",
+    "contents": [
+      {
+        "type": "web",
+        "submitted": "57",
+        "indexed": "0"
+      },
+      {
+        "type": "image",
+        "submitted": "224",
+        "indexed": "0"
+      }
+    ]
+  },
+  "allCount": 6
+}

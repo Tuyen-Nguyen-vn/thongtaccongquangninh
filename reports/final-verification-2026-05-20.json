@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-05-19T18:37:05.853Z",
+  "restScanned": 120,
+  "restIssues": [],
+  "live": [
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/",
+      "titleLength": 63,
+      "title": "Hút bể phốt, thông tắc cống Quảng Ninh 24/7 — có mặt 15-30 phút",
+      "descriptionLength": 143,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/blog/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/blog/",
+      "titleLength": 65,
+      "title": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà",
+      "descriptionLength": 142,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/bang-gia/",
+      "titleLength": 61,
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026 mới nhất",
+      "descriptionLength": 154,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "titleLength": 63,
+      "title": "Hút bể phốt Quảng Ninh 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "descriptionLength": 155,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "titleLength": 63,
+      "title": "Thông tắc cống Quảng Ninh 24/7, không đục phá, có mặt nhanh gọn",
+      "descriptionLength": 150,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "titleLength": 58,
+      "title": "Thông tắc bồn cầu Quảng Ninh 24/7, báo giá rõ, xử lý nhanh",
+      "descriptionLength": 141,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "titleLength": 61,
+      "title": "Thông tắc chậu rửa Quảng Ninh 24/7, báo giá rõ, gọi thợ nhanh",
+      "descriptionLength": 152,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "titleLength": 62,
+      "title": "Nạo vét hố ga Quảng Ninh 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "descriptionLength": 155,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/lien-he/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/lien-he/",
+      "titleLength": 61,
+      "title": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh 24/7, gọi thợ nhanh",
+      "descriptionLength": 153,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "titleLength": 62,
+      "title": "Dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "descriptionLength": 152,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "titleLength": 62,
+      "title": "Cách xử lý cống thoát nước tắc 24/7, báo giá rõ, gọi thợ nhanh",
+      "descriptionLength": 153,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "titleLength": 56,
+      "title": "Xử lý mùi hôi nhà vệ sinh: nguyên nhân và cách khắc phục",
+      "descriptionLength": 146,
+      "h1Count": 1,
+      "hasCtaLabel": false,
+      "duplicateLazyCount": 0,
+      "robotsNoindex": false
+    }
+  ]
+}

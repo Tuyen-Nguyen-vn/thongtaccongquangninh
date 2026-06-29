@@ -1,0 +1,7 @@
+{
+  "url": "https://thongtaccongquangninh.com/",
+  "strategy": "crux-only",
+  "form_factor": "PHONE",
+  "error": "CrUX API requires an API key. Use --api-key or configure GOOGLE_API_KEY.",
+  "analysis_timestamp": "2026-06-27T11:17:00+07:00"
+}

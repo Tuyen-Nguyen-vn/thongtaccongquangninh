@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-05-21T10:50:37.666Z",
+  "pageId": 296,
+  "result": [
+    {
+      "name": "ttcqn_doorway_safe_page_296_content",
+      "beforeStatus": 200,
+      "updateStatus": 200,
+      "afterStatus": 200,
+      "updated": true
+    },
+    {
+      "name": "ttcqn_doorway_safe_page_296_content_v2",
+      "beforeStatus": 200,
+      "updateStatus": 200,
+      "afterStatus": 200,
+      "updated": true
+    }
+  ]
+}

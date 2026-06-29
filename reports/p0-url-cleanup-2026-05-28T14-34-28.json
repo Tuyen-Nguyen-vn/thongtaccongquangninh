@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-05-28T07:34:28.320Z",
+  "mode": "dry-run",
+  "backupDir": null,
+  "targets": [
+    {
+      "collection": "posts",
+      "id": 2041,
+      "slug": "thong-tac-cong-tuan-chau",
+      "reason": "Duplicate post shares the canonical page URL /thong-tac-cong-tuan-chau/.",
+      "requestedUrl": "/thong-tac-cong-tuan-chau/",
+      "expectedStatus": 200,
+      "expectedFinalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "before": {
+        "id": 2041,
+        "collection": "posts",
+        "status": "publish",
+        "slug": "thong-tac-cong-tuan-chau",
+        "link": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+        "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh"
+      },
+      "backupPath": null,
+      "updatedStatus": null,
+      "afterStatus": "publish",
+      "live": {
+        "status": 200,
+        "location": null,
+        "xRedirectBy": null,
+        "link": "<https://thongtaccongquangninh.com/wp-json/>; rel=\"https://api.w.org/\", <https://thongtaccongquangninh.com/wp-json/wp/v2/pages/993>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://thongtaccongquangninh.com/?p=993>; rel=shortlink"
+      },
+      "pass": true
+    },
+    {
+      "collection": "pages",
+      "id": 59,
+      "slug": "hut-be-phot-hoanh-bo",
+      "reason": "Retired Hoanh Bo page redirects to the Ha Long canonical page and is excluded from sitemap.",
+      "requestedUrl": "/hut-be-phot-hoanh-bo/",
+      "expectedStatus": 301,
+      "expectedLocation": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "before": {
+        "id": 59,
+        "collection": "pages",
+        "status": "publish",
+        "slug": "hut-be-phot-hoanh-bo",
+        "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+        "title": "Hút bể phốt Hoành Bồ - Nhà vườn, homestay, xe tải nhẹ vào tận nơi"
+      },
+      "backupPath": null,
+      "updatedStatus": null,
+      "afterStatus": "publish",
+      "live": {
+        "status": 301,
+        "location": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "xRedirectBy": "TTCQN SEO Cleanup Redirects",
+        "link": null
+      },
+      "pass": true
+    },
+    {
+      "collection": "posts",
+      "id": 2026,
+      "slug": "chi-phi-hut-be-phot-quang-ninh",
+      "reason": "Duplicate post redirects to canonical page /chi-phi-hut-be-phot-quang-ninh-2/.",
+      "requestedUrl": "/chi-phi-hut-be-phot-quang-ninh/",
+      "expectedStatus": 301,
+      "expectedLocation": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+      "before": {
+        "id": 2026,
+        "collection": "posts",
+        "status": "publish",
+        "slug": "chi-phi-hut-be-phot-quang-ninh",
+        "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/",
+        "title": "Chi phí hút bể phốt Quảng Ninh: tự tính theo m3 và vị trí xe"
+      },
+      "backupPath": null,
+      "updatedStatus": null,
+      "afterStatus": "publish",
+      "live": {
+        "status": 301,
+        "location": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+        "xRedirectBy": "TTCQN SEO Cleanup Redirects",
+        "link": null
+      },
+      "pass": true
+    },
+    {
+      "collection": "posts",
+      "id": 2055,
+      "slug": "thong-tac-cong-cao-xanh-2",
+      "reason": "Duplicate post redirects to canonical page /thong-tac-cong-cao-xanh/.",
+      "requestedUrl": "/thong-tac-cong-cao-xanh-2/",
+      "expectedStatus": 301,
+      "expectedLocation": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+      "before": {
+        "id": 2055,
+        "collection": "posts",
+        "status": "publish",
+        "slug": "thong-tac-cong-cao-xanh-2",
+        "link": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+        "title": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút"
+      },
+      "backupPath": null,
+      "updatedStatus": null,
+      "afterStatus": "publish",
+      "live": {
+        "status": 301,
+        "location": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+        "xRedirectBy": "TTCQN SEO Cleanup Redirects",
+        "link": null
+      },
+      "pass": true
+    },
+    {
+      "collection": "posts",
+      "id": 2056,
+      "slug": "thong-tac-cong-gieng-day-2",
+      "reason": "Duplicate post redirects to canonical page /thong-tac-cong-gieng-day/.",
+      "requestedUrl": "/thong-tac-cong-gieng-day-2/",
+      "expectedStatus": 301,
+      "expectedLocation": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "before": {
+        "id": 2056,
+        "collection": "posts",
+        "status": "publish",
+        "slug": "thong-tac-cong-gieng-day-2",
+        "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+        "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh"
+      },
+      "backupPath": null,
+      "updatedStatus": null,
+      "afterStatus": "publish",
+      "live": {
+        "status": 301,
+        "location": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+        "xRedirectBy": "TTCQN SEO Cleanup Redirects",
+        "link": null
+      },
+      "pass": true
+    }
+  ]
+}

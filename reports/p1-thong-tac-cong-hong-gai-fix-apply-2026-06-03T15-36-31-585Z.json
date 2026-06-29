@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-06-03T15:36:33.409Z",
+  "target": {
+    "id": 2053,
+    "collection": "posts",
+    "slug": "thong-tac-cong-hong-gai",
+    "url": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-thong-tac-cong-hong-gai-2026-06-03T15-36-31-585Z",
+  "newTitle": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+  "newTitleLen": 68,
+  "newDesc": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+  "newDescLen": 151,
+  "before": {
+    "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+    "excerpt": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+    "rawWordCount": 2096,
+    "rawH1Count": 0,
+    "rawH2Count": 11,
+    "hasNapHeading": false,
+    "hasNapMarker": false,
+    "oldAltCount": 2,
+    "newAltCount": 0,
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changes": [
+      {
+        "label": "fix_image_alt",
+        "changed": true
+      },
+      {
+        "label": "rename_nap_heading",
+        "changed": true
+      },
+      {
+        "label": "add_nap_word_count_block",
+        "changed": true
+      },
+      {
+        "label": "replace_old_author_url",
+        "changed": true
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema",
+        "changed": true
+      },
+      {
+        "label": "ensure_final_author_line",
+        "changed": true
+      }
+    ],
+    "afterRawWordCount": 2331,
+    "afterRawH1Count": 0,
+    "afterRawH2Count": 11,
+    "hasNapHeading": true,
+    "hasNapMarker": true,
+    "oldAltCount": 0,
+    "newAltCount": 2,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "finalAuthorLine": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai/?nowprocket=1&codex=hong-gai-1780500998386",
+    "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+    "titleLen": 68,
+    "metaDesc": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+    "metaDescLen": 151,
+    "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai/",
+    "h1": [
+      "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Khi nào cần gọi thông tắc cống Hồng Gai ngay",
+      "Nguyên nhân cống tắc tại phường Hồng Gai",
+      "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Cam kết 3 Không khi thông tắc cống Hồng Gai",
+      "Bảng giá thông tắc cống Hồng Gai 2026",
+      "Quy trình 5 bước thông tắc cống Hồng Gai",
+      "Tác giả bài viết",
+      "Case study thực tế tại phường Hồng Gai",
+      "Khu vực phục vụ tại phường Hồng Gai",
+      "NAP liên hệ thông tắc cống Hồng Gai",
+      "Câu hỏi thường gặp",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3478,
+    "hasServiceSchema": true,
+    "hasAuthorArchive": true,
+    "hasOldAuthorUrl": false,
+    "oldAltCount": 0,
+    "newAltCount": 2
+  },
+  "after": {
+    "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+    "excerpt": "Thông tắc cống Hồng Gai Hạ Long 24/7 cho nhà dân ngõ hẹp, nhà ống, cơ sở kinh doanh phố cổ. Không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+    "rawWordCount": 2331,
+    "contentLen": 16801
+  }
+}

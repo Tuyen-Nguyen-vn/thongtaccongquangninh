@@ -1,0 +1,18 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "slug": "thong-tac-cong-cam-pha-rankmath-draft",
+  "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+  "service": "thông tắc cống",
+  "area": "Cẩm Phả",
+  "briefPath": "D:\\.thongtaccongquangninh\\image-briefs\\thong-tac-cong-cam-pha-rankmath-draft-image-brief.json",
+  "packagePath": "D:\\.thongtaccongquangninh\\image-briefs\\thong-tac-cong-cam-pha-rankmath-draft-image-package.json",
+  "sourceType": "pending",
+  "imagesNeeded": 5,
+  "content": {
+    "summary": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+    "h2Count": 12,
+    "bodyWordCount": 2220
+  },
+  "nextAction": "Gọi image-agent để chọn ảnh và tạo image-package.json",
+  "images": []
+}

@@ -1,0 +1,20 @@
+# Nhóm URL ưu tiên audit SEO/GEO — 2026-06-05
+# (xác nhận tồn tại live trong wp-url-audit-list.json)
+
+# Trang chủ
+https://thongtaccongquangninh.com/
+
+# Landing dịch vụ chính
+https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/
+https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/
+https://thongtaccongquangninh.com/thong-tac-cong-ha-long/
+
+# Trang chuyển đổi
+https://thongtaccongquangninh.com/bang-gia/
+https://thongtaccongquangninh.com/lien-he/
+
+# 4 bài khu vực đang đẩy
+https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/
+https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/
+https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/
+https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/

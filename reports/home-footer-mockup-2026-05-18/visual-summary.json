@@ -1,0 +1,96 @@
+[
+  {
+    "viewport": {
+      "name": "desktop-footer",
+      "width": 1440,
+      "height": 1100
+    },
+    "consoleErrors": [],
+    "data": {
+      "footerVisibleTop": 10796.03125,
+      "noHorizontalScroll": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "truckComplete": true,
+      "truckSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+      "accordionBefore": [
+        "true",
+        "false",
+        "false"
+      ],
+      "accordionAfter": [
+        "true",
+        "false",
+        "false"
+      ],
+      "backTopAfterClick": 0,
+      "supportItems": 3,
+      "socialIcons": 5,
+      "commitItems": 6,
+      "benefitCards": 3
+    }
+  },
+  {
+    "viewport": {
+      "name": "tablet-footer",
+      "width": 900,
+      "height": 1100
+    },
+    "consoleErrors": [],
+    "data": {
+      "footerVisibleTop": 14212.25,
+      "noHorizontalScroll": true,
+      "scrollWidth": 900,
+      "innerWidth": 900,
+      "truckComplete": true,
+      "truckSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+      "accordionBefore": [
+        "true",
+        "false",
+        "false"
+      ],
+      "accordionAfter": [
+        "true",
+        "false",
+        "false"
+      ],
+      "backTopAfterClick": 0,
+      "supportItems": 3,
+      "socialIcons": 5,
+      "commitItems": 6,
+      "benefitCards": 3
+    }
+  },
+  {
+    "viewport": {
+      "name": "mobile-footer",
+      "width": 390,
+      "height": 1100,
+      "mobile": true
+    },
+    "consoleErrors": [],
+    "data": {
+      "footerVisibleTop": 23559.140625,
+      "noHorizontalScroll": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "truckComplete": true,
+      "truckSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+      "accordionBefore": [
+        "true",
+        "false",
+        "false"
+      ],
+      "accordionAfter": [
+        "true",
+        "true",
+        "false"
+      ],
+      "backTopAfterClick": 0,
+      "supportItems": 3,
+      "socialIcons": 5,
+      "commitItems": 6,
+      "benefitCards": 3
+    }
+  }
+]

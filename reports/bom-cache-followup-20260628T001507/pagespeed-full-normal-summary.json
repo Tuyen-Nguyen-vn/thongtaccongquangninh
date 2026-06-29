@@ -1,0 +1,26 @@
+{
+  "mobile": {
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "bestPractices": 0.77,
+    "seo": 1,
+    "doctype": 1,
+    "metaDescription": 1,
+    "documentTitle": 1,
+    "lcp": "2.0 s",
+    "cls": "0",
+    "tbt": "240 ms"
+  },
+  "desktop": {
+    "performance": 0.82,
+    "accessibility": 0.94,
+    "bestPractices": 0.77,
+    "seo": 1,
+    "doctype": 1,
+    "metaDescription": 1,
+    "documentTitle": 1,
+    "lcp": "0.8 s",
+    "cls": "0",
+    "tbt": "400 ms"
+  }
+}

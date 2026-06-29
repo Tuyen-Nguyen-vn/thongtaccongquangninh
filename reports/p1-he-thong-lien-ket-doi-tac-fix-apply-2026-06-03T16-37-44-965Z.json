@@ -1,0 +1,105 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-06-03T16:37:46.799Z",
+  "target": {
+    "id": 2022,
+    "collection": "pages",
+    "slug": "he-thong-lien-ket-doi-tac",
+    "url": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-he-thong-lien-ket-doi-tac-2026-06-03T16-37-44-965Z",
+  "before": {
+    "title": "Hệ Thống Liên Kết Đối Tác & Truyền Thông",
+    "excerpt": "Danh bạ liên kết đối tác Môi Trường Đô Thị Số 1 Quảng Ninh: kênh truyền thông, hồ sơ doanh nghiệp và đầu mối liên hệ. Gọi 0963.953.533 / 0931.156.756.",
+    "contentLen": 15968,
+    "rawWordCount": 2548,
+    "externalLinks": 0,
+    "forbidden": 0,
+    "hotlineRaw": 16
+  },
+  "update": {
+    "title": "Hệ thống liên kết đối tác — Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "excerpt": "Danh bạ liên kết đối tác Môi Trường Đô Thị Số 1 Quảng Ninh: kênh truyền thông, hồ sơ doanh nghiệp và đầu mối liên hệ. Gọi 0963.953.533 / 0931.156.756.",
+    "excerptLen": 150,
+    "contentLen": 17362,
+    "rawWordCount": 2548,
+    "keyword": {
+      "count": 3,
+      "total": 2548,
+      "density": 0.00706436420722135,
+      "densityPct": 0.71
+    },
+    "externalLinks": 0,
+    "forbidden": 0,
+    "hotlineRaw": 16,
+    "images": 3,
+    "hasCleanupMarker": true,
+    "hasAuthorArchive": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "after": {
+    "title": "Hệ Thống Liên Kết Đối Tác & Truyền Thông",
+    "excerpt": "Danh bạ liên kết đối tác Môi Trường Đô Thị Số 1 Quảng Ninh: kênh truyền thông, hồ sơ doanh nghiệp và đầu mối liên hệ. Gọi 0963.953.533 / 0931.156.756.",
+    "contentLen": 17362,
+    "rawWordCount": 2548
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/?nowprocket=1&codex=doi-tac-1780504671838",
+    "title": "Hệ thống liên kết đối tác — Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "titleLen": 61,
+    "metaDesc": "Danh bạ liên kết đối tác Môi Trường Đô Thị Số 1 Quảng Ninh: kênh truyền thông, hồ sơ doanh nghiệp và đầu mối liên hệ. Gọi 0963.953.533 / 0931.156.756.",
+    "metaDescLen": 150,
+    "canonical": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+    "h1": [
+      "Hệ Thống Liên Kết Đối Tác &#038; Truyền Thông"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Vai trò của hệ thống liên kết đối tác",
+      "Nguyên tắc chọn và rà soát kênh đối tác",
+      "Nhóm kênh đang được quản lý",
+      "Quy trình kiểm tra liên kết định kỳ",
+      "Vì sao không công khai danh sách hàng trăm URL",
+      "Chuẩn ghi NAP cho đối tác truyền thông",
+      "Cách tiếp nhận yêu cầu cập nhật từ đối tác",
+      "Thông tin NAP và liên hệ xác minh",
+      "FAQ về liên kết đối tác",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3419,
+    "hotlineMain": 69,
+    "keyword": {
+      "count": 5,
+      "total": 3419,
+      "density": 0.008774495466510676,
+      "densityPct": 0.88
+    },
+    "schemaTypes": [
+      "LocalBusiness",
+      "HomeAndConstructionBusiness",
+      "PostalAddress",
+      "GeoCoordinates",
+      "City",
+      "AdministrativeArea",
+      "OfferCatalog",
+      "Offer",
+      "Service",
+      "BreadcrumbList",
+      "ListItem",
+      "FAQPage",
+      "Question",
+      "Answer"
+    ],
+    "hasCleanupMarker": true,
+    "hasAuthorArchive": true,
+    "hasForbidden": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-06-03T05:25:56.294Z",
+  "results": [
+    {
+      "slug": "manual-url",
+      "title": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/",
+      "httpStatus": 200,
+      "scripts": [
+        {
+          "index": 1,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness",
+            "PostalAddress",
+            "GeoCoordinates",
+            "City",
+            "AdministrativeArea",
+            "OfferCatalog",
+            "Offer",
+            "Service"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#service-catalog"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 2,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "BreadcrumbList",
+            "ListItem"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/#breadcrumb",
+            "https://thongtaccongquangninh.com",
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 3,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "FAQPage",
+            "Question",
+            "Answer"
+          ],
+          "ids": [],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 4,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "BlogPosting",
+            "WebPage",
+            "Person"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/#blogposting",
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh-2026/",
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#website"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        }
+      ],
+      "error": null,
+      "noindex": false,
+      "issues": [],
+      "warnings": [],
+      "status": "PASS",
+      "schemaTypes": [
+        "LocalBusiness",
+        "HomeAndConstructionBusiness",
+        "PostalAddress",
+        "GeoCoordinates",
+        "City",
+        "AdministrativeArea",
+        "OfferCatalog",
+        "Offer",
+        "Service",
+        "BreadcrumbList",
+        "ListItem",
+        "FAQPage",
+        "Question",
+        "Answer",
+        "BlogPosting",
+        "WebPage",
+        "Person"
+      ]
+    }
+  ]
+}

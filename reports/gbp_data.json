@@ -1,0 +1,82 @@
+{
+  "sync_time": "2026-05-30T15:39:20.141692Z",
+  "mode": "mock",
+  "total_locations": 1,
+  "locations": [
+    {
+      "location_id": "accounts/mock-account/locations/mock-location-qn",
+      "name": "Môi Trường Đô Thị Số 1 Quảng Ninh (Thành Phố Hạ Long)",
+      "address": "Tổ 3, Khu 5, Phường Bãi Cháy, TP. Hạ Long, Quảng Ninh",
+      "phone": "0963.953.533",
+      "website": "https://thongtaccongquangninh.com",
+      "average_rating": 5.0,
+      "total_reviews": 128,
+      "reviews": [
+        {
+          "review_id": "rev_mock_001",
+          "reviewer_name": "Trần Minh Quân (Bãi Cháy, Hạ Long)",
+          "star_rating": 5,
+          "comment": "Bồn cầu nhà mình bị tắc nghẽn nặng vào tối muộn, gọi hotline 0963.953.533 chỉ 15 phút sau thợ đã có mặt. Họ dùng máy lò xo thông cực nhanh, không đục phá tí nào, dọn dẹp sạch sẽ. Rất hài lòng vì cam kết 3 Không rõ ràng.",
+          "create_time": "2026-05-28T15:39:20.141692Z",
+          "source": "google"
+        },
+        {
+          "review_id": "rev_mock_002",
+          "reviewer_name": "Nguyễn Thị Mai (Phường Cẩm Trung, Cẩm Phả)",
+          "star_rating": 5,
+          "comment": "Nhà mình gọi xe hút bể phốt 5 khối của công ty Môi Trường Đô Thị Số 1 Quảng Ninh. Thợ báo giá công khai trước khi làm, hút sạch triệt để, không có hiện tượng báo giá ảo hay tăng giá. Phục vụ chu đáo, nhanh gọn.",
+          "create_time": "2026-05-25T15:39:20.141692Z",
+          "source": "google"
+        },
+        {
+          "review_id": "rev_mock_003",
+          "reviewer_name": "Phạm Hoàng Long (Yên Thanh, Uông Bí)",
+          "star_rating": 5,
+          "comment": "Dịch vụ thông tắc cống thoát nước ở đây rất tốt. Thợ dùng máy nén khí hiện đại xử lý dứt điểm chỉ trong 20 phút, có phiếu bảo hành dài hạn. Khuyên mọi người nên gọi hotline 0931.156.756 khi cần xử lý tắc nghẽn.",
+          "create_time": "2026-05-21T15:39:20.141692Z",
+          "source": "google"
+        },
+        {
+          "review_id": "rev_mock_004",
+          "reviewer_name": "Vũ Văn Nam (Hải Yên, Móng Cái)",
+          "star_rating": 5,
+          "comment": "Hút bể phốt sạch sẽ, không mùi hôi. Xe bồn đời mới hút rất mạnh. Anh Hào người sáng lập tư vấn cực kỳ chi tiết về chu kỳ hút và cách hạn chế tắc nghẽn. Rất an tâm khi sử dụng dịch vụ.",
+          "create_time": "2026-05-18T15:39:20.141692Z",
+          "source": "google"
+        },
+        {
+          "review_id": "rev_mock_fb_001",
+          "reviewer_name": "Phan Anh Tuấn (Hạ Long)",
+          "star_rating": 5,
+          "comment": "Mình có tham khảo dịch vụ thông cống trên Fanpage Facebook, thấy mọi người khen nhiều nên gọi thử. Thợ làm việc cẩn thận, dùng máy lò xo thông sạch sẽ, tư vấn nhiệt tình. Giá rẻ bất ngờ.",
+          "create_time": "2026-05-27T15:39:20.141692Z",
+          "source": "facebook"
+        },
+        {
+          "review_id": "rev_mock_fb_002",
+          "reviewer_name": "Nguyễn Hoàng Hải (Cẩm Phả)",
+          "star_rating": 5,
+          "comment": "Đã gọi dịch vụ thông tắc bồn cầu của công ty. Thợ lịch sự, nhanh nhẹn, dọn dẹp sạch sẽ sau khi làm xong. Cực kỳ tin cậy vì không có hiện tượng chèo kéo giá ảo.",
+          "create_time": "2026-05-23T15:39:20.141692Z",
+          "source": "facebook"
+        }
+      ],
+      "posts": [
+        {
+          "post_id": "post_mock_001",
+          "title": "Dịch Vụ Hút Bể Phốt Hạ Long Cam Kết 3 Không Giá Rẻ",
+          "summary": "Công ty Môi Trường Đô Thị Số 1 Quảng Ninh chuyên cung cấp dịch vụ hút bể phốt, thông tắc cống tại Hạ Long. Cam kết không đục phá, không báo giá ảo, không tái phát. Liên hệ hotline 0963.953.533.",
+          "search_url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+          "create_time": "2026-05-29T15:39:20.141692Z"
+        },
+        {
+          "post_id": "post_mock_002",
+          "title": "Bảng Giá Thông Tắc Cống Thoát Nước Mới Nhất 2026",
+          "summary": "Cập nhật bảng giá dịch vụ thông tắc cống, thông bồn cầu bằng máy lò xo công nghệ mới tại Quảng Ninh. Giá cả công khai, chỉ từ 100k, bảo hành dài hạn. Gọi ngay hotline 0931.156.756.",
+          "search_url": "https://thongtaccongquangninh.com/bang-gia/",
+          "create_time": "2026-05-26T15:39:20.141692Z"
+        }
+      ]
+    }
+  ]
+}

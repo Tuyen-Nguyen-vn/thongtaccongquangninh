@@ -1,0 +1,16 @@
+{
+  "desktop-section": {
+    "top": 2652,
+    "height": 1029,
+    "title": "PHỤC VỤ 24/7\nTẠI QUẢNG NINH",
+    "cards": 6,
+    "imgs": 7
+  },
+  "mobile-section": {
+    "top": 7665,
+    "height": 1148,
+    "title": "PHỤC VỤ 24/7\nTẠI QUẢNG NINH",
+    "cards": 6,
+    "imgs": 7
+  }
+}

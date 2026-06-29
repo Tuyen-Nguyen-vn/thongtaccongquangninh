@@ -1,0 +1,435 @@
+# Báo cáo Agent Quản Lý Thư Mục
+
+- Root: `D:\.thongtaccongquangninh`
+- Thời điểm quét: `2026-06-27T10:30:45`
+- Tổng file: **20984**
+- Tổng thư mục: **3548**
+- Dung lượng quét: **2.9 GB**
+
+## Nhóm file
+
+- `other`: 13601 file, 2.3 GB
+- `data-output`: 2599 file, 213.2 MB
+- `report`: 1644 file, 292.9 MB
+- `tool-script`: 1288 file, 100.0 MB
+- `seo-revision`: 905 file, 27.9 MB
+- `document`: 672 file, 5.3 MB
+- `wordpress-operation-log`: 154 file, 1.8 MB
+- `seo-status`: 60 file, 1.2 MB
+- `content-draft`: 55 file, 1.0 MB
+- `agent-config`: 4 file, 11.6 KB
+- `context`: 2 file, 35.9 KB
+
+## Thư mục cấp 1
+
+- `_tmp`: 6676 file
+- `.venv-youtube`: 3281 file
+- `backups`: 2805 file
+- `.venv-google`: 2166 file
+- `reports`: 1644 file
+- `tools`: 1288 file
+- `seo-revisions`: 905 file
+- `image-briefs`: 610 file
+- `Ảnh Đã Xử Lý SEO`: 588 file
+- `Ảnh cung cấp`: 141 file
+- `scratch`: 136 file
+- `_review_tmp`: 69 file
+- `landing-hut-be-phot-quang-ninh`: 58 file
+- `blogger`: 57 file
+- `content-drafts`: 55 file
+- `docs`: 48 file
+- `video-remotion`: 33 file
+- `logs`: 24 file
+- `.tmp.driveupload`: 21 file
+- `Favicon`: 12 file
+- `.codex`: 11 file
+- `secrets`: 9 file
+- `.claude`: 7 file
+- `.cursor`: 7 file
+- `scripts`: 7 file
+- `.agents`: 4 file
+- `marketing`: 4 file
+- `skills`: 3 file
+- `D.thongtaccongquangninh`: 2 file
+- `.clinerules`: 1 file
+- `.cursorrules`: 1 file
+- `.env`: 1 file
+- `.env.example`: 1 file
+- `.gitattributes`: 1 file
+- `.gitignore`: 1 file
+- `.thongtaccongquangninhdocsSEO_PROGRESS.csv`: 1 file
+- `.vscode`: 1 file
+- `AGENTS.md`: 1 file
+- `AGENT_OWNERSHIP.md`: 1 file
+- `AI_AGENT_RULES.md`: 1 file
+- `AI_RULES.md`: 1 file
+- `ARTICLE_SEO_AI_OVERVIEW_CHECKLIST.md`: 1 file
+- `AUDIT_REPORT.md`: 1 file
+- `chinh-sach-bao-mat.md`: 1 file
+- `CLAUDE.md`: 1 file
+- `claukit-registry.md`: 1 file
+- `CODEX_CONTEXT.md`: 1 file
+- `CODE_CLEANUP_RULES.md`: 1 file
+- `console.log('ERR'`: 1 file
+- `CONTENT_RULES.md`: 1 file
+- `DASHBOARD_2026-05-10.md`: 1 file
+- `DASHBOARD_2026-05-11.md`: 1 file
+- `DASHBOARD_2026-05-12.md`: 1 file
+- `DASHBOARD_2026-05-13.md`: 1 file
+- `DASHBOARD_2026-05-14.md`: 1 file
+- `DASHBOARD_2026-05-15.md`: 1 file
+- `DASHBOARD_2026-05-16.md`: 1 file
+- `DASHBOARD_2026-05-17.md`: 1 file
+- `DASHBOARD_2026-05-18.md`: 1 file
+- `DASHBOARD_2026-05-20.md`: 1 file
+- `DASHBOARD_2026-05-21.md`: 1 file
+- `DASHBOARD_2026-05-22.md`: 1 file
+- `DASHBOARD_2026-05-23.md`: 1 file
+- `DASHBOARD_2026-05-24.md`: 1 file
+- `DASHBOARD_2026-05-25.md`: 1 file
+- `DASHBOARD_2026-05-26.md`: 1 file
+- `DASHBOARD_2026-05-27.md`: 1 file
+- `DASHBOARD_2026-05-28.md`: 1 file
+- `DASHBOARD_2026-05-29.md`: 1 file
+- `DASHBOARD_2026-05-30.md`: 1 file
+- `DASHBOARD_2026-05-31.md`: 1 file
+- `DASHBOARD_2026-06-01.md`: 1 file
+- `DASHBOARD_2026-06-02.md`: 1 file
+- `DASHBOARD_2026-06-03.md`: 1 file
+- `DASHBOARD_2026-06-04.md`: 1 file
+- `DASHBOARD_2026-06-05.md`: 1 file
+- `DASHBOARD_2026-06-06.md`: 1 file
+- `DASHBOARD_2026-06-07.md`: 1 file
+- `DASHBOARD_2026-06-08.md`: 1 file
+- `DASHBOARD_2026-06-09.md`: 1 file
+- `DASHBOARD_2026-06-10.md`: 1 file
+- `DASHBOARD_2026-06-11.md`: 1 file
+- `DASHBOARD_2026-06-12.md`: 1 file
+- `DASHBOARD_2026-06-13.md`: 1 file
+- `DASHBOARD_2026-06-14.md`: 1 file
+- `DASHBOARD_2026-06-15.md`: 1 file
+- `DASHBOARD_2026-06-16.md`: 1 file
+- `DASHBOARD_2026-06-17.md`: 1 file
+- `DASHBOARD_2026-06-18.md`: 1 file
+- `DASHBOARD_2026-06-19.md`: 1 file
+- `DASHBOARD_2026-06-20.md`: 1 file
+- `DASHBOARD_2026-06-21.md`: 1 file
+- `DASHBOARD_2026-06-22.md`: 1 file
+- `DASHBOARD_2026-06-23.md`: 1 file
+- `DASHBOARD_2026-06-24.md`: 1 file
+- `DASHBOARD_2026-06-25.md`: 1 file
+- `DASHBOARD_2026-06-26.md`: 1 file
+- `DASHBOARD_2026-06-27.md`: 1 file
+- `DEAD_CODE_CANDIDATES.md`: 1 file
+- `DESIGN.md`: 1 file
+- `dieu-khoan-dich-vu.md`: 1 file
+- `DRAFT_DUPLICATE_REVIEW.md`: 1 file
+- `DRAFT_REMAINING_AUDIT.md`: 1 file
+- `GoogleAdsAPI_Design_Documentation.pdf`: 1 file
+- `google_ads_ads_import.csv`: 1 file
+- `google_ads_campaign_config.json`: 1 file
+- `google_ads_campaign_import.csv`: 1 file
+- `google_ads_campaign_negatives_import.csv`: 1 file
+- `google_ads_keywords_import.csv`: 1 file
+- `he-thong-co-so-live.html`: 1 file
+- `htaccess_new.txt`: 1 file
+- `htaccess_restored.txt`: 1 file
+- `IMAGE_SEO_WORKFLOW_2026-05-06.md`: 1 file
+- `LOCAL_SEO_DOORWAY_SAFE_WORKFLOW_2026-05-05.md`: 1 file
+- `logo-cong-ty-moi-truong-do-thi-so-1-quang-ninh.jpg`: 1 file
+- `logo.png`: 1 file
+- `Makefile`: 1 file
+- `out.txt`: 1 file
+- `package-lock.json`: 1 file
+- `package.json`: 1 file
+- `page35_dump.html`: 1 file
+- `pinterest-d7236 (1).html`: 1 file
+- `pinterest-d7236.html`: 1 file
+- `post-sitemap.xml`: 1 file
+- `PUBLISH_GIENG_DAY_CONG_2026-06-24.json`: 1 file
+- `seo-checklists`: 1 file
+- `seo-content-guidelines.md`: 1 file
+- `SEO_DOORWAY_FIX_REPORT_CITY_GROUP_2026-05-05.md`: 1 file
+- `SEO_DOORWAY_FIX_REPORT_HA_LONG_2026-05-05.md`: 1 file
+- `SEO_FIX_PLAN.md`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-08.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-09.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-18.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-22.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-26.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-28.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-29.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-30.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-31.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-01.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-07.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-08.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-09.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-10.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-11.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-12.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-14.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-15.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-16.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-17.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-19.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-20.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-22.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-23.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-24.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-25.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-06-26.json`: 1 file
+- `SEO_INTERNAL_LINKS_LOG_2026-04-29.md`: 1 file
+- `SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv`: 1 file
+- `SEO_INTERNAL_LINK_REPORT.md`: 1 file
+- `SEO_RULES.md`: 1 file
+- `SEO_STATUS_2026-05-03.md`: 1 file
+- `SEO_STATUS_2026-05-05.md`: 1 file
+- `SEO_STATUS_2026-05-06.md`: 1 file
+- `SEO_STATUS_2026-05-10.md`: 1 file
+- `SEO_STATUS_2026-05-12.md`: 1 file
+- `SEO_STATUS_2026-06-01.md`: 1 file
+- `SEO_STATUS_2026-06-02.md`: 1 file
+- `SEO_STATUS_2026-06-03.md`: 1 file
+- `SEO_STATUS_2026-06-08.md`: 1 file
+- `TASKS.md`: 1 file
+- `technical-seo-sop.md`: 1 file
+- `terminal`: 1 file
+- `tmp_doorway_schema_updated.php`: 1 file
+- `tmp_renderer_broken.php`: 1 file
+- `UPLOAD_DOI_TAC_IMAGES_2026-05-16.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-38-53-018Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-39-06-017Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-39-49-209Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-40-00-572Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-39-13-196Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-40-02-788Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-46-59-446Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-48-07-416Z.json`: 1 file
+- `WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-48-15-755Z.json`: 1 file
+- `WORDPRESS_CLEAN_DUPLICATE_IMAGE_FILENAMES_2026-05-07.json`: 1 file
+- `WORDPRESS_CLICK_LOGGER_PLUGIN_UPLOAD_2026-06-21.json`: 1 file
+- `WORDPRESS_DEACTIVATE_HOME_TEMP_PLUGINS_2026-05-13.json`: 1 file
+- `WORDPRESS_DEBUG_AFTER_HOME_BYPASS_2026-05-13.txt`: 1 file
+- `WORDPRESS_DESKTOP_IMAGE_SEO_2026-05-06T17-38-00.json`: 1 file
+- `WORDPRESS_DOORWAY_SAFE_RENDERER_PLUGIN_UPLOAD_2026-05-19.json`: 1 file
+- `WORDPRESS_DOORWAY_SCHEMA_UPLOAD_2026-05-28.json`: 1 file
+- `WORDPRESS_DOORWAY_SCHEMA_UPLOAD_2026-05-30.json`: 1 file
+- `WORDPRESS_FAVICON_20260512_PLUGIN_UPLOAD_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_20260514_PLUGIN_UPLOAD_2026-05-14.json`: 1 file
+- `WORDPRESS_FAVICON_CLEANUP_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_FORCE_DISABLE_OLD_PLUGIN_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-10.json`: 1 file
+- `WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_VERIFY_2026-05-10.json`: 1 file
+- `WORDPRESS_FAVICON_VERIFY_2026-05-14.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-40-55.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-43-37.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-45-54.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T18-28-38.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-14T15-34-14.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T19-12-26.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-10-24.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-14-35.json`: 1 file
+- `WORDPRESS_FINAL_VERIFY_SEO_IMAGES_2026-05-06.json`: 1 file
+- `WORDPRESS_FIX_BLOG_MENU_LABEL_2026-05-16T20-51-37-617Z.json`: 1 file
+- `WORDPRESS_FIX_CITY_META_DESCRIPTIONS_2026-05-05.json`: 1 file
+- `WORDPRESS_FIX_DUPLICATE_TITLES_2026-05-09.json`: 1 file
+- `WORDPRESS_FIX_HOME_BLANK_TEMPLATE_2026-05-12.json`: 1 file
+- `WORDPRESS_FIX_PAGE_311_NAP_2026-05-12.json`: 1 file
+- `WORDPRESS_GLOBAL_REUSE_IMAGE_FIX_2026-05-14T15-46-02.json`: 1 file
+- `WORDPRESS_HANDBOOK_FAQ_IMAGE_FIX_2026-05-23.json`: 1 file
+- `WORDPRESS_HANDBOOK_FEATURED_UPDATE_2026-05-22.json`: 1 file
+- `WORDPRESS_HANDBOOK_IMAGE_CONTENT_UPDATE_2026-05-22.json`: 1 file
+- `WORDPRESS_HANDBOOK_P0_RESTORE_2026-05-23.json`: 1 file
+- `WORDPRESS_HANDBOOK_P0_TEXT_FIX_2026-05-23.json`: 1 file
+- `WORDPRESS_HANDBOOK_RENDER_ARTIFACT_FIX_2026-05-23.json`: 1 file
+- `WORDPRESS_HANDBOOK_UNDER3_IMAGES_UPDATE_2026-05-22.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-13.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-23.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-25.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-29.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-31.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-06-19.json`: 1 file
+- `WORDPRESS_HOME_HERO_LAYOUT_BALANCE_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_HERO_WORKER_FRONT_FORM_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_LEAD_FORM_CACHE_TOUCH_2026-05-12.json`: 1 file
+- `WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-12.json`: 1 file
+- `WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-18.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_ACTIVATE_2026-05-11.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_DEACTIVATE_2026-05-21.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_PLUGIN_UPLOAD_2026-05-11.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_UPLOAD_2026-05-17.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_VERIFY_2026-05-11.json`: 1 file
+- `WORDPRESS_HOME_PROJECT_IMAGES_UPLOAD_2026-05-14.json`: 1 file
+- `WORDPRESS_HOME_PROJECT_IMAGES_VERIFY_2026-05-14.json`: 1 file
+- `WORDPRESS_HOME_REMOVE_TRUCK_TAIL_BLINK_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_RENDER_INSPECT_2026-05-06.json`: 1 file
+- `WORDPRESS_HOME_REPLACE_TRUCK_WORKER_BALANCE_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_SECTIONS_UPDATE_2026-05-14.json`: 1 file
+- `WORDPRESS_HOME_SERVICES_PIPE_TRUCK_LIGHTS_PLATE_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_SERVICE_IMAGES_2026-05-07.json`: 1 file
+- `WORDPRESS_HOME_SERVICE_IMAGES_PLUGIN_UPLOAD_2026-05-07.json`: 1 file
+- `WORDPRESS_HOME_SERVICE_IMAGES_UPLOAD_2026-05-07.json`: 1 file
+- `WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_2026-05-13.json`: 1 file
+- `WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_PLUGIN_UPLOAD_2026-05-13.json`: 1 file
+- `WORDPRESS_IMAGE_LAYOUT_FIX_2026-05-07.json`: 1 file
+- `WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-20-56-933Z.json`: 1 file
+- `WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-22-57-527Z.json`: 1 file
+- `WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-27-20-134Z.json`: 1 file
+- `WORDPRESS_INSERT_READY_IMAGE_PACKAGES_2026-06-01T10-25-51-675Z.json`: 1 file
+- `WORDPRESS_INSERT_READY_IMAGE_PACKAGES_2026-06-01T10-26-11-338Z.json`: 1 file
+- `WORDPRESS_INTRO_FOUNDER_IMAGE_UPLOAD_2026-05-29.json`: 1 file
+- `WORDPRESS_LEGAL_PAGES_2026-06-03.json`: 1 file
+- `WORDPRESS_MCP_ABILITIES_2026-05-06.json`: 1 file
+- `WORDPRESS_MCP_ABILITIES_2026-05-10.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-05-06.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-05-28.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-06-01.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-06-03.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-06-05.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-06-17.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-06-21.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-06-25.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-06-27.json`: 1 file
+- `WORDPRESS_MOBILE_IMAGE_OPTIMIZED_UPLOADS_2026-05-07.json`: 1 file
+- `WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_2026-05-07.json`: 1 file
+- `WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_UPDATE_2026-05-07.json`: 1 file
+- `WORDPRESS_MOBILE_LEFT_STICKY_CTA_PLUGIN_UPLOAD_2026-05-16.json`: 1 file
+- `WORDPRESS_NEWS_SITEMAP_PLUGIN_UPLOAD_2026-06-24T05-03-07Z.json`: 1 file
+- `WORDPRESS_NEWS_SITEMAP_PLUGIN_UPLOAD_2026-06-24T05-03-44Z.json`: 1 file
+- `WORDPRESS_NSH_IMAGE_REPLACE_2026-05-29.json`: 1 file
+- `WORDPRESS_PHASE1_FIX_REPORT_2026-05-06.json`: 1 file
+- `WORDPRESS_PLUGINS_2026-05-10.json`: 1 file
+- `WORDPRESS_POST_FAQ_UPDATE_2026-05-22.json`: 1 file
+- `WORDPRESS_POST_SCHEMA_UPLOAD_2026-05-22.json`: 1 file
+- `WORDPRESS_PUBLISH_CAM_NANG_HA_LONG_2026-05-27.json`: 1 file
+- `WORDPRESS_PUBLISH_CAM_NANG_HA_LONG_2026-06-24.json`: 1 file
+- `WORDPRESS_PUBLISH_NGUYEN_SONG_HAO_PROFILE_2026-05-29.json`: 1 file
+- `WORDPRESS_PUSH_ALL_3_LOCAL_2026-05-22.json`: 1 file
+- `WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-10.json`: 1 file
+- `WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-16.json`: 1 file
+- `WORDPRESS_PUSH_IMAGE_PACKAGE_2026-06-26.json`: 1 file
+- `WORDPRESS_QN_SERVICE_LANDING_DRAFT_2026-06-10.json`: 1 file
+- `WORDPRESS_REPLACE_ANH_MINH_HOA_2026-05-07.json`: 1 file
+- `WORDPRESS_REPLACE_SUSPICIOUS_IMAGES_2026-05-14T15-39-10.json`: 1 file
+- `WORDPRESS_RESTORE_PAGE_HOME_TEMPLATE_2026-05-13.json`: 1 file
+- `WORDPRESS_RESTORE_PUBLISH_2026-05-07.json`: 1 file
+- `WORDPRESS_RESTORE_PUBLISH_CANDIDATES_2026-05-07.json`: 1 file
+- `WORDPRESS_REST_ROUTES_2026-05-06.json`: 1 file
+- `WORDPRESS_REWRITE_PAGE_380_CHUNG_CU_HA_LONG_2026-05-12.json`: 1 file
+- `WORDPRESS_REWRITE_PAGE_383_NHA_HANG_HA_LONG_2026-05-12.json`: 1 file
+- `WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-17.json`: 1 file
+- `WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-18.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-05-20.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T05-58-37-662Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T06-18-43-634Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T06-23-21-480Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T10-12-09-170Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T16-32-27-266Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T16-33-57-800Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-04T17-19-31-468Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-04T17-36-37-648Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-12T11-46-27-048Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-12T11-47-35-648Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-12T11-49-15-849Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-13T11-42-51-790Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-22T04-24-57-782Z.json`: 1 file
+- `WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-23T03-37-15-801Z.json`: 1 file
+- `WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T03-58-06.json`: 1 file
+- `WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T04-04-43.json`: 1 file
+- `WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T18-28-36.json`: 1 file
+- `WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T18-31-12.json`: 1 file
+- `WORDPRESS_SERVICE_SCHEMA_UPLOAD_2026-05-22.json`: 1 file
+- `WORDPRESS_SUBPAGE_BANNER_DEDUPE_PLUGIN_2026-05-07.json`: 1 file
+- `WORDPRESS_SYNC_RENDERER_OPTION_296_2026-05-06.json`: 1 file
+- `WORDPRESS_SYNC_RENDERER_OPTION_296_IMAGE_LAYOUT_2026-05-07.json`: 1 file
+- `WORDPRESS_UPDATE_CITY_DOORWAY_SAFE_2026-05-05.json`: 1 file
+- `WORDPRESS_UPDATE_DOORWAY_BATCH2_2026-05-06.json`: 1 file
+- `WORDPRESS_UPDATE_FAVICON_2026-05-10.json`: 1 file
+- `WORDPRESS_UPDATE_FAVICON_2026-05-14.json`: 1 file
+- `WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_DOORWAY_SAFE_2026-05-05.json`: 1 file
+- `WORDPRESS_UPLOAD_INSERT_SEO_IMAGES_2026-05-06.json`: 1 file
+- `WORDPRESS_VERIFY_SEO_IMAGES_2026-05-06.json`: 1 file
+- `wp-similar-title-pairs.csv`: 1 file
+- `wp-url-audit-list.csv`: 1 file
+- `wp-url-audit-list.json`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-05-06.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-05-10.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-05-22.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-05-28.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-06-02.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-06-03.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-06-04.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-06-05.md`: 1 file
+- `_tmp_home_reference_preview.html`: 1 file
+
+## File mới sửa gần nhất
+
+- `.tmp.driveupload\154317` | `other` | 2026-06-27T10:30:34 | 13.1 KB
+- `tools\push_area_pages_ip_bypass.mjs` | `tool-script` | 2026-06-27T10:30:34 | 13.1 KB
+- `docs\SEO_PROGRESS.csv` | `seo-status` | 2026-06-27T10:30:23 | 313.2 KB
+- `logs\uptime.log` | `other` | 2026-06-27T10:29:48 | 656.2 KB
+- `logs\uptime_status.json` | `data-output` | 2026-06-27T10:29:48 | 84 B
+- `out.txt` | `document` | 2026-06-27T10:20:17 | 0 B
+- `content-drafts\thong-tac-cong-bai-chay-rankmath-draft.md` | `content-draft` | 2026-06-27T10:15:36 | 33.1 KB
+- `tools\project_folder_manager.py` | `tool-script` | 2026-06-27T10:15:08 | 10.4 KB
+- `scratch\process_image_04.py` | `other` | 2026-06-27T10:14:57 | 978 B
+- `scratch\test_cwd.py` | `other` | 2026-06-27T10:14:03 | 157 B
+- `scratch\find_symlinks.py` | `other` | 2026-06-27T10:13:57 | 474 B
+- `image-briefs\thong-tac-cong-bai-chay-rankmath-draft-image-brief.json` | `data-output` | 2026-06-27T10:13:07 | 771 B
+
+## File quan trọng
+
+- `docs\SEO_PROGRESS.csv` | `seo-status` | 2026-06-27T10:30:23
+- `WORDPRESS_MCP_SMOKE_2026-06-27.json` | `wordpress-operation-log` | 2026-06-27T09:46:06
+- `CODEX_CONTEXT.md` | `context` | 2026-06-27T08:37:50
+- `AGENTS.md` | `context` | 2026-06-27T08:37:07
+- `WORDPRESS_DOORWAY_SCHEMA_UPLOAD_2026-05-30.json` | `wordpress-operation-log` | 2026-06-27T05:05:12
+- `WORDPRESS_PUSH_IMAGE_PACKAGE_2026-06-26.json` | `wordpress-operation-log` | 2026-06-27T03:45:52
+- `blogger\hutbephothalong\SEO_RULES.md` | `seo-status` | 2026-06-27T02:12:11
+- `docs\SEO_CHECKLIST.md` | `seo-status` | 2026-06-27T02:08:25
+- `docs\SEO_RULES.md` | `seo-status` | 2026-06-27T02:08:25
+- `docs\SEO_WEEK1_ASSIGNMENTS_2026-06-03.md` | `seo-status` | 2026-06-27T02:08:25
+- `docs\SEO_WEEK1_REVIEW_GATE_2026-06-03.md` | `seo-status` | 2026-06-27T02:08:25
+- `SEO_RULES.md` | `seo-status` | 2026-06-27T02:08:24
+
+## File lớn
+
+- `.tmp.driveupload\187627` | 6.2 MB | 2026-06-27T08:29:48
+- `tools\wp-plugins\ttcqn-home-emergency-renderer.zip` | 14.1 MB | 2026-06-20T18:43:40
+- `backups\home-renderer-alt-icons-20260617-001132\ttcqn-home-emergency-renderer.zip` | 14.1 MB | 2026-06-14T09:36:04
+- `scratch\ttcqn-home-emergency-renderer.zip` | 14.0 MB | 2026-06-10T18:39:57
+- `_tmp\chrome-profile\Default\History` | 61.1 MB | 2026-06-09T00:10:04
+- `_tmp\chrome-profile\Default\Cache\Cache_Data\data_2` | 5.0 MB | 2026-06-09T00:09:52
+- `_tmp\chrome-profile\Default\Code Cache\js\82e3ba1d324a637c_0` | 13.2 MB | 2026-06-08T23:45:49
+- `_tmp\chrome-profile\Default\Code Cache\js\9cbfb6da629b8001_0` | 5.1 MB | 2026-06-08T23:06:38
+- `_tmp\chrome-profile\Default\Code Cache\js\2fd4511554671d60_0` | 8.4 MB | 2026-06-08T22:38:59
+- `_tmp\chrome-profile\Default\Code Cache\js\0f0d044d01b8dd9b_0` | 11.3 MB | 2026-06-08T22:38:58
+- `_tmp\chrome-profile\Default\Code Cache\js\14ae9c7fee6afa0f_0` | 6.2 MB | 2026-06-08T22:38:57
+- `_tmp\chrome-profile\Default\Code Cache\js\28ed0a82ee7d28dc_0` | 11.6 MB | 2026-06-08T22:38:57
+- `_tmp\chrome-profile\Default\Code Cache\js\b6f08c9b4d204cb2_0` | 14.5 MB | 2026-06-08T22:38:57
+- `_tmp\chrome-profile\component_crx_cache\172092e78465ce152fbf3b65035b95fd1f1b3fee40135bb98e3760f617908ccb` | 22.1 MB | 2026-06-08T22:38:07
+- `_tmp\chrome-profile\Default\Code Cache\js\5211944875f18386_0` | 5.2 MB | 2026-06-08T22:37:33
+- `_tmp\chrome-profile\Default\Code Cache\js\33a8471a7daad487_0` | 13.3 MB | 2026-06-08T22:34:06
+- `_tmp\chrome-profile\Default\Code Cache\js\ceec993945736c7c_0` | 13.5 MB | 2026-06-08T22:34:04
+- `_tmp\chrome-profile\Default\Code Cache\js\dd4a684d07f371ad_0` | 8.4 MB | 2026-06-08T22:34:04
+- `_tmp\chrome-profile\Default\Code Cache\js\e42c1586faa1aaef_0` | 5.0 MB | 2026-06-08T22:34:04
+- `_tmp\chrome-profile\extensions_crx_cache\04390b532059d4510b12a75b6b514208b84a3a257f806f4470725aba97622b50` | 5.5 MB | 2026-06-08T17:30:02
+
+## Đề xuất
+
+- Giữ `AGENTS.md` và `CODEX_CONTEXT.md` làm nguồn quy tắc vận hành.
+- Không dọn `WORDPRESS_*.json` hoặc report live nếu chưa đối chiếu task liên quan.
+- Khi cần dọn thật, tạo danh sách move-plan trước rồi chờ Tuyền duyệt.
+- Thư mục `reports` có nhiều file; nên gom theo tháng sau khi tạo danh sách duyệt.
+- Thư mục `content-drafts` có nhiều draft; nên ưu tiên phân loại `đã live`, `chờ duyệt`, `cần sửa`.
+- Có file lớn; chỉ nén/chuyển sau khi kiểm tra không phải bằng chứng audit đang dùng.
+- Thư mục `tools` có nhiều script; nên ghi script nào là read-only, script nào có thể sửa live.
+
+## Nguyên tắc khi dọn
+
+- Chỉ tạo danh sách đề xuất, không xóa/chuyển file nếu chưa được Tuyền duyệt.
+- Phân biệt rõ `local`, `draft`, `live`, `report` trước khi báo xong.
+- Với việc liên quan WordPress live, phải backup/dry-run/re-audit theo `AGENTS.md`.

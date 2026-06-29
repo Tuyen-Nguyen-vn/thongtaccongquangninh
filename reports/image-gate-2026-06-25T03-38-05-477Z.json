@@ -1,0 +1,21 @@
+{
+  "target": "thong-tac-cong-quang-ninh",
+  "checked_at": "2026-06-25T03:38:05.477Z",
+  "status": "PENDING_IMAGE_SEO",
+  "pass": false,
+  "slug": "thong-tac-cong-quang-ninh",
+  "image_count": 5,
+  "package_path": "D:\\.thongtaccongquangninh\\image-briefs\\thong-tac-cong-quang-ninh-image-package.json",
+  "notes": [
+    "Ảnh 1: ảnh phải là WebP/JPG.",
+    "Ảnh 1: ảnh quá nặng (2333KB > 450KB).",
+    "Ảnh 2: ảnh phải là WebP/JPG.",
+    "Ảnh 2: ảnh quá nặng (1893KB > 450KB).",
+    "Ảnh 3: ảnh phải là WebP/JPG.",
+    "Ảnh 3: ảnh quá nặng (1858KB > 450KB).",
+    "Ảnh 4: ảnh phải là WebP/JPG.",
+    "Ảnh 4: ảnh quá nặng (1982KB > 450KB).",
+    "Ảnh 5: ảnh phải là WebP/JPG.",
+    "Ảnh 5: ảnh quá nặng (1859KB > 450KB)."
+  ]
+}

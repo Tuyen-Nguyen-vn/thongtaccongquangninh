@@ -1,0 +1,25 @@
+{
+  "two_captcha_api_key": "",
+  "gemini_api_key": "",
+  "proxies": [],
+  "target_forums": [
+    {
+      "url": "https://example-forum.com",
+      "type": "xenforo",
+      "username": "",
+      "password": "",
+      "email": ""
+    }
+  ],
+  "seo_keywords": [
+    "thông tắc cống tại Quảng Ninh",
+    "hút bể phốt Quảng Ninh giá rẻ",
+    "thông tắc cống không đục phá",
+    "thợ xử lý mùi hôi nhà vệ sinh"
+  ],
+  "hotlines": [
+    "0963.953.533",
+    "0931.156.756"
+  ],
+  "author_link": "Tác giả: [Nguyễn Song Hào](https://thongtaccongquangninh.com/author/nguyensonghao/)"
+}

@@ -1,0 +1,114 @@
+{
+  "generatedAt": "2026-06-02T19:08:22.855Z",
+  "results": [
+    {
+      "slug": "manual-url",
+      "title": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "httpStatus": 200,
+      "scripts": [
+        {
+          "index": 1,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness",
+            "PostalAddress",
+            "GeoCoordinates",
+            "City",
+            "AdministrativeArea",
+            "OfferCatalog",
+            "Offer",
+            "Service"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#service-catalog"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 2,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "BreadcrumbList",
+            "ListItem"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/#breadcrumb",
+            "https://thongtaccongquangninh.com",
+            "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 3,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "Service",
+            "LocalBusiness",
+            "AdministrativeArea",
+            "City",
+            "GeoCoordinates",
+            "ServiceChannel",
+            "OpeningHoursSpecification"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/#service",
+            "https://thongtaccongquangninh.com/#localbusiness"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 4,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "LocalBusiness",
+            "PostalAddress",
+            "City",
+            "FAQPage",
+            "Question",
+            "Answer",
+            "BreadcrumbList",
+            "ListItem"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/#localbusiness"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        }
+      ],
+      "error": null,
+      "noindex": false,
+      "issues": [],
+      "warnings": [],
+      "status": "PASS",
+      "schemaTypes": [
+        "LocalBusiness",
+        "HomeAndConstructionBusiness",
+        "PostalAddress",
+        "GeoCoordinates",
+        "City",
+        "AdministrativeArea",
+        "OfferCatalog",
+        "Offer",
+        "Service",
+        "BreadcrumbList",
+        "ListItem",
+        "ServiceChannel",
+        "OpeningHoursSpecification",
+        "FAQPage",
+        "Question",
+        "Answer"
+      ]
+    }
+  ]
+}

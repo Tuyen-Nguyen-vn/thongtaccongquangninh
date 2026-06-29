@@ -1,0 +1,109 @@
+[
+  {
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900
+    },
+    "consoleErrors": [],
+    "data": {
+      "rendererMeta": "2026.05.18.09; direct-template",
+      "guideVersionPresent": true,
+      "noHorizontalScroll": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "cardCount": 4,
+      "firstCardRect": {
+        "x": 18,
+        "y": 1426.859375,
+        "width": 172.25,
+        "height": 277.578125,
+        "top": 1426.859375,
+        "right": 190.25,
+        "bottom": 1704.4375,
+        "left": 18
+      },
+      "firstImgRect": {
+        "x": 27,
+        "y": 1435.859375,
+        "width": 154.25,
+        "height": 192.8125,
+        "top": 1435.859375,
+        "right": 181.25,
+        "bottom": 1628.671875,
+        "left": 27
+      },
+      "firstImgFit": "contain",
+      "firstImgAspect": "4 / 5",
+      "assistantExists": true,
+      "assistantDisplay": "block",
+      "assistantPosition": {
+        "right": "12px",
+        "top": "450px",
+        "bottom": "184.188px",
+        "transform": "matrix(1, 0, 0, 1, 0, -132.906)"
+      },
+      "assistantState": "collapsed",
+      "chipDisplay": "inline-flex",
+      "chipRect": {
+        "x": 1098,
+        "y": 317.09375,
+        "width": 84.25,
+        "height": 40,
+        "top": 317.09375,
+        "right": 1182.25,
+        "bottom": 357.09375,
+        "left": 1098
+      },
+      "panelOpacity": "0",
+      "panelPointer": "none"
+    }
+  },
+  {
+    "viewport": {
+      "name": "mobile",
+      "width": 390,
+      "height": 900,
+      "mobile": true
+    },
+    "consoleErrors": [],
+    "data": {
+      "rendererMeta": "2026.05.18.09; direct-template",
+      "guideVersionPresent": true,
+      "noHorizontalScroll": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "cardCount": 4,
+      "firstCardRect": {
+        "x": 14,
+        "y": 3339.34375,
+        "width": 175.5,
+        "height": 273.375,
+        "top": 3339.34375,
+        "right": 189.5,
+        "bottom": 3612.71875,
+        "left": 14
+      },
+      "firstImgRect": {
+        "x": 23,
+        "y": 3348.34375,
+        "width": 157.5,
+        "height": 196.875,
+        "top": 3348.34375,
+        "right": 180.5,
+        "bottom": 3545.21875,
+        "left": 23
+      },
+      "firstImgFit": "contain",
+      "firstImgAspect": "4 / 5",
+      "assistantExists": false,
+      "assistantDisplay": null,
+      "assistantPosition": null,
+      "assistantState": null,
+      "chipDisplay": null,
+      "chipRect": null,
+      "panelOpacity": null,
+      "panelPointer": null
+    }
+  }
+]

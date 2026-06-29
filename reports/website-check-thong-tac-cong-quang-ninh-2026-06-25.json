@@ -1,0 +1,64 @@
+{
+  "slug": "thong-tac-cong-quang-ninh",
+  "primary": {
+    "type": "page",
+    "id": 35,
+    "status": "publish",
+    "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+    "title": "Thông Tắc Cống Quảng Ninh 24/7 | Không Đục Phá, Bảo Hành 6-24 Tháng",
+    "seoTitle": "Thông Tắc Cống Quảng Ninh 24/7 | Không Đục Phá, Bảo Hành 6-24 Tháng",
+    "description": "Thông tắc cống Quảng Ninh 24/7 - Đội thợ có mặt trong 15 phút, không đục phá, báo giá rõ, bảo hành 6-24 tháng. Gọi 0963.953.533 giảm 30% hôm nay. Hỗ trợ ngay!",
+    "focusKeyword": "thông tắc cống Quảng Ninh",
+    "featuredMedia": 374,
+    "contentChars": 31139
+  },
+  "duplicates": [],
+  "live": {
+    "ok": true,
+    "status": 200,
+    "length": 191928,
+    "hasHotlines": true,
+    "hasFocusKeyword": true
+  },
+  "rankMathBatch": {
+    "offset": 0,
+    "keyword": "thông tắc cống Quảng Ninh",
+    "title": "Thông Tắc Cống Quảng Ninh 24/7 | Không Đục Phá, Bảo Hành 6-24 Tháng"
+  },
+  "score": {
+    "score": 90,
+    "titleLength": 67,
+    "descriptionLength": 158,
+    "wordCount": 3895,
+    "focusTotal": 10,
+    "keywordDensity": 0.26,
+    "liveH1": 1,
+    "h2Count": 10,
+    "duplicateHeadings": [],
+    "bannedHits": [],
+    "hasEmoji": false,
+    "checks": {
+      "Meta title 60-70 ký tự": true,
+      "Meta description 150-160 ký tự": true,
+      "Focus keyword trong title": true,
+      "Focus keyword trong description": true,
+      "Slug đúng keyword": true,
+      "Word count 2500-3000": false,
+      "Mật độ keyword 1-1.5%": false,
+      "1 H1 trên live page": true,
+      "Focus keyword trong 100 từ đầu": true,
+      "Có Nguyên nhân": true,
+      "Có Cam kết 3 Không": true,
+      "Có Bảng giá": true,
+      "Có Quy trình 5 bước": true,
+      "Có Case study E-E-A-T": true,
+      "Có NAP": true,
+      "Có FAQ": true,
+      "Đủ 2 hotline": true,
+      "CTA hotline >= 3": true,
+      "Không có từ cấm": true,
+      "Không emoji/ký hiệu": true,
+      "Có featured media": true
+    }
+  }
+}

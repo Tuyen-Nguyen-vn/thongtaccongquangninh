@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-05-20T18:12:38.621Z",
+  "normalFetch": {
+    "status": 200,
+    "headers": {
+      "x-litespeed-cache": null,
+      "x-litespeed-cache-control": null,
+      "x-rocket-nginx-serving-static": null,
+      "cache-control": "no-cache, must-revalidate, max-age=0, no-store, private",
+      "cf-cache-status": null
+    },
+    "versionInHtml": true
+  },
+  "summary": {
+    "pass": true
+  },
+  "results": [
+    {
+      "viewport": 1440,
+      "version": "2026.05.21.1; direct-template",
+      "h1": 1,
+      "footer": 1,
+      "overflow": false,
+      "lightBgSetCount": 1,
+      "bodyBg": "rgb(247, 252, 255)",
+      "viewportName": "desktop",
+      "consoleErrors": [],
+      "pass": true
+    },
+    {
+      "viewport": 390,
+      "version": "2026.05.21.1; direct-template",
+      "h1": 1,
+      "footer": 1,
+      "overflow": false,
+      "lightBgSetCount": 1,
+      "bodyBg": "rgb(247, 252, 255)",
+      "viewportName": "mobile",
+      "consoleErrors": [],
+      "pass": true
+    }
+  ]
+}

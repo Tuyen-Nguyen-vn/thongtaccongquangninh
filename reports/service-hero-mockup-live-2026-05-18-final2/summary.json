@@ -1,0 +1,155 @@
+[
+  {
+    "name": "desktop",
+    "before": {
+      "meta": "2026.05.18.28; direct-template",
+      "viewport": {
+        "winWidth": 1440,
+        "docWidth": 1440
+      },
+      "oldStatsBars": 0,
+      "section": {
+        "x": 0,
+        "y": 0,
+        "w": 1440,
+        "h": 845
+      },
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "telLinks": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zaloLinks": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "mobileMenu": true,
+      "personComplete": true,
+      "truckComplete": true,
+      "personRect": {
+        "x": 955,
+        "y": 131,
+        "w": 317,
+        "h": 650
+      },
+      "titleRect": {
+        "x": 130,
+        "y": 489,
+        "w": 710,
+        "h": 147
+      },
+      "statsRect": {
+        "x": 130,
+        "y": 200,
+        "w": 645,
+        "h": 199
+      },
+      "actionsDisplay": "none"
+    },
+    "menuAfterClick": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "tablet",
+    "before": {
+      "meta": "2026.05.18.28; direct-template",
+      "viewport": {
+        "winWidth": 900,
+        "docWidth": 900
+      },
+      "oldStatsBars": 0,
+      "section": {
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 914
+      },
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "telLinks": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zaloLinks": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "mobileMenu": true,
+      "personComplete": true,
+      "truckComplete": true,
+      "personRect": {
+        "x": 682,
+        "y": 260,
+        "w": 288,
+        "h": 590
+      },
+      "titleRect": {
+        "x": 20,
+        "y": 504,
+        "w": 486,
+        "h": 169
+      },
+      "statsRect": {
+        "x": 20,
+        "y": 220,
+        "w": 540,
+        "h": 194
+      },
+      "actionsDisplay": "none"
+    },
+    "menuAfterClick": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "mobile",
+    "before": {
+      "meta": "2026.05.18.28; direct-template",
+      "viewport": {
+        "winWidth": 390,
+        "docWidth": 390
+      },
+      "oldStatsBars": 0,
+      "section": {
+        "x": 0,
+        "y": -98,
+        "w": 390,
+        "h": 1016
+      },
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "telLinks": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zaloLinks": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "mobileMenu": true,
+      "personComplete": true,
+      "truckComplete": true,
+      "personRect": {
+        "x": 181,
+        "y": 283,
+        "w": 147,
+        "h": 302
+      },
+      "titleRect": {
+        "x": 32,
+        "y": 169,
+        "w": 326,
+        "h": 67
+      },
+      "statsRect": {
+        "x": 32,
+        "y": 589,
+        "w": 326,
+        "h": 210
+      },
+      "actionsDisplay": "grid"
+    },
+    "menuAfterClick": {
+      "navActive": true,
+      "navExpanded": "true"
+    },
+    "consoleErrors": []
+  }
+]

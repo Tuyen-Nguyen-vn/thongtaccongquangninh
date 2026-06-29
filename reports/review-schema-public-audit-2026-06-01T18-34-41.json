@@ -1,0 +1,491 @@
+{
+  "generatedAt": "2026-06-01T18-34-41",
+  "source": "wp-url-audit-list.json publicAuditUrls + homepage",
+  "checkedCount": 78,
+  "badCount": 0,
+  "errorCount": 0,
+  "patterns": [
+    "AggregateRating",
+    "schema.org/AggregateRating",
+    "\"aggregateRating\"",
+    "\"@type\":\"Review\"",
+    "\"@type\": \"Review\"",
+    "schema.org/Review",
+    "reviewRating",
+    "ratingValue",
+    "ratingCount",
+    "reviewCount"
+  ],
+  "bad": [],
+  "errors": [],
+  "results": [
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/blog/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/lien-he/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/author/admin/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/author/chatgpt/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/author/cuben01/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/bang-gia-blog/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/bang-gia/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/blog/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/canh-bao/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/huong-dan-tai-nha/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/huong-dan/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/hut-be-phot/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/nao-vet-ho-ga/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/thong-tac-bon-cau/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/thong-tac-cong/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+      "status": 200,
+      "hits": [],
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "mode": "dry-run",
+  "generatedAt": "2026-06-29T03-31-12",
+  "backupDir": null,
+  "targets": [
+    {
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "restBase": "pages",
+      "id": 3175,
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "beforeImageCount": 0,
+      "changed": false,
+      "outputs": [
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/cau-hoi-thuong-gap-thong-tac-cong-tho-kiem-tra.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/cau-hoi-thuong-gap-thong-tac-cong-may-lo-xo.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/cau-hoi-thuong-gap-thong-tac-cong-ho-ga.webp"
+      ],
+      "media": [],
+      "liveVerify": null
+    },
+    {
+      "slug": "hut-be-phot-khach-san-quang-ninh",
+      "restBase": "posts",
+      "id": 2702,
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "beforeImageCount": 0,
+      "changed": false,
+      "outputs": [
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/hut-be-phot-khach-san-quang-ninh-xe-bon.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/hut-be-phot-khach-san-quang-ninh-keo-ong.webp",
+        "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/missing-images-unique-audit-2026-06-29/hut-be-phot-khach-san-quang-ninh-kiem-tra-nap-be.webp"
+      ],
+      "media": [],
+      "liveVerify": null
+    }
+  ]
+}

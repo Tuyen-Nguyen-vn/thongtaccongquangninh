@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-06-28T20:45:35.259Z",
+  "mode": "dry-run",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+  "backupDir": null,
+  "beforeMetrics": {
+    "words": 1929,
+    "h1Count": 0,
+    "h2Count": 13,
+    "tableCount": 3,
+    "figureCount": 3,
+    "faqSchemaCount": 1,
+    "repeatedCaptionCount": 0,
+    "internalLinks": 6,
+    "hasHotline": true,
+    "hasForbiddenClaims": false,
+    "stale247Count": 1
+  },
+  "afterMetrics": {
+    "words": 1903,
+    "h1Count": 0,
+    "h2Count": 13,
+    "tableCount": 3,
+    "figureCount": 3,
+    "faqSchemaCount": 1,
+    "repeatedCaptionCount": 0,
+    "internalLinks": 6,
+    "hasHotline": true,
+    "hasForbiddenClaims": false,
+    "stale247Count": 0
+  },
+  "gates": {
+    "noRawH1": true,
+    "enoughWords": true,
+    "hasTables": true,
+    "hasFigures": true,
+    "hasFaqSchema": true,
+    "hasInternalLinks": true,
+    "noRepeatedCaption": true,
+    "noForbiddenClaims": true,
+    "noStale247": true
+  },
+  "okBeforeApply": true
+}

@@ -1,0 +1,127 @@
+{
+  "campaign": {
+    "name": "Search_MoiTruong_QuangNinh_2026",
+    "daily_budget_micros": 500000000000,
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "geo_targets": {
+      "include_names": ["Ha Long", "Cam Pha", "Uong Bi", "Quang Yen", "Dong Trieu"],
+      "exclude_names": ["Ba Che", "Co To", "Binh Lieu", "Dam Ha"]
+    },
+    "languages": ["vi"]
+  },
+  "ad_groups": [
+    {
+      "name": "Nhom_Hut_Be_Phot_Quang_Ninh",
+      "cpc_bid_micros": 100000000000,
+      "keywords": [
+        {"text": "hút bể phốt quảng ninh", "match_type": "EXACT"},
+        {"text": "hút bể phốt hạ long", "match_type": "EXACT"},
+        {"text": "hút bể phốt cẩm phả", "match_type": "EXACT"},
+        {"text": "hút bể phốt uông bí", "match_type": "EXACT"},
+        {"text": "hút bể phốt quảng yên", "match_type": "EXACT"},
+        {"text": "hút bể phốt đông triều", "match_type": "EXACT"},
+        {"text": "hút bể phốt quảng ninh", "match_type": "PHRASE"},
+        {"text": "hút bể phốt hạ long", "match_type": "PHRASE"},
+        {"text": "xe hút bể phốt vào ngõ sâu", "match_type": "PHRASE"},
+        {"text": "hút bể phốt giá rẻ quảng ninh", "match_type": "PHRASE"},
+        {"text": "dịch vụ hút bể phốt", "match_type": "PHRASE"}
+      ],
+      "ads": [
+        {
+          "final_urls": ["https://thongtaccongquangninh.com/"],
+          "headlines": [
+            {"text": "Hút Bể Phốt Quảng Ninh 24/7", "pinned_field": "HEADLINE_1"},
+            {"text": "Môi Trường Đô Thị Số 1", "pinned_field": "HEADLINE_2"},
+            {"text": "Có Xe Hút Chuyên Dụng"},
+            {"text": "Báo Giá Trước Khi Làm"},
+            {"text": "Hút Sạch Triệt Để 100%"},
+            {"text": "Hotline: 0963.953.533"},
+            {"text": "Hotline: 0931.156.756"},
+            {"text": "Cam Kết 3 Không Giá Rẻ"}
+          ],
+          "descriptions": [
+            {"text": "Dịch vụ hút bể phốt tại Quảng Ninh. Đội ngũ thợ có mặt sau 15 phút."},
+            {"text": "Cam kết 3 Không: Không đục phá - Không báo giá ảo - Không tái phát. Gọi ngay!"},
+            {"text": "Nhận xử lý bể phốt đầy, bồn cầu nghẹt, mùi hôi nhà vệ sinh cho nhà dân, khách sạn."},
+            {"text": "Có xe bồn hiện đại và máy lò xo chuyên dụng. Hỗ trợ nhanh 24/7 tại Quảng Ninh."}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nhom_Thong_Tac_Cong_Quang_Ninh",
+      "cpc_bid_micros": 80000000000,
+      "keywords": [
+        {"text": "thông tắc cống hạ long", "match_type": "EXACT"},
+        {"text": "thông tắc cống quảng ninh", "match_type": "EXACT"},
+        {"text": "thông tắc cống cẩm phả", "match_type": "EXACT"},
+        {"text": "thông tắc cống quảng ninh", "match_type": "PHRASE"},
+        {"text": "thông tắc cống tại nhà quảng ninh", "match_type": "PHRASE"},
+        {"text": "tìm thợ thông cống không đục phá", "match_type": "PHRASE"},
+        {"text": "thông cống nghẹt quảng ninh", "match_type": "PHRASE"},
+        {"text": "thông tắc cống 24/7", "match_type": "PHRASE"}
+      ],
+      "ads": [
+        {
+          "final_urls": ["https://thongtaccongquangninh.com/thong-tac-cong-tai-quang-ninh/"],
+          "headlines": [
+            {"text": "Thông Tắc Cống Không Đục Phá", "pinned_field": "HEADLINE_1"},
+            {"text": "Đội Ngũ Thợ Có Mặt Sau 15 Phút", "pinned_field": "HEADLINE_2"},
+            {"text": "Thông Tắc Cống Quảng Ninh 24/7"},
+            {"text": "Báo Giá Công Khai Trước Khi Làm"},
+            {"text": "Bảo Hành Dài Hạn Không Tái Phát"},
+            {"text": "Hotline: 0963.953.533"},
+            {"text": "Hotline: 0931.156.756"},
+            {"text": "Môi Trường Đô Thị Số 1"}
+          ],
+          "descriptions": [
+            {"text": "Dịch vụ thông tắc cống tại Quảng Ninh. Đội ngũ thợ có mặt sau 15 phút."},
+            {"text": "Cam kết 3 Không: Không đục phá - Không báo giá ảo - Không tái phát. Gọi hotline!"},
+            {"text": "Nhận thông tắc đường ống thoát nước sinh hoạt, bồn rửa chén, hố ga bị nghẹt."},
+            {"text": "Có máy lò xo chuyên dụng hiện đại nhất hiện nay. Phục vụ nhanh 24/7 toàn tỉnh."}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nhom_Thong_Tac_Bon_Cau_Quang_Ninh",
+      "cpc_bid_micros": 60000000000,
+      "keywords": [
+        {"text": "thông tắc bồn cầu quảng ninh", "match_type": "EXACT"},
+        {"text": "thông tắc bồn cầu hạ long", "match_type": "EXACT"},
+        {"text": "thông tắc bồn cầu quảng ninh", "match_type": "PHRASE"},
+        {"text": "thông tắc bồn cầu tại nhà", "match_type": "PHRASE"},
+        {"text": "thợ thông bồn cầu nghẹt", "match_type": "PHRASE"},
+        {"text": "thông bồn cầu giá rẻ", "match_type": "PHRASE"}
+      ],
+      "ads": [
+        {
+          "final_urls": ["https://thongtaccongquangninh.com/thong-tac-bon-cau-tai-quang-ninh/"],
+          "headlines": [
+            {"text": "Thông Tắc Bồn Cầu Sạch 100%", "pinned_field": "HEADLINE_1"},
+            {"text": "Môi Trường Đô Thị Số 1", "pinned_field": "HEADLINE_2"},
+            {"text": "Thợ Thông Bồn Cầu 24/7"},
+            {"text": "Có Mặt Sau 15 Phút Gọi"},
+            {"text": "Xử Lý Triệt Để Mùi Hôi"},
+            {"text": "Hotline: 0963.953.533"},
+            {"text": "Hotline: 0931.156.756"},
+            {"text": "Báo Giá Công Khai Minh Bạch"}
+          ],
+          "descriptions": [
+            {"text": "Dịch vụ thông bồn cầu nghẹt tại nhà Quảng Ninh. Sạch triệt để không đục phá."},
+            {"text": "Cam kết 3 Không: Không đục phá - Không báo giá ảo - Không tái phát. Alo là có mặt."},
+            {"text": "Đội thợ chuyên nghiệp xử lý bồn cầu xả nước không đi, bồn tiểu nam bị tắc nghẽn."},
+            {"text": "Gọi hotline 0963.953.533 để được khảo sát và tư vấn báo giá miễn phí 24/7."}
+          ]
+        }
+      ]
+    }
+  ],
+  "negative_keywords": [
+    "cách", "tự", "hướng dẫn", "mẹo", "kinh nghiệm", "tự làm", "youtube", "video", "pdf", "wiki", "sách",
+    "tuyển", "tuyển dụng", "việc làm", "tìm việc", "lương", "học nghề", "đào tạo",
+    "máy", "mua máy", "bán máy", "thiết bị", "phụ kiện", "bột thông cống", "thuốc thông bồn cầu", "dụng cụ", "lò xo",
+    "luận văn", "đồ án", "báo cáo", "quy định", "mẫu hợp đồng", "luật"
+  ]
+}

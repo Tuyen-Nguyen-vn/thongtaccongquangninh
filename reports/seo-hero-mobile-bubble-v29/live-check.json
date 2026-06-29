@@ -1,0 +1,380 @@
+[
+  {
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/?nowprocket=1&codex=bubble-v29-1779189684249",
+    "width": 390,
+    "metrics": {
+      "viewport": {
+        "width": 390,
+        "height": 1400
+      },
+      "h1Total": 1,
+      "heroCount": 1,
+      "heroRect": {
+        "left": 0,
+        "top": 72,
+        "right": 390,
+        "bottom": 1060.078125,
+        "width": 390,
+        "height": 988.078125
+      },
+      "visualRect": {
+        "left": 16,
+        "top": 514.078125,
+        "right": 374,
+        "bottom": 1024.078125,
+        "width": 358,
+        "height": 510
+      },
+      "bubbleRect": {
+        "left": 16,
+        "top": 907.640625,
+        "right": 374,
+        "bottom": 1014.078125,
+        "width": 358,
+        "height": 106.4375
+      },
+      "staffRect": {
+        "left": 146,
+        "top": 544.078125,
+        "right": 366,
+        "bottom": 874.078125,
+        "width": 220,
+        "height": 330
+      },
+      "truckRect": {
+        "left": 16,
+        "top": 636.078125,
+        "right": 346,
+        "bottom": 856.078125,
+        "width": 330,
+        "height": 220
+      },
+      "bubbleDisplay": "grid",
+      "bubbleBottom": "10px",
+      "formDisplay": "none",
+      "bubbleStaffOverlap": 0,
+      "bubbleTruckOverlap": 0,
+      "bubbleBelowStaff": true,
+      "bubbleBelowTruck": true,
+      "scrollOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "consoleErrors": []
+    }
+  },
+  {
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/?nowprocket=1&codex=bubble-v29-1779189684249",
+    "width": 375,
+    "metrics": {
+      "viewport": {
+        "width": 375,
+        "height": 1400
+      },
+      "h1Total": 1,
+      "heroCount": 1,
+      "heroRect": {
+        "left": 0,
+        "top": 72,
+        "right": 375,
+        "bottom": 1036.53125,
+        "width": 375,
+        "height": 964.53125
+      },
+      "visualRect": {
+        "left": 16,
+        "top": 508.53125,
+        "right": 359,
+        "bottom": 1000.53125,
+        "width": 343,
+        "height": 492
+      },
+      "bubbleRect": {
+        "left": 16,
+        "top": 884.09375,
+        "right": 359,
+        "bottom": 990.53125,
+        "width": 343,
+        "height": 106.4375
+      },
+      "staffRect": {
+        "left": 153,
+        "top": 537.53125,
+        "right": 363,
+        "bottom": 852.53125,
+        "width": 210,
+        "height": 315
+      },
+      "truckRect": {
+        "left": 26,
+        "top": 626.53125,
+        "right": 341,
+        "bottom": 836.53125,
+        "width": 315,
+        "height": 210
+      },
+      "bubbleDisplay": "grid",
+      "bubbleBottom": "10px",
+      "formDisplay": "none",
+      "bubbleStaffOverlap": 0,
+      "bubbleTruckOverlap": 0,
+      "bubbleBelowStaff": true,
+      "bubbleBelowTruck": true,
+      "scrollOverflow": false,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "consoleErrors": []
+    }
+  },
+  {
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/?nowprocket=1&codex=bubble-v29-1779189684249",
+    "width": 1440,
+    "metrics": {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "h1Total": 1,
+      "heroCount": 1,
+      "heroRect": {
+        "left": 0,
+        "top": 96,
+        "right": 1440,
+        "bottom": 1016.703125,
+        "width": 1440,
+        "height": 920.703125
+      },
+      "visualRect": {
+        "left": 515.1875,
+        "top": 358.703125,
+        "right": 930,
+        "bottom": 958.703125,
+        "width": 414.8125,
+        "height": 600
+      },
+      "bubbleRect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "width": 0,
+        "height": 0
+      },
+      "staffRect": {
+        "left": 625.34375,
+        "top": 438.703125,
+        "right": 972,
+        "bottom": 958.703125,
+        "width": 346.65625,
+        "height": 520
+      },
+      "truckRect": {
+        "left": 500,
+        "top": 380.046875,
+        "right": 1260,
+        "bottom": 886.703125,
+        "width": 760,
+        "height": 506.65625
+      },
+      "bubbleDisplay": "none",
+      "bubbleBottom": "auto",
+      "formDisplay": "block",
+      "bubbleStaffOverlap": 0,
+      "bubbleTruckOverlap": 0,
+      "bubbleBelowStaff": false,
+      "bubbleBelowTruck": false,
+      "scrollOverflow": false,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "consoleErrors": []
+    }
+  },
+  {
+    "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=bubble-home-v29-1779189684249",
+    "width": 390,
+    "metrics": {
+      "viewport": {
+        "width": 390,
+        "height": 1400
+      },
+      "h1Total": 1,
+      "heroCount": 1,
+      "heroRect": {
+        "left": 0,
+        "top": 72,
+        "right": 390,
+        "bottom": 1010.625,
+        "width": 390,
+        "height": 938.625
+      },
+      "visualRect": {
+        "left": 16,
+        "top": 464.625,
+        "right": 374,
+        "bottom": 974.625,
+        "width": 358,
+        "height": 510
+      },
+      "bubbleRect": {
+        "left": 16,
+        "top": 858.1875,
+        "right": 374,
+        "bottom": 964.625,
+        "width": 358,
+        "height": 106.4375
+      },
+      "staffRect": {
+        "left": 146,
+        "top": 494.625,
+        "right": 366,
+        "bottom": 824.625,
+        "width": 220,
+        "height": 330
+      },
+      "truckRect": {
+        "left": 16,
+        "top": 586.625,
+        "right": 346,
+        "bottom": 806.625,
+        "width": 330,
+        "height": 220
+      },
+      "bubbleDisplay": "grid",
+      "bubbleBottom": "10px",
+      "formDisplay": "none",
+      "bubbleStaffOverlap": 0,
+      "bubbleTruckOverlap": 0,
+      "bubbleBelowStaff": true,
+      "bubbleBelowTruck": true,
+      "scrollOverflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "consoleErrors": []
+    }
+  },
+  {
+    "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=bubble-home-v29-1779189684249",
+    "width": 375,
+    "metrics": {
+      "viewport": {
+        "width": 375,
+        "height": 1400
+      },
+      "h1Total": 1,
+      "heroCount": 1,
+      "heroRect": {
+        "left": 0,
+        "top": 72,
+        "right": 375,
+        "bottom": 993.046875,
+        "width": 375,
+        "height": 921.046875
+      },
+      "visualRect": {
+        "left": 16,
+        "top": 465.046875,
+        "right": 359,
+        "bottom": 957.046875,
+        "width": 343,
+        "height": 492
+      },
+      "bubbleRect": {
+        "left": 16,
+        "top": 840.609375,
+        "right": 359,
+        "bottom": 947.046875,
+        "width": 343,
+        "height": 106.4375
+      },
+      "staffRect": {
+        "left": 153,
+        "top": 494.046875,
+        "right": 363,
+        "bottom": 809.046875,
+        "width": 210,
+        "height": 315
+      },
+      "truckRect": {
+        "left": 26,
+        "top": 583.046875,
+        "right": 341,
+        "bottom": 793.046875,
+        "width": 315,
+        "height": 210
+      },
+      "bubbleDisplay": "grid",
+      "bubbleBottom": "10px",
+      "formDisplay": "none",
+      "bubbleStaffOverlap": 0,
+      "bubbleTruckOverlap": 0,
+      "bubbleBelowStaff": true,
+      "bubbleBelowTruck": true,
+      "scrollOverflow": false,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "consoleErrors": []
+    }
+  },
+  {
+    "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=bubble-home-v29-1779189684249",
+    "width": 1440,
+    "metrics": {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "h1Total": 1,
+      "heroCount": 1,
+      "heroRect": {
+        "left": 0,
+        "top": 96,
+        "right": 1440,
+        "bottom": 865.9375,
+        "width": 1440,
+        "height": 769.9375
+      },
+      "visualRect": {
+        "left": 515.1875,
+        "top": 207.9375,
+        "right": 930,
+        "bottom": 807.9375,
+        "width": 414.8125,
+        "height": 600
+      },
+      "bubbleRect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "width": 0,
+        "height": 0
+      },
+      "staffRect": {
+        "left": 625.34375,
+        "top": 287.9375,
+        "right": 972,
+        "bottom": 807.9375,
+        "width": 346.65625,
+        "height": 520
+      },
+      "truckRect": {
+        "left": 500,
+        "top": 229.28125,
+        "right": 1260,
+        "bottom": 735.9375,
+        "width": 760,
+        "height": 506.65625
+      },
+      "bubbleDisplay": "none",
+      "bubbleBottom": "auto",
+      "formDisplay": "block",
+      "bubbleStaffOverlap": 0,
+      "bubbleTruckOverlap": 0,
+      "bubbleBelowStaff": false,
+      "bubbleBelowTruck": false,
+      "scrollOverflow": false,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "consoleErrors": []
+    }
+  }
+]

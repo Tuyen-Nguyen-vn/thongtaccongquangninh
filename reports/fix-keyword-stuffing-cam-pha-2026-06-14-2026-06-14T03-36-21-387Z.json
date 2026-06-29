@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-06-14T03:36:23.197Z",
+  "mode": "write",
+  "pageId": 400,
+  "slug": "thong-tac-cong-cam-pha",
+  "keepExactMatches": 6,
+  "seenExactMatches": 38,
+  "changedExactMatches": 32,
+  "backupPath": "D:\\.thongtaccongquangninh\\backups\\live-audit-fix-2026-06-14\\page-400-thong-tac-cong-cam-pha-before-keyword-density-2026-06-14T03-36-21-387Z.json",
+  "before": {
+    "exactMatches": 38,
+    "density": {
+      "count": 37,
+      "total": 2099,
+      "density": 0.08813720819437827
+    }
+  },
+  "after": {
+    "exactMatches": 6,
+    "density": {
+      "count": 6,
+      "total": 2158,
+      "density": 0.013901760889712697
+    }
+  },
+  "updated": true,
+  "updatedModified": "2026-06-14T03:36:24",
+  "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/"
+}

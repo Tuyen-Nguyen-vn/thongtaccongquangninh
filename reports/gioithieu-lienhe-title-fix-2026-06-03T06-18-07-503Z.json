@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "generatedAt": "2026-06-03T06:18:11.577Z",
+    "mode": "dry-run",
+    "total": 2,
+    "needsContentUpdate": 2,
+    "contentUpdated": 0,
+    "rankMathUpdated": 0
+  },
+  "rows": [
+    {
+      "id": 62,
+      "slug": "gioi-thieu",
+      "mode": "dry-run",
+      "oldTitle": "Giới thiệu Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "newTitle": "Giới thiệu Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "newTitleLength": 44,
+      "oldDescription": "Môi Trường Đô Thị Số 1 Quảng Ninh tập trung xử lý các sự cố thoát nước dân dụng và công trình nhỏ. Gọi 0963.953.533 / 0931.156.756 để được tư vấn.",
+      "newDescription": "Môi Trường Đô Thị Số 1 Quảng Ninh xử lý hút bể phốt, thông tắc cống, bồn cầu và hố ga dân dụng. Gọi 0963.953.533 / 0931.156.756 để được tư vấn.",
+      "newDescriptionLength": 143,
+      "needsContentUpdate": true,
+      "contentUpdated": false,
+      "rankMathUpdated": false,
+      "rankMathUpdate": null,
+      "rankMathScoreUpdate": null,
+      "backupFile": null
+    },
+    {
+      "id": 63,
+      "slug": "lien-he",
+      "mode": "dry-run",
+      "oldTitle": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "newTitle": "Liên hệ hút bể phốt, thông tắc cống Quảng Ninh 24/7",
+      "newTitleLength": 51,
+      "oldDescription": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh qua hotline 0963.953.533 / 0931.156.756 khi cần hút bể phốt, thông tắc cống, thông tắc bồn cầu, nạo vét hố ga hoặ",
+      "newDescription": "Cần hút bể phốt, thông tắc cống, thông bồn cầu hoặc nạo vét hố ga tại Quảng Ninh? Gọi 0963.953.533 / 0931.156.756 để được hỗ trợ nhanh 24/7 tại nhà.",
+      "newDescriptionLength": 148,
+      "needsContentUpdate": true,
+      "contentUpdated": false,
+      "rankMathUpdated": false,
+      "rankMathUpdate": null,
+      "rankMathScoreUpdate": null,
+      "backupFile": null
+    }
+  ]
+}

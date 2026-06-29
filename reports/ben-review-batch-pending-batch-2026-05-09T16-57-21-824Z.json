@@ -1,0 +1,14 @@
+{
+  "type": "batch-pending",
+  "generated_at": "2026-05-09T16:57:21.824Z",
+  "count": 4,
+  "pending_slugs": [
+    "SEO-INIT-001",
+    "backlink-thongtaccongquangninh-com",
+    "trang-vang-citation",
+    "mapstore-muabanvn"
+  ],
+  "verdict": "CONDITIONAL",
+  "review_status": "conditional",
+  "recommendation": "Review từng slug pending."
+}

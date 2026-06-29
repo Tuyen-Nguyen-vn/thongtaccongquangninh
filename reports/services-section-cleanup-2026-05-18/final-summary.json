@@ -1,0 +1,50 @@
+{
+  "desktop-final": {
+    "meta": "",
+    "mq768": false,
+    "cardCount": 6,
+    "vectorCount": 10,
+    "visibleVectors": 10,
+    "benefitCells": 5,
+    "badgeHasSvg": true,
+    "gridColumns": "436px 436px 436px",
+    "firstImageAspect": "200x200",
+    "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rg",
+    "horizontalScroll": false,
+    "bodyW": 1440,
+    "viewportW": 1440,
+    "consoleErrors": []
+  },
+  "tablet-final": {
+    "meta": "",
+    "mq768": false,
+    "cardCount": 6,
+    "vectorCount": 10,
+    "visibleVectors": 10,
+    "benefitCells": 5,
+    "badgeHasSvg": true,
+    "gridColumns": "419px 419px",
+    "firstImageAspect": "200x200",
+    "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rg",
+    "horizontalScroll": false,
+    "bodyW": 900,
+    "viewportW": 900,
+    "consoleErrors": []
+  },
+  "mobile-final": {
+    "meta": "",
+    "mq768": true,
+    "cardCount": 6,
+    "vectorCount": 10,
+    "visibleVectors": 5,
+    "benefitCells": 5,
+    "badgeHasSvg": true,
+    "gridColumns": "358px",
+    "firstImageAspect": "356x356",
+    "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rg",
+    "horizontalScroll": false,
+    "bodyW": 390,
+    "viewportW": 390,
+    "consoleErrors": []
+  }
+}

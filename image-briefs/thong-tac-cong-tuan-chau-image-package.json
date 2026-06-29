@@ -1,0 +1,61 @@
+{
+  "slug": "thong-tac-cong-tuan-chau",
+  "status": "READY_FOR_REVIEW",
+  "service": "thông tắc cống",
+  "area": "Tuần Châu",
+  "sourceType": "real",
+  "images": [
+    {
+      "slot": "hero",
+      "type": "đầu bài",
+      "placement": "sau mở bài",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-tuan-chau\\thong-tac-cong-tuan-chau-resort-01.webp",
+      "fileName": "thong-tac-cong-tuan-chau-resort-01.webp",
+      "fileSizeKb": 89,
+      "altText": "Thông tắc cống Tuần Châu – xử lý tắc nghẽn resort nhà hàng đảo Tuần Châu",
+      "title": "Thông tắc cống Tuần Châu",
+      "caption": "Dịch vụ thông tắc cống Tuần Châu cho resort, nhà hàng, căn hộ cao cấp. Hotline: 0963.953.533",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "process",
+      "type": "quy trình thi công",
+      "placement": "trong phần quy trình thi công",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-tuan-chau\\thong-tac-cong-tuan-chau-may-ap-luc-02.webp",
+      "fileName": "thong-tac-cong-tuan-chau-may-ap-luc-02.webp",
+      "fileSizeKb": 126,
+      "altText": "Máy rửa áp lực cao thi công thông tắc cống Tuần Châu Hạ Long",
+      "title": "Máy rửa áp lực cao tại Tuần Châu",
+      "caption": "Thông tắc cống Tuần Châu bằng máy rửa áp lực cao – không đục phá. Gọi 0963.953.533",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "case-study",
+      "type": "case study",
+      "placement": "trong phần case study",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-tuan-chau\\thong-tac-cong-tuan-chau-kiem-tra-03.webp",
+      "fileName": "thong-tac-cong-tuan-chau-kiem-tra-03.webp",
+      "fileSizeKb": 102,
+      "altText": "Kiểm tra đường ống thông tắc cống Tuần Châu xác định điểm tắc chính xác",
+      "title": "Kiểm tra đường ống Tuần Châu",
+      "caption": "Kiểm tra, xác định điểm tắc cống tại Tuần Châu – gọi 0963.953.533 / 0931.156.756",
+      "note": "Ảnh thực tế đã xử lý SEO"
+    },
+    {
+      "slot": "support-process",
+      "type": "minh họa quy trình",
+      "placement": "trong phần lưu ý sau xử lý",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "filePath": "Ảnh Đã Xử Lý SEO\\thong-tac-cong-tuan-chau\\thong-tac-cong-tuan-chau-quy-trinh-04.webp",
+      "fileName": "thong-tac-cong-tuan-chau-quy-trinh-04.webp",
+      "fileSizeKb": 138,
+      "altText": "Quy trình thi công thông tắc cống tại Tuần Châu Hạ Long",
+      "title": "Quy trình thi công thông tắc cống Tuần Châu",
+      "caption": "Ảnh minh họa quy trình thi công thông tắc cống tại Tuần Châu, dùng để hỗ trợ khách nhận biết các bước xử lý.",
+      "note": "Ảnh minh họa đã crop/chỉnh nhẹ và tối ưu SEO riêng cho bài Tuần Châu, không dùng làm bằng chứng công trình thực tế"
+    }
+  ]
+}

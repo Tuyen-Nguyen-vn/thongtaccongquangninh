@@ -1,0 +1,23 @@
+{
+  "stamp": "2026-06-27T19-25-30-652Z",
+  "postId": 2039,
+  "slug": "thong-tac-cong-cao-xanh",
+  "changes": [
+    "add_visible_breadcrumb_and_map_section",
+    "replace:Nguyên nhân cống tắc thường gặp tại Cao Xanh",
+    "replace:Khi nào cần gọi thông tắc cống Cao Xanh ngay",
+    "replace:NAP liên hệ",
+    "replace:Khu vực nhận thông tắc cống tại Cao Xanh và Hạ Long",
+    "add_contextual_internal_link_price",
+    "add_page_localbusiness_jsonld"
+  ],
+  "beforeLen": 12246,
+  "afterLen": 15210,
+  "excerptApplied": "Thông tắc cống Cao Xanh 24/7 | Không đục phá, bảo hành 6-24 tháng | Thợ 15 phút | Khảo sát miễn phí | Gọi 0963.953.533",
+  "updateLink": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+  "modified": "2026-06-28T02:25:32",
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  }
+}

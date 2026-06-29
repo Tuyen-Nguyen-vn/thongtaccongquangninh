@@ -1,0 +1,80 @@
+[
+  {
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1300
+    },
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/projects-section-mockup-live-2026-05-18/desktop.png",
+    "before": {
+      "docWidth": 1440,
+      "winWidth": 1440,
+      "visibleCards": 6,
+      "activeFilter": "all",
+      "mobileItems": 5,
+      "ctaHref": "tel:0963953533"
+    },
+    "afterFilter": {
+      "visibleCards": [
+        "Thông tắc bồn cầu nhà trọ"
+      ],
+      "activeFilter": "bon-cau",
+      "mobileItems": 0
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "viewport": {
+      "name": "tablet",
+      "width": 900,
+      "height": 1200
+    },
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/projects-section-mockup-live-2026-05-18/tablet.png",
+    "before": {
+      "docWidth": 900,
+      "winWidth": 900,
+      "visibleCards": 6,
+      "activeFilter": "all",
+      "mobileItems": 5,
+      "ctaHref": "tel:0963953533"
+    },
+    "afterFilter": {
+      "visibleCards": [
+        "Thông tắc bồn cầu nhà trọ"
+      ],
+      "activeFilter": "bon-cau",
+      "mobileItems": 0
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "viewport": {
+      "name": "mobile",
+      "width": 390,
+      "height": 1100
+    },
+    "screenshot": "/mnt/d/.thongtaccongquangninh/reports/projects-section-mockup-live-2026-05-18/mobile.png",
+    "before": {
+      "docWidth": 390,
+      "winWidth": 390,
+      "visibleCards": 1,
+      "activeFilter": "all",
+      "mobileItems": 5,
+      "ctaHref": "tel:0963953533"
+    },
+    "afterFilter": {
+      "visibleCards": [
+        "Thông tắc bồn cầu nhà trọ"
+      ],
+      "activeFilter": "bon-cau",
+      "mobileItems": 0
+    },
+    "accordion": {
+      "expanded": "true",
+      "openPanels": 1
+    },
+    "consoleErrors": []
+  }
+]

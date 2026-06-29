@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.139Z",
+  "slug": "hut-be-phot-mong-cai",
+  "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+  "focusKeyword": "hút bể phốt Móng Cái",
+  "service": "hút bể phốt",
+  "area": "Móng Cái",
+  "subAreas": "nhận hút bể phốt Móng Cái Môi Trường Đô Thị Số 1 Quảng Ninh nhận hút bể phốt Móng Cái tại Trần Phú, Hải Yên, Hải Hòa, Ninh Dương, Bình Ngọc, Vạn Ninh, Hải Xuân. Ngoài ra, đội kỹ thuật có thể điều xe gần nhất cho các khu vực lân cận trong tỉ...",
+  "searchIntent": "Khách tại Móng Cái cần xe hút bể phốt đến nhanh, muốn biết giá, xe có vào được không, hút có sạch không và hotline gọi trực tiếp.",
+  "caseStudy": "E-E-A-T: xử lý bể phốt đầy tại cửa hàng tại Hải Yên Một khách tại cửa hàng tại Hải Yên gọi vào buổi tối vì bồn cầu tầng một rút chậm, nhà vệ sinh có mùi hôi nặng và thoát sàn có tiếng ọc nước. Gia đình đã thử thông bằng pittong nhưng tình trạng chỉ giảm tạm thời. Kỹ thuật hỏi nhanh qua điện thoại và nhận thấy dấu hiệu không chỉ tắc ở cổ bồn. Nhà đã dùng bể nhiều năm, chưa hút định kỳ, trong khi hố ga cũng có nước đen và váng nổi. Sau khi đến nơi, đội thợ kỹ thuật kiểm tra nắp bể, hố ga và đường thoát. Thợ kéo ống hút đúng vị trí, hút phần bùn đặc, váng nổi và nước thải trong bể, sau đó xả thử nhiều lần. Vì hố ga có dấu hiệu lắng bùn, khách được báo thêm phương án nạo vét để xử lý gốc. Sau khi hoàn tất, bồn cầu thoát mạnh trở lại, thoát sàn không còn ọc nước và khu vực làm việc được vệ sinh. Case này cho thấy cần đánh giá toàn hệ thống. Nếu chỉ thông phần miệng bồn cầu mà bỏ qua bể đầy ho...",
+  "shouldUse": [
+    "xe bồn",
+    "ống hút",
+    "hố ga",
+    "bể phốt",
+    "thợ kéo ống"
+  ],
+  "shouldAvoid": [
+    "ảnh chỉ có máy lò xo trong nhà vệ sinh"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

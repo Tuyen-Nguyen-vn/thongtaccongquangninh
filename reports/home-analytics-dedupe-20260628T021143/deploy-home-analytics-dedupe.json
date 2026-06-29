@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-06-27T19:25:16.316Z",
+  "files": [
+    {
+      "remote": "public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "local": "tools/wp-plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "backup": "backups/home-analytics-dedupe-20260628T021143/remote-before-ttcqn-home-emergency-renderer.php",
+      "writeResult": "{\"path\":\"public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php\",\"status\":\"ok\"}",
+      "changed": true
+    }
+  ],
+  "cacheDeletes": [
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html",
+      "result": "{\"deleted\":\"public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html\"}"
+    },
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html_gzip",
+      "result": "{\"deleted\":\"public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html_gzip\"}"
+    }
+  ]
+}

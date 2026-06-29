@@ -1,0 +1,28 @@
+{
+  "updatedAt": "2026-05-24T15:55:29.839Z",
+  "page": {
+    "status": 200,
+    "id": 52,
+    "slug": "hut-be-phot-ha-long",
+    "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+    "modified": "2026-05-24T22:55:26",
+    "title": "Hút bể phốt Hạ Long: bể đầy, mùi hôi, xe bồn vào ngõ sâu 24/7",
+    "excerpt": "Hút bể phốt Hạ Long cho nhà dân, nhà hàng, khách sạn, ngõ dốc và bể đầy lâu năm tại Bãi Cháy, Hồng Gai, Tuần Châu. Gọi 0963.953.533 / 0931.156.756 ngay.",
+    "contentLen": 16115
+  },
+  "rankMath": {
+    "updateMeta": {
+      "status": 200,
+      "json": {
+        "slug": true,
+        "schemas": []
+      }
+    },
+    "updateSeoScore": {
+      "status": 200,
+      "json": 1
+    }
+  },
+  "contentPath": "seo-revisions/page-52-hut-be-phot-ha-long-seo-fix-2026-05-24.html",
+  "backupJson": "backups/page-52-hut-be-phot-ha-long-before-seo-fix-2026-05-24.json"
+}

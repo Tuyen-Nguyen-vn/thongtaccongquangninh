@@ -1,0 +1,37 @@
+{
+  "mode": "dry-run",
+  "generatedAt": "2026-06-29T03-21-02",
+  "backupDir": null,
+  "targets": [
+    {
+      "slug": "thong-tac-cong-ha-long",
+      "id": 296,
+      "source": "/mnt/d/.thongtaccongquangninh/Ảnh cung cấp/3. Tho Thong Tac Cong/anh-seo-063.png",
+      "output": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/ttc-area-third-images-2026-06-29/thong-tac-cong-ha-long-kiem-tra-ho-ga.webp",
+      "beforeImageCount": 2,
+      "changed": true,
+      "media": null,
+      "liveVerify": null
+    },
+    {
+      "slug": "thong-tac-cong-tuan-chau",
+      "id": 2041,
+      "source": "/mnt/d/.thongtaccongquangninh/Ảnh cung cấp/3. Tho Thong Tac Cong/anh-seo-085.png",
+      "output": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/ttc-area-third-images-2026-06-29/thong-tac-cong-tuan-chau-kiem-tra-duong-ong.webp",
+      "beforeImageCount": 4,
+      "changed": true,
+      "media": null,
+      "liveVerify": null
+    },
+    {
+      "slug": "thong-tac-cong-bai-chay",
+      "id": 2054,
+      "source": "/mnt/d/.thongtaccongquangninh/Ảnh cung cấp/3. Tho Thong Tac Cong/anh-seo-091.png",
+      "output": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/ttc-area-third-images-2026-06-29/thong-tac-cong-bai-chay-xu-ly-duong-thoat.webp",
+      "beforeImageCount": 2,
+      "changed": true,
+      "media": null,
+      "liveVerify": null
+    }
+  ]
+}

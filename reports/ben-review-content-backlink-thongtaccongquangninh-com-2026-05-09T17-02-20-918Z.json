@@ -1,0 +1,52 @@
+{
+  "slug": "backlink-thongtaccongquangninh-com",
+  "generated_at": "2026-05-09T17:02:20.917Z",
+  "agent": "Ben",
+  "type": "content",
+  "seo_score": {
+    "display": "n/a",
+    "threshold": "per policy",
+    "pass": true
+  },
+  "image_gate": {
+    "status": "READY",
+    "pass": false
+  },
+  "preflight": {
+    "passed": 1,
+    "total": 1,
+    "pass": true
+  },
+  "issues": [],
+  "verdict": "CONDITIONAL",
+  "review_status": "conditional",
+  "recommendation": "Yêu cầu rà soát lại nội dung, ảnh và log tiến độ.",
+  "evidence": {
+    "draft": "docs/BACKLINK_CAMPAIGN_2026-05-08.md docs/BACKLINK_TARGETS_2026-05-08.csv",
+    "image_stdout": "{\n  \"target\": \"backlink-thongtaccongquangninh-com\",\n  \"checked_at\": \"2026-05-09T17:02:20.905Z\",\n  \"status\": \"PENDING_IMAGE_SEO\",\n  \"pass\": false,\n  \"notes\": [\n    \"No image manifest found.\"\n  ],\n  \"report_json\": \"/mnt/d/.thongtaccongquangninh/reports/image-gate-2026-05-09T17-02-20-905Z.json\"\n}\n",
+    "latest_progress": {
+      "date": "2026-05-08",
+      "time": "09:30",
+      "task_id": "BACKLINK-LOCAL-001",
+      "task_type": "offpage",
+      "keyword": "backlink thongtaccongquangninh.com",
+      "url": "https://thongtaccongquangninh.com/",
+      "slug": "backlink-thongtaccongquangninh-com",
+      "status": "local_ready",
+      "difficulty": "medium",
+      "internal_score_before": "",
+      "internal_score_after": "",
+      "rank_math_before": "",
+      "rank_math_after": "",
+      "action_done": "Lap goi backlink/citation sach: ke hoach campaign, bang target, NAP, anchor ratio, profile copy, PR topics va risk cleanup",
+      "files_changed": "docs/BACKLINK_CAMPAIGN_2026-05-08.md docs/BACKLINK_TARGETS_2026-05-08.csv",
+      "issues": "Chua dang live vi can tai khoan/captcha/duyet nen tang; phat hien backlink forum/profile mong can khong nhan rong",
+      "next_action": "Dang thu cong 10 nguon dau tien va xuat Search Console Links de audit spam/referring domains",
+      "agent_note": "CSV parse OK, da kiem sitemap live, docs project va nguon Google Search Central",
+      "review_status": "REVIEW_REQUIRED",
+      "reviewed_by": "Ben",
+      "reviewed_at": "2026-05-09T17:02:20.809Z",
+      "review_report": ""
+    }
+  }
+}

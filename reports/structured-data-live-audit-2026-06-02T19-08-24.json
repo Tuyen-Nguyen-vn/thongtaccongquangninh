@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-06-02T19:08:24.804Z",
+  "results": [
+    {
+      "slug": "manual-url",
+      "title": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "httpStatus": 200,
+      "scripts": [
+        {
+          "index": 1,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness",
+            "PostalAddress",
+            "GeoCoordinates",
+            "City",
+            "AdministrativeArea",
+            "OfferCatalog",
+            "Offer",
+            "Service"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#service-catalog"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 2,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "Organization",
+            "ImageObject",
+            "WebSite",
+            "BreadcrumbList",
+            "ListItem",
+            "WebPage",
+            "Article"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#person",
+            "https://thongtaccongquangninh.com/#logo",
+            "https://thongtaccongquangninh.com/#website",
+            "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/banner-thong-tac-cong-quang-ninh-cac-trang-con.webp",
+            "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/#breadcrumb",
+            "https://thongtaccongquangninh.com",
+            "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+            "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/#webpage"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 3,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "FAQPage",
+            "Question",
+            "Answer"
+          ],
+          "ids": [],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 4,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "Service",
+            "LocalBusiness",
+            "AdministrativeArea",
+            "ServiceChannel",
+            "OpeningHoursSpecification"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/#service",
+            "https://thongtaccongquangninh.com/#localbusiness"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 5,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "VideoObject"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/#video",
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/#webpage"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 6,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "HowTo",
+            "HowToStep"
+          ],
+          "ids": [],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        }
+      ],
+      "error": null,
+      "noindex": false,
+      "issues": [],
+      "warnings": [],
+      "status": "PASS",
+      "schemaTypes": [
+        "LocalBusiness",
+        "HomeAndConstructionBusiness",
+        "PostalAddress",
+        "GeoCoordinates",
+        "City",
+        "AdministrativeArea",
+        "OfferCatalog",
+        "Offer",
+        "Service",
+        "Organization",
+        "ImageObject",
+        "WebSite",
+        "BreadcrumbList",
+        "ListItem",
+        "WebPage",
+        "Article",
+        "FAQPage",
+        "Question",
+        "Answer",
+        "ServiceChannel",
+        "OpeningHoursSpecification",
+        "VideoObject",
+        "HowTo",
+        "HowToStep"
+      ]
+    }
+  ]
+}

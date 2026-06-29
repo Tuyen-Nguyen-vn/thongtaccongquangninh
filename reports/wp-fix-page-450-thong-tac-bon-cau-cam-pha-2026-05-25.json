@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-25",
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+  "pageId": 450,
+  "revision": "seo-revisions/page-450-thong-tac-bon-cau-cam-pha-seo-fix-2026-05-25.html",
+  "backup": "backups/page-450-thong-tac-bon-cau-cam-pha-before-seo-fix-2026-05-25.json",
+  "imageUploadReport": "reports/wp-upload-images-page-450-thong-tac-bon-cau-cam-pha-2026-05-25.json",
+  "request": {
+    "title": "Thông tắc bồn cầu Cẩm Phả cho nhà dân, nhà trọ và khu mỏ 24/7",
+    "description": "Thông tắc bồn cầu Cẩm Phả cho nhà dân, nhà trọ, khu mỏ khi nước rút chậm, trào ngược hoặc có mùi hôi. Gọi 0963.953.533 / 0931.156.756 để kiểm tra sớm.",
+    "focusKeyword": "thông tắc bồn cầu Cẩm Phả",
+    "score": 90
+  },
+  "result": {
+    "updated": {
+      "id": 450,
+      "status": "publish",
+      "modified": "2026-05-25T22:14:36",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "title": "Thông tắc bồn cầu Cẩm Phả cho nhà dân, nhà trọ và khu mỏ 24/7"
+    },
+    "rankMeta": {
+      "slug": true,
+      "schemas": []
+    },
+    "rankScore": 1,
+    "finalContentUpdate": {
+      "id": 450,
+      "status": "publish",
+      "modified": "2026-05-25T22:17:25",
+      "reason": "Raise live main word count above 2500 and tune density"
+    }
+  },
+  "pluginUpdate": {
+    "file": "tools/wp-plugins/ttcqn-seo-cleanup-redirects/ttcqn-seo-cleanup-redirects.php",
+    "zip": "tools/wp-plugins/ttcqn-seo-cleanup-redirects.zip",
+    "backup": "backups/ttcqn-seo-cleanup-redirects-before-cam-pha-meta-2026-05-25.zip",
+    "uploadReport": "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-05-20.json",
+    "reason": "Update meta override for page 450 to 150 chars"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "target": "blog",
+  "checked_at": "2026-05-16T20:51:58.666Z",
+  "status": "PENDING_IMAGE_SEO",
+  "pass": false,
+  "slug": "blog",
+  "image_count": 5,
+  "package_path": "/mnt/d/.thongtaccongquangninh/image-briefs/blog-image-package.json",
+  "notes": [
+    "Ảnh 1: ảnh phải là WebP/JPG.",
+    "Ảnh 1: ảnh quá nặng (855KB > 450KB).",
+    "Ảnh 2: ảnh phải là WebP/JPG.",
+    "Ảnh 2: ảnh quá nặng (928KB > 450KB).",
+    "Ảnh 3: ảnh phải là WebP/JPG.",
+    "Ảnh 3: ảnh quá nặng (855KB > 450KB).",
+    "Ảnh 5: ảnh quá nặng (4909KB > 450KB)."
+  ]
+}

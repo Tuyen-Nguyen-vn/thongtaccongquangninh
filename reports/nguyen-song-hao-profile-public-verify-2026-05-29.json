@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "status": 200,
+    "title": "Nguyễn Song Hào – Nhà Sáng Lập Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "hasMetaDescription": true,
+    "hasPersonSchema": true,
+    "hasFaqSchema": true,
+    "hasAward2022": true,
+    "contentImageCount": 3,
+    "hasThreeAwardFiles": true
+  },
+  "home": {
+    "status": 200,
+    "marker": "2026.05.29.14; direct-template",
+    "hasProfileLink": true,
+    "profileLinkCount": 2
+  }
+}

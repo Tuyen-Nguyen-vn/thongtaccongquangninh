@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-06-27T15:00:21.905Z",
+  "writes": [
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/footer-back-top-live-2026-06-27T15-00-15-958Z/ttcqn-home-emergency-renderer.remote.php",
+      "existedBefore": true,
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php\",\"status\":\"ok\"}",
+      "remoteMatches": true
+    },
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/footer-back-top-live-2026-06-27T15-00-15-958Z/page-home-direct.remote.php",
+      "existedBefore": true,
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php\",\"status\":\"ok\"}",
+      "remoteMatches": false
+    },
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/footer-back-top-live-2026-06-27T15-00-15-958Z/shared-footer-interactions-inline.remote.php",
+      "existedBefore": false,
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php\",\"status\":\"ok\"}",
+      "remoteMatches": true
+    }
+  ],
+  "purgeText": "{\"purged\":\"thongtaccongquangninh.com\"}",
+  "public": {
+    "servicePage": {
+      "status": 200,
+      "hasFooterButton": true,
+      "hasCriticalError": false
+    },
+    "homePage": {
+      "status": 200,
+      "hasFooterButton": true,
+      "hasCriticalError": false
+    }
+  },
+  "success": false
+}

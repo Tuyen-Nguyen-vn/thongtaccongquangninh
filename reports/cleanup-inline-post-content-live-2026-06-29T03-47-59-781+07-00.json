@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-06-29T03:47:59.814+07:00",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/backups/cleanup-inline-post-content-live-2026-06-29T03-47-59-781+07-00",
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/cleanup-inline-post-content-live-2026-06-29T03-47-59-781+07-00.json",
+  "targets": [
+    {
+      "id": 2379,
+      "slug": "thong-tac-bon-cau-ban-dem-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-inline-post-content-live-2026-06-29T03-47-59-781+07-00/post-2379-thong-tac-bon-cau-ban-dem-quang-ninh.before.json",
+      "changed": true,
+      "updateStatus": 200,
+      "ok": true
+    },
+    {
+      "id": 2439,
+      "slug": "hut-be-phot-24-7-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-inline-post-content-live-2026-06-29T03-47-59-781+07-00/post-2439-hut-be-phot-24-7-quang-ninh.before.json",
+      "changed": true,
+      "updateStatus": 200,
+      "ok": true
+    },
+    {
+      "id": 2702,
+      "slug": "hut-be-phot-khach-san-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-inline-post-content-live-2026-06-29T03-47-59-781+07-00/post-2702-hut-be-phot-khach-san-quang-ninh.before.json",
+      "changed": true,
+      "updateStatus": 200,
+      "ok": true
+    },
+    {
+      "id": 2782,
+      "slug": "thong-tac-cong-24-7-quang-ninh",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/cleanup-inline-post-content-live-2026-06-29T03-47-59-781+07-00/post-2782-thong-tac-cong-24-7-quang-ninh.before.json",
+      "changed": true,
+      "updateStatus": 200,
+      "ok": true
+    }
+  ],
+  "public": [
+    {
+      "id": 2379,
+      "path": "/thong-tac-bon-cau-ban-dem-quang-ninh/",
+      "status": 200,
+      "ok": true,
+      "hits": []
+    },
+    {
+      "id": 2439,
+      "path": "/hut-be-phot-24-7-quang-ninh/",
+      "status": 200,
+      "ok": true,
+      "hits": []
+    },
+    {
+      "id": 2702,
+      "path": "/hut-be-phot-khach-san-quang-ninh/",
+      "status": 200,
+      "ok": true,
+      "hits": []
+    },
+    {
+      "id": 2782,
+      "path": "/thong-tac-cong-24-7-quang-ninh/",
+      "status": 200,
+      "ok": true,
+      "hits": []
+    }
+  ],
+  "success": true
+}

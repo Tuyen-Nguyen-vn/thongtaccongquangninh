@@ -1,0 +1,35 @@
+{
+  "mode": "write",
+  "generatedAt": "2026-06-26T23:01:50.306Z",
+  "user": "TUYỀN NGUYỄN",
+  "pageId": 52,
+  "backupPath": "/mnt/d/.thongtaccongquangninh/backups/page-52-before-table-meta-repair-2026-06-26T23-01-50-302Z.json",
+  "before": {
+    "escapedTable": true,
+    "tableCount": 0,
+    "markdownLinks": 21
+  },
+  "after": {
+    "escapedTable": false,
+    "tableCount": 1,
+    "markdownLinks": 0
+  },
+  "tableRepaired": true,
+  "metaTitle": "Hút Bể Phốt Hạ Long Giá Rõ Ràng, Phục Vụ Nhanh Tại Bãi Cháy, Hồng Gai",
+  "metaDescription": "Hút bể phốt Hạ Long cho nhà dân, khách sạn, homestay, nhà hàng tại Bãi Cháy, Hồng Gai, Tuần Châu. Báo giá rõ trước khi làm, xe đến nhanh. Gọi 0963.953.533.",
+  "metaDescriptionLength": 155,
+  "updateStatus": 200,
+  "rankMathStatus": 200,
+  "rankMathOk": true,
+  "live": {
+    "status": 200,
+    "h1Count": 1,
+    "tableCount": 1,
+    "escapedTable": false,
+    "markdownLinks": 0,
+    "hasPriceHeading": true,
+    "hasFaq": true,
+    "metaDescription": "Hút bể phốt Hạ Long 24/7 – xe bồn có mặt 15 phút, hút sạch không mùi, không đục phá. Phục vụ nhà dân, khách sạn, nhà hàng tại Hạ Long. Gọi 0963.953.533.",
+    "metaDescriptionLength": 152
+  }
+}

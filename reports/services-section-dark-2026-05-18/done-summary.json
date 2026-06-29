@@ -1,0 +1,49 @@
+[
+  {
+    "viewport": {
+      "name": "desktop-done",
+      "width": 1440,
+      "height": 1180
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.10; direct-template",
+      "noHorizontalScroll": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "cardCount": 6,
+      "vectorCount": 10,
+      "visibleVectorCount": 10,
+      "mobileCtaExists": false,
+      "benefitCells": 5,
+      "gridColumns": "436px 436px 436px",
+      "cardOpacity": "1",
+      "cardBg": "rgba(255, 255, 255, 0.97) none repeat scroll 0% 0% / auto padding-box border-box",
+      "benefitBg": "linear-gradient(rgba(5, 30, 48, 0.98), rgba(2, 18, 31, 0.98))"
+    }
+  },
+  {
+    "viewport": {
+      "name": "mobile-done",
+      "width": 390,
+      "height": 1050,
+      "mobile": true
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.10; direct-template",
+      "noHorizontalScroll": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "cardCount": 6,
+      "vectorCount": 10,
+      "visibleVectorCount": 5,
+      "mobileCtaExists": false,
+      "benefitCells": 5,
+      "gridColumns": "358px",
+      "cardOpacity": "1",
+      "cardBg": "rgba(255, 255, 255, 0.97) none repeat scroll 0% 0% / auto padding-box border-box",
+      "benefitBg": "linear-gradient(rgba(5, 30, 48, 0.98), rgba(2, 18, 31, 0.98))"
+    }
+  }
+]

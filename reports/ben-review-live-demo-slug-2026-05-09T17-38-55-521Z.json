@@ -1,0 +1,31 @@
+{
+  "slug": "demo-slug",
+  "generated_at": "2026-05-09T17:38:55.521Z",
+  "agent": "unknown",
+  "type": "live",
+  "seo_score": {
+    "display": "n/a",
+    "threshold": "per audit",
+    "pass": true
+  },
+  "image_gate": {
+    "status": "N/A",
+    "pass": true
+  },
+  "preflight": {
+    "passed": 1,
+    "total": 1,
+    "pass": true
+  },
+  "issues": [
+    "Chưa có dòng tiến độ liên quan trong SEO_PROGRESS.csv."
+  ],
+  "verdict": "FAIL",
+  "review_status": "fail",
+  "recommendation": "Dừng và điều tra lỗi audit live.",
+  "evidence": {
+    "audit_stdout": "{\n  \"slug\": \"demo-slug\",\n  \"checked_at\": \"2026-05-09T17:38:55.438Z\",\n  \"candidate\": null,\n  \"word_count\": 0,\n  \"has_hotline\": false,\n  \"has_local_intent\": false,\n  \"has_cta\": false,\n  \"issues\": [\n    \"Không tìm thấy file live/draft để audit.\"\n  ],\n  \"pass\": false,\n  \"notes\": [\n    \"Live audit now checks content length, hotline, local intent, and CTA.\"\n  ],\n  \"report_json\": \"/mnt/d/.thongtaccongquangninh/reports/live-seo-audit-2026-05-09T17-38-55-439Z.json\"\n}\n",
+    "doorway_stdout": "{\n  \"slug\": \"demo-slug\",\n  \"checked_at\": \"2026-05-09T17:38:55.504Z\",\n  \"doorway_risk\": 0,\n  \"pass\": true,\n  \"issues\": [\n    \"Không tìm thấy draft để phân tích.\"\n  ],\n  \"notes\": [\n    \"Doorway scan now estimates repetition and local-entity stuffing risk.\"\n  ],\n  \"report_json\": \"/mnt/d/.thongtaccongquangninh/reports/doorway-audit-2026-05-09T17-38-55-505Z.json\"\n}\n",
+    "latest_progress": null
+  }
+}

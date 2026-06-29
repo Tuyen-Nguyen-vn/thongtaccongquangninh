@@ -1,0 +1,87 @@
+{
+  "session_id": "ben-1778326940650-bf0821",
+  "generated_at": "2026-05-09T11:42:20.650Z",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "CSV-003",
+      "source": "docs/SEO_PROGRESS.csv",
+      "question": "Cột nào dùng để ghi hành động tiếp theo nếu còn thiếu dữ liệu?",
+      "difficulty": "easy",
+      "type": "contains",
+      "order": 1
+    },
+    {
+      "id": "CHECKLIST-001",
+      "source": "docs/SEO_CHECKLIST.md",
+      "question": "Trước khi public, checklist yêu cầu kiểm những thành phần nào?",
+      "difficulty": "medium",
+      "type": "subset",
+      "order": 2
+    },
+    {
+      "id": "CSV-001",
+      "source": "docs/SEO_PROGRESS.csv",
+      "question": "Luật ghi tiến độ yêu cầu có ghi dòng tiến độ trong file nào?",
+      "difficulty": "easy",
+      "type": "contains",
+      "order": 3
+    },
+    {
+      "id": "AGENTS-009",
+      "source": "AGENTS.md",
+      "question": "Lệnh onboarding quiz của Ben là gì?",
+      "difficulty": "easy",
+      "type": "contains",
+      "order": 4
+    },
+    {
+      "id": "BEN-001",
+      "source": "Ben spec",
+      "question": "Ben có được tự publish WordPress live không?",
+      "difficulty": "easy",
+      "type": "contains",
+      "order": 5
+    },
+    {
+      "id": "CLAUDE-001",
+      "source": "CLAUDE.md",
+      "question": "Theo thứ tự bắt buộc, file nào phải đọc đầu tiên mỗi phiên?",
+      "difficulty": "easy",
+      "type": "contains",
+      "order": 6
+    },
+    {
+      "id": "BEN-004",
+      "source": "Ben spec",
+      "question": "Kể tên 2 trạng thái verdict mà Ben có thể phát cho task.",
+      "difficulty": "easy",
+      "type": "subset",
+      "order": 7
+    },
+    {
+      "id": "CHECKLIST-002",
+      "source": "docs/SEO_CHECKLIST.md",
+      "question": "Bài SEO địa phương cần bao nhiêu câu FAQ voice search tối thiểu?",
+      "difficulty": "easy",
+      "type": "exact",
+      "order": 8
+    },
+    {
+      "id": "CODEX-003",
+      "source": "CODEX_CONTEXT.md",
+      "question": "Nêu 3 thế mạnh cần nhấn mạnh trong nội dung.",
+      "difficulty": "medium",
+      "type": "contains",
+      "order": 9
+    },
+    {
+      "id": "AGENTS-001",
+      "source": "AGENTS.md",
+      "question": "Hotline của dự án là gì?",
+      "difficulty": "easy",
+      "type": "exact_set",
+      "order": 10
+    }
+  ]
+}

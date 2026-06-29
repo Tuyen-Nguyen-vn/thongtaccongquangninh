@@ -1,0 +1,107 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-06-03T15:30:32.549Z",
+  "target": {
+    "id": 2379,
+    "collection": "posts",
+    "slug": "thong-tac-bon-cau-ban-dem-quang-ninh",
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-bon-cau-ban-dem-2026-06-03T15-30-31-266Z",
+  "newTitle": "Thông tắc bồn cầu ban đêm Quảng Ninh: thợ trực 24/7 đến tận nơi",
+  "newTitleLen": 63,
+  "newDesc": "Thông tắc bồn cầu ban đêm Quảng Ninh: gọi 0963.953.533, thợ trực 24/7, xử lý nhanh không đục phá tại Hạ Long, Cẩm Phả, Uông Bí. Có báo giá trước khi làm.",
+  "newDescLen": 153,
+  "before": {
+    "title": "Thông Tắc Bồn Cầu Ban Đêm Quảng Ninh – Gọi Là Có Ngay 2026",
+    "excerpt": "Thông tắc bồn cầu ban đêm Quảng Ninh – gọi 0963.953.533, thợ có mặt trong 15 phút. Xử lý nhanh, không đục phá, phục vụ 24/7 tại Hạ Long, Cẩm Phả, Uông Bí.",
+    "rawWordCount": 2001,
+    "rawH1Count": 1,
+    "rawH2Count": 9,
+    "hasNguyenNhanH2": false,
+    "hasExtraMarker": false,
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changes": [
+      {
+        "label": "add_nguyen_nhan_h2",
+        "changed": true
+      },
+      {
+        "label": "add_word_count_risk_notes",
+        "changed": true
+      },
+      {
+        "label": "replace_old_author_url",
+        "changed": true
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema",
+        "changed": true
+      },
+      {
+        "label": "ensure_final_author_line",
+        "changed": true
+      }
+    ],
+    "afterRawWordCount": 2085,
+    "afterRawH1Count": 1,
+    "afterRawH2Count": 9,
+    "hasNguyenNhanH2": true,
+    "hasExtraMarker": true,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "finalAuthorLine": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/?nowprocket=1&codex=bon-cau-ban-dem-1780500636674",
+    "title": "Thông tắc bồn cầu ban đêm Quảng Ninh: thợ trực 24/7 đến tận nơi",
+    "titleLen": 63,
+    "metaDesc": "Thông tắc bồn cầu ban đêm Quảng Ninh: gọi 0963.953.533, thợ trực 24/7, xử lý nhanh không đục phá tại Hạ Long, Cẩm Phả, Uông Bí. Có báo giá trước khi làm.",
+    "metaDescLen": 153,
+    "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+    "h1": [
+      "Thông tắc bồn cầu ban đêm Quảng Ninh: thợ trực 24/7 đến tận nơi"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nguyên nhân bồn cầu tắc vào ban đêm tại Quảng Ninh",
+      "Thông Tắc Bồn Cầu Ban Đêm Là Gì? Khi Nào Cần Gọi Ngay?",
+      "Quy Trình Thông Tắc Bồn Cầu Ban Đêm – 5 Bước Tại Quảng Ninh",
+      "Bảng Giá Thông Tắc Bồn Cầu Ban Đêm Tại Quảng Ninh 2026",
+      "Tại Sao Chọn Môi Trường Đô Thị Số 1 Quảng Ninh?",
+      "Thực Tế Xử Lý Tại Quảng Ninh",
+      "Tác giả bài viết",
+      "Khu Vực Phục Vụ &#038; Thông Tin Liên Hệ",
+      "Câu Hỏi Thường Gặp (FAQ)",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3475,
+    "hasServiceSchema": true,
+    "hasAuthorArchive": true,
+    "hasOldAuthorUrl": false
+  },
+  "after": {
+    "title": "Thông tắc bồn cầu ban đêm Quảng Ninh: thợ trực 24/7 đến tận nơi",
+    "excerpt": "Thông tắc bồn cầu ban đêm Quảng Ninh: gọi 0963.953.533, thợ trực 24/7, xử lý nhanh không đục phá tại Hạ Long, Cẩm Phả, Uông Bí. Có báo giá trước khi làm.",
+    "rawWordCount": 2085,
+    "contentLen": 15585
+  }
+}

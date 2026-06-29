@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.196Z",
+  "slug": "thong-tac-cong-gieng-day",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+  "focusKeyword": "thông tắc cống Giếng Đáy",
+  "service": "thông tắc cống",
+  "area": "Giếng Đáy",
+  "subAreas": "nhận thông tắc cống Giếng Đáy Môi Trường Đô Thị Số 1 Quảng Ninh nhận thông tắc cống Giếng Đáy tại khu dân cư, nhà trọ, cửa hàng, quán ăn, mặt bằng kinh doanh và công trình dân dụng trong phường. Đội cũng hỗ trợ các khu vực lân cận tại Hạ Lo...",
+  "searchIntent": "",
+  "caseStudy": "E-E-A-T dạng tình huống thường gặp tại Giếng Đáy Lưu ý: phần này là tình huống thường gặp, không ghi nhận là khách hàng thật khi chưa có dữ liệu xác minh. Một nhà trọ tại Giếng Đáy có thể gặp tình trạng thoát sàn khu vệ sinh tầng một bốc mùi và nước rút chậm vào buổi tối. Người thuê đã tự đổ bột thông tắc, nhưng sáng hôm sau mùi vẫn quay lại. Khi kiểm tra, dấu hiệu cho thấy điểm nghẹt không chỉ nằm ở miệng thoát mà có thể liên quan tới đoạn ống chung và hố ga ngoài sân. Với tình huống này, thợ thông tắc cống Giếng Đáy sẽ kiểm tra phễu thoát sàn, mở hố ga gần nhất và thử dòng nước. Nếu phát hiện tóc, cặn xà phòng hoặc bùn nhỏ mắc trong ống, máy lò xo được dùng để phá điểm nghẹt. Nếu hố ga có bùn dày, kỹ thuật báo thêm phương án vệ sinh hố ga để không tái phát nhanh. Điểm cần rút ra là nhà trọ và nhà đông người dùng có tải xả thải cao hơn nhà dân bình thường. Nếu chỉ thông miệng thoát mà b...",
+  "shouldUse": [
+    "máy lò xo",
+    "cống",
+    "hố ga",
+    "đường ống",
+    "thợ xử lý ngoài trời/bếp"
+  ],
+  "shouldAvoid": [
+    "ảnh xe hút bể phốt nếu bài không nói đến hút"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

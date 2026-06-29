@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-06-27T17:22:55.709Z",
+  "files": [
+    {
+      "remote": "public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "local": "tools/wp-plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "backup": "backups/footer-console-fix-20260628T001507/remote-before-ttcqn-home-emergency-renderer.php",
+      "writeResult": "{\"path\":\"public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php\",\"status\":\"ok\"}",
+      "changed": true
+    },
+    {
+      "remote": "public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php",
+      "local": "tools/wp-plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php",
+      "backup": "backups/footer-console-fix-20260628T001507/remote-before-shared-footer-interactions-inline.php",
+      "writeResult": "{\"path\":\"public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php\",\"status\":\"ok\"}",
+      "changed": true
+    }
+  ],
+  "cacheDeletes": [
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html",
+      "result": "{\"deleted\":\"public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html\"}"
+    },
+    {
+      "path": "public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html_gzip",
+      "result": "{\"deleted\":\"public_html/wp-content/cache/wp-rocket/thongtaccongquangninh.com/index-https.html_gzip\"}"
+    }
+  ]
+}

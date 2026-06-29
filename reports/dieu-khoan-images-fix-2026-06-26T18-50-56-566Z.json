@@ -1,0 +1,561 @@
+{
+  "ok": true,
+  "mode": "write",
+  "generatedAt": "2026-06-26T18:51:01.802Z",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "page": {
+    "id": 2445,
+    "slug": "dieu-khoan-dich-vu",
+    "link": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+    "status": "publish",
+    "title": "Điều Khoản Dịch Vụ"
+  },
+  "before": {
+    "contentLength": 10906,
+    "imageCount": 0
+  },
+  "after": {
+    "contentLength": 12156,
+    "imageCount": 3
+  },
+  "changed": true,
+  "planned": [
+    {
+      "action": "replace-empty-figure",
+      "fileName": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp"
+    },
+    {
+      "action": "insert-after-heading",
+      "marker": "<h2>5. Cam Kết Thực Hiện</h2>",
+      "fileName": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp"
+    },
+    {
+      "action": "insert-after-heading",
+      "marker": "<h2>11. Liên Hệ</h2>",
+      "fileName": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp"
+    },
+    {
+      "action": "add-author-byline"
+    }
+  ],
+  "images": [
+    {
+      "fileName": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+      "alt": "Xe hút bể phốt phục vụ theo điều khoản dịch vụ tại Quảng Ninh",
+      "caption": "Hình minh họa quy trình tiếp nhận, điều phối xe và nhân lực theo đúng phạm vi đã thống nhất.",
+      "title": "Điều khoản dịch vụ xe hút bể phốt Quảng Ninh",
+      "insert": "replace-empty-figure",
+      "localPath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/dieu-khoan-dich-vu-2026-06-27/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+      "uploaded": {
+        "id": 3006,
+        "date": "2026-06-27T01:50:58",
+        "date_gmt": "2026-06-26T18:50:58",
+        "guid": {
+          "rendered": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+          "raw": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp"
+        },
+        "modified": "2026-06-27T01:50:58",
+        "modified_gmt": "2026-06-26T18:50:58",
+        "slug": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh/",
+        "title": {
+          "raw": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh",
+          "rendered": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "permalink_template": "https://thongtaccongquangninh.com/?attachment_id=3006",
+        "generated_slug": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh",
+        "class_list": [
+          "post-3006",
+          "attachment",
+          "type-attachment",
+          "status-inherit",
+          "hentry"
+        ],
+        "description": {
+          "raw": "",
+          "rendered": "<p class=\"attachment\"><a href='https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp'><img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"178\" src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-300x178.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-300x178.webp 300w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-1024x606.webp 1024w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-768x455.webp 768w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+        },
+        "caption": {
+          "raw": "",
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/webp",
+        "media_details": {
+          "width": 1280,
+          "height": 758,
+          "file": "2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+          "filesize": 122702,
+          "sizes": {
+            "medium": {
+              "file": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-300x178.webp",
+              "width": 300,
+              "height": 178,
+              "filesize": 15274,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-300x178.webp"
+            },
+            "large": {
+              "file": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-1024x606.webp",
+              "width": 1024,
+              "height": 606,
+              "filesize": 91364,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-1024x606.webp"
+            },
+            "thumbnail": {
+              "file": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-150x150.webp",
+              "width": 150,
+              "height": 150,
+              "filesize": 8350,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-150x150.webp"
+            },
+            "medium_large": {
+              "file": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-768x455.webp",
+              "width": 768,
+              "height": 455,
+              "filesize": 62014,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh-768x455.webp"
+            },
+            "full": {
+              "file": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+              "width": 1280,
+              "height": 758,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "post": null,
+        "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+        "missing_image_sizes": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3006",
+              "targetHints": {
+                "allow": [
+                  "GET",
+                  "POST",
+                  "PUT",
+                  "PATCH",
+                  "DELETE"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/comments?post=3006"
+            }
+          ],
+          "wp:action-unfiltered-html": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3006"
+            }
+          ],
+          "wp:action-assign-author": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3006"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fileName": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+      "alt": "Kỹ thuật viên thông tắc cống thực hiện đúng điều khoản đã báo tại Quảng Ninh",
+      "caption": "Hình minh họa thao tác kỹ thuật sau khi khách hàng xác nhận phạm vi, chi phí và thời gian xử lý.",
+      "title": "Điều khoản dịch vụ kỹ thuật thông tắc cống Quảng Ninh",
+      "insertAfter": "<h2>5. Cam Kết Thực Hiện</h2>",
+      "localPath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/dieu-khoan-dich-vu-2026-06-27/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+      "uploaded": {
+        "id": 3007,
+        "date": "2026-06-27T01:51:00",
+        "date_gmt": "2026-06-26T18:51:00",
+        "guid": {
+          "rendered": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+          "raw": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp"
+        },
+        "modified": "2026-06-27T01:51:00",
+        "modified_gmt": "2026-06-26T18:51:00",
+        "slug": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh/",
+        "title": {
+          "raw": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh",
+          "rendered": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "permalink_template": "https://thongtaccongquangninh.com/?attachment_id=3007",
+        "generated_slug": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh",
+        "class_list": [
+          "post-3007",
+          "attachment",
+          "type-attachment",
+          "status-inherit",
+          "hentry"
+        ],
+        "description": {
+          "raw": "",
+          "rendered": "<p class=\"attachment\"><a href='https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp'><img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"273\" src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-300x273.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-300x273.webp 300w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-768x700.webp 768w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+        },
+        "caption": {
+          "raw": "",
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/webp",
+        "media_details": {
+          "width": 900,
+          "height": 820,
+          "file": "2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+          "filesize": 142442,
+          "sizes": {
+            "medium": {
+              "file": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-300x273.webp",
+              "width": 300,
+              "height": 273,
+              "filesize": 22866,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-300x273.webp"
+            },
+            "thumbnail": {
+              "file": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-150x150.webp",
+              "width": 150,
+              "height": 150,
+              "filesize": 7380,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-150x150.webp"
+            },
+            "medium_large": {
+              "file": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-768x700.webp",
+              "width": 768,
+              "height": 700,
+              "filesize": 105088,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh-768x700.webp"
+            },
+            "full": {
+              "file": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+              "width": 900,
+              "height": 820,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "post": null,
+        "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+        "missing_image_sizes": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3007",
+              "targetHints": {
+                "allow": [
+                  "GET",
+                  "POST",
+                  "PUT",
+                  "PATCH",
+                  "DELETE"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/comments?post=3007"
+            }
+          ],
+          "wp:action-unfiltered-html": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3007"
+            }
+          ],
+          "wp:action-assign-author": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3007"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fileName": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+      "alt": "Thông tin liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh trong điều khoản dịch vụ",
+      "caption": "Hình minh họa thông tin nhận yêu cầu, bảo hành và xử lý phản hồi qua hotline 0963.953.533 / 0931.156.756.",
+      "title": "Điều khoản dịch vụ liên hệ Môi Trường Quảng Ninh",
+      "insertAfter": "<h2>11. Liên Hệ</h2>",
+      "localPath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/dieu-khoan-dich-vu-2026-06-27/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+      "uploaded": {
+        "id": 3008,
+        "date": "2026-06-27T01:51:01",
+        "date_gmt": "2026-06-26T18:51:01",
+        "guid": {
+          "rendered": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+          "raw": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp"
+        },
+        "modified": "2026-06-27T01:51:01",
+        "modified_gmt": "2026-06-26T18:51:01",
+        "slug": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh",
+        "status": "inherit",
+        "type": "attachment",
+        "link": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh/",
+        "title": {
+          "raw": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh",
+          "rendered": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "permalink_template": "https://thongtaccongquangninh.com/?attachment_id=3008",
+        "generated_slug": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh",
+        "class_list": [
+          "post-3008",
+          "attachment",
+          "type-attachment",
+          "status-inherit",
+          "hentry"
+        ],
+        "description": {
+          "raw": "",
+          "rendered": "<p class=\"attachment\"><a href='https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp'><img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-300x169.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-300x169.webp 300w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-1024x576.webp 1024w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-768x432.webp 768w, https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+        },
+        "caption": {
+          "raw": "",
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/webp",
+        "media_details": {
+          "width": 1280,
+          "height": 720,
+          "file": "2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+          "filesize": 109672,
+          "sizes": {
+            "medium": {
+              "file": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-300x169.webp",
+              "width": 300,
+              "height": 169,
+              "filesize": 10728,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-300x169.webp"
+            },
+            "large": {
+              "file": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-1024x576.webp",
+              "width": 1024,
+              "height": 576,
+              "filesize": 73164,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-1024x576.webp"
+            },
+            "thumbnail": {
+              "file": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-150x150.webp",
+              "width": 150,
+              "height": 150,
+              "filesize": 6596,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-150x150.webp"
+            },
+            "medium_large": {
+              "file": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-768x432.webp",
+              "width": 768,
+              "height": 432,
+              "filesize": 48834,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh-768x432.webp"
+            },
+            "full": {
+              "file": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+              "width": 1280,
+              "height": 720,
+              "mime_type": "image/webp",
+              "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "post": null,
+        "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+        "missing_image_sizes": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3008",
+              "targetHints": {
+                "allow": [
+                  "GET",
+                  "POST",
+                  "PUT",
+                  "PATCH",
+                  "DELETE"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/comments?post=3008"
+            }
+          ],
+          "wp:action-unfiltered-html": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3008"
+            }
+          ],
+          "wp:action-assign-author": [
+            {
+              "href": "https://thongtaccongquangninh.com/wp-json/wp/v2/media/3008"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-dieu-khoan-images-2026-06-26T18-50-56-566Z",
+  "liveVerify": {
+    "status": 200,
+    "h1Count": 0,
+    "mainImages": 3,
+    "contentImages": 3,
+    "missingAlt": 0,
+    "hasAuthor": true,
+    "hasBannedWord": false
+  }
+}

@@ -1,0 +1,781 @@
+{
+  "generatedAt": "2026-05-23T19:32:09.597Z",
+  "site": "https://thongtaccongquangninh.com",
+  "sourceSiteAudit": "reports/site-full-audit-2026-05-24-smoke.json",
+  "count": 3,
+  "duplicateTitleThreshold": 0.85,
+  "duplicateTitlePairs": [],
+  "results": [
+    {
+      "id": 23,
+      "type": "page",
+      "slug": "trang-chu",
+      "link": "https://thongtaccongquangninh.com/",
+      "title": "Môi Trường Đô Thị Số 1 Quảng Ninh - Hút Bể Phốt, Thông Tắc Cống 24/7",
+      "date": "2026-03-30T10:34:01",
+      "fetchStatus": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/",
+      "canonical": "https://thongtaccongquangninh.com/",
+      "metaDesc": "Hút bể phốt, thông tắc cống, bồn cầu, hố ga tại Quảng Ninh. Có mặt 15-30 phút, báo giá trước, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescLen": 143,
+      "ogDesc": "Hút bể phốt, thông tắc cống, bồn cầu, hố ga tại Quảng Ninh. Có mặt 15-30 phút, báo giá trước, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "viewport": true,
+      "noindex": false,
+      "schemas": [
+        "Organization",
+        "WebSite",
+        "ImageObject",
+        "WebPage",
+        "Article",
+        "VideoObject",
+        "LocalBusiness",
+        "HomeAndConstructionBusiness",
+        "FAQPage"
+      ],
+      "footerHash": "561e483ef99c",
+      "footerLen": 18431,
+      "internalLinks": [
+        "https://thongtaccongquangninh.com/",
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+        "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+        "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+        "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+        "https://thongtaccongquangninh.com/bang-gia/",
+        "https://thongtaccongquangninh.com/blog/",
+        "https://thongtaccongquangninh.com/lien-he/",
+        "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+        "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-2/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh-2/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/",
+        "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/",
+        "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+        "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+        "https://thongtaccongquangninh.com/gioi-thieu/"
+      ],
+      "brokenLinks": [],
+      "pageKind": "other",
+      "wordCount": 2399,
+      "headings": {
+        "h1": [
+          "HÚT BỂ PHỐT, THÔNG TẮC CỐNG QUẢNG NINH 24/7"
+        ],
+        "h2": [
+          "Nhận gọi lại miễn phí",
+          "Nhận gọi lại miễn phí",
+          "PHỤC VỤ 24/7 TẠI QUẢNG NINH",
+          "PHỤC VỤ TRÊN TOÀN TỈNH QUẢNG NINH",
+          "MINH BẠCH CHI PHÍ – AN TÂM DỊCH VỤ",
+          "Cẩm Nang Thoát Nước Thông Minh",
+          "KHÁCH HÀNG NÓI GÌ?",
+          "ĐỐI TÁC LÂU NĂM & KHÁCH HÀNG TIÊU BIỂU",
+          "CÂU HỎI THƯỜNG GẶP"
+        ],
+        "h3": [
+          "Hút bể phốt biệt thự tại Hạ Long",
+          "Thông tắc chậu rửa nhà hàng",
+          "Nạo vét hố ga khu dân cư",
+          "Thông tắc bồn cầu nhà trọ",
+          "Xử lý mùi hôi nhà vệ sinh",
+          "Thông tắc cống nhà dân",
+          "Bạn cần xử lý công trình tương tự?",
+          "Gọi hotline hoặc Zalo",
+          "Hỏi nhanh tình trạng",
+          "Báo phương án",
+          "Kiểm tra và báo giá",
+          "Thi công và bàn giao",
+          "Cần xử lý gấp?",
+          "Hạ Long",
+          "Cẩm Phả",
+          "Uông Bí",
+          "Móng Cái",
+          "Đông Triều",
+          "Quảng Yên",
+          "Vân Đồn",
+          "HÌNH ẢNH THI CÔNG THỰC TẾ",
+          "YẾU TỐ ẢNH HƯỞNG ĐẾN GIÁ DỊCH VỤ",
+          "Mức độ tắc nghẽn",
+          "Vị trí thi công",
+          "Chiều dài đường ống",
+          "Thiết bị sử dụng",
+          "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+          "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút",
+          "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+          "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+          "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+          "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+          "Cống bếp, dầu mỡ, hố ga",
+          "Bể phốt, bồn cầu, thoát sàn",
+          "Điểm sử dụng tần suất cao",
+          "Ca gấp trong ngày",
+          "Hỗ trợ ngoài giờ",
+          "Nạo vét, thoát nước, mùi hôi"
+        ]
+      },
+      "requiredH2": {
+        "hit": [
+          "Bảng giá",
+          "FAQ / Câu hỏi"
+        ],
+        "missing": [
+          "Nguyên nhân",
+          "Tại sao chọn / Cam kết",
+          "Quy trình",
+          "NAP / Liên hệ"
+        ]
+      },
+      "forbidden": [
+        {
+          "word": "chuyên nghiệp",
+          "count": 2
+        },
+        {
+          "word": "uy tín",
+          "count": 1
+        }
+      ],
+      "hotlineCountBody": 55,
+      "hotlineCountMain": 11,
+      "keyword": {
+        "focusAscii": "trang chu",
+        "count": 0,
+        "total": 2399,
+        "density": 0
+      },
+      "images": {
+        "total": 42,
+        "items": [
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+            "alt": "Xe hút bể phốt chuyên dụng tại Quảng Ninh",
+            "filename": "septic-truck-real.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+            "alt": "Kỹ thuật viên Môi Trường Đô Thị Số 1 Quảng Ninh tư vấn dịch vụ",
+            "filename": "hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+            "alt": "Đối tác công ty xử lý nước thải Quảng Ninh",
+            "filename": "doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-thiet-bi-hut-be-phot-quang-ninh.webp",
+            "alt": "Đối tác cung cấp thiết bị hút bể phốt Quảng Ninh",
+            "filename": "doi-tac-thiet-bi-hut-be-phot-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-may-bom-thong-cong-ha-long.webp",
+            "alt": "Đối tác cung cấp máy bơm thông cống Hạ Long Quảng Ninh",
+            "filename": "doi-tac-may-bom-thong-cong-ha-long.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-hoa-chat-xu-ly-moi-truong-quang-ninh.webp",
+            "alt": "Đối tác hóa chất xử lý môi trường Quảng Ninh",
+            "filename": "doi-tac-hoa-chat-xu-ly-moi-truong-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-xe-hut-be-phot-chuyen-dung-ha-long.webp",
+            "alt": "Đối tác xe hút bể phốt chuyên dụng Hạ Long",
+            "filename": "doi-tac-xe-hut-be-phot-chuyen-dung-ha-long.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-vat-tu-thong-tac-cong-quang-ninh.webp",
+            "alt": "Đối tác vật tư thông tắc cống Quảng Ninh",
+            "filename": "doi-tac-vat-tu-thong-tac-cong-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-moi-truong-do-thi-quang-ninh.webp",
+            "alt": "Đối tác môi trường đô thị số 1 Quảng Ninh",
+            "filename": "doi-tac-moi-truong-do-thi-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-hut-be-phot-ho-gia-dinh-ha-long.webp",
+            "alt": "Hút bể phốt biệt thự tại Hạ Long bằng xe chuyên dụng",
+            "filename": "du-an-hut-be-phot-ho-gia-dinh-ha-long.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-chau-rua-bai-chay.webp",
+            "alt": "Thông tắc chậu rửa nhà hàng tại Bãi Cháy",
+            "filename": "du-an-thong-tac-chau-rua-bai-chay.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-nao-vet-ho-ga-cam-pha.webp",
+            "alt": "Nạo vét hố ga khu dân cư tại Cẩm Phả",
+            "filename": "du-an-nao-vet-ho-ga-cam-pha.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-bon-cau-uong-bi.webp",
+            "alt": "Thông tắc bồn cầu nhà trọ tại Uông Bí",
+            "filename": "du-an-thong-tac-bon-cau-uong-bi.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-xu-ly-mui-hoi-quang-yen.webp",
+            "alt": "Xử lý mùi hôi nhà vệ sinh tại Quảng Yên",
+            "filename": "du-an-xu-ly-mui-hoi-quang-yen.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/du-an-thong-tac-cong-dong-trieu.webp",
+            "alt": "Thông tắc cống thoát sàn tại Đông Triều bằng máy lò xo",
+            "filename": "du-an-thong-tac-cong-dong-trieu.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+            "alt": "",
+            "filename": "septic-truck-real.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+            "alt": "",
+            "filename": "hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-1.webp",
+            "alt": "Kỹ thuật viên tiếp nhận cuộc gọi hỗ trợ khách hàng",
+            "filename": "process-step-1.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-2.webp",
+            "alt": "Kỹ thuật viên hỏi nhanh tình trạng tắc nghẽn",
+            "filename": "process-step-2.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-3.webp",
+            "alt": "Kỹ thuật viên tư vấn phương án xử lý",
+            "filename": "process-step-3.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-4.webp",
+            "alt": "Kỹ thuật viên kiểm tra và báo giá trước thi công",
+            "filename": "process-step-4.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-5.webp",
+            "alt": "Kỹ thuật viên thi công và bàn giao khu vực",
+            "filename": "process-step-5.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/price-redesign/price-advisor-consulting.webp",
+            "alt": "Kỹ thuật viên Môi Trường Đô Thị Số 1 Quảng Ninh cầm bảng báo giá tư vấn khách hàng",
+            "filename": "price-advisor-consulting.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/price-redesign/price-septic-truck-villa.webp",
+            "alt": "Xe hút bể phốt màu xanh lá thi công trước biệt thự tại Quảng Ninh",
+            "filename": "price-septic-truck-villa.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/price-redesign/price-thumb-thong-tac-cong.webp",
+            "alt": "Kỹ thuật viên thông tắc cống thực tế tại Quảng Ninh",
+            "filename": "price-thumb-thong-tac-cong.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/price-redesign/price-thumb-thong-tac-bon-cau.webp",
+            "alt": "Kỹ thuật viên thông tắc bồn cầu thực tế tại Quảng Ninh",
+            "filename": "price-thumb-thong-tac-bon-cau.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/price-redesign/price-thumb-nao-vet-ho-ga.webp",
+            "alt": "Kỹ thuật viên nạo vét hố ga thực tế tại Quảng Ninh",
+            "filename": "price-thumb-nao-vet-ho-ga.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/price-redesign/price-thumb-thong-tac-chau-rua.webp",
+            "alt": "Kỹ thuật viên thông tắc chậu rửa thực tế tại Quảng Ninh",
+            "filename": "price-thumb-thong-tac-chau-rua.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "alt": "Máy thông tắc cống xử lý đường ống nghẹt tại Quảng Ninh",
+            "filename": "service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "alt": "Máy thông tắc cống xử lý đường ống nghẹt tại Quảng Ninh",
+            "filename": "service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "alt": "Máy thông tắc cống xử lý đường ống nghẹt tại Quảng Ninh",
+            "filename": "service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "alt": "Máy thông tắc cống xử lý đường ống nghẹt tại Quảng Ninh",
+            "filename": "service-thong-tac-cong-quang-ninh-may-chuyen-dung-768x768.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung-768x768.webp",
+            "alt": "Xe hút bể phốt phục vụ nhà dân và cơ sở kinh doanh tại Quảng Ninh",
+            "filename": "service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung-768x768.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung-768x768.webp",
+            "alt": "Xe hút bể phốt phục vụ nhà dân và cơ sở kinh doanh tại Quảng Ninh",
+            "filename": "service-hut-be-phot-quang-ninh-xe-bon-chuyen-dung-768x768.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-vinhomes-global-gate-ha-long.webp",
+            "alt": "Logo Vinhomes Global Gate Hạ Long",
+            "filename": "logo-vinhomes-global-gate-ha-long.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-phoenix-legend-ha-long.webp",
+            "alt": "Logo Phoenix Legend Hạ Long",
+            "filename": "logo-phoenix-legend-ha-long.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-masteri-centre-point.webp",
+            "alt": "Logo Masteri Centre Point",
+            "filename": "logo-masteri-centre-point.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-imperia-holiday-ha-long.webp",
+            "alt": "Logo Imperia Holiday Hạ Long",
+            "filename": "logo-imperia-holiday-ha-long.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-dai-hoc-ha-long-uhl.webp",
+            "alt": "Logo Đại học Hạ Long UHL",
+            "filename": "logo-dai-hoc-ha-long-uhl.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-bia-ha-long.webp",
+            "alt": "Logo Bia Hạ Long",
+            "filename": "logo-bia-ha-long.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-muong-thanh-hospitality.webp",
+            "alt": "Logo Mường Thanh Hospitality",
+            "filename": "logo-muong-thanh-hospitality.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-sun-world-ha-long.webp",
+            "alt": "Logo Sun World Hạ Long",
+            "filename": "logo-sun-world-ha-long.webp",
+            "external": false
+          }
+        ],
+        "issues": [
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+            "problem": "EMPTY_ALT"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+            "problem": "EMPTY_ALT"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-1.webp",
+            "problem": "ALT_NO_SERVICE_OR_LOCATION",
+            "alt": "Kỹ thuật viên tiếp nhận cuộc gọi hỗ trợ khách hàng"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-2.webp",
+            "problem": "ALT_NO_SERVICE_OR_LOCATION",
+            "alt": "Kỹ thuật viên hỏi nhanh tình trạng tắc nghẽn"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-3.webp",
+            "problem": "ALT_NO_SERVICE_OR_LOCATION",
+            "alt": "Kỹ thuật viên tư vấn phương án xử lý"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-4.webp",
+            "problem": "ALT_NO_SERVICE_OR_LOCATION",
+            "alt": "Kỹ thuật viên kiểm tra và báo giá trước thi công"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/process-redesign/process-step-5.webp",
+            "problem": "ALT_NO_SERVICE_OR_LOCATION",
+            "alt": "Kỹ thuật viên thi công và bàn giao khu vực"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-masteri-centre-point.webp",
+            "problem": "ALT_NO_SERVICE_OR_LOCATION",
+            "alt": "Logo Masteri Centre Point"
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/partner-logos/logo-muong-thanh-hospitality.webp",
+            "problem": "ALT_NO_SERVICE_OR_LOCATION",
+            "alt": "Logo Mường Thanh Hospitality"
+          }
+        ]
+      },
+      "schema": {
+        "types": [
+          "Organization",
+          "WebSite",
+          "ImageObject",
+          "WebPage",
+          "Article",
+          "VideoObject",
+          "LocalBusiness|HomeAndConstructionBusiness",
+          "WebSite",
+          "FAQPage"
+        ],
+        "problems": [
+          "MISSING_BREADCRUMBLIST"
+        ],
+        "parseErrors": []
+      },
+      "probs": [
+        "WORD_BELOW_TARGET(2399)",
+        "FORBIDDEN_WORD",
+        "META_SHORT(143)",
+        "IMG:EMPTY_ALT(2)",
+        "IMG:ALT_NO_SERVICE_OR_LOCATION(7)",
+        "MISSING_BREADCRUMBLIST"
+      ],
+      "severity": "HIGH",
+      "score": 72
+    },
+    {
+      "id": 217,
+      "type": "post",
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính và lưu ý",
+      "date": "2026-04-08T01:36:41",
+      "fetchStatus": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "canonical": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "metaDesc": "Giá hút bể phốt tại Quảng Ninh phụ thuộc vào khối lượng bùn, vị trí xe đỗ, độ dài ống hút, mức độ đầy và thời điểm thi công. Vì vậy báo giá chính xác cần k",
+      "metaDescLen": 155,
+      "ogDesc": "Giá hút bể phốt tại Quảng Ninh phụ thuộc vào khối lượng bùn, vị trí xe đỗ, độ dài ống hút, mức độ đầy và thời điểm thi công. Vì vậy báo giá chính xác cần k",
+      "viewport": true,
+      "noindex": false,
+      "schemas": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "FAQPage",
+        "BlogPosting"
+      ],
+      "footerHash": "561e483ef99c",
+      "footerLen": 18431,
+      "internalLinks": [
+        "https://thongtaccongquangninh.com/",
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+        "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+        "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+        "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+        "https://thongtaccongquangninh.com/bang-gia/",
+        "https://thongtaccongquangninh.com/blog/",
+        "https://thongtaccongquangninh.com/lien-he/",
+        "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+        "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+        "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+        "https://thongtaccongquangninh.com/author/admin/",
+        "https://thongtaccongquangninh.com/category/bang-gia-blog/",
+        "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+        "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+        "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+        "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+        "https://thongtaccongquangninh.com/gioi-thieu/",
+        "https://thongtaccongquangninh.com/ve-sinh-duong-ong-quang-ninh/",
+        "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/"
+      ],
+      "brokenLinks": [],
+      "pageKind": "service_subpage",
+      "wordCount": 1525,
+      "headings": {
+        "h1": [
+          "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính và lưu ý"
+        ],
+        "h2": [
+          "Nhận gọi lại miễn phí",
+          "Nhận gọi lại miễn phí",
+          "Bảng giá tham khảo",
+          "Những yếu tố làm giá thay đổi",
+          "Cách chuẩn bị để được báo giá nhanh",
+          "Dấu hiệu nên hút sớm",
+          "Quy trình báo giá và thi công",
+          "Liên hệ báo giá",
+          "Phần kiểm tra chuyên sâu trước khi xử lý",
+          "Bảng quyết định nhanh",
+          "Lỗi cần tránh",
+          "Liên hệ hỗ trợ",
+          "Phân tích thêm trước khi quyết định xử lý",
+          "Checklist an toàn",
+          "Phân tích thêm trước khi quyết định xử lý",
+          "Checklist an toàn"
+        ],
+        "h3": [
+          "Câu Hỏi Thường Gặp Về Dịch Vụ tại Quảng Ninh",
+          "Leave a Comment Cancel reply"
+        ]
+      },
+      "requiredH2": {
+        "hit": [
+          "Bảng giá",
+          "Quy trình",
+          "NAP / Liên hệ"
+        ],
+        "missing": [
+          "Nguyên nhân",
+          "Tại sao chọn / Cam kết",
+          "FAQ / Câu hỏi"
+        ]
+      },
+      "forbidden": [
+        {
+          "word": "chuyên nghiệp",
+          "count": 1
+        }
+      ],
+      "hotlineCountBody": 58,
+      "hotlineCountMain": 12,
+      "keyword": {
+        "focusAscii": "bang gia hut be phot quang ninh 2026",
+        "count": 2,
+        "total": 1525,
+        "density": 0.010491803278688525
+      },
+      "images": {
+        "total": 3,
+        "items": [
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-xe-bon-nha-dan-quang-ninh.webp",
+            "alt": "Xe bồn hút bể phốt tại nhà dân ở Quảng Ninh",
+            "filename": "bang-gia-hut-be-phot-xe-bon-nha-dan-quang-ninh.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xe-hut-cong-ty-kcn-0-300x195.webp",
+            "alt": "Xe bồn hút bể phốt của Môi Trường Đô Thị Số 1 Quảng Ninh",
+            "filename": "xe-hut-cong-ty-kcn-0-300x195.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-kiem-tra-ho-ga-truoc-bao-gia.webp",
+            "alt": "Kiểm tra hố ga và điểm hút trước khi báo giá hút bể phốt tại Quảng Ninh",
+            "filename": "bang-gia-hut-be-phot-kiem-tra-ho-ga-truoc-bao-gia.webp",
+            "external": false
+          }
+        ],
+        "issues": []
+      },
+      "schema": {
+        "types": [
+          "LocalBusiness",
+          "BreadcrumbList",
+          "FAQPage",
+          "BlogPosting"
+        ],
+        "problems": [
+          "MISSING_SERVICE"
+        ],
+        "parseErrors": []
+      },
+      "probs": [
+        "MISSING_H2:Nguyên nhân",
+        "MISSING_H2:Tại sao chọn / Cam kết",
+        "MISSING_H2:FAQ / Câu hỏi",
+        "WORD_LOW(1525)",
+        "FORBIDDEN_WORD",
+        "TITLE_SHORT(56)",
+        "META_NO_HOTLINE",
+        "MISSING_SERVICE",
+        "SLUG_HAS_DATE_OR_LONG_NUMBER"
+      ],
+      "severity": "HIGH",
+      "score": 48
+    },
+    {
+      "id": 61,
+      "type": "page",
+      "slug": "bang-gia",
+      "link": "https://thongtaccongquangninh.com/bang-gia/",
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+      "date": "2026-04-05T06:16:14",
+      "fetchStatus": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/bang-gia/",
+      "canonical": "https://thongtaccongquangninh.com/bang-gia/",
+      "metaDesc": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026, báo rõ từng hạng mục, không báo giá ảo. Gọi 0963.953.533 / 0931.156.756 để thợ đến nhanh trong ngày.",
+      "metaDescLen": 154,
+      "ogDesc": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026, báo rõ từng hạng mục, không báo giá ảo. Gọi 0963.953.533 / 0931.156.756 để thợ đến nhanh trong ngày.",
+      "viewport": true,
+      "noindex": false,
+      "schemas": [
+        "LocalBusiness",
+        "BreadcrumbList",
+        "OfferCatalog",
+        "FAQPage"
+      ],
+      "footerHash": "561e483ef99c",
+      "footerLen": 18431,
+      "internalLinks": [
+        "https://thongtaccongquangninh.com/",
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+        "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+        "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+        "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+        "https://thongtaccongquangninh.com/bang-gia/",
+        "https://thongtaccongquangninh.com/blog/",
+        "https://thongtaccongquangninh.com/lien-he/",
+        "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+        "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+        "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+        "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+        "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+        "https://thongtaccongquangninh.com/gioi-thieu/",
+        "https://thongtaccongquangninh.com/ve-sinh-duong-ong-quang-ninh/",
+        "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/"
+      ],
+      "brokenLinks": [],
+      "pageKind": "other",
+      "wordCount": 3096,
+      "headings": {
+        "h1": [
+          "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026"
+        ],
+        "h2": [
+          "Nhận gọi lại miễn phí",
+          "Nhận gọi lại miễn phí",
+          "Bảng Giá Thông Tắc Cống Tại Quảng Ninh 2026",
+          "Bảng Giá Hút Bể Phốt Tại Quảng Ninh 2026",
+          "Bảng Giá Thông Tắc Bồn Cầu Tại Quảng Ninh 2026",
+          "Yếu Tố Ảnh Hưởng Đến Bảng Giá Thực Tế",
+          "Cam Kết Về Giá — 3 KHÔNG",
+          "So Sánh Các Phương Pháp Xử Lý — Chọn Gì Cho Phù Hợp?",
+          "Khu Vực Áp Dụng Bảng Giá",
+          "Thông Tin Liên Hệ & Đặt Lịch",
+          "FAQ — Câu Hỏi Thường Gặp Về Bảng Giá Dịch Vụ",
+          "Cách tính bảng giá theo tình trạng thực tế",
+          "Bảng giá theo nhóm sự cố thường gặp",
+          "Khi nào giá có thể phát sinh so với bảng giá",
+          "Cách gọi để nhận báo giá nhanh và đúng hơn",
+          "Case thực tế: báo giá lại sau khi kiểm tra đúng nguyên nhân",
+          "Lưu ý để tránh chọn nhầm mức giá",
+          "Cam kết 3 Không khi báo bảng giá",
+          "Quy trình 5 bước nhận bảng giá và xử lý tại nhà",
+          "Thông tin liên hệ",
+          "Dịch vụ liên quan cần xem"
+        ],
+        "h3": []
+      },
+      "requiredH2": {
+        "hit": [
+          "Nguyên nhân",
+          "Tại sao chọn / Cam kết",
+          "Bảng giá",
+          "Quy trình",
+          "NAP / Liên hệ",
+          "FAQ / Câu hỏi"
+        ],
+        "missing": []
+      },
+      "forbidden": [],
+      "hotlineCountBody": 66,
+      "hotlineCountMain": 15,
+      "keyword": {
+        "focusAscii": "bang gia",
+        "count": 27,
+        "total": 3096,
+        "density": 0.01744186046511628
+      },
+      "images": {
+        "total": 3,
+        "items": [
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/doi-ngu-ky-thuat-moi-truong-do-thi-quang-ninh-01.webp",
+            "alt": "Đội ngũ kỹ thuật Môi Trường Đô Thị Số 1 Quảng Ninh",
+            "filename": "doi-ngu-ky-thuat-moi-truong-do-thi-quang-ninh-01.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+            "alt": "xe bồn hút bể phốt tại nhà dân ở Quảng Ninh",
+            "filename": "bang-gia-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+            "external": false
+          },
+          {
+            "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+            "alt": "thợ kéo ống hút bể phốt vào ngõ sâu tại Quảng Ninh",
+            "filename": "bang-gia-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+            "external": false
+          }
+        ],
+        "issues": []
+      },
+      "schema": {
+        "types": [
+          "LocalBusiness",
+          "BreadcrumbList",
+          "OfferCatalog",
+          "FAQPage"
+        ],
+        "problems": [],
+        "parseErrors": []
+      },
+      "probs": [
+        "WORD_ABOVE_TARGET(3096)",
+        "TITLE_SHORT(52)"
+      ],
+      "severity": "MEDIUM",
+      "score": 94
+    }
+  ]
+}

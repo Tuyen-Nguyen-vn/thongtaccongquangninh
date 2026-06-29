@@ -1,0 +1,46 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T00:00:00.000Z",
+  "slug": "chi-phi-hut-be-phot-quang-ninh",
+  "service": "hút bể phốt",
+  "area": "Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "chi-phi-hut-be-phot-quang-ninh-anh-dau-bai.jpg",
+      "fileNameWebP": "chi-phi-hut-be-phot-quang-ninh-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\chi-phi-hut-be-phot-quang-ninh\\chi-phi-hut-be-phot-quang-ninh-anh-dau-bai.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\chi-phi-hut-be-phot-quang-ninh-anh-dau-bai.jpg",
+      "fileSizeKb": 164,
+      "altText": "Chi phí hút bể phốt Quảng Ninh 2026 bảng giá rõ ràng",
+      "title": "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết",
+      "caption": "Bảng giá hút bể phốt Quảng Ninh 2026 – báo giá rõ, không phát sinh phí",
+      "pageUrl": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "chi-phi-hut-be-phot-quang-ninh-bang-gia.jpg",
+      "fileNameWebP": "chi-phi-hut-be-phot-quang-ninh-bang-gia.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\chi-phi-hut-be-phot-quang-ninh\\chi-phi-hut-be-phot-quang-ninh-bang-gia.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\chi-phi-hut-be-phot-quang-ninh-bang-gia.jpg",
+      "fileSizeKb": 162,
+      "altText": "Hút bể phốt Quảng Ninh giá rẻ minh bạch",
+      "title": "Hút bể phốt Quảng Ninh – Giá minh bạch không phát sinh",
+      "caption": "Dịch vụ hút bể phốt Quảng Ninh – giá báo trước, không phát sinh phí ngoài",
+      "pageUrl": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/",
+      "placement": "trong nội dung",
+      "slot": "Ảnh 2 – minh họa",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

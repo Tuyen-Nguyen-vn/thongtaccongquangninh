@@ -1,0 +1,112 @@
+{
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+  "httpStatus": 200,
+  "title": "Thông tắc cống Cao Xanh cho nhà dân, quán ăn tại Hạ Long 24/7",
+  "titleLength": 61,
+  "meta": "Thông tắc cống Cao Xanh cho nhà dân, quán ăn khi nước rút chậm, trào ngược hoặc có mùi hôi. Gọi 0963.953.533 / 0931.156.756 để kiểm tra tại Hạ Long sớm.",
+  "metaLength": 152,
+  "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+  "robotsNoindex": false,
+  "fullH1": [
+    "Thông tắc cống Cao Xanh cho nhà dân, quán ăn tại Hạ Long 24/7"
+  ],
+  "mainH1": [],
+  "h2": [
+    "Dấu hiệu cần kiểm tra cống sớm tại Cao Xanh",
+    "Nguyên nhân cống tắc thường gặp",
+    "Kiểm tra theo loại công trình tại Cao Xanh",
+    "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "Bảng giá thông tắc cống Cao Xanh tham khảo",
+    "Quy trình xử lý 5 bước",
+    "Hướng xử lý theo cống bếp, thoát sàn và hố ga",
+    "Cách giảm nguy cơ tắc lại sau xử lý",
+    "Khu vực phục vụ liên quan tại Hạ Long",
+    "NAP liên hệ thông tắc cống Cao Xanh",
+    "FAQ &#8211; Câu hỏi thường gặp"
+  ],
+  "requiredH2": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "words": 2801,
+  "forbidden": [],
+  "hotline": 12,
+  "density": {
+    "count": 7,
+    "total": 2801,
+    "density": 0.012495537308104248
+  },
+  "images": [
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cao-xanh-may-lo-xo-nha-dan.webp",
+      "alt": "Thông tắc cống Cao Xanh bằng máy lò xo tại nhà dân",
+      "filename": "thong-tac-cong-cao-xanh-may-lo-xo-nha-dan.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cao-xanh-kiem-tra-ho-ga.webp",
+      "alt": "Kiểm tra hố ga khi thông tắc cống Cao Xanh Hạ Long",
+      "filename": "thong-tac-cong-cao-xanh-kiem-tra-ho-ga.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cao-xanh-xa-thu-duong-thoat.webp",
+      "alt": "Xả thử đường thoát sau thông tắc cống Cao Xanh",
+      "filename": "thong-tac-cong-cao-xanh-xa-thu-duong-thoat.webp",
+      "external": false
+    }
+  ],
+  "imageIssues": [],
+  "schemaTypes": [
+    "LocalBusiness",
+    "BreadcrumbList",
+    "Service",
+    "FAQPage"
+  ],
+  "schemaProblems": [],
+  "schemaParseErrors": [],
+  "serviceCount": 1,
+  "faqCount": 1,
+  "autoFaqSuppressed": true,
+  "blockedAutoFaqClaims": [],
+  "internalLinks": [
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/bang-gia/"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/nao-vet-ho-ga/"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "status": 200,
+      "finalUrl": "https://thongtaccongquangninh.com/"
+    }
+  ],
+  "sitemapIncludes": true
+}

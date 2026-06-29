@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-06-03T05:00:10.241Z",
+  "results": [
+    {
+      "slug": "manual-url",
+      "title": "https://thongtaccongquangninh.com/",
+      "url": "https://thongtaccongquangninh.com/",
+      "httpStatus": 500,
+      "scripts": [],
+      "error": null,
+      "noindex": true,
+      "issues": [
+        "HTTP 500"
+      ],
+      "warnings": [
+        "Không thấy JSON-LD"
+      ],
+      "status": "FAIL",
+      "schemaTypes": []
+    }
+  ]
+}

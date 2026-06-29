@@ -1,0 +1,158 @@
+{
+  "generatedAt": "2026-06-28T08:05:31.746+07:00",
+  "timezone": "Asia/Bangkok",
+  "plugin": {
+    "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php",
+    "remote": "/public_html/wp-content/plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php",
+    "backupPath": "/mnt/d/.thongtaccongquangninh/backups/verified-hours-meta-public-live-2026-06-28T08-05-31-746+07-00/ttcqn-meta-desc-fix.remote.php",
+    "remoteMatches": true,
+    "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-meta-desc-fix/ttcqn-meta-desc-fix.php\",\"status\":\"ok\"}"
+  },
+  "posts": [
+    {
+      "id": 2439,
+      "type": "posts",
+      "slug": "hut-be-phot-24-7-quang-ninh",
+      "replacements": [
+        [
+          {},
+          "Hút Bể Phốt Khẩn Cấp Quảng Ninh Là Gì?"
+        ],
+        [
+          {},
+          "Câu Hỏi Thường Gặp Về Hút Bể Phốt Khẩn Cấp Quảng Ninh"
+        ],
+        [
+          {},
+          "Hút bể phốt khẩn cấp Quảng Ninh"
+        ],
+        [
+          {},
+          "Hút Bể Phốt Khẩn Cấp Quảng Ninh"
+        ],
+        [
+          {},
+          "Hút bể phốt khẩn cấp"
+        ],
+        [
+          {},
+          "Hút Bể Phốt Khẩn Cấp Quảng Ninh"
+        ]
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/verified-hours-meta-public-live-2026-06-28T08-05-31-746+07-00/posts-2439-hut-be-phot-24-7-quang-ninh.before.json",
+      "needsUpdate": false,
+      "updateStatus": null,
+      "beforeHasBrokenHoursHeading": false,
+      "afterHasBrokenHoursHeading": false,
+      "afterHasOldHours": false,
+      "ok": true
+    },
+    {
+      "id": 2782,
+      "type": "posts",
+      "slug": "thong-tac-cong-24-7-quang-ninh",
+      "replacements": [
+        [
+          {},
+          "Thông Tắc Cống Khẩn Cấp Quảng Ninh Là Gì?"
+        ],
+        [
+          {},
+          "Dấu Hiệu Cần Gọi Thợ Thông Tắc Cống Khẩn Cấp Ngay"
+        ],
+        [
+          {},
+          "Thông tắc cống khẩn cấp Quảng Ninh"
+        ],
+        [
+          {},
+          "Thông Tắc Cống Khẩn Cấp Quảng Ninh"
+        ],
+        [
+          {},
+          "Thông tắc cống khẩn cấp"
+        ],
+        [
+          {},
+          "Thông Tắc Cống Khẩn Cấp Quảng Ninh"
+        ]
+      ],
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/verified-hours-meta-public-live-2026-06-28T08-05-31-746+07-00/posts-2782-thong-tac-cong-24-7-quang-ninh.before.json",
+      "needsUpdate": false,
+      "updateStatus": null,
+      "beforeHasBrokenHoursHeading": false,
+      "afterHasBrokenHoursHeading": false,
+      "afterHasOldHours": false,
+      "ok": true
+    }
+  ],
+  "public": [
+    {
+      "path": "/thong-tac-cong-gieng-day/",
+      "status": 200,
+      "title": "Thông tắc cống Giếng Đáy Hạ Long, thợ xử lý tận nơi nhanh",
+      "desc": "Thông tắc cống Giếng Đáy Hạ Long – nhà dân, hộ kinh doanh phường Giếng Đáy. Thợ 15 phút, máy cơ học và áp lực cao, báo giá miễn phí. Gọi 0963. 953. 533.",
+      "h1": "Thông tắc cống Giếng Đáy Hạ Long, thợ xử lý tận nơi nhanh",
+      "has247": false,
+      "hasOldHours": true,
+      "hasBrokenHoursHeading": false,
+      "ok": false
+    },
+    {
+      "path": "/thong-tac-bon-cau-ha-long/",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Hạ Long cho khách sạn, nhà hàng và nhà dân",
+      "desc": "Thông tắc bồn cầu Hạ Long – thợ có mặt 15 phút, xử lý nghẹt, trào ngược, rút chậm, không đục phá. Phục vụ nhà dân, khách sạn, nhà hàng. Gọi 0963. 953. 533.",
+      "h1": "Thông tắc bồn cầu Hạ Long cho khách sạn, nhà hàng và nhà dân",
+      "has247": false,
+      "hasOldHours": false,
+      "hasBrokenHoursHeading": false,
+      "ok": true
+    },
+    {
+      "path": "/thong-tac-bon-cau-mong-cai/",
+      "status": 200,
+      "title": "Thông tắc bồn cầu Móng Cái cho nhà phố, cửa hàng và nhà nghỉ",
+      "desc": "Thông tắc bồn cầu Móng Cái — xử lý tắc nghẽn nhà phố, khách sạn khu cửa khẩu. Không đục phá. Gọi 0963. 953. 533.",
+      "h1": "Thông tắc bồn cầu Móng Cái cho nhà phố, cửa hàng và nhà nghỉ",
+      "has247": false,
+      "hasOldHours": false,
+      "hasBrokenHoursHeading": false,
+      "ok": true
+    },
+    {
+      "path": "/thong-tac-cong-mong-cai/",
+      "status": 200,
+      "title": "Thông Tắc Cống Móng Cái Cho Nhà Phố, Quán Ăn, Khu Chợ Cửa Khẩu",
+      "desc": "Thông tắc cống Móng Cái — xử lý cống nghẹt nhà phố, chợ biên giới. Thợ đến nhanh, báo giá rõ. Gọi 0963. 953. 533.",
+      "h1": "Thông Tắc Cống Móng Cái Cho Nhà Phố, Quán Ăn, Khu Chợ Cửa Khẩu",
+      "has247": false,
+      "hasOldHours": false,
+      "hasBrokenHoursHeading": false,
+      "ok": true
+    },
+    {
+      "path": "/hut-be-phot-24-7-quang-ninh/",
+      "status": 200,
+      "title": "Hút bể phốt Quảng Ninh: xe bồn tới nhanh 15 phút, báo giá rõ",
+      "desc": "Hút bể phốt Quảng Ninh – xe bồn trực liên tục, có mặt trong 15–30 phút trong khung giờ làm việc, hút sạch không mùi, không đục phá. Gọi ngay 0963. 953. 533.",
+      "h1": "Hút bể phốt Quảng Ninh: xe bồn tới nhanh 15 phút, báo giá rõ",
+      "has247": true,
+      "hasOldHours": false,
+      "hasBrokenHoursHeading": true,
+      "ok": false
+    },
+    {
+      "path": "/thong-tac-cong-24-7-quang-ninh/",
+      "status": 200,
+      "title": "Thông Tắc Cống Quảng Ninh: Gọi Thợ Xử Lý Ngay Trong Đêm",
+      "desc": "Thông tắc cống Quảng Ninh – thợ trực đêm, cuối tuần. Gọi là có mặt trong 15 phút, máy chuyên dụng, không đục phá khi chưa cần. Gọi 0963. 953. 533.",
+      "h1": "Thông Tắc Cống Quảng Ninh: Gọi Thợ Xử Lý Ngay Trong Đêm",
+      "has247": false,
+      "hasOldHours": false,
+      "hasBrokenHoursHeading": true,
+      "ok": false
+    }
+  ],
+  "success": false
+}

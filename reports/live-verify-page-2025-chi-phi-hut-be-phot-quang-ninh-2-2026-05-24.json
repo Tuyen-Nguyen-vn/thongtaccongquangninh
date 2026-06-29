@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-05-23T19:54:03.058Z",
+  "url": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+  "titleLen": 63,
+  "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính chi phí thực tế",
+  "descLen": 151,
+  "desc": "Bảng giá hút bể phốt Quảng Ninh 2026 theo m3, vị trí xe, bùn đặc, ngõ sâu và ca đêm. Gọi 0963.953.533 / 0931.156.756 để chốt chi phí rõ trước thi công.",
+  "words": 10729,
+  "h1": 1,
+  "h2Count": 11,
+  "required": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "forbidden": [],
+  "hotlines": 22,
+  "images": 5,
+  "imgIssues": [],
+  "internalLinks": 3,
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "FAQPage",
+      "BlogPosting",
+      "Service"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "oldEscaped": false,
+  "sourceHtml": "reports/live-after-page-2025-chi-phi-hut-be-phot-quang-ninh-2-2026-05-24.html"
+}

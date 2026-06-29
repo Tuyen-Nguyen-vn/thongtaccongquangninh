@@ -1,0 +1,88 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-27T11:18:58+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 88,
+  "pagesWithIssues": 1,
+  "samePageDuplicatePages": 1,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 0,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 2054,
+      "type": "posts",
+      "status": "publish",
+      "title": "Dịch vụ thông tắc cống Bãi Cháy giá rõ ràng, có mặt nhanh 24/7",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "slug": "thong-tac-cong-bai-chay",
+      "contentSource": "post_content",
+      "service": "thông tắc cống",
+      "area": "Bãi Cháy",
+      "imageCount": 3,
+      "images": [
+        {
+          "index": 0,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-may-lo-xo-quang-ninh-01-7.webp\" alt=\"Thông tắc cống Bãi Cháy bằng máy lò xo – Môi Trường Đô Thị Số 1 Quảng Ninh\" title=\"Thông tắc cống Bãi Cháy\" loading=\"lazy\">",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-may-lo-xo-quang-ninh-01-7.webp",
+          "alt": "Thông tắc cống Bãi Cháy bằng máy lò xo – Môi Trường Đô Thị Số 1 Quảng Ninh",
+          "media_id": "",
+          "basename": "thong-tac-cong-bai-chay-may-lo-xo-quang-ninh-01-7.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-may-lo-xo-quang-ninh-01-7.webp",
+          "sha256": "89315e3622ad8795234a2fa71ca95d4fce2c35d99fc934a664c182f17e3a7477",
+          "dhash": 12858190593883435440,
+          "download_error": ""
+        },
+        {
+          "index": 1,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-xu-ly-nha-hang-03-6.webp\" alt=\"Thợ thi công thông tắc cống nhà hàng khách sạn Bãi Cháy không đục phá\" title=\"Thông cống nhà hàng Bãi Cháy\" loading=\"lazy\">",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-xu-ly-nha-hang-03-6.webp",
+          "alt": "Thợ thi công thông tắc cống nhà hàng khách sạn Bãi Cháy không đục phá",
+          "media_id": "",
+          "basename": "thong-tac-cong-bai-chay-xu-ly-nha-hang-03-6.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-xu-ly-nha-hang-03-6.webp",
+          "sha256": "9bacfbe1b6e23f343c5ecd1f194380dc676ab2f929ea32dc0ce7d3bd91891a0b",
+          "dhash": 5318686206224878941,
+          "download_error": ""
+        },
+        {
+          "index": 2,
+          "tag": "<img src=\"https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-kiem-tra-ho-ga-02-7.webp\" alt=\"Kiểm tra hố ga thông tắc cống tắc nghẽn khu nhà hàng khách sạn Bãi Cháy\" title=\"Kiểm tra hố ga Bãi Cháy\" loading=\"lazy\">",
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-kiem-tra-ho-ga-02-7.webp",
+          "alt": "Kiểm tra hố ga thông tắc cống tắc nghẽn khu nhà hàng khách sạn Bãi Cháy",
+          "media_id": "",
+          "basename": "thong-tac-cong-bai-chay-kiem-tra-ho-ga-02-7.webp",
+          "normalized_src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-bai-chay-kiem-tra-ho-ga-02-7.webp",
+          "sha256": "89315e3622ad8795234a2fa71ca95d4fce2c35d99fc934a664c182f17e3a7477",
+          "dhash": 12858190593883435440,
+          "download_error": ""
+        }
+      ],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [
+        [
+          0,
+          2
+        ]
+      ],
+      "pixelDuplicatePairs": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 2,
+          "distance": 0,
+          "left": "thong-tac-cong-bai-chay-may-lo-xo-quang-ninh-01-7.webp",
+          "right": "thong-tac-cong-bai-chay-kiem-tra-ho-ga-02-7.webp"
+        }
+      ],
+      "missingToThree": 0,
+      "replacementNeeded": 1,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Bãi Cháy bằng máy lò xo"
+      ]
+    }
+  ],
+  "globalReuse": []
+}

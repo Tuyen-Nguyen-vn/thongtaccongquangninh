@@ -1,0 +1,96 @@
+[
+  {
+    "name": "desktop",
+    "before": {
+      "meta": "2026.05.18.25; direct-template",
+      "viewport": {
+        "winWidth": 1440,
+        "docWidth": 1440
+      },
+      "activeFilter": "all",
+      "visibleCards": 6,
+      "visibleTitles": [
+        "Hút bể phốt biệt thự tại Hạ Long",
+        "Thông tắc chậu rửa nhà hàng",
+        "Nạo vét hố ga khu dân cư",
+        "Thông tắc bồn cầu nhà trọ",
+        "Xử lý mùi hôi nhà vệ sinh",
+        "Thông tắc cống nhà dân"
+      ],
+      "mobileItems": 5,
+      "ctaHref": null,
+      "mlsOpacity": "1",
+      "sgaOpacity": "0"
+    },
+    "afterFilter": {
+      "activeFilter": "bon-cau",
+      "visibleTitles": [
+        "Thông tắc bồn cầu nhà trọ"
+      ]
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "tablet",
+    "before": {
+      "meta": "2026.05.18.25; direct-template",
+      "viewport": {
+        "winWidth": 900,
+        "docWidth": 900
+      },
+      "activeFilter": "all",
+      "visibleCards": 6,
+      "visibleTitles": [
+        "Hút bể phốt biệt thự tại Hạ Long",
+        "Thông tắc chậu rửa nhà hàng",
+        "Nạo vét hố ga khu dân cư",
+        "Thông tắc bồn cầu nhà trọ",
+        "Xử lý mùi hôi nhà vệ sinh",
+        "Thông tắc cống nhà dân"
+      ],
+      "mobileItems": 5,
+      "ctaHref": null,
+      "mlsOpacity": "1",
+      "sgaOpacity": "0"
+    },
+    "afterFilter": {
+      "activeFilter": "bon-cau",
+      "visibleTitles": [
+        "Thông tắc bồn cầu nhà trọ"
+      ]
+    },
+    "accordion": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "mobile",
+    "before": {
+      "meta": "2026.05.18.25; direct-template",
+      "viewport": {
+        "winWidth": 390,
+        "docWidth": 390
+      },
+      "activeFilter": "all",
+      "visibleCards": 1,
+      "visibleTitles": [
+        "Hút bể phốt biệt thự tại Hạ Long"
+      ],
+      "mobileItems": 5,
+      "ctaHref": null,
+      "mlsOpacity": "0",
+      "sgaOpacity": null
+    },
+    "afterFilter": {
+      "activeFilter": "bon-cau",
+      "visibleTitles": [
+        "Thông tắc bồn cầu nhà trọ"
+      ]
+    },
+    "accordion": {
+      "expanded": "true",
+      "openPanels": 1
+    },
+    "consoleErrors": []
+  }
+]

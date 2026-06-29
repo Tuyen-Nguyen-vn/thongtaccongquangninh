@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-26T18:51:27.531Z",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "page": {
+    "id": 2445,
+    "slug": "dieu-khoan-dich-vu",
+    "link": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+    "status": "publish",
+    "title": "Điều Khoản Dịch Vụ"
+  },
+  "before": {
+    "contentLength": 12156,
+    "imageCount": 3
+  },
+  "after": {
+    "contentLength": 12156,
+    "imageCount": 3
+  },
+  "changed": false,
+  "planned": [],
+  "images": [
+    {
+      "fileName": "dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+      "alt": "Xe hút bể phốt phục vụ theo điều khoản dịch vụ tại Quảng Ninh",
+      "caption": "Hình minh họa quy trình tiếp nhận, điều phối xe và nhân lực theo đúng phạm vi đã thống nhất.",
+      "title": "Điều khoản dịch vụ xe hút bể phốt Quảng Ninh",
+      "insert": "replace-empty-figure",
+      "localPath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/dieu-khoan-dich-vu-2026-06-27/dieu-khoan-dich-vu-xe-hut-be-phot-quang-ninh.webp",
+      "uploaded": null
+    },
+    {
+      "fileName": "dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+      "alt": "Kỹ thuật viên thông tắc cống thực hiện đúng điều khoản đã báo tại Quảng Ninh",
+      "caption": "Hình minh họa thao tác kỹ thuật sau khi khách hàng xác nhận phạm vi, chi phí và thời gian xử lý.",
+      "title": "Điều khoản dịch vụ kỹ thuật thông tắc cống Quảng Ninh",
+      "insertAfter": "<h2>5. Cam Kết Thực Hiện</h2>",
+      "localPath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/dieu-khoan-dich-vu-2026-06-27/dieu-khoan-dich-vu-tho-thong-tac-cong-quang-ninh.webp",
+      "uploaded": null
+    },
+    {
+      "fileName": "dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+      "alt": "Thông tin liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh trong điều khoản dịch vụ",
+      "caption": "Hình minh họa thông tin nhận yêu cầu, bảo hành và xử lý phản hồi qua hotline 0963.953.533 / 0931.156.756.",
+      "title": "Điều khoản dịch vụ liên hệ Môi Trường Quảng Ninh",
+      "insertAfter": "<h2>11. Liên Hệ</h2>",
+      "localPath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/dieu-khoan-dich-vu-2026-06-27/dieu-khoan-dich-vu-lien-he-moi-truong-quang-ninh.webp",
+      "uploaded": null
+    }
+  ],
+  "backupDir": null,
+  "liveVerify": null
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=video_browser_20260530_v2",
+  "checks": [
+    {
+      "viewport": "desktop",
+      "sectionExists": true,
+      "videoExists": true,
+      "videoSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/video/video-thi-cong-moi-truong-do-thi-so-1-ha-long.mp4",
+      "poster": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/video/video-thi-cong-moi-truong-do-thi-so-1-ha-long-poster.jpg",
+      "controls": true,
+      "preload": "metadata",
+      "playsInline": true,
+      "sectionWidth": 1440,
+      "videoWidth": 370,
+      "videoHeight": 673,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "consoleErrors": []
+    },
+    {
+      "viewport": "mobile",
+      "sectionExists": true,
+      "videoExists": true,
+      "videoSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/video/video-thi-cong-moi-truong-do-thi-so-1-ha-long.mp4",
+      "poster": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/video/video-thi-cong-moi-truong-do-thi-so-1-ha-long-poster.jpg",
+      "controls": true,
+      "preload": "metadata",
+      "playsInline": true,
+      "sectionWidth": 390,
+      "videoWidth": 330,
+      "videoHeight": 602,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ]
+    }
+  ]
+}

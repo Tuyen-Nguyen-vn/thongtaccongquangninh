@@ -1,0 +1,78 @@
+[
+  {
+    "viewport": "desktop",
+    "httpStatus": 200,
+    "console": [],
+    "metrics": {
+      "status": "complete",
+      "marker": "2026.05.29.7; direct-template",
+      "serviceCards": 6,
+      "serviceCardHrefs": [
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+        "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/"
+      ],
+      "projectLinks": 11,
+      "footerSources": [
+        {
+          "href": "https://www.quangninh.gov.vn/so/sotainguyenmt/Trang/default.aspx",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "text": "Sở Tài nguyên và Môi trường Quảng Ninh"
+        },
+        {
+          "href": "https://baotainguyenmoitruong.vn/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "text": "Báo Tài nguyên & Môi trường"
+        }
+      ],
+      "emptyHref": 0,
+      "nestedAnchors": 0,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "overflowX": false
+    }
+  },
+  {
+    "viewport": "mobile",
+    "httpStatus": 200,
+    "console": [],
+    "metrics": {
+      "status": "complete",
+      "marker": "2026.05.29.7; direct-template",
+      "serviceCards": 6,
+      "serviceCardHrefs": [
+        "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+        "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+        "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+        "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/"
+      ],
+      "projectLinks": 11,
+      "footerSources": [
+        {
+          "href": "https://www.quangninh.gov.vn/so/sotainguyenmt/Trang/default.aspx",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "text": "Sở Tài nguyên và Môi trường Quảng Ninh"
+        },
+        {
+          "href": "https://baotainguyenmoitruong.vn/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "text": "Báo Tài nguyên & Môi trường"
+        }
+      ],
+      "emptyHref": 0,
+      "nestedAnchors": 0,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "overflowX": false
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "slug": "thong-tac-cong-quang-ninh",
+  "briefPath": "/mnt/d/.thongtaccongquangninh/image-briefs/thong-tac-cong-quang-ninh-image-brief.json",
+  "packagePath": "/mnt/d/.thongtaccongquangninh/image-briefs/thong-tac-cong-quang-ninh-image-package.json",
+  "nextAction": "Upload 4 ảnh trong image-package lên WordPress media rồi thay đường dẫn local trong draft bằng URL media."
+}

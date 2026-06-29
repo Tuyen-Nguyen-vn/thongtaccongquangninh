@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-27T01:33:06+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": false,
+  "totalContent": 88,
+  "pagesWithIssues": 1,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 1,
+  "globalReuseGroups": 5,
+  "fixes": [],
+  "issues": [
+    {
+      "id": 2445,
+      "type": "pages",
+      "status": "publish",
+      "title": "Điều Khoản Dịch Vụ",
+      "link": "https://thongtaccongquangninh.com/dieu-khoan-dich-vu/",
+      "slug": "dieu-khoan-dich-vu",
+      "contentSource": "post_content",
+      "service": "thông tắc cống",
+      "area": "Quảng Ninh",
+      "imageCount": 0,
+      "images": [],
+      "exactSrcDuplicates": [],
+      "sameFileDuplicates": [],
+      "sameBytesDuplicates": [],
+      "pixelDuplicatePairs": [],
+      "missingToThree": 3,
+      "replacementNeeded": 3,
+      "missingTopics": [
+        "thợ thông tắc cống tại nhà dân ở Quảng Ninh bằng máy lò xo",
+        "kiểm tra hố ga và đường ống thoát nước tại Quảng Ninh",
+        "xử lý cống bếp dầu mỡ cho nhà hàng/quán ăn tại Quảng Ninh"
+      ]
+    }
+  ],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-ha-long-01.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+          "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+          "index": 0,
+          "file": "thong-tac-cong-gieng-day-ha-long-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-bai-viet/",
+          "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+          "index": 0,
+          "file": "thong-tac-cong-gieng-day-ha-long-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-tho-xu-ly-02.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+          "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+          "index": 1,
+          "file": "thong-tac-cong-gieng-day-tho-xu-ly-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-bai-viet/",
+          "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+          "index": 2,
+          "file": "thong-tac-cong-gieng-day-tho-xu-ly-02.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn 24/7 Cho Nhà Hàng, Homestay Ven Biển Đảo",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+          "title": "Dịch Vụ Thông Tắc Cống Hạ Long - Xác Định Đúng Điểm Nghẽn & Xử Lý Triệt Để",
+          "index": 2,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Nguyên nhân cống tắc thường xuyên Hạ Long và cách xử lý",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Dịch vụ hút bể phốt Quảng Ninh: blog xử lý cống, bể phốt, mùi hôi",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-may-lo-xo-03.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-bai-viet/",
+          "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+          "index": 1,
+          "file": "thong-tac-cong-gieng-day-may-lo-xo-03.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-24-7-quang-ninh/",
+          "title": "Thông Tắc Cống 24/7 Quảng Ninh: Gọi Thợ Xử Lý Ngay Trong Đêm",
+          "index": 2,
+          "file": "thong-tac-cong-gieng-day-may-lo-xo-03.webp"
+        }
+      ]
+    }
+  ]
+}

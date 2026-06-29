@@ -1,0 +1,114 @@
+# Phân tích chuyên sâu AI Overview & Schema
+
+**Thời gian:** 2026-06-21T01:34:31.617Z
+**Tổng số trang đã quét:** 86
+**Chuẩn SEO (Sẵn sàng Index):** 77
+**Cần tối ưu thêm:** 9
+
+## Danh sách trang ĐẠT CHUẨN (PASS)
+- [trang-chu](https://thongtaccongquangninh.com/) - **Schemas:** Place, Organization, WebSite, ImageObject, WebPage, Article, LocalBusiness, HomeAndConstructionBusiness, BreadcrumbList, FAQPage, VideoObject
+- [blog](https://thongtaccongquangninh.com/blog/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage
+- [hut-be-phot-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, Service, VideoObject, FAQPage, HowTo
+- [thong-tac-cong-quang-ninh](https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage, Service, VideoObject, HowTo
+- [thong-tac-chau-rua-quang-ninh](https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage, Service
+- [thong-tac-bon-cau-quang-ninh](https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, Service, FAQPage
+- [nao-vet-ho-ga-quang-ninh](https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage, Service, HowTo
+- [hut-be-phot-ha-long](https://thongtaccongquangninh.com/hut-be-phot-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, Service, FAQPage
+- [hut-be-phot-cam-pha](https://thongtaccongquangninh.com/hut-be-phot-cam-pha/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, Service, FAQPage
+- [hut-be-phot-uong-bi](https://thongtaccongquangninh.com/hut-be-phot-uong-bi/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, Service, FAQPage
+- [hut-be-phot-mong-cai](https://thongtaccongquangninh.com/hut-be-phot-mong-cai/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+- [hut-be-phot-dong-trieu](https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+- [hut-be-phot-quang-yen](https://thongtaccongquangninh.com/hut-be-phot-quang-yen/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, FAQPage
+- [bang-gia](https://thongtaccongquangninh.com/bang-gia/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, OfferCatalog, FAQPage
+- [lien-he](https://thongtaccongquangninh.com/lien-he/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, ContactPage, FAQPage
+- [chinh-sach-bao-hanh](https://thongtaccongquangninh.com/chinh-sach-bao-hanh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage
+- [dau-hieu-be-phot-can-hut](https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, BlogPosting, FAQPage
+- [bang-gia-hut-be-phot-quang-ninh](https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, BlogPosting, Service, FAQPage
+- [chinh-sach-bao-mat](https://thongtaccongquangninh.com/chinh-sach-bao-mat/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage
+- [thong-tac-cong-ha-long](https://thongtaccongquangninh.com/thong-tac-cong-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage, Service
+- [xu-ly-mui-hoi-quang-ninh](https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service, HowTo
+- [thong-tac-cong-chung-cu-ha-long](https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage, Service
+- [thong-tac-cong-nha-hang-ha-long](https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage, Service
+- [thong-tac-cong-ngo-nho-ha-long](https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+- [nguyen-nhan-cong-tac-thuong-xuyen-ha-long](https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+- [thong-tac-cong-cam-pha](https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+- [thong-tac-cong-uong-bi](https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+- [thong-tac-cong-quang-yen](https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+- [hut-be-phot-bai-chay](https://thongtaccongquangninh.com/hut-be-phot-bai-chay/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, FAQPage, Service
+- [thong-tac-bon-cau-cam-pha](https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, Service, FAQPage
+- [thong-tac-cong-gieng-day](https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, HowTo, Service
+- [thong-tac-bon-cau-bi-tac](https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [nao-vet-ho-ga](https://thongtaccongquangninh.com/nao-vet-ho-ga/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, Service, FAQPage
+- [xu-ly-mui-hoi-nha-ve-sinh](https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [cau-hoi-thuong-gap-thong-tac-cong](https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-bon-cau-dong-trieu](https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, FAQPage
+- [thong-tac-bon-cau-ha-long](https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, FAQPage
+- [thong-tac-bon-cau-mong-cai](https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, FAQPage
+- [thong-tac-bon-cau-quang-yen](https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, FAQPage
+- [thong-tac-bon-cau-uong-bi](https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, FAQPage
+- [he-thong-lien-ket-doi-tac](https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage
+- [chi-phi-hut-be-phot-quang-ninh](https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, BlogPosting, Service
+- [bon-cau-rut-cham-nguyen-nhan](https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage
+- [chu-ky-hut-be-phot](https://thongtaccongquangninh.com/chu-ky-hut-be-phot/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hoa-chat-tu-thong-cong](https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage
+- [mui-hoi-cong-nguyen-nhan-xu-ly](https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage
+- [hut-be-phot-ba-che](https://thongtaccongquangninh.com/hut-be-phot-ba-che/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-binh-lieu](https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-co-to](https://thongtaccongquangninh.com/hut-be-phot-co-to/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-dam-ha](https://thongtaccongquangninh.com/hut-be-phot-dam-ha/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-hai-ha](https://thongtaccongquangninh.com/hut-be-phot-hai-ha/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-tien-yen](https://thongtaccongquangninh.com/hut-be-phot-tien-yen/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-cong-hong-gai](https://thongtaccongquangninh.com/thong-tac-cong-hong-gai/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [cam-nang-thong-tac-cong-tai-ha-long](https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [nguyen-song-hao](https://thongtaccongquangninh.com/nguyen-song-hao/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage
+- [gia-thong-tac-bon-cau-quang-ninh](https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-bon-cau-khan-cap-quang-ninh](https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-bon-cau-ban-dem-quang-ninh](https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-bon-cau-nha-dan-quang-ninh](https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-dan-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-bon-cau-nha-hang-quang-ninh](https://thongtaccongquangninh.com/thong-tac-bon-cau-nha-hang-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-bon-cau-khach-san-quang-ninh](https://thongtaccongquangninh.com/thong-tac-bon-cau-khach-san-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-khan-cap-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-khan-cap-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-24-7-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-24-7-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [gia-hut-be-phot-quang-ninh](https://thongtaccongquangninh.com/gia-hut-be-phot-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [xe-hut-be-phot-quang-ninh](https://thongtaccongquangninh.com/xe-hut-be-phot-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-ham-cau-quang-ninh](https://thongtaccongquangninh.com/hut-ham-cau-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, Service, FAQPage
+- [dau-hieu-be-phot-bi-day](https://thongtaccongquangninh.com/dau-hieu-be-phot-bi-day/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage
+- [hut-be-phot-nha-hang-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-nha-hang-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-cong-ty-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-cong-ty-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, Service, FAQPage
+- [hut-be-phot-khach-san-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-khu-nha-tro-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-khu-nha-tro-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-khu-cong-nghiep-quang-ninh](https://thongtaccongquangninh.com/hut-be-phot-khu-cong-nghiep-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-cong-khan-cap-quang-ninh](https://thongtaccongquangninh.com/thong-tac-cong-khan-cap-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [thong-tac-cong-24-7-quang-ninh](https://thongtaccongquangninh.com/thong-tac-cong-24-7-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [gia-thong-tac-cong-quang-ninh](https://thongtaccongquangninh.com/gia-thong-tac-cong-quang-ninh/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [hut-be-phot-ha-long](https://thongtaccongquangninh.com/hut-be-phot-ha-long/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article, Service, FAQPage
+- [thong-tac-cong-cam-pha](https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/) - **Schemas:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, FAQPage, Service
+
+## Danh sách trang CẦN TỐI ƯU (FAIL / ERROR)
+- [hut-be-phot-van-don](https://thongtaccongquangninh.com/hut-be-phot-van-don/)
+  - **Issues:** Thiếu FAQ Schema (Cần thiết cho AI Overview), Slug chưa tối ưu (quá dài hoặc chứa stop word)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, 
+- [gioi-thieu](https://thongtaccongquangninh.com/gioi-thieu/)
+  - **Issues:** Thiếu FAQ Schema (Cần thiết cho AI Overview)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Article
+- [cach-xu-ly-cong-thoat-nuoc-tac](https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/)
+  - **Issues:** Slug chưa tối ưu (quá dài hoặc chứa stop word)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, BlogPosting, FAQPage
+- [thong-tac-cong-dong-trieu](https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/)
+  - **Issues:** Thiếu FAQ Schema (Cần thiết cho AI Overview)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, 
+- [thong-tac-cong-mong-cai](https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/)
+  - **Issues:** Thiếu FAQ Schema (Cần thiết cho AI Overview)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, 
+- [thong-tac-cong-van-don](https://thongtaccongquangninh.com/thong-tac-cong-van-don/)
+  - **Issues:** Thiếu FAQ Schema (Cần thiết cho AI Overview), Slug chưa tối ưu (quá dài hoặc chứa stop word)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, 
+- [thong-tac-bon-cau-van-don](https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/)
+  - **Issues:** Slug chưa tối ưu (quá dài hoặc chứa stop word)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article, Service, FAQPage
+- [thong-tac-bon-cau-khong-duc-pha-quang-ninh](https://thongtaccongquangninh.com/thong-tac-bon-cau-khong-duc-pha-quang-ninh/)
+  - **Issues:** Slug chưa tối ưu (quá dài hoặc chứa stop word)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, BlogPosting, FAQPage, Service
+- [dieu-khoan-dich-vu](https://thongtaccongquangninh.com/dieu-khoan-dich-vu/)
+  - **Issues:** Thiếu FAQ Schema (Cần thiết cho AI Overview)
+  - **Schemas found:** LocalBusiness, HomeAndConstructionBusiness, Place, Organization, WebSite, ImageObject, BreadcrumbList, WebPage, Person, Article

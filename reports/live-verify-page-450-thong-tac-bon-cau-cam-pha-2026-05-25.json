@@ -1,0 +1,93 @@
+{
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+  "status": 200,
+  "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+  "indexable": true,
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "title": "Thông tắc bồn cầu Cẩm Phả cho nhà dân, nhà trọ và khu mỏ 24/7",
+  "titleLength": 61,
+  "metaDescription": "Thông tắc bồn cầu Cẩm Phả cho nhà dân, nhà trọ, khu mỏ khi nước rút chậm, trào ngược hoặc có mùi hôi. Gọi 0963.953.533 / 0931.156.756 để kiểm tra sớm.",
+  "metaLength": 150,
+  "h1": [
+    "Thông tắc bồn cầu Cẩm Phả cho nhà dân, nhà trọ và khu mỏ 24/7"
+  ],
+  "h1Count": 1,
+  "h2": [
+    "Dấu hiệu cần xử lý sớm tại Cẩm Phả",
+    "Nguyên nhân bồn cầu tắc thường gặp",
+    "Khi nào có thể tự xử lý, khi nào nên gọi thợ",
+    "Bảng giá thông tắc bồn cầu Cẩm Phả",
+    "Quy trình xử lý 5 bước",
+    "Checklist trước khi gọi thợ",
+    "Tại sao chọn Môi Trường Đô Thị Số 1 Quảng Ninh",
+    "Tình huống thường gặp tại Cẩm Phả",
+    "Case study E-E-A-T: hồ sơ kiểm tra một ca bồn cầu tắc",
+    "Khu vực phục vụ tại Cẩm Phả",
+    "NAP liên hệ xử lý bồn cầu tại Cẩm Phả",
+    "Câu hỏi thường gặp"
+  ],
+  "missingH2": [],
+  "words": 2513,
+  "forbidden": [],
+  "hotline": 8,
+  "density": {
+    "count": 5,
+    "total": 2513,
+    "density": 0.01193792280143255
+  },
+  "images": [
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-cam-pha-kiem-tra-bon-cau-khu-mo.webp",
+      "alt": "Thợ xử lý thông tắc bồn cầu tại khu dân cư Cẩm Phả",
+      "filename": "thong-tac-bon-cau-cam-pha-kiem-tra-bon-cau-khu-mo.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-cam-pha-may-lo-xo-nha-tap-the.webp",
+      "alt": "Máy lò xo xử lý bồn cầu tắc tại Cẩm Phả Quảng Ninh",
+      "filename": "thong-tac-bon-cau-cam-pha-may-lo-xo-nha-tap-the.webp",
+      "external": false
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-cam-pha-xa-thu-sau-xu-ly.webp",
+      "alt": "Kiểm tra bồn cầu sau thông tắc tại Cẩm Phả",
+      "filename": "thong-tac-bon-cau-cam-pha-xa-thu-sau-xu-ly.webp",
+      "external": false
+    }
+  ],
+  "imageCount": 3,
+  "imageIssues": [],
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "Service",
+      "FAQPage"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "internalLinks": [
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "status": 200
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/lien-he/",
+      "status": 200
+    }
+  ],
+  "sitemap": true
+}

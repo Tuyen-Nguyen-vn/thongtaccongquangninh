@@ -1,0 +1,13 @@
+# Live structured data audit
+
+- Generated: 2026-06-01T20:45:29.145Z
+- Source: /mnt/d/.thongtaccongquangninh/wp-url-audit-list.json
+- Checked URLs: 78
+- PASS: 78
+- WARN: 0
+- FAIL: 0
+- JSON detail: /mnt/d/.thongtaccongquangninh/reports/structured-data-live-audit-2026-06-01T20-45-29.json
+
+## Kết luận
+
+Không phát hiện lỗi hoặc cảnh báo structured data trong HTML public đã fetch bằng cache-buster.

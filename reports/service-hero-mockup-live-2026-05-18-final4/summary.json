@@ -1,0 +1,113 @@
+[
+  {
+    "name": "desktop",
+    "data": {
+      "meta": "2026.05.18.30; direct-template",
+      "viewport": {
+        "winWidth": 1440,
+        "docWidth": 1440
+      },
+      "oldStatsBars": 0,
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "tel": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zalo": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "person": {
+        "x": 955,
+        "y": 131,
+        "w": 317,
+        "h": 650
+      },
+      "stats": {
+        "x": 130,
+        "y": 200,
+        "w": 645,
+        "h": 199
+      },
+      "sgaOpacity": "0",
+      "vectorComplete": true
+    },
+    "menu": null,
+    "errors": []
+  },
+  {
+    "name": "mobile",
+    "data": {
+      "meta": "2026.05.18.30; direct-template",
+      "viewport": {
+        "winWidth": 390,
+        "docWidth": 390
+      },
+      "oldStatsBars": 0,
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "tel": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zalo": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "person": {
+        "x": 181,
+        "y": 335,
+        "w": 147,
+        "h": 302
+      },
+      "stats": {
+        "x": 32,
+        "y": 641,
+        "w": 326,
+        "h": 210
+      },
+      "sgaOpacity": null,
+      "vectorComplete": true
+    },
+    "menu": {
+      "active": true,
+      "expanded": "true"
+    },
+    "errors": []
+  },
+  {
+    "name": "tablet",
+    "data": {
+      "meta": "2026.05.18.30; direct-template",
+      "viewport": {
+        "winWidth": 900,
+        "docWidth": 900
+      },
+      "oldStatsBars": 0,
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "tel": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zalo": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "person": {
+        "x": 682,
+        "y": 260,
+        "w": 288,
+        "h": 590
+      },
+      "stats": {
+        "x": 20,
+        "y": 220,
+        "w": 540,
+        "h": 194
+      },
+      "sgaOpacity": "0",
+      "vectorComplete": true
+    },
+    "menu": null,
+    "errors": []
+  }
+]

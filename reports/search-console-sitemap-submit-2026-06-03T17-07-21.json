@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-06-03T17:07:19",
+  "site": "https://thongtaccongquangninh.com/",
+  "sitemap": "https://thongtaccongquangninh.com/category-sitemap.xml",
+  "status": "submitted",
+  "submitResponse": "",
+  "matchedSitemap": {
+    "path": "https://thongtaccongquangninh.com/category-sitemap.xml",
+    "lastSubmitted": "2026-06-03T10:07:14.148Z",
+    "isPending": true,
+    "isSitemapsIndex": false,
+    "warnings": "0",
+    "errors": "0",
+    "contents": [
+      {
+        "type": "web",
+        "submitted": "12",
+        "indexed": "0"
+      }
+    ]
+  },
+  "allSitemaps": [
+    {
+      "path": "https://thongtaccongquangninh.com/category-sitemap.xml",
+      "lastSubmitted": "2026-06-03T10:07:14.148Z",
+      "isPending": true,
+      "isSitemapsIndex": false,
+      "warnings": "0",
+      "errors": "0",
+      "contents": [
+        {
+          "type": "web",
+          "submitted": "12",
+          "indexed": "0"
+        }
+      ]
+    },
+    {
+      "path": "https://thongtaccongquangninh.com/page-sitemap.xml",
+      "lastSubmitted": "2026-06-03T10:07:04.482Z",
+      "isPending": true,
+      "isSitemapsIndex": false,
+      "warnings": "0",
+      "errors": "0",
+      "contents": []
+    },
+    {
+      "path": "https://thongtaccongquangninh.com/post-sitemap.xml",
+      "lastSubmitted": "2026-06-03T10:06:53.125Z",
+      "isPending": true,
+      "isSitemapsIndex": false,
+      "warnings": "0",
+      "errors": "0",
+      "contents": [
+        {
+          "type": "web",
+          "submitted": "30",
+          "indexed": "0"
+        },
+        {
+          "type": "image",
+          "submitted": "94",
+          "indexed": "0"
+        }
+      ]
+    },
+    {
+      "path": "https://thongtaccongquangninh.com/sitemap_index.xml",
+      "lastSubmitted": "2026-06-03T10:05:50.188Z",
+      "isPending": false,
+      "isSitemapsIndex": true,
+      "warnings": "0",
+      "errors": "0",
+      "contents": [
+        {
+          "type": "web",
+          "submitted": "42",
+          "indexed": "0"
+        },
+        {
+          "type": "image",
+          "submitted": "94",
+          "indexed": "0"
+        }
+      ]
+    }
+  ]
+}

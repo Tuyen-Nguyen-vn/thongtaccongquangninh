@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-06-28T02:27:22",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "inspectionUrl": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+  "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=iJ0FttcPexUwnZ9E8AoZ7A&utm_medium=link&utm_source=api",
+  "indexStatus": {
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED",
+    "lastCrawlTime": null,
+    "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "googleCanonical": null,
+    "userCanonical": null,
+    "sitemap": [
+      "https://thongtaccongquangninh.com/post-sitemap.xml",
+      "https://thongtaccongquangninh.com/sitemap.xml",
+      "https://thongtaccongquangninh.com/sitemap_index.xml"
+    ],
+    "referringUrls": [
+      "https://thongtaccongquangninh.com/author/chatgpt/page/2/"
+    ]
+  },
+  "raw": {
+    "inspectionResult": {
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=iJ0FttcPexUwnZ9E8AoZ7A&utm_medium=link&utm_source=api",
+      "indexStatusResult": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/author/chatgpt/page/2/"
+        ],
+        "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+      },
+      "mobileUsabilityResult": {
+        "verdict": "VERDICT_UNSPECIFIED"
+      }
+    }
+  }
+}

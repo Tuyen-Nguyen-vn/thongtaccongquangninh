@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-06-28T19:54:43.748Z",
+  "pageId": 52,
+  "targetUrl": "https://thongtaccongquangninh.com/wp-admin/post.php?post=52&action=edit",
+  "currentUrl": "https://thongtaccongquangninh.com/wp-login.php?redirect_to=https%3A%2F%2Fthongtaccongquangninh.com%2Fwp-admin%2Fpost.php%3Fpost%3D52%26action%3Dedit&reauth=1",
+  "status": "blocked_login_required",
+  "loginState": {
+    "isLoginPage": true,
+    "hasUserField": true,
+    "hasPassField": true,
+    "autofilledUser": false,
+    "autofilledPass": false
+  },
+  "screenshotPath": "/mnt/d/.thongtaccongquangninh/_tmp/rankmath-page52-admin-ui/page52-admin-2026-06-28T19-54-43-691Z.png",
+  "note": "No WP admin UI score was read because the browser profile is not logged in. Script did not type credentials."
+}

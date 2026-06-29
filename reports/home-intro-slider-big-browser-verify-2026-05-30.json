@@ -1,0 +1,73 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=intro-slider-big-browser-20260530",
+  "checkedAt": "2026-05-30T02:24:40.490Z",
+  "results": [
+    {
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 900,
+        "dpr": 1,
+        "target": ".ttcqn-intro-section"
+      },
+      "status": 200,
+      "data": {
+        "marker": "2026.05.30.3; direct-template",
+        "wrapperRect": {
+          "w": 640,
+          "h": 480,
+          "x": 718,
+          "y": 191
+        },
+        "sliderRect": {
+          "w": 640,
+          "h": 480,
+          "x": 718,
+          "y": 191
+        },
+        "maxWidth": "640px",
+        "gridColumns": "564.875px 663.125px",
+        "imgNatural": "1920x1080",
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      },
+      "logs": [],
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/home-intro-slider-big-desktop-2026-05-30.png"
+    },
+    {
+      "viewport": {
+        "name": "mobile-image",
+        "width": 390,
+        "height": 900,
+        "dpr": 2,
+        "isMobile": true,
+        "target": ".ttcqn-intro-image-col"
+      },
+      "status": 200,
+      "data": {
+        "marker": "2026.05.30.3; direct-template",
+        "wrapperRect": {
+          "w": 342,
+          "h": 257,
+          "x": 24,
+          "y": 504
+        },
+        "sliderRect": {
+          "w": 342,
+          "h": 257,
+          "x": 24,
+          "y": 504
+        },
+        "maxWidth": "680px",
+        "gridColumns": "350px",
+        "imgNatural": "1920x1080",
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      },
+      "logs": [],
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/home-intro-slider-big-mobile-image-2026-05-30.png"
+    }
+  ]
+}

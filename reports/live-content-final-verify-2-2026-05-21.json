@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-05-21T10:48:32.484Z",
+  "total": 54,
+  "bad": [
+    {
+      "type": "pages",
+      "id": 296,
+      "slug": "thong-tac-cong-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "title": "Thông tắc cống Hạ Long cho nhà hàng, khách sạn, nhà dân",
+      "status": 200,
+      "h1": 1,
+      "bad": true,
+      "retired": false
+    }
+  ]
+}

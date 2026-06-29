@@ -1,0 +1,295 @@
+/**
+ * Publish: hut-be-phot-hai-ha-rankmath-90
+ * Updates WP post ID=2051, uploads 5 images, sets Rank Math meta.
+ * IP bypass (103.57.220.210) để tránh DNS block.
+ */
+import https from "node:https";
+import { createReadStream, existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import path from "node:path";
+
+const PROJECT = "D:\\.thongtaccongquangninh";
+const ENV_PATH = path.join(PROJECT, ".env");
+const DRAFT_PATH = path.join(PROJECT, "content-drafts", "hut-be-phot", "hut-be-phot-hai-ha-rankmath-90.md");
+const PACKAGE_PATH = path.join(PROJECT, "image-briefs", "hut-be-phot-hai-ha-rankmath-90-image-package.json");
+const REPORT_PATH = path.join(PROJECT, `WORDPRESS_PUBLISH_HBP_HAI_HA_${new Date().toISOString().slice(0,10)}.json`);
+const BACKUP_DIR = path.join(PROJECT, "backups");
+const WP_POST_ID = 2051;
+
+const SERVER_IP = "103.57.220.210";
+const WP_HOST   = "thongtaccongquangninh.com";
+
+function parseEnv(filePath) {
+  const env = {};
+  for (const line of readFileSync(filePath, "utf8").split(/\r?\n/)) {
+    const m = line.match(/^\s*([^#=\s]+)\s*=\s*(.*)\s*$/);
+    if (m) env[m[1]] = m[2].replace(/^["']|["']$/g, "");
+  }
+  return env;
+}
+
+function field(md, label) {
+  const m = md.match(new RegExp(`^${label}:\\s*(.+)$`, "m"));
+  return m ? m[1].trim() : "";
+}
+
+function escHtml(s) {
+  return String(s ?? "")
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+function inlineMd(s) {
+  return escHtml(s)
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/`([^`]+)`/g, "<code>$1</code>")
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2">$1</a>');
+}
+
+function markdownToHtml(md, uploadMap) {
+  const lines = md.split(/\r?\n/);
+  const out = [];
+  let para = [], list = [], table = [];
+
+  const flushPara = () => { if (para.length) { out.push(`<p>${inlineMd(para.join(" "))}</p>`); para = []; } };
+  const flushList = () => { if (list.length) { out.push(`<ul>${list.map(i => `<li>${inlineMd(i)}</li>`).join("")}</ul>`); list = []; } };
+  const flushTable = () => {
+    if (!table.length) return;
+    const rows = table.filter(r => !/^\|\s*-+/.test(r)).map(r => r.replace(/^\||\|$/g, "").split("|").map(c => c.trim()));
+    if (rows.length) {
+      const [head, ...body] = rows;
+      out.push(`<table><thead><tr>${head.map(c => `<th>${inlineMd(c)}</th>`).join("")}</tr></thead><tbody>${body.map(r => `<tr>${r.map(c => `<td>${inlineMd(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>`);
+    }
+    table = [];
+  };
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line) { flushPara(); flushList(); flushTable(); continue; }
+    if (/^(Meta Title|Meta Description|Focus Keyword|Slug|Search Intent):/u.test(line)) continue;
+    if (line.startsWith("<!--") || line.startsWith("**Trạng thái ảnh**")) continue;
+
+    // Script/schema blocks — pass through raw
+    if (line.startsWith("<script")) {
+      flushPara(); flushList(); flushTable();
+      const scriptLines = [rawLine];
+      continue;
+    }
+
+    const imgMatch = line.match(/^!\[([^\]]*)\]\(([^)\s]+)\)$/u);
+    if (imgMatch) {
+      flushPara(); flushList(); flushTable();
+      const fileName = path.basename(imgMatch[2]);
+      const item = uploadMap.get(fileName);
+      if (item) {
+        out.push(`<!-- wp:image {"id":${item.id},"sizeSlug":"large","linkDestination":"none"} -->\n<figure class="wp-block-image size-large"><img src="${item.url}" alt="${escHtml(item.altText)}" class="wp-image-${item.id}"/><figcaption class="wp-element-caption">${escHtml(item.caption)}</figcaption></figure>\n<!-- /wp:image -->`);
+      }
+      continue;
+    }
+    if (/^\*[^*]/.test(line) && !line.startsWith("**")) continue;
+
+    if (line.startsWith("|")) { flushPara(); flushList(); table.push(line); continue; }
+    flushTable();
+    if (line === "---") { flushPara(); flushList(); out.push("<!-- wp:separator --><hr class=\"wp-block-separator has-alpha-channel-opacity\"/><!-- /wp:separator -->"); }
+    else if (line.startsWith("### ")) { flushPara(); flushList(); out.push(`<h3>${inlineMd(line.slice(4))}</h3>`); }
+    else if (line.startsWith("## ")) { flushPara(); flushList(); out.push(`<h2>${inlineMd(line.slice(3))}</h2>`); }
+    else if (line.startsWith("# ")) { flushPara(); flushList(); }
+    else if (line.startsWith("- ")) { flushPara(); list.push(line.slice(2)); }
+    else if (line.startsWith("> ")) { flushPara(); flushList(); out.push(`<blockquote><p>${inlineMd(line.slice(2))}</p></blockquote>`); }
+    else { para.push(line); }
+  }
+  flushPara(); flushList(); flushTable();
+
+  // Append schema blocks from draft
+  const scriptBlocks = md.match(/<script type="application\/ld\+json">[\s\S]*?<\/script>/g) || [];
+  for (const block of scriptBlocks) {
+    out.push(block);
+  }
+
+  return out.join("\n");
+}
+
+function wpRequest(method, route, auth, bodyObj = null, extraHeaders = {}) {
+  return new Promise((resolve, reject) => {
+    const bodyBuf = bodyObj != null ? Buffer.from(JSON.stringify(bodyObj), "utf8") : null;
+    const req = https.request({
+      hostname: SERVER_IP, port: 443, servername: WP_HOST,
+      path: "/wp-json" + route, method,
+      headers: {
+        Host: WP_HOST, Authorization: auth,
+        "Content-Type": "application/json",
+        "User-Agent": "TTCQN-SEO-Agent/1.0",
+        ...extraHeaders,
+        ...(bodyBuf ? { "Content-Length": bodyBuf.length } : {}),
+      },
+      rejectUnauthorized: false,
+    }, (res) => {
+      const chunks = [];
+      res.on("data", c => chunks.push(c));
+      res.on("end", () => {
+        const text = Buffer.concat(chunks).toString("utf8");
+        let payload = text;
+        try { payload = JSON.parse(text); } catch {}
+        if (res.statusCode >= 400) {
+          reject(new Error(`WP ${res.statusCode} ${route}: ${typeof payload === "object" ? (payload.message || text) : text}`));
+        } else { resolve(payload); }
+      });
+    });
+    req.on("error", reject);
+    if (bodyBuf) req.write(bodyBuf);
+    req.end();
+  });
+}
+
+async function uploadImage(auth, image) {
+  const localPath = image.outputPath;
+  if (!existsSync(localPath)) throw new Error(`Không tìm thấy ảnh: ${localPath}`);
+
+  const ext = path.extname(image.fileName).toLowerCase();
+  const contentType = ext === ".webp" ? "image/webp" : ext === ".png" ? "image/png" : "image/jpeg";
+  const stem = path.basename(image.fileName, ext);
+
+  const existing = await wpRequest("GET", `/wp/v2/media?search=${encodeURIComponent(stem)}&per_page=5`, auth);
+  const found = Array.isArray(existing) ? existing.find(m => (m.source_url || "").includes(image.fileName)) : null;
+  if (found) {
+    console.log(`  [SKIP] ${image.fileName} đã tồn tại (ID: ${found.id})`);
+    return { id: found.id, url: found.source_url, altText: image.altText, caption: image.caption };
+  }
+
+  const buf = readFileSync(localPath);
+  const media = await new Promise((resolve, reject) => {
+    const req = https.request({
+      hostname: SERVER_IP, port: 443, servername: WP_HOST,
+      path: "/wp-json/wp/v2/media", method: "POST",
+      headers: {
+        Host: WP_HOST, Authorization: auth,
+        "Content-Type": contentType,
+        "Content-Disposition": `attachment; filename="${image.fileName}"`,
+        "Content-Length": buf.length,
+        "User-Agent": "TTCQN-SEO-Agent/1.0",
+      },
+      rejectUnauthorized: false,
+    }, (res) => {
+      const chunks = [];
+      res.on("data", c => chunks.push(c));
+      res.on("end", () => {
+        const text = Buffer.concat(chunks).toString("utf8");
+        let data;
+        try { data = JSON.parse(text); } catch {
+          reject(new Error(`Upload parse error: ${text.slice(0, 100)}`)); return;
+        }
+        if (res.statusCode >= 400) { reject(new Error(`Upload ${res.statusCode}: ${data.message || text}`)); return; }
+        resolve(data);
+      });
+    });
+    req.on("error", reject);
+    req.write(buf);
+    req.end();
+  });
+
+  await wpRequest("POST", `/wp/v2/media/${media.id}`, auth, {
+    alt_text: image.altText,
+    caption: image.caption,
+    title: stem.replace(/-/g, " "),
+  });
+
+  console.log(`  [UPLOAD] ${image.fileName} -> ID ${media.id}`);
+  return { id: media.id, url: media.source_url, altText: image.altText, caption: image.caption };
+}
+
+async function main() {
+  const env = parseEnv(ENV_PATH);
+  const auth = `Basic ${Buffer.from(`${env.WP_USERNAME}:${env.WP_APP_PASSWORD}`).toString("base64")}`;
+
+  const md = readFileSync(DRAFT_PATH, "utf8");
+  const pkg = JSON.parse(readFileSync(PACKAGE_PATH, "utf8"));
+
+  const metaTitle = field(md, "Meta Title");
+  const metaDesc  = field(md, "Meta Description");
+  const keyword   = field(md, "Focus Keyword");
+  const slug      = field(md, "Slug");
+
+  console.log(`\n${"=".repeat(60)}`);
+  console.log(`🚀 PUBLISH HBP Hải Hà (IP bypass ${SERVER_IP})`);
+  console.log(`   Post ID: ${WP_POST_ID}`);
+  console.log(`   Slug: ${slug}`);
+  console.log(`   Title: ${metaTitle}`);
+  console.log(`   Keyword: ${keyword}`);
+  console.log(`${"=".repeat(60)}\n`);
+
+  if (!metaTitle || !slug) throw new Error("Thiếu Meta Title hoặc Slug trong draft");
+
+  const me = await wpRequest("GET", "/wp/v2/users/me", auth);
+  console.log(`Auth OK: ${me.name} — ${WP_HOST} via ${SERVER_IP}`);
+
+  // 1. Backup
+  console.log("\n--- Backup post hiện tại ---");
+  const current = await wpRequest("GET", `/wp/v2/posts/${WP_POST_ID}?context=edit`, auth);
+  mkdirSync(BACKUP_DIR, { recursive: true });
+  writeFileSync(path.join(BACKUP_DIR, `post-${WP_POST_ID}-before-hbp-hai-ha-${new Date().toISOString().slice(0,10)}.json`), JSON.stringify(current, null, 2), "utf8");
+  console.log(`  Backup OK: post-${WP_POST_ID}`);
+
+  // 2. Upload ảnh
+  console.log("\n--- Upload ảnh ---");
+  const uploadMap = new Map();
+  let featuredMediaId = 0;
+  for (const image of pkg.images ?? []) {
+    const result = await uploadImage(auth, image);
+    uploadMap.set(image.fileName, result);
+    if (!featuredMediaId) featuredMediaId = result.id;
+  }
+
+  // 3. Convert markdown → HTML
+  const html = markdownToHtml(md, uploadMap);
+  console.log(`\nHTML: ${html.length} ký tự`);
+
+  // 4. Update post
+  console.log("\n--- Cập nhật post WP ---");
+  const postBody = {
+    title: metaTitle,
+    content: html,
+    excerpt: metaDesc,
+    status: "publish",
+    slug,
+    featured_media: featuredMediaId,
+  };
+  await wpRequest("POST", `/wp/v2/posts/${WP_POST_ID}`, auth, postBody);
+  console.log(`[UPDATE] Post ID ${WP_POST_ID} OK`);
+
+  // 5. Rank Math meta
+  console.log("\n--- Rank Math meta ---");
+  try {
+    await wpRequest("POST", "/rankmath/v1/updateMeta", auth, {
+      objectType: "post",
+      objectID: WP_POST_ID,
+      meta: {
+        rank_math_title: metaTitle,
+        rank_math_description: metaDesc,
+        rank_math_focus_keyword: keyword,
+      },
+    });
+    console.log("  Rank Math OK");
+  } catch (e) {
+    console.warn(`  Rank Math warning: ${e.message}`);
+  }
+
+  // 6. Verify
+  const postData = await wpRequest("GET", `/wp/v2/posts/${WP_POST_ID}?context=view`, auth);
+  const liveUrl = postData.link;
+  console.log(`\n✅ DONE: ${liveUrl}`);
+
+  const report = {
+    generatedAt: new Date().toISOString(),
+    postId: WP_POST_ID,
+    status: postData.status,
+    liveUrl,
+    slug,
+    metaTitle,
+    keyword,
+    featuredMediaId,
+    uploads: [...uploadMap.entries()].map(([fn, u]) => ({ fileName: fn, id: u.id, url: u.url })),
+  };
+  writeFileSync(REPORT_PATH, JSON.stringify(report, null, 2), "utf8");
+  console.log(`Report: ${REPORT_PATH}`);
+  return report;
+}
+
+main().catch(e => { console.error("❌", e.message); process.exit(1); });

@@ -1,0 +1,20 @@
+---
+description: WordPress live public/deploy rule for thongtaccongquangninh.com.
+alwaysApply: true
+---
+
+# WordPress Live Public Rule
+
+- Khi Tuyền gõ `public`, `deploy`, `up live`, `cho lên web`, `activate`, hoặc yêu cầu sửa live đã rõ, Cursor phải thực hiện, không dừng ở hướng dẫn.
+- Trước khi báo không làm được, phải kiểm đủ:
+  - file report `WORDPRESS_*.json` gần nhất;
+  - script deploy trong `tools/`;
+  - file zip/plugin/source liên quan;
+  - WordPress MCP hoặc REST API;
+  - frontend live bằng HTTP 200.
+- Nếu chạy trong WSL, phải đổi đường dẫn Windows sang `/mnt/d/...` hoặc dùng script đã hỗ trợ cả Windows/WSL. Không kết luận thiếu file chỉ vì dùng sai dạng path.
+- Với plugin WordPress, zip hợp lệ phải có dạng `plugin-folder/plugin-file.php`, không để file PHP nằm trần ở root zip.
+- Sau upload/activate, phải kiểm danh sách plugin active. Nếu plugin đã active và frontend có marker/nội dung mới, coi là đã public dù bước upload trả lỗi phụ.
+- Nếu activate lỗi 500, kiểm khả năng trùng function, lỗi PHP, cache LiteSpeed/WP Rocket, hoặc plugin đã được kích hoạt một phần.
+- Không yêu cầu Tuyền tự vào Admin upload/activate khi đã có credential/API chạy được.
+- Báo cáo cuối thật ngắn: đã public chưa, bằng chứng test, blocker nếu còn.

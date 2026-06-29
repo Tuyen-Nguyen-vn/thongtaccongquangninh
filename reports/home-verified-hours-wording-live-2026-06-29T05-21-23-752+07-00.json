@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-06-29T05:21:23.752+07:00",
+  "timezone": "Asia/Bangkok",
+  "targets": [
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/home-verified-hours-wording-live-2026-06-29T05-21-23-752+07-00/ttcqn-home-emergency-renderer.remote.php",
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php\",\"status\":\"ok\"}",
+      "remoteMatches": true,
+      "requiredOk": true,
+      "forbiddenGone": true
+    },
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/home-verified-hours-wording-live-2026-06-29T05-21-23-752+07-00/page-home-direct.remote.php",
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php\",\"status\":\"ok\"}",
+      "remoteMatches": false,
+      "requiredOk": true,
+      "forbiddenGone": true
+    }
+  ],
+  "purge": {
+    "ok": true,
+    "text": "{\"status\":200,\"events\":[{\"jsonrpc\":\"2.0\",\"id\":9,\"error\":{\"code\":-32602,\"message\":\"invalid params: validating \\\"arguments\\\": validating root: unexpected additional properties [\\\"domain\\\"]\"}}],\"raw\":\"event: message\\ndata: {\\\"jsonrpc\\\":\\\"2.0\\\",\\\"id\\\":9,\\\"error\\\":{\\\"code\\\":-32602,\\\"message\\\":\\\"invalid params: validating \\\\\\\"arguments\\\\\\\": validating root: unexpected additional properties [\\\\\\\"domain\\\\\\\"]\\\"}}\\n\\n\"}",
+    "warning": ""
+  },
+  "public": {
+    "status": 200,
+    "hasNewFaqQuestion": true,
+    "hasOldFaqQuestion": false,
+    "hasNewBaiChayWording": false,
+    "hasOldBaiChayWording": false
+  },
+  "success": false
+}

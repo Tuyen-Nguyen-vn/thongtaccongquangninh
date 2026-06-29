@@ -1,0 +1,52 @@
+{
+  "slug": "backlink-thongtaccongquangninh-com",
+  "generated_at": "2026-05-09T16:54:24.153Z",
+  "agent": "unknown",
+  "type": "live",
+  "seo_score": {
+    "display": "n/a",
+    "threshold": "per audit",
+    "pass": true
+  },
+  "image_gate": {
+    "status": "N/A",
+    "pass": true
+  },
+  "preflight": {
+    "passed": 1,
+    "total": 1,
+    "pass": true
+  },
+  "issues": [],
+  "verdict": "PASS",
+  "review_status": "pass",
+  "recommendation": "Báo Tuyền kết quả audit live.",
+  "evidence": {
+    "audit_stdout": "{\n  \"slug\": \"backlink-thongtaccongquangninh-com\",\n  \"checked_at\": \"2026-05-09T16:54:24.076Z\",\n  \"candidate\": null,\n  \"word_count\": 0,\n  \"has_hotline\": false,\n  \"has_local_intent\": false,\n  \"has_cta\": false,\n  \"issues\": [\n    \"Không tìm thấy file live/draft để audit.\"\n  ],\n  \"pass\": false,\n  \"notes\": [\n    \"Live audit now checks content length, hotline, local intent, and CTA.\"\n  ],\n  \"report_json\": \"/mnt/d/.thongtaccongquangninh/reports/live-seo-audit-2026-05-09T16-54-24-077Z.json\"\n}\n",
+    "doorway_stdout": "{\n  \"slug\": \"backlink-thongtaccongquangninh-com\",\n  \"checked_at\": \"2026-05-09T16:54:24.135Z\",\n  \"doorway_risk\": 0,\n  \"pass\": true,\n  \"issues\": [\n    \"Không tìm thấy draft để phân tích.\"\n  ],\n  \"notes\": [\n    \"Doorway scan now estimates repetition and local-entity stuffing risk.\"\n  ],\n  \"report_json\": \"/mnt/d/.thongtaccongquangninh/reports/doorway-audit-2026-05-09T16-54-24-136Z.json\"\n}\n",
+    "latest_progress": {
+      "date": "2026-05-08",
+      "time": "09:30",
+      "task_id": "BACKLINK-LOCAL-001",
+      "task_type": "offpage",
+      "keyword": "backlink thongtaccongquangninh.com",
+      "url": "https://thongtaccongquangninh.com/",
+      "slug": "backlink-thongtaccongquangninh-com",
+      "status": "local_ready",
+      "difficulty": "medium",
+      "internal_score_before": "",
+      "internal_score_after": "",
+      "rank_math_before": "",
+      "rank_math_after": "",
+      "action_done": "\"Lap goi backlink/citation sach: ke hoach campaign",
+      "files_changed": " bang target",
+      "issues": " NAP",
+      "next_action": " anchor ratio",
+      "agent_note": " profile copy",
+      "review_status": " PR topics va risk cleanup\"",
+      "reviewed_by": "docs/BACKLINK_CAMPAIGN_2026-05-08.md docs/BACKLINK_TARGETS_2026-05-08.csv",
+      "reviewed_at": "\"Chua dang live vi can tai khoan/captcha/duyet nen tang; phat hien backlink forum/profile mong can khong nhan rong\"",
+      "review_report": "Dang thu cong 10 nguon dau tien va xuat Search Console Links de audit spam/referring domains"
+    }
+  }
+}

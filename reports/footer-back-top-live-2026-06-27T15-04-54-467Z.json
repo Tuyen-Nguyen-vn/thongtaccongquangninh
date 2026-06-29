@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-06-27T15:04:59.870Z",
+  "writes": [
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/footer-back-top-live-2026-06-27T15-04-54-467Z/ttcqn-home-emergency-renderer.remote.php",
+      "existedBefore": true,
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/ttcqn-home-emergency-renderer.php\",\"status\":\"ok\"}",
+      "remoteMatches": true,
+      "strictMatch": true,
+      "matchMode": "strict"
+    },
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/footer-back-top-live-2026-06-27T15-04-54-467Z/page-home-direct.remote.php",
+      "existedBefore": true,
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php\",\"status\":\"ok\"}",
+      "remoteMatches": true,
+      "strictMatch": false,
+      "matchMode": "logical"
+    },
+    {
+      "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php",
+      "remote": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/footer-back-top-live-2026-06-27T15-04-54-467Z/shared-footer-interactions-inline.remote.php",
+      "existedBefore": true,
+      "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/shared-footer-interactions-inline.php\",\"status\":\"ok\"}",
+      "remoteMatches": true,
+      "strictMatch": true,
+      "matchMode": "strict"
+    }
+  ],
+  "purgeText": "{\"purged\":\"thongtaccongquangninh.com\"}",
+  "public": {
+    "servicePage": {
+      "status": 200,
+      "hasFooterButton": true,
+      "hasCriticalError": false
+    },
+    "homePage": {
+      "status": 200,
+      "hasFooterButton": true,
+      "hasCriticalError": false
+    }
+  },
+  "success": true
+}

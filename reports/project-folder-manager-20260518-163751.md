@@ -1,0 +1,248 @@
+# Báo cáo Agent Quản Lý Thư Mục
+
+- Root: `/mnt/d/.thongtaccongquangninh`
+- Thời điểm quét: `2026-05-18T16:37:51`
+- Tổng file: **3717**
+- Tổng thư mục: **715**
+- Dung lượng quét: **1004.1 MB**
+
+## Nhóm file
+
+- `other`: 2210 file, 893.4 MB
+- `seo-revision`: 474 file, 11.4 MB
+- `report`: 341 file, 73.2 MB
+- `tool-script`: 214 file, 19.0 MB
+- `data-output`: 205 file, 4.1 MB
+- `document`: 111 file, 745.1 KB
+- `wordpress-operation-log`: 82 file, 1.2 MB
+- `content-draft`: 60 file, 1.0 MB
+- `seo-status`: 14 file, 87.6 KB
+- `agent-config`: 4 file, 11.6 KB
+- `context`: 2 file, 33.9 KB
+
+## Thư mục cấp 1
+
+- `_tmp`: 888 file
+- `backups`: 673 file
+- `image-briefs`: 534 file
+- `seo-revisions`: 474 file
+- `reports`: 341 file
+- `Ảnh Đã Xử Lý SEO`: 237 file
+- `tools`: 214 file
+- `Ảnh cung cấp`: 88 file
+- `content-drafts`: 60 file
+- `docs`: 19 file
+- `Favicon`: 12 file
+- `.codex`: 9 file
+- `.cursor`: 7 file
+- `scripts`: 7 file
+- `logs`: 6 file
+- `.claude`: 5 file
+- `.agents`: 4 file
+- `skills`: 2 file
+- `.clinerules`: 1 file
+- `.cursorrules`: 1 file
+- `.env`: 1 file
+- `.env.example`: 1 file
+- `AGENTS.md`: 1 file
+- `AGENT_OWNERSHIP.md`: 1 file
+- `AI_RULES.md`: 1 file
+- `CLAUDE.md`: 1 file
+- `CODEX_CONTEXT.md`: 1 file
+- `DASHBOARD_2026-05-10.md`: 1 file
+- `DASHBOARD_2026-05-11.md`: 1 file
+- `DASHBOARD_2026-05-12.md`: 1 file
+- `DASHBOARD_2026-05-13.md`: 1 file
+- `DASHBOARD_2026-05-14.md`: 1 file
+- `DASHBOARD_2026-05-15.md`: 1 file
+- `DASHBOARD_2026-05-16.md`: 1 file
+- `DASHBOARD_2026-05-17.md`: 1 file
+- `DASHBOARD_2026-05-18.md`: 1 file
+- `global-styles.php`: 1 file
+- `htaccess_new.txt`: 1 file
+- `htaccess_restored.txt`: 1 file
+- `IMAGE_SEO_WORKFLOW_2026-05-06.md`: 1 file
+- `LOCAL_SEO_DOORWAY_SAFE_WORKFLOW_2026-05-05.md`: 1 file
+- `logo-cong-ty-moi-truong-do-thi-so-1-quang-ninh.jpg`: 1 file
+- `logo.png`: 1 file
+- `Makefile`: 1 file
+- `package-lock.json`: 1 file
+- `package.json`: 1 file
+- `seo-content-guidelines.md`: 1 file
+- `SEO_DOORWAY_FIX_REPORT_CITY_GROUP_2026-05-05.md`: 1 file
+- `SEO_DOORWAY_FIX_REPORT_HA_LONG_2026-05-05.md`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-08.json`: 1 file
+- `SEO_GOOGLE_INDEX_2026-05-09.json`: 1 file
+- `SEO_INTERNAL_LINKS_LOG_2026-04-29.md`: 1 file
+- `SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv`: 1 file
+- `SEO_STATUS_2026-05-03.md`: 1 file
+- `SEO_STATUS_2026-05-05.md`: 1 file
+- `SEO_STATUS_2026-05-06.md`: 1 file
+- `SEO_STATUS_2026-05-10.md`: 1 file
+- `SEO_STATUS_2026-05-12.md`: 1 file
+- `sticky_cta_zalo_phone.html`: 1 file
+- `TASKS.md`: 1 file
+- `technical-seo-sop.md`: 1 file
+- `tmp_fix.py`: 1 file
+- `ttcqn-home-performance-tune.php`: 1 file
+- `UPLOAD_DOI_TAC_IMAGES_2026-05-16.json`: 1 file
+- `WORDPRESS_CLEAN_DUPLICATE_IMAGE_FILENAMES_2026-05-07.json`: 1 file
+- `WORDPRESS_DEACTIVATE_HOME_TEMP_PLUGINS_2026-05-13.json`: 1 file
+- `WORDPRESS_DEBUG_AFTER_HOME_BYPASS_2026-05-13.txt`: 1 file
+- `WORDPRESS_DESKTOP_IMAGE_SEO_2026-05-06T17-38-00.json`: 1 file
+- `WORDPRESS_FAVICON_20260512_PLUGIN_UPLOAD_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_20260514_PLUGIN_UPLOAD_2026-05-14.json`: 1 file
+- `WORDPRESS_FAVICON_CLEANUP_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_FORCE_DISABLE_OLD_PLUGIN_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-10.json`: 1 file
+- `WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-12.json`: 1 file
+- `WORDPRESS_FAVICON_VERIFY_2026-05-10.json`: 1 file
+- `WORDPRESS_FAVICON_VERIFY_2026-05-14.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-40-55.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-43-37.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-45-54.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T18-28-38.json`: 1 file
+- `WORDPRESS_FILL_MISSING_IMAGES_2026-05-14T15-34-14.json`: 1 file
+- `WORDPRESS_FINAL_VERIFY_SEO_IMAGES_2026-05-06.json`: 1 file
+- `WORDPRESS_FIX_BLOG_MENU_LABEL_2026-05-16T20-51-37-617Z.json`: 1 file
+- `WORDPRESS_FIX_CITY_META_DESCRIPTIONS_2026-05-05.json`: 1 file
+- `WORDPRESS_FIX_DUPLICATE_TITLES_2026-05-09.json`: 1 file
+- `WORDPRESS_FIX_HOME_BLANK_TEMPLATE_2026-05-12.json`: 1 file
+- `WORDPRESS_FIX_PAGE_311_NAP_2026-05-12.json`: 1 file
+- `WORDPRESS_GLOBAL_REUSE_IMAGE_FIX_2026-05-14T15-46-02.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-13.json`: 1 file
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json`: 1 file
+- `WORDPRESS_HOME_HERO_LAYOUT_BALANCE_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_HERO_WORKER_FRONT_FORM_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_LEAD_FORM_CACHE_TOUCH_2026-05-12.json`: 1 file
+- `WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-12.json`: 1 file
+- `WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-18.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_ACTIVATE_2026-05-11.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_PLUGIN_UPLOAD_2026-05-11.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_UPLOAD_2026-05-17.json`: 1 file
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_VERIFY_2026-05-11.json`: 1 file
+- `WORDPRESS_HOME_PROJECT_IMAGES_UPLOAD_2026-05-14.json`: 1 file
+- `WORDPRESS_HOME_PROJECT_IMAGES_VERIFY_2026-05-14.json`: 1 file
+- `WORDPRESS_HOME_REMOVE_TRUCK_TAIL_BLINK_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_RENDER_INSPECT_2026-05-06.json`: 1 file
+- `WORDPRESS_HOME_REPLACE_TRUCK_WORKER_BALANCE_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_SECTIONS_UPDATE_2026-05-14.json`: 1 file
+- `WORDPRESS_HOME_SERVICES_PIPE_TRUCK_LIGHTS_PLATE_2026-05-16.json`: 1 file
+- `WORDPRESS_HOME_SERVICE_IMAGES_2026-05-07.json`: 1 file
+- `WORDPRESS_HOME_SERVICE_IMAGES_PLUGIN_UPLOAD_2026-05-07.json`: 1 file
+- `WORDPRESS_HOME_SERVICE_IMAGES_UPLOAD_2026-05-07.json`: 1 file
+- `WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_2026-05-13.json`: 1 file
+- `WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_PLUGIN_UPLOAD_2026-05-13.json`: 1 file
+- `WORDPRESS_IMAGE_LAYOUT_FIX_2026-05-07.json`: 1 file
+- `WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-20-56-933Z.json`: 1 file
+- `WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-22-57-527Z.json`: 1 file
+- `WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-27-20-134Z.json`: 1 file
+- `WORDPRESS_MCP_ABILITIES_2026-05-06.json`: 1 file
+- `WORDPRESS_MCP_ABILITIES_2026-05-10.json`: 1 file
+- `WORDPRESS_MCP_SMOKE_2026-05-06.json`: 1 file
+- `WORDPRESS_MOBILE_IMAGE_OPTIMIZED_UPLOADS_2026-05-07.json`: 1 file
+- `WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_2026-05-07.json`: 1 file
+- `WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_UPDATE_2026-05-07.json`: 1 file
+- `WORDPRESS_MOBILE_LEFT_STICKY_CTA_PLUGIN_UPLOAD_2026-05-16.json`: 1 file
+- `WORDPRESS_PHASE1_FIX_REPORT_2026-05-06.json`: 1 file
+- `WORDPRESS_PLUGINS_2026-05-10.json`: 1 file
+- `WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-10.json`: 1 file
+- `WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-16.json`: 1 file
+- `WORDPRESS_REPLACE_ANH_MINH_HOA_2026-05-07.json`: 1 file
+- `WORDPRESS_REPLACE_SUSPICIOUS_IMAGES_2026-05-14T15-39-10.json`: 1 file
+- `WORDPRESS_RESTORE_PAGE_HOME_TEMPLATE_2026-05-13.json`: 1 file
+- `WORDPRESS_RESTORE_PUBLISH_2026-05-07.json`: 1 file
+- `WORDPRESS_RESTORE_PUBLISH_CANDIDATES_2026-05-07.json`: 1 file
+- `WORDPRESS_REST_ROUTES_2026-05-06.json`: 1 file
+- `WORDPRESS_REWRITE_PAGE_380_CHUNG_CU_HA_LONG_2026-05-12.json`: 1 file
+- `WORDPRESS_REWRITE_PAGE_383_NHA_HANG_HA_LONG_2026-05-12.json`: 1 file
+- `WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-17.json`: 1 file
+- `WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-18.json`: 1 file
+- `WORDPRESS_SUBPAGE_BANNER_DEDUPE_PLUGIN_2026-05-07.json`: 1 file
+- `WORDPRESS_SYNC_RENDERER_OPTION_296_2026-05-06.json`: 1 file
+- `WORDPRESS_SYNC_RENDERER_OPTION_296_IMAGE_LAYOUT_2026-05-07.json`: 1 file
+- `WORDPRESS_UPDATE_CITY_DOORWAY_SAFE_2026-05-05.json`: 1 file
+- `WORDPRESS_UPDATE_DOORWAY_BATCH2_2026-05-06.json`: 1 file
+- `WORDPRESS_UPDATE_FAVICON_2026-05-10.json`: 1 file
+- `WORDPRESS_UPDATE_FAVICON_2026-05-14.json`: 1 file
+- `WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_DOORWAY_SAFE_2026-05-05.json`: 1 file
+- `WORDPRESS_UPLOAD_INSERT_SEO_IMAGES_2026-05-06.json`: 1 file
+- `WORDPRESS_VERIFY_SEO_IMAGES_2026-05-06.json`: 1 file
+- `wp-similar-title-pairs.csv`: 1 file
+- `wp-url-audit-list.csv`: 1 file
+- `wp-url-audit-list.json`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-05-06.md`: 1 file
+- `WP_URL_AUDIT_REPORT_2026-05-10.md`: 1 file
+- `_tmp_home_reference_preview.html`: 1 file
+- `.vscode`: 1 file
+- `seo-checklists`: 1 file
+- `terminal`: 1 file
+
+## File mới sửa gần nhất
+
+- `logs\uptime.log` | `other` | 2026-05-18T16:34:49 | 106.6 KB
+- `logs\uptime_status.json` | `data-output` | 2026-05-18T16:34:49 | 84 B
+- `Ảnh Đã Xử Lý SEO\section-phuc-vu-24-7-quang-ninh-2026-05-18\phuc-vu-24-7-quang-ninh-bg-clean.webp` | `other` | 2026-05-18T15:56:09 | 71.1 KB
+- `Ảnh Đã Xử Lý SEO\section-phuc-vu-24-7-quang-ninh-2026-05-18\phuc-vu-24-7-quang-ninh-bg-desktop.jpg` | `other` | 2026-05-18T15:56:09 | 105.7 KB
+- `Ảnh Đã Xử Lý SEO\section-phuc-vu-24-7-quang-ninh-2026-05-18\phuc-vu-24-7-quang-ninh-bg-mobile.webp` | `other` | 2026-05-18T15:56:09 | 24.2 KB
+- `Ảnh Đã Xử Lý SEO\section-phuc-vu-24-7-quang-ninh-2026-05-18\phuc-vu-24-7-quang-ninh-bg-tablet.webp` | `other` | 2026-05-18T15:56:09 | 33.0 KB
+- `Ảnh Đã Xử Lý SEO\section-phuc-vu-24-7-quang-ninh-2026-05-18\phuc-vu-24-7-quang-ninh-bg-desktop.webp` | `other` | 2026-05-18T15:56:08 | 54.1 KB
+- `reports\region-section-redesign-2026-05-18\element-summary.json` | `report` | 2026-05-18T14:31:42 | 297 B
+- `reports\region-section-redesign-2026-05-18\mobile-section.png` | `report` | 2026-05-18T14:31:42 | 381.2 KB
+- `reports\region-section-redesign-2026-05-18\desktop-section.png` | `report` | 2026-05-18T14:31:41 | 1.2 MB
+- `reports\region-section-redesign-2026-05-18\final-summary.json` | `report` | 2026-05-18T14:30:16 | 1.8 KB
+- `reports\region-section-redesign-2026-05-18\mobile-final.png` | `report` | 2026-05-18T14:30:15 | 317.1 KB
+
+## File quan trọng
+
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json` | `wordpress-operation-log` | 2026-05-18T14:29:06
+- `WORDPRESS_MCP_SMOKE_2026-05-06.json` | `wordpress-operation-log` | 2026-05-18T13:09:51
+- `docs\SEO_PROGRESS.csv` | `seo-status` | 2026-05-18T13:09:35
+- `AGENTS.md` | `context` | 2026-05-18T12:50:24
+- `WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-18.json` | `wordpress-operation-log` | 2026-05-18T12:46:04
+- `WORDPRESS_HOME_PERFORMANCE_TUNE_UPLOAD_2026-05-17.json` | `wordpress-operation-log` | 2026-05-18T12:21:49
+- `WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-18.json` | `wordpress-operation-log` | 2026-05-18T11:33:39
+- `WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-13.json` | `wordpress-operation-log` | 2026-05-18T11:21:14
+- `WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-17.json` | `wordpress-operation-log` | 2026-05-17T17:53:22
+- `WORDPRESS_FIX_BLOG_MENU_LABEL_2026-05-16T20-51-37-617Z.json` | `wordpress-operation-log` | 2026-05-17T03:51:44
+- `WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-16.json` | `wordpress-operation-log` | 2026-05-16T23:44:03
+- `WORDPRESS_MOBILE_LEFT_STICKY_CTA_PLUGIN_UPLOAD_2026-05-16.json` | `wordpress-operation-log` | 2026-05-16T22:49:57
+
+## File lớn
+
+- `tools\wp-plugins\ttcqn-home-emergency-renderer.zip` | 5.6 MB | 2026-05-18T14:28:37
+- `backups\services-section-dark-2026-05-18\ttcqn-home-emergency-renderer.zip` | 5.6 MB | 2026-05-18T12:45:56
+- `backups\home-gallery-assistant-2026-05-18\ttcqn-home-emergency-renderer.zip` | 5.6 MB | 2026-05-18T12:38:19
+- `backups\home-footer-mockup-2026-05-18\ttcqn-home-emergency-renderer.zip` | 5.6 MB | 2026-05-18T12:21:35
+- `backups\home-no-crop-images-2026-05-18\ttcqn-home-emergency-renderer.zip` | 5.6 MB | 2026-05-18T12:14:55
+- `backups\home-price-truck-card-2026-05-18\ttcqn-home-emergency-renderer.zip` | 5.6 MB | 2026-05-18T12:11:13
+- `backups\home-seo-headings-meta-2026-05-18\ttcqn-home-emergency-renderer.zip` | 5.6 MB | 2026-05-18T11:33:26
+- `backups\home-replace-truck-real-20260516-185839\ttcqn-home-emergency-renderer.zip` | 5.2 MB | 2026-05-16T18:58:40
+- `image-briefs\assets\trang-faq-tong-hop-thong-tac-cong-rankmath-draft-cta-niem-tin.png` | 15.6 MB | 2026-05-10T13:39:50
+- `image-briefs\assets-backup-2026-05-10\trang-faq-tong-hop-thong-tac-cong-rankmath-draft-cta-niem-tin.png` | 14.5 MB | 2026-05-10T13:39:44
+- `Ảnh cung cấp\2. Xe Hut - Cong Ty KCN\1771169669548.png` | 5.9 MB | 2026-05-06T17:25:50
+- `_tmp\image-seo-venv\bin\python` | 7.1 MB | 2026-04-08T11:02:31
+- `_tmp\image-seo-venv\bin\python3` | 7.1 MB | 2026-04-08T11:02:31
+- `_tmp\image-seo-venv\bin\python3.14` | 7.1 MB | 2026-04-08T11:02:31
+- `_tmp\image-seo-venv\bin\𝜋thon` | 7.1 MB | 2026-04-08T11:02:31
+- `image-briefs\assets\thong-tac-bon-cau-quang-ninh-khu-vuc-phuc-vu.png` | 9.0 MB | 2026-03-25T02:37:43
+- `image-briefs\assets\thong-tac-bon-cau-van-don-anh-dau-bai.png` | 14.5 MB | 2026-03-10T14:40:57
+- `Ảnh cung cấp\3. Tho Thong Tac Cong\anh-seo-063.png` | 16.6 MB | 2026-03-10T11:29:12
+- `image-briefs\assets\thong-tac-cong-gieng-day-quy-trinh-thi-cong.png` | 8.0 MB | 2026-02-23T08:16:57
+- `image-briefs\assets\thong-tac-bon-cau-van-don-quy-trinh-thi-cong.png` | 7.0 MB | 2026-02-18T22:23:38
+
+## Đề xuất
+
+- Giữ `AGENTS.md` và `CODEX_CONTEXT.md` làm nguồn quy tắc vận hành.
+- Không dọn `WORDPRESS_*.json` hoặc report live nếu chưa đối chiếu task liên quan.
+- Khi cần dọn thật, tạo danh sách move-plan trước rồi chờ Tuyền duyệt.
+- Thư mục `reports` có nhiều file; nên gom theo tháng sau khi tạo danh sách duyệt.
+- Thư mục `content-drafts` có nhiều draft; nên ưu tiên phân loại `đã live`, `chờ duyệt`, `cần sửa`.
+- Có file lớn; chỉ nén/chuyển sau khi kiểm tra không phải bằng chứng audit đang dùng.
+- Thư mục `tools` có nhiều script; nên ghi script nào là read-only, script nào có thể sửa live.
+
+## Nguyên tắc khi dọn
+
+- Chỉ tạo danh sách đề xuất, không xóa/chuyển file nếu chưa được Tuyền duyệt.
+- Phân biệt rõ `local`, `draft`, `live`, `report` trước khi báo xong.
+- Với việc liên quan WordPress live, phải backup/dry-run/re-audit theo `AGENTS.md`.

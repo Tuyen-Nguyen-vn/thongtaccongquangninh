@@ -1,0 +1,249 @@
+{
+  "updatedAt": "2026-05-19T19:12:58.073Z",
+  "backupDir": "backups/strict-seo-cleanup-2026-05-20",
+  "totalCandidates": 22,
+  "results": [
+    {
+      "kind": "pages",
+      "id": 166,
+      "slug": "thong-tac-toilet-quang-ninh",
+      "oldStatus": "publish",
+      "title": "Thông tắc toilet Quảng Ninh - Công nghệ máy lò xo, bảo hành dài hạn",
+      "reason": "Retire legacy/duplicate URL now covered by canonical 301 redirect",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/pages-166-thong-tac-toilet-quang-ninh-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1375,
+      "slug": "thong-tac-cong-bai-chay-2",
+      "oldStatus": "publish",
+      "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+      "reason": "Retire legacy/duplicate URL now covered by canonical 301 redirect",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1375-thong-tac-cong-bai-chay-2-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1376,
+      "slug": "thong-tac-cong-bai-chay-3",
+      "oldStatus": "publish",
+      "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+      "reason": "Retire legacy/duplicate URL now covered by canonical 301 redirect",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1376-thong-tac-cong-bai-chay-3-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1288,
+      "slug": "thong-tac-cong-bai-chay",
+      "oldStatus": "draft",
+      "title": "Thông tắc cống Bãi Cháy 24/7, không đục phá, có mặt nhanh 15 phút",
+      "reason": "Retire legacy/duplicate URL now covered by canonical 301 redirect",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1288-thong-tac-cong-bai-chay-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1715,
+      "slug": "thong-tac-cong-cam-pha",
+      "oldStatus": "draft",
+      "title": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn",
+      "reason": "Duplicate title; keeping pages:400 (thong-tac-cong-cam-pha)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1715-thong-tac-cong-cam-pha-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1871,
+      "slug": "landing-cam-pha-thong-tac-bon-cau",
+      "oldStatus": "draft",
+      "title": "Thợ thông bồn cầu Cẩm Phả 24/7 - Máy lò xo, bảo hành 12 tháng",
+      "reason": "Duplicate title; keeping pages:450 (thong-tac-bon-cau-cam-pha)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1871-landing-cam-pha-thong-tac-bon-cau-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1665,
+      "slug": "thong-tac-cong-bai-chay-4",
+      "oldStatus": "draft",
+      "title": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "reason": "Duplicate title; keeping pages:1226 (thong-tac-cong-bai-chay)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1665-thong-tac-cong-bai-chay-4-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1877,
+      "slug": "landing-dong-trieu-thong-tac-bon-cau",
+      "oldStatus": "draft",
+      "title": "Thông tắc bồn cầu Đông Triều 24/7 - Máy lò xo, xe hút vào ngõ nhỏ",
+      "reason": "Duplicate title; keeping pages:1481 (thong-tac-bon-cau-dong-trieu)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1877-landing-dong-trieu-thong-tac-bon-cau-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1865,
+      "slug": "landing-ha-long-thong-tac-bon-cau",
+      "oldStatus": "draft",
+      "title": "Thợ thông bồn cầu Hạ Long 24/7 - Khách sạn, nhà hàng, có mặt 15 phút",
+      "reason": "Duplicate title; keeping pages:1482 (thong-tac-bon-cau-ha-long)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1865-landing-ha-long-thong-tac-bon-cau-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1883,
+      "slug": "landing-mong-cai-thong-tac-bon-cau",
+      "oldStatus": "draft",
+      "title": "Thợ thông bồn cầu Móng Cái 24/7 - Xử lý kín, cam kết không đục phá",
+      "reason": "Duplicate title; keeping pages:1483 (thong-tac-bon-cau-mong-cai)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1883-landing-mong-cai-thong-tac-bon-cau-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1895,
+      "slug": "landing-quang-yen-thong-tac-bon-cau",
+      "oldStatus": "draft",
+      "title": "Thông tắc bồn cầu Quảng Yên 24/7 - Nhà dân, cửa hàng ven sông",
+      "reason": "Duplicate title; keeping pages:1485 (thong-tac-bon-cau-quang-yen)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1895-landing-quang-yen-thong-tac-bon-cau-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1901,
+      "slug": "landing-uong-bi-thong-tac-bon-cau",
+      "oldStatus": "draft",
+      "title": "Thông tắc bồn cầu Uông Bí 24/7 - Chuyên ống gang cũ, bảo hành 12 tháng",
+      "reason": "Duplicate title; keeping pages:1486 (thong-tac-bon-cau-uong-bi)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1901-landing-uong-bi-thong-tac-bon-cau-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1669,
+      "slug": "thong-tac-cong-cao-xanh",
+      "oldStatus": "draft",
+      "title": "Thông tắc cống Cao Xanh 24/7, không đục phá, có mặt nhanh 15 phút",
+      "reason": "Duplicate title; keeping pages:991 (thong-tac-cong-cao-xanh)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1669-thong-tac-cong-cao-xanh-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1703,
+      "slug": "thong-tac-cong-gieng-day",
+      "oldStatus": "draft",
+      "title": "Thông tắc cống Giếng Đáy Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "reason": "Duplicate title; keeping pages:992 (thong-tac-cong-gieng-day)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1703-thong-tac-cong-gieng-day-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1687,
+      "slug": "thong-tac-cong-tuan-chau",
+      "oldStatus": "draft",
+      "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh",
+      "reason": "Duplicate title; keeping pages:993 (thong-tac-cong-tuan-chau)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1687-thong-tac-cong-tuan-chau-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "pages",
+      "id": 1457,
+      "slug": "draft-1457-cau-hoi-faq-old-qn",
+      "oldStatus": "draft",
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "reason": "Duplicate title; keeping posts:1377 (cau-hoi-thuong-gap-thong-tac-cong)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/pages-1457-draft-1457-cau-hoi-faq-old-qn-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "pages",
+      "id": 994,
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong-quang-ninh-gia-va-bao-hanh",
+      "oldStatus": "draft",
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành",
+      "reason": "Duplicate title; keeping posts:1377 (cau-hoi-thuong-gap-thong-tac-cong)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/pages-994-cau-hoi-thuong-gap-thong-tac-cong-quang-ninh-gia-va-bao-hanh-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 540,
+      "slug": "thong-tac-bon-cau-quang-yen-2",
+      "oldStatus": "draft",
+      "title": "Thông Tắc Bồn Cầu Quảng Yên - Xử Lý Nhanh 15 Phút 24/7",
+      "reason": "Duplicate title; keeping posts:538 (thong-tac-bon-cau-quang-yen)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-540-thong-tac-bon-cau-quang-yen-2-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1624,
+      "slug": "dau-hieu-be-phot-can-hut-2",
+      "oldStatus": "draft",
+      "title": "Dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "reason": "Duplicate title; keeping posts:1633 (dau-hieu-be-phot-can-hut-3)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1624-dau-hieu-be-phot-can-hut-2-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1627,
+      "slug": "chu-ky-hut-be-phot",
+      "oldStatus": "draft",
+      "title": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026",
+      "reason": "Duplicate title; keeping posts:1639 (chu-ky-hut-be-phot-2)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1627-chu-ky-hut-be-phot-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1630,
+      "slug": "chi-phi-hut-be-phot-quang-ninh",
+      "oldStatus": "draft",
+      "title": "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết, báo giá ngay",
+      "reason": "Duplicate title; keeping posts:1645 (chi-phi-hut-be-phot-quang-ninh-2)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1630-chi-phi-hut-be-phot-quang-ninh-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    },
+    {
+      "kind": "posts",
+      "id": 1638,
+      "slug": "bon-cau-rut-cham-nguyen-nhan",
+      "oldStatus": "draft",
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+      "reason": "Duplicate title; keeping posts:1648 (bon-cau-rut-cham-nguyen-nhan-2)",
+      "backupPath": "backups/strict-seo-cleanup-2026-05-20/posts-1638-bon-cau-rut-cham-nguyen-nhan-before-trash.json",
+      "deletedStatus": "trash",
+      "deleted": null
+    }
+  ]
+}

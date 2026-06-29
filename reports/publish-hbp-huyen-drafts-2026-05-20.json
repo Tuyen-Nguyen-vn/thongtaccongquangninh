@@ -1,0 +1,161 @@
+{
+  "generatedAt": "2026-05-20T16:18:19.168Z",
+  "backupDir": "backups/publish-hbp-huyen-drafts-2026-05-20",
+  "duplicateResolved": {
+    "type": "page",
+    "id": 629,
+    "slug": "hut-be-phot-tien-yen",
+    "action": "DELETE without force -> trash",
+    "backup": "backups/publish-hbp-huyen-drafts-2026-05-20/page-629-hut-be-phot-tien-yen-before-trash.json"
+  },
+  "uniqueImageAudit": {
+    "report": "reports/wp-unique-image-audit-2026-05-20T23-16-54.json",
+    "matchingIssuesForTheseSix": 0
+  },
+  "results": [
+    {
+      "id": 1924,
+      "slug": "hut-be-phot-tien-yen",
+      "taskId": "HBP-TY-003",
+      "status": "publish",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen/",
+      "wpTitle": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "quality": {
+        "title": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+        "description": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 cho nhà dân, nhà hàng, trường học vùng xa. Xe đến tận nơi, hút sạch, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+        "focusKeyword": "hút bể phốt Tiên Yên",
+        "words": 2875,
+        "focusCount": 31,
+        "density": 1.08,
+        "internalLinks": 4
+      },
+      "live": {
+        "status": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen/",
+        "imageHits": 21,
+        "hotline": true,
+        "badLabel": false
+      }
+    },
+    {
+      "id": 1928,
+      "slug": "hut-be-phot-hai-ha",
+      "taskId": "HBP-HH-003",
+      "status": "publish",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+      "wpTitle": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "quality": {
+        "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+        "description": "Hút bể phốt Hải Hà Quảng Ninh 24/7 cho nhà dân, cơ sở kinh doanh vùng biên. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+        "focusKeyword": "hút bể phốt Hải Hà",
+        "words": 2717,
+        "focusCount": 31,
+        "density": 1.14,
+        "internalLinks": 4
+      },
+      "live": {
+        "status": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+        "imageHits": 21,
+        "hotline": true,
+        "badLabel": false
+      }
+    },
+    {
+      "id": 1932,
+      "slug": "hut-be-phot-ba-che",
+      "taskId": "HBP-BC-003",
+      "status": "publish",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+      "wpTitle": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "quality": {
+        "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+        "description": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+        "focusKeyword": "hút bể phốt Ba Chẽ",
+        "words": 2653,
+        "focusCount": 31,
+        "density": 1.17,
+        "internalLinks": 4
+      },
+      "live": {
+        "status": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+        "imageHits": 21,
+        "hotline": true,
+        "badLabel": false
+      }
+    },
+    {
+      "id": 1936,
+      "slug": "hut-be-phot-dam-ha",
+      "taskId": "HBP-DH-003",
+      "status": "publish",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha/",
+      "wpTitle": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "quality": {
+        "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+        "description": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 cho nhà dân, nhà hàng, trang trại. Xe đến tận huyện, hút sạch, báo giá rõ trước khi làm. Gọi 0963.953.533 / 0931.156.756.",
+        "focusKeyword": "hút bể phốt Đầm Hà",
+        "words": 2645,
+        "focusCount": 31,
+        "density": 1.17,
+        "internalLinks": 4
+      },
+      "live": {
+        "status": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha/",
+        "imageHits": 21,
+        "hotline": true,
+        "badLabel": false
+      }
+    },
+    {
+      "id": 1940,
+      "slug": "hut-be-phot-binh-lieu",
+      "taskId": "HBP-BL-003",
+      "status": "publish",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+      "wpTitle": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "quality": {
+        "title": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+        "description": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 cho nhà dân, trường học vùng cao biên giới. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+        "focusKeyword": "hút bể phốt Bình Liêu",
+        "words": 2591,
+        "focusCount": 30,
+        "density": 1.16,
+        "internalLinks": 4
+      },
+      "live": {
+        "status": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+        "imageHits": 21,
+        "hotline": true,
+        "badLabel": false
+      }
+    },
+    {
+      "id": 1944,
+      "slug": "hut-be-phot-co-to",
+      "taskId": "HBP-CT-003",
+      "status": "publish",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-co-to/",
+      "wpTitle": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "quality": {
+        "title": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+        "description": "Hút bể phốt Cô Tô Quảng Ninh 24/7 cho nhà dân, resort, nhà hàng trên đảo. Điều phối theo chuyến tàu, báo giá minh bạch. Gọi 0963.953.533 / 0931.156.756.",
+        "focusKeyword": "hút bể phốt Cô Tô",
+        "words": 2855,
+        "focusCount": 30,
+        "density": 1.05,
+        "internalLinks": 4
+      },
+      "live": {
+        "status": 200,
+        "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-co-to/",
+        "imageHits": 21,
+        "hotline": true,
+        "badLabel": false
+      }
+    }
+  ]
+}

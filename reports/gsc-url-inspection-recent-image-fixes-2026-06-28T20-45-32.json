@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-06-28T20:45:32.181Z",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "urlCount": 4,
+  "okCount": 4,
+  "errorCount": 0,
+  "results": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=pVF0aVEFIzm6iyCr7peTwQ&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-06-18T12:41:56Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+        "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+        "sitemap": [],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=-1Ub2Q8rtVWE7wnixz-yWQ&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "URL is unknown to Google",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=Rt7DFlwcFlTv9UO4N9Nuww&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Crawled - currently not indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-06-21T03:32:41Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+        "userCanonical": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+        "sitemap": [],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+          "https://thongtaccongquangninh.com/category/blog/page/2/"
+        ]
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=INj73TPTLwzzlALuLXNjdA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    }
+  ]
+}

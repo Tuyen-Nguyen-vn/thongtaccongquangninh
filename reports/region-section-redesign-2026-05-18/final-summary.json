@@ -1,0 +1,65 @@
+{
+  "desktop-final": {
+    "version": true,
+    "titleOpacity": "1",
+    "descOpacity": "1",
+    "titleColor": "rgb(255, 255, 255)",
+    "descColor": "rgba(255, 255, 255, 0.82)",
+    "gridColumns": "673.906px 574.094px",
+    "imageCount": 7,
+    "featureCount": 6,
+    "hiddenFeatureCount": 0,
+    "hasRegionSvg": true,
+    "sliderTransformChanged": true,
+    "firstSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+    "sliderViewport": {
+      "w": 674,
+      "h": 421
+    },
+    "horizontalScroll": false,
+    "consoleReady": true,
+    "consoleErrors": []
+  },
+  "tablet-final": {
+    "version": true,
+    "titleOpacity": "1",
+    "descOpacity": "1",
+    "titleColor": "rgb(255, 255, 255)",
+    "descColor": "rgba(255, 255, 255, 0.82)",
+    "gridColumns": "760px",
+    "imageCount": 7,
+    "featureCount": 6,
+    "hiddenFeatureCount": 0,
+    "hasRegionSvg": true,
+    "sliderTransformChanged": true,
+    "firstSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+    "sliderViewport": {
+      "w": 760,
+      "h": 570
+    },
+    "horizontalScroll": false,
+    "consoleReady": true,
+    "consoleErrors": []
+  },
+  "mobile-final": {
+    "version": true,
+    "titleOpacity": "1",
+    "descOpacity": "1",
+    "titleColor": "rgb(255, 255, 255)",
+    "descColor": "rgba(255, 255, 255, 0.82)",
+    "gridColumns": "358px",
+    "imageCount": 7,
+    "featureCount": 6,
+    "hiddenFeatureCount": 0,
+    "hasRegionSvg": true,
+    "sliderTransformChanged": true,
+    "firstSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+    "sliderViewport": {
+      "w": 358,
+      "h": 269
+    },
+    "horizontalScroll": false,
+    "consoleReady": true,
+    "consoleErrors": []
+  }
+}

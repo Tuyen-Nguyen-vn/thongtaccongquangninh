@@ -1,0 +1,166 @@
+[
+  {
+    "viewport": "desktop",
+    "status": 200,
+    "consoleErrors": [],
+    "meta": "2026.05.18.07; direct-template",
+    "checks": [
+      {
+        "selector": ".ttcqn-services-section .card-img",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 6
+      },
+      {
+        "selector": ".proof-image",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 6
+      },
+      {
+        "selector": ".ttcqn-process-image",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 5
+      },
+      {
+        "selector": ".slider-track img",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 7
+      },
+      {
+        "selector": ".ttcqn-price-main-img",
+        "fits": [
+          "contain"
+        ],
+        "count": 1
+      },
+      {
+        "selector": ".ttcqn-price-truck-card img",
+        "fits": [
+          "contain"
+        ],
+        "count": 1
+      },
+      {
+        "selector": ".ttcqn-work-card img",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 4
+      }
+    ],
+    "coverCount": 0,
+    "containCount": 30
+  },
+  {
+    "viewport": "mobile",
+    "status": 200,
+    "consoleErrors": [],
+    "meta": "2026.05.18.07; direct-template",
+    "checks": [
+      {
+        "selector": ".ttcqn-services-section .card-img",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 6
+      },
+      {
+        "selector": ".proof-image",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 6
+      },
+      {
+        "selector": ".ttcqn-process-image",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 5
+      },
+      {
+        "selector": ".slider-track img",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 7
+      },
+      {
+        "selector": ".ttcqn-price-main-img",
+        "fits": [
+          "contain"
+        ],
+        "count": 1
+      },
+      {
+        "selector": ".ttcqn-price-truck-card img",
+        "fits": [
+          "contain"
+        ],
+        "count": 1
+      },
+      {
+        "selector": ".ttcqn-work-card img",
+        "fits": [
+          "contain",
+          "contain",
+          "contain",
+          "contain"
+        ],
+        "count": 4
+      }
+    ],
+    "coverCount": 0,
+    "containCount": 30
+  }
+]

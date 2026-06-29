@@ -1,0 +1,85 @@
+{
+  "startedAt": "2026-05-27T04:54:06.692Z",
+  "planPath": "seo-revisions/meta-hotline-fix-plan-2026-05-27.json",
+  "mode": "dry-run",
+  "items": [
+    {
+      "id": 1377,
+      "type": "post",
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "currentLen": 155,
+      "current": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành Khi cống tắc, bồn cầu trào ngược hoặc nhà vệ sinh có mùi hôi, người cần xử lý thường",
+      "proposedLen": 144,
+      "proposed": "Thông tắc cống Quảng Ninh 24/7, có mặt 15 phút, không đục phá, bảo hành dài hạn. Gọi 0963.953.533 / 0931.156.756 để báo giá và xử lý trong ngày.",
+      "strategy": "service_landing",
+      "status": "dry_run",
+      "currentExcerpt": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành Khi cống tắc, bồn cầu trào ngược hoặc nhà vệ sinh có mùi hôi, người cần xử lý thường"
+    },
+    {
+      "id": 62,
+      "type": "page",
+      "slug": "gioi-thieu",
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "currentLen": 154,
+      "current": "Môi Trường Đô Thị Số 1 Quảng Ninh tập trung xử lý các sự cố thoát nước dân dụng và công trình nhỏ: hút bể phốt, thông tắc cống, thông tắc bồn cầu, nạo vét",
+      "proposedLen": 146,
+      "proposed": "Môi Trường Đô Thị Số 1 Quảng Ninh tập trung xử lý các sự cố thoát nước dân dụng và công trình nhỏ. Gọi 0963.953.533 / 0931.156.756 để được tư vấn.",
+      "strategy": "keep_intent_append_hotline",
+      "status": "dry_run",
+      "currentExcerpt": "Môi Trường Đô Thị Số 1 Quảng Ninh tập trung xử lý các sự cố thoát nước dân dụng và công trình nhỏ: hút bể phốt, thông tắc cống, thông tắc bồn cầu, nạo vét "
+    },
+    {
+      "id": 2022,
+      "type": "page",
+      "slug": "he-thong-lien-ket-doi-tac",
+      "link": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+      "currentLen": 73,
+      "current": "Danh bạ đối tác chính thức của Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh.",
+      "proposedLen": 121,
+      "proposed": "Danh bạ đối tác chính thức của Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh. Gọi 0963.953.533 / 0931.156.756 để được tư vấn.",
+      "strategy": "keep_intent_append_hotline",
+      "status": "dry_run",
+      "currentExcerpt": "Danh bạ đối tác chính thức của Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh."
+    },
+    {
+      "id": 56,
+      "type": "page",
+      "slug": "hut-be-phot-dong-trieu",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "currentLen": 134,
+      "current": "Chuyên hút bể phốt tại Đông Triều, phục vụ nhanh chóng các hộ gia đình, trang trại, khu vực xa trung tâm với giá công khai, minh bạch.",
+      "proposedLen": 150,
+      "proposed": "Hút bể phốt Đông Triều 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+      "strategy": "city_pattern",
+      "status": "dry_run",
+      "currentExcerpt": "Chuyên hút bể phốt tại Đông Triều, phục vụ nhanh chóng các hộ gia đình, trang trại, khu vực xa trung tâm với giá công khai, minh bạch."
+    },
+    {
+      "id": 424,
+      "type": "page",
+      "slug": "thong-tac-cong-quang-yen",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "currentLen": 155,
+      "current": "thông tắc cống Quảng Yên cần xác định đúng điểm nghẽn: miệng thoát, ống nhánh, hố ga hay đường cống chính. Nếu xử lý sai vị trí, nước có thể rút tạm rồi tắ",
+      "proposedLen": 152,
+      "proposed": "Thông tắc cống Quảng Yên 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+      "strategy": "city_pattern",
+      "status": "dry_run",
+      "currentExcerpt": "thông tắc cống Quảng Yên cần xác định đúng điểm nghẽn: miệng thoát, ống nhánh, hố ga hay đường cống chính. Nếu xử lý sai vị trí, nước có thể rút tạm rồi tắ"
+    },
+    {
+      "id": 405,
+      "type": "page",
+      "slug": "thong-tac-cong-uong-bi",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "currentLen": 154,
+      "current": "thông tắc cống Uông Bí cần xác định đúng điểm nghẽn: miệng thoát, ống nhánh, hố ga hay đường cống chính. Nếu xử lý sai vị trí, nước có thể rút tạm rồi tắc",
+      "proposedLen": 150,
+      "proposed": "Thông tắc cống Uông Bí 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+      "strategy": "city_pattern",
+      "status": "dry_run",
+      "currentExcerpt": "thông tắc cống Uông Bí cần xác định đúng điểm nghẽn: miệng thoát, ống nhánh, hố ga hay đường cống chính. Nếu xử lý sai vị trí, nước có thể rút tạm rồi tắc "
+    }
+  ]
+}

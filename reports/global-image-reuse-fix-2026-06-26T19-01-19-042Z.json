@@ -1,0 +1,103 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-26T19:01:19.048Z",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "backupDir": null,
+  "targets": [
+    {
+      "id": 2976,
+      "type": "posts",
+      "slug": "thong-tac-cong-gieng-day-bai-viet",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day-bai-viet/",
+      "before": {
+        "imageCount": 3,
+        "missingOldCount": 3,
+        "missingNewCount": 3,
+        "missingAltCount": 3
+      },
+      "after": {
+        "imageCount": 3,
+        "missingOldCount": 0,
+        "missingNewCount": 0,
+        "missingAltCount": 0
+      },
+      "changed": true,
+      "changes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-ha-long-01.webp",
+          "fileName": "reuse-fix-gieng-day-bai-viet-kiem-tra-ho-ga.webp",
+          "replaced": 1
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-may-lo-xo-03.webp",
+          "fileName": "reuse-fix-gieng-day-bai-viet-may-lo-xo.webp",
+          "replaced": 1
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-gieng-day-tho-xu-ly-02.webp",
+          "fileName": "reuse-fix-gieng-day-bai-viet-xu-ly-duong-thoat.webp",
+          "replaced": 1
+        }
+      ],
+      "uploads": [],
+      "liveVerify": null
+    },
+    {
+      "id": 427,
+      "type": "pages",
+      "slug": "thong-tac-cong-van-don",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "before": {
+        "imageCount": 3,
+        "missingOldCount": 1,
+        "missingNewCount": 1,
+        "missingAltCount": 1
+      },
+      "after": {
+        "imageCount": 3,
+        "missingOldCount": 0,
+        "missingNewCount": 0,
+        "missingAltCount": 0
+      },
+      "changed": true,
+      "changes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "fileName": "reuse-fix-thong-tac-cong-van-don-may-lo-xo.webp",
+          "replaced": 1
+        }
+      ],
+      "uploads": [],
+      "liveVerify": null
+    },
+    {
+      "id": 25,
+      "type": "pages",
+      "slug": "blog",
+      "link": "https://thongtaccongquangninh.com/blog/",
+      "before": {
+        "imageCount": 3,
+        "missingOldCount": 1,
+        "missingNewCount": 1,
+        "missingAltCount": 1
+      },
+      "after": {
+        "imageCount": 3,
+        "missingOldCount": 0,
+        "missingNewCount": 0,
+        "missingAltCount": 0
+      },
+      "changed": true,
+      "changes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "fileName": "reuse-fix-blog-cam-nang-duong-ong-quang-ninh.webp",
+          "replaced": 1
+        }
+      ],
+      "uploads": [],
+      "liveVerify": null
+    }
+  ]
+}

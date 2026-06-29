@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.197Z",
+  "slug": "thong-tac-cong-tuan-chau",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+  "focusKeyword": "thông tắc cống Tuần Châu",
+  "service": "thông tắc cống",
+  "area": "Tuần Châu",
+  "subAreas": "nhận thông tắc cống Tuần Châu Hạ Long Môi Trường Đô Thị Số 1 Quảng Ninh nhận thông tắc cống Tuần Châu Hạ Long tại khu dân cư Tuần Châu, khu biệt thự, homestay, nhà hàng, quán ăn, căn hộ cho thuê và các công trình ven biển. Đội cũng hỗ trợ c...",
+  "searchIntent": "",
+  "caseStudy": "E-E-A-T dạng tình huống thường gặp tại Tuần Châu Lưu ý: phần này là tình huống thường gặp, không ghi nhận là khách hàng thật khi chưa có dữ liệu xác minh. Một homestay tại khu Tuần Châu có thể gặp tình trạng bếp rửa thoát chậm sau các ngày đông khách. Nhân viên vệ sinh thấy nước không rút hết, mùi dầu mỡ bốc lên từ miệng thoát và hố ga sau bếp có váng nổi. Nếu chỉ đổ hóa chất, lớp mỡ trong ống có thể mềm tạm thời rồi đóng lại. Với tình huống này, thông tắc cống Tuần Châu Hạ Long phải kiểm cả cống bếp và hố ga. Với tình huống này, thợ thông tắc cống Tuần Châu Hạ Long sẽ kiểm tra miệng thoát bếp trước, sau đó xem hố ga gần nhất. Nếu xác định tắc do mảng bám dầu mỡ, thợ dùng máy lò xo xử lý đoạn nghẹt, lấy cặn nếu có thể, rồi xả nước nhiều lần để kiểm tra dòng chảy. Nếu hố ga đã nhiều bùn hoặc váng mỡ, kỹ thuật báo thêm phương án vệ sinh hố ga để tránh tắc lại. Điểm cần rút ra là không nên...",
+  "shouldUse": [
+    "máy lò xo",
+    "cống",
+    "hố ga",
+    "đường ống",
+    "thợ xử lý ngoài trời/bếp"
+  ],
+  "shouldAvoid": [
+    "ảnh xe hút bể phốt nếu bài không nói đến hút"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

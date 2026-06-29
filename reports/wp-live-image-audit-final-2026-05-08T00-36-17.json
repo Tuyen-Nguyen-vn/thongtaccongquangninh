@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-05-08T00:36:17+0700",
+  "totalUrls": 42,
+  "urlsWithIssues": 1,
+  "samePageDuplicateUrls": 0,
+  "urlsWithHeavyImages": 1,
+  "issues": [
+    {
+      "endpoint": "pages",
+      "id": 296,
+      "slug": "thong-tac-cong-ha-long",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+      "imageCount": 6,
+      "dup": [],
+      "near": [],
+      "heavy": [
+        {
+          "file": "logo-cong-ty.png",
+          "kb": 335.1,
+          "width": 1180,
+          "height": 307,
+          "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png"
+        }
+      ],
+      "hasMobilePlugin": true,
+      "hasDedupePlugin": true
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.183Z",
+  "slug": "thong-tac-cong-ha-long",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+  "focusKeyword": "thông tắc cống Hạ Long",
+  "service": "thông tắc cống",
+  "area": "Hạ Long",
+  "subAreas": "nhận thông tắc cống Hạ Long Môi Trường Đô Thị Số 1 Quảng Ninh nhận thông tắc cống Hạ Long tại Bãi Cháy, Hòn Gai, Cao Xanh, Hà Khẩu, Tuần Châu, Việt Hưng, Cao Thắng. Ngoài ra, đội kỹ thuật có thể điều thợ gần nhất cho các khu vực lân cận tro...",
+  "searchIntent": "Khách tại Hạ Long cần xử lý cống tắc gấp, muốn biết giá, thời gian thợ đến, cách làm không đục phá và hotline gọi trực tiếp.",
+  "caseStudy": "E-E-A-T: xử lý cống trào ngược tại quán ăn tại Bãi Cháy Một khách tại quán ăn tại Bãi Cháy gọi vào buổi tối vì nước thoát sàn trào ngược, mùi hôi bốc lên mạnh và chậu rửa rút rất chậm. Gia đình đã thử xả nước nóng nhưng nước chỉ rút chậm rồi lại dâng. Kỹ thuật hỏi nhanh qua điện thoại và nhận thấy dấu hiệu không chỉ tắc ở miệng thoát. Công trình đã sử dụng nhiều năm, hố ga chưa nạo vét định kỳ, trong khi cống bếp cũng rút chậm. Sau khi đến nơi, đội thợ kỹ thuật kiểm tra thoát sàn, hố ga và đường ống nhánh. Thợ dùng máy lò xo xử lý đoạn nghẹt trước để giảm trào, sau đó xả thử nhiều lần và kiểm tra mùi. Vì hố ga có dấu hiệu quá tải, khách được báo thêm phương án nạo vét để xử lý gốc. Sau khi hoàn tất, nước thoát mạnh trở lại, không còn ọc nước và khu vực làm việc được vệ sinh. Case này cho thấy cần đánh giá toàn hệ thống. Nếu chỉ thông phần miệng cống mà bỏ qua hố ga đầy hoặc cống nhánh ng...",
+  "shouldUse": [
+    "máy lò xo",
+    "cống",
+    "hố ga",
+    "đường ống",
+    "thợ xử lý ngoài trời/bếp"
+  ],
+  "shouldAvoid": [
+    "ảnh xe hút bể phốt nếu bài không nói đến hút"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "generatedAt": "2026-05-20T17:56:37.741Z",
+  "site": "https://thongtaccongquangninh.com",
+  "publishedCount": 54,
+  "anyCount": 104,
+  "sitemap": {
+    "indexStatus": 200,
+    "sitemapCount": 3,
+    "sitemaps": [
+      {
+        "sitemap": "https://thongtaccongquangninh.com/post-sitemap.xml",
+        "status": 200,
+        "urlCount": 13,
+        "bad": []
+      },
+      {
+        "sitemap": "https://thongtaccongquangninh.com/page-sitemap.xml",
+        "status": 200,
+        "urlCount": 41,
+        "bad": []
+      },
+      {
+        "sitemap": "https://thongtaccongquangninh.com/category-sitemap.xml",
+        "status": 200,
+        "urlCount": 3,
+        "bad": []
+      }
+    ],
+    "badTotal": 0
+  },
+  "redirects": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+      "status": 301,
+      "location": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "redirectBy": "TTCQN SEO Cleanup Redirects"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-2/",
+      "status": 301,
+      "location": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "redirectBy": "TTCQN SEO Cleanup Redirects"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay-3/",
+      "status": 301,
+      "location": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "redirectBy": "TTCQN SEO Cleanup Redirects"
+    }
+  ],
+  "duplicateLiveTitles": [],
+  "duplicateSlugs": [
+    [
+      {
+        "id": 1485,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "thong-tac-bon-cau-quang-yen",
+        "title": "Thông tắc bồn cầu Quảng Yên 24/7 - Nhà dân, cửa hàng ven sông"
+      },
+      {
+        "id": 538,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "thong-tac-bon-cau-quang-yen",
+        "title": "Thông Tắc Bồn Cầu Quảng Yên - Xử Lý Nhanh 15 Phút 24/7"
+      }
+    ],
+    [
+      {
+        "id": 386,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+        "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long"
+      },
+      {
+        "id": 1840,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+        "title": "Nguyên nhân cống tắc thường xuyên Hạ Long, cách xử lý đúng ngay"
+      }
+    ],
+    [
+      {
+        "id": 384,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "thong-tac-cong-ngo-nho-ha-long",
+        "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân"
+      },
+      {
+        "id": 1759,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "thong-tac-cong-ngo-nho-ha-long",
+        "title": "Thông tắc cống ngõ nhỏ Hạ Long 24/7, không đục phá, có mặt nhanh"
+      }
+    ],
+    [
+      {
+        "id": 383,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "thong-tac-cong-nha-hang-ha-long",
+        "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu"
+      },
+      {
+        "id": 1765,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "thong-tac-cong-nha-hang-ha-long",
+        "title": "Thông tắc cống nhà hàng Hạ Long 24/7, không đục phá, có mặt nhanh"
+      }
+    ],
+    [
+      {
+        "id": 380,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "thong-tac-cong-chung-cu-ha-long",
+        "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm"
+      },
+      {
+        "id": 1771,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "thong-tac-cong-chung-cu-ha-long",
+        "title": "Thông tắc cống chung cư Hạ Long 24/7, không đục phá, có mặt nhanh"
+      }
+    ],
+    [
+      {
+        "id": 311,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "xu-ly-mui-hoi-quang-ninh",
+        "title": "Xử Lý Mùi Hôi Quảng Ninh – Tìm Đúng Nguồn Hôi, Hết Hẳn, Có Mặt 15 Phút"
+      },
+      {
+        "id": 1794,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "xu-ly-mui-hoi-quang-ninh",
+        "title": "Xử lý mùi hôi Quảng Ninh 24/7, báo giá rõ, xử lý nhanh tại nhà"
+      }
+    ],
+    [
+      {
+        "id": 38,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "nao-vet-ho-ga-quang-ninh",
+        "title": "Nạo Vét Hố Ga Quảng Ninh - Tránh Ngập Mùa Mưa, Có Mặt 24/7"
+      },
+      {
+        "id": 1788,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "nao-vet-ho-ga-quang-ninh",
+        "title": "Nạo vét hố ga Quảng Ninh 24/7, báo giá rõ, xử lý nhanh tại nhà"
+      }
+    ],
+    [
+      {
+        "id": 36,
+        "kind": "pages",
+        "status": "publish",
+        "slug": "thong-tac-chau-rua-quang-ninh",
+        "title": "Thông Tắc Chậu Rửa Quảng Ninh - Phá Mỡ Sâu, Có Mặt 15 Phút"
+      },
+      {
+        "id": 1807,
+        "kind": "posts",
+        "status": "draft",
+        "slug": "thong-tac-chau-rua-quang-ninh",
+        "title": "Thông tắc chậu rửa Quảng Ninh 24/7, báo giá rõ, gọi thợ nhanh"
+      }
+    ]
+  ],
+  "liveIssues": [],
+  "blog": {
+    "id": 25,
+    "kind": "pages",
+    "slug": "blog",
+    "url": "https://thongtaccongquangninh.com/blog/",
+    "status": 200,
+    "location": null,
+    "title": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà",
+    "titleLen": 65,
+    "metaDescription": "Cẩm nang hút bể phốt, thông tắc cống, xử lý bồn cầu, nạo vét hố ga và khử mùi hôi tại Quảng Ninh. Gọi 0963.953.533 / 0931.156.756 khi cần thợ.",
+    "metaDescriptionLen": 142,
+    "canonical": "https://thongtaccongquangninh.com/blog/",
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "noindex": false,
+    "h1": [
+      "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà"
+    ],
+    "h1Count": 1,
+    "schemaScriptCount": 2
+  },
+  "live": [
+    {
+      "id": 23,
+      "kind": "pages",
+      "slug": "trang-chu",
+      "url": "https://thongtaccongquangninh.com/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt, thông tắc cống Quảng Ninh 24/7 — có mặt 15-30 phút",
+      "titleLen": 63,
+      "metaDescription": "Hút bể phốt, thông tắc cống, bồn cầu, hố ga tại Quảng Ninh. Có mặt 15-30 phút, báo giá trước, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescriptionLen": 143,
+      "canonical": "https://thongtaccongquangninh.com/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "HÚT BỂ PHỐT, THÔNG TẮC CỐNG QUẢNG NINH 24/7"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 4
+    },
+    {
+      "id": 217,
+      "kind": "posts",
+      "slug": "bang-gia-hut-be-phot-quang-ninh-2026",
+      "url": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "status": 200,
+      "location": null,
+      "title": "Bảng giá hút bể phốt Quảng Ninh 2026 24/7, báo giá rõ, gọi thợ nhanh",
+      "titleLen": 68,
+      "metaDescription": "Bảng giá hút bể phốt Quảng Ninh 2026 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh.",
+      "metaDescriptionLen": 159,
+      "canonical": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Bảng Giá Hút Bể Phốt Quảng Ninh 2026 &#8211; Tham Khảo Trước Khi Gọi Thợ"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 61,
+      "kind": "pages",
+      "slug": "bang-gia",
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "status": 200,
+      "location": null,
+      "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026 mới nhất",
+      "titleLen": 61,
+      "metaDescription": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026, báo rõ từng hạng mục, không báo giá ảo. Gọi 0963.953.533 / 0931.156.756 để thợ đến nhanh trong ngày.",
+      "metaDescriptionLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/bang-gia/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 25,
+      "kind": "pages",
+      "slug": "blog",
+      "url": "https://thongtaccongquangninh.com/blog/",
+      "status": 200,
+      "location": null,
+      "title": "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà",
+      "titleLen": 65,
+      "metaDescription": "Cẩm nang hút bể phốt, thông tắc cống, xử lý bồn cầu, nạo vét hố ga và khử mùi hôi tại Quảng Ninh. Gọi 0963.953.533 / 0931.156.756 khi cần thợ.",
+      "metaDescriptionLen": 142,
+      "canonical": "https://thongtaccongquangninh.com/blog/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Blog vệ sinh môi trường Quảng Ninh: hướng dẫn xử lý sự cố tại nhà"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 216,
+      "kind": "posts",
+      "slug": "cach-xu-ly-cong-thoat-nuoc-tac",
+      "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "status": 200,
+      "location": null,
+      "title": "Cách xử lý cống thoát nước tắc 24/7, báo giá rõ, gọi thợ nhanh",
+      "titleLen": 62,
+      "metaDescription": "Cách xử lý cống thoát nước tắc 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Cách Xử Lý Cống Thoát Nước Tắc &#8211; Hướng Dẫn Từ Cơ Bản Đến Triệt Để"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 1377,
+      "kind": "posts",
+      "slug": "cau-hoi-thuong-gap-thong-tac-cong",
+      "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "status": 200,
+      "location": null,
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành - Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 97,
+      "metaDescription": "Câu hỏi thường gặp thông tắc cống Quảng Ninh: giá, thời gian, bảo hành, xử lý không đục phá. Gọi 0963.953.533 / 0931.156.756 để kiểm tra nhanh trong ngày.",
+      "metaDescriptionLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 64,
+      "kind": "pages",
+      "slug": "chinh-sach-bao-hanh",
+      "url": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "status": 200,
+      "location": null,
+      "title": "Chính sách bảo hành dịch vụ thông hút bể phốt",
+      "titleLen": 45,
+      "metaDescription": "Chính sách bảo hành dịch vụ hút bể phốt, thông tắc cống, nạo vét tại Quảng Ninh, ghi rõ điều kiện. Gọi 0963.953.533 / 0931.156.756 để được hỗ trợ nhanh.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Chính sách bảo hành dịch vụ thông hút bể phốt"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 282,
+      "kind": "pages",
+      "slug": "chinh-sach-bao-mat",
+      "url": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "status": 200,
+      "location": null,
+      "title": "Chính sách bảo mật thông tin khách hàng",
+      "titleLen": 39,
+      "metaDescription": "Chính sách bảo mật thông tin khách hàng khi gọi hút bể phốt, thông tắc cống, nạo vét tại Quảng Ninh. Hotline 0963.953.533 / 0931.156.756 hỗ trợ nhanh.",
+      "metaDescriptionLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Chính sách bảo mật thông tin khách hàng"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 215,
+      "kind": "posts",
+      "slug": "dau-hieu-be-phot-can-hut",
+      "url": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "status": 200,
+      "location": null,
+      "title": "Dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "titleLen": 62,
+      "metaDescription": "Dấu hiệu bể phốt cần hút 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh ngay.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Dấu Hiệu Bể Phốt Cần Hút, Xử Lý Kịp Thời Tránh Sự Cố"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 62,
+      "kind": "pages",
+      "slug": "gioi-thieu",
+      "url": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "status": 200,
+      "location": null,
+      "title": "Giới thiệu Môi Trường Đô Thị Số 1 Quảng Ninh 24/7, gọi nhanh",
+      "titleLen": 60,
+      "metaDescription": "Giới thiệu Môi Trường Đô Thị Số 1 Quảng Ninh, nhận hút bể phốt, thông tắc cống, nạo vét, xử lý mùi hôi 24/7. Gọi 0963.953.533 / 0931.156.756 để xử lý nhanh.",
+      "metaDescriptionLen": 156,
+      "canonical": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Giới thiệu 24/7 , xử lý nhanh trong ngày"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1932,
+      "kind": "posts",
+      "slug": "hut-be-phot-ba-che",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+      "titleLen": 64,
+      "metaDescription": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 cho nhà dân, trường học, cơ sở vùng núi. Xe đến tận nơi, hút sạch, không phát sinh phí ẩn. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescriptionLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-ba-che/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 436,
+      "kind": "pages",
+      "slug": "hut-be-phot-bai-chay",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Bãi Cháy 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 61,
+      "metaDescription": "Hút bể phốt Bãi Cháy 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Bãi Cháy &#8211; Xe bồn vào ngõ rộng, khách sạn nhà hàng"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1940,
+      "kind": "posts",
+      "slug": "hut-be-phot-binh-lieu",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+      "titleLen": 66,
+      "metaDescription": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 cho nhà dân, trường học vùng cao biên giới. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescriptionLen": 159,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 53,
+      "kind": "pages",
+      "slug": "hut-be-phot-cam-pha",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Cẩm Phả 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 60,
+      "metaDescription": "Hút bể phốt Cẩm Phả 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1944,
+      "kind": "posts",
+      "slug": "hut-be-phot-co-to",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-co-to/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+      "titleLen": 64,
+      "metaDescription": "Hút bể phốt Cô Tô Quảng Ninh 24/7 cho nhà dân, resort, nhà hàng trên đảo. Điều phối theo chuyến tàu, báo giá minh bạch. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-co-to/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 1936,
+      "kind": "posts",
+      "slug": "hut-be-phot-dam-ha",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+      "titleLen": 70,
+      "metaDescription": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 cho nhà dân, nhà hàng, trang trại. Xe đến tận huyện, hút sạch, báo giá rõ trước khi làm. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescriptionLen": 156,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 56,
+      "kind": "pages",
+      "slug": "hut-be-phot-dong-trieu",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Đông Triều 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 63,
+      "metaDescription": "Hút bể phốt Đông Triều 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 52,
+      "kind": "pages",
+      "slug": "hut-be-phot-ha-long",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Hạ Long 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 60,
+      "metaDescription": "Hút bể phốt Hạ Long 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 4
+    },
+    {
+      "id": 1928,
+      "kind": "posts",
+      "slug": "hut-be-phot-hai-ha",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+      "titleLen": 67,
+      "metaDescription": "Hút bể phốt Hải Hà Quảng Ninh 24/7 cho nhà dân, cơ sở kinh doanh vùng biên. Xe đến tận nơi, báo giá rõ, không phát sinh. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 59,
+      "kind": "pages",
+      "slug": "hut-be-phot-hoanh-bo",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Hoành Bồ 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 61,
+      "metaDescription": "Hút bể phốt Hoành Bồ 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Hoành Bồ &#8211; Nhà vườn, homestay, xe tải nhẹ vào tận nơi"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 55,
+      "kind": "pages",
+      "slug": "hut-be-phot-mong-cai",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Móng Cái 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 61,
+      "metaDescription": "Hút bể phốt Móng Cái 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 26,
+      "kind": "pages",
+      "slug": "hut-be-phot-quang-ninh",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Quảng Ninh 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 63,
+      "metaDescription": "Hút bể phốt Quảng Ninh 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 6
+    },
+    {
+      "id": 57,
+      "kind": "pages",
+      "slug": "hut-be-phot-quang-yen",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Quảng Yên 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 62,
+      "metaDescription": "Hút bể phốt Quảng Yên 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1924,
+      "kind": "posts",
+      "slug": "hut-be-phot-tien-yen",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+      "titleLen": 65,
+      "metaDescription": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 cho nhà dân, nhà hàng, trường học vùng xa. Xe đến tận nơi, hút sạch, báo giá rõ. Gọi 0963.953.533 / 0931.156.756.",
+      "metaDescriptionLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 54,
+      "kind": "pages",
+      "slug": "hut-be-phot-uong-bi",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Uông Bí 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 60,
+      "metaDescription": "Hút bể phốt Uông Bí 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 58,
+      "kind": "pages",
+      "slug": "hut-be-phot-van-don",
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "status": 200,
+      "location": null,
+      "title": "Hút bể phốt Vân Đồn 24/7, hút sạch, báo giá rõ, có mặt nhanh",
+      "titleLen": 60,
+      "metaDescription": "Hút bể phốt Vân Đồn 24/7, xe bồn hút sạch, không tràn bẩn, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý bể đầy, mùi hôi ngay trong ngày tại nhà.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 63,
+      "kind": "pages",
+      "slug": "lien-he",
+      "url": "https://thongtaccongquangninh.com/lien-he/",
+      "status": 200,
+      "location": null,
+      "title": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh 24/7, gọi thợ nhanh",
+      "titleLen": 61,
+      "metaDescription": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh 24/7 để gọi hút bể phốt, thông tắc cống, nạo vét, xử lý mùi hôi. Hotline 0963.953.533 / 0931.156.756 gọi nhanh.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/lien-he/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Liên hệ 24/7 , xử lý nhanh trong ngày"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 38,
+      "kind": "pages",
+      "slug": "nao-vet-ho-ga-quang-ninh",
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "status": 200,
+      "location": null,
+      "title": "Nạo vét hố ga Quảng Ninh 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "titleLen": 62,
+      "metaDescription": "Nạo vét hố ga Quảng Ninh 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh. tại nhà",
+      "metaDescriptionLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Nạo Vét Hố Ga Quảng Ninh &#8211; Tránh Ngập Mùa Mưa, Có Mặt 24/7"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 5
+    },
+    {
+      "id": 1368,
+      "kind": "posts",
+      "slug": "nao-vet-ho-ga",
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "status": 200,
+      "location": null,
+      "title": "Nạo Vét Hố Ga - Khi Nào Cần Và Chi Phí Bao Nhiêu? - Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 85,
+      "metaDescription": "Hố ga là nơi tập trung nước thải từ bồn rửa, nhà vệ sinh, máy giặt trước khi chảy ra hệ thống thoát chung. Sau thời gian sử dụng, bùn, cặn, dầu mỡ và rác tích",
+      "metaDescriptionLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Nạo Vét Hố Ga &#8211; Khi Nào Cần Và Chi Phí Bao Nhiêu?"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 386,
+      "kind": "pages",
+      "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+      "url": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "status": 200,
+      "location": null,
+      "title": "Nguyên nhân cống tắc thường xuyên Hạ Long, cách xử lý đúng ngay",
+      "titleLen": 63,
+      "metaDescription": "Nguyên nhân cống tắc thường xuyên Hạ Long 24/7, tư vấn đúng tình trạng, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý nhanh trong ngày tại Quảng Ninh.",
+      "metaDescriptionLen": 157,
+      "canonical": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1367,
+      "kind": "posts",
+      "slug": "thong-tac-bon-cau-bi-tac",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "status": 200,
+      "location": null,
+      "title": "Cách Xử Lý Bồn Cầu Bị Tắc Tại Nhà - Hướng Dẫn Chi Tiết - Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "titleLen": 90,
+      "metaDescription": "Bồn cầu bị tắc là sự cố khó chịu nhất trong nhà vệ sinh. Nước dâng lên, không xả được, có mùi hôi — bất kỳ ai cũng muốn xử lý càng nhanh càng tốt. Bài viết",
+      "metaDescriptionLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Cách Xử Lý Bồn Cầu Bị Tắc Tại Nhà &#8211; Hướng Dẫn Chi Tiết"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 450,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-cam-pha",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "status": 200,
+      "location": null,
+      "title": "Thợ thông bồn cầu Cẩm Phả 24/7 - Máy lò xo, bảo hành 12 tháng",
+      "titleLen": 61,
+      "metaDescription": "Bồn cầu Cẩm Phả tắc, thợ có mặt sau 15 phút. Gọi **0963.953.533 / 0931.156.756** - máy lò xo chuyên dụng, không đục phá, bảo hành 12 tháng.",
+      "metaDescriptionLen": 139,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thợ thông bồn cầu Cẩm Phả 24/7 &#8211; Máy lò xo, bảo hành 12 tháng"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1481,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-dong-trieu",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc bồn cầu Đông Triều 24/7 - Máy lò xo, xe hút vào ngõ nhỏ",
+      "titleLen": 65,
+      "metaDescription": "Bồn cầu Đông Triều tắc sau mưa, nước trào? Gọi **0963.953.533 / 0931.156.756** thợ đến sau 15 phút, máy lò xo không đục phá, bảo hành 12 tháng.",
+      "metaDescriptionLen": 143,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông tắc bồn cầu Đông Triều 24/7 &#8211; Máy lò xo, xe hút vào ngõ nhỏ"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 1482,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-ha-long",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "status": 200,
+      "location": null,
+      "title": "Thợ thông bồn cầu Hạ Long 24/7 - Khách sạn, nhà hàng, có mặt 15 phút",
+      "titleLen": 68,
+      "metaDescription": "Khách sạn Hạ Long, bồn cầu tắc, khách phàn nàn? Gọi **0963.953.533 / 0931.156.756** thợ đến sau 12 phút, xử lý kín đáo, không đục phá, bảo hành 12 tháng.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thợ thông bồn cầu Hạ Long 24/7 &#8211; Khách sạn, nhà hàng, có mặt 15 phút"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 1483,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-mong-cai",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "status": 200,
+      "location": null,
+      "title": "Thợ thông bồn cầu Móng Cái 24/7 - Xử lý kín, cam kết không đục phá",
+      "titleLen": 66,
+      "metaDescription": "Cửa hàng Móng Cái, bồn cầu tắc, khách đông không có nhà vệ sinh? Gọi **0963.953.533 / 0931.156.756** thợ đến sau 15 phút, xử lý nhanh, cam kết sạch sẽ.",
+      "metaDescriptionLen": 151,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thợ thông bồn cầu Móng Cái 24/7 &#8211; Xử lý kín, cam kết không đục phá"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 37,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-quang-ninh",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc bồn cầu Quảng Ninh 24/7, báo giá rõ, xử lý nhanh",
+      "titleLen": 58,
+      "metaDescription": "Thông tắc bồn cầu tại Quảng Ninh 24/7, xử lý tắc nghẽn, thoát chậm, trào ngược. Báo giá rõ trước khi làm, gọi 0963.953.533 hoặc 0931.156.756.",
+      "metaDescriptionLen": 141,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông tắc bồn cầu Quảng Ninh 24/7 &#8211; 7 thành phố, bảo hành dài hạn"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1485,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-quang-yen",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc bồn cầu Quảng Yên 24/7 - Nhà dân, cửa hàng ven sông",
+      "titleLen": 61,
+      "metaDescription": "Nhà Quảng Yên nền lún, bồn cầu tắc? Gọi **0963.953.533 / 0931.156.756** thợ đến sau 15 phút, camera chẩn đoán miễn phí, cam kết không đục phá, bảo hành 12 tháng.",
+      "metaDescriptionLen": 161,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông tắc bồn cầu Quảng Yên 24/7 &#8211; Nhà dân, cửa hàng ven sông"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1486,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-uong-bi",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc bồn cầu Uông Bí 24/7 - Chuyên ống gang cũ, bảo hành 12 tháng",
+      "titleLen": 70,
+      "metaDescription": "Nhà tập thể Uông Bí, bồn cầu tắc, ống gang cũ? Gọi **0963.953.533 / 0931.156.756** thợ có mặt 15 phút, máy lò xo đầu mềm cho ống gang, không làm nứt ống.",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông tắc bồn cầu Uông Bí 24/7 &#8211; Chuyên ống gang cũ, bảo hành 12 tháng"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1487,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-van-don",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc bồn cầu Vân Đồn 24/7 - Resort, homestay, nhà dân, có mặt nhanh",
+      "titleLen": 72,
+      "metaDescription": "Resort Vân Đồn, bồn cầu tắc, khách phàn nàn? Gọi **0963.953.533 / 0931.156.756** thợ đến sau 20 phút, xử lý kín đáo, cam kết không đục phá, bảo hành 12 tháng.",
+      "metaDescriptionLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông tắc bồn cầu Vân Đồn 24/7 &#8211; Resort, homestay, bảo hành dài hạn"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 36,
+      "kind": "pages",
+      "slug": "thong-tac-chau-rua-quang-ninh",
+      "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc chậu rửa Quảng Ninh 24/7, báo giá rõ, gọi thợ nhanh",
+      "titleLen": 61,
+      "metaDescription": "Thông tắc chậu rửa Quảng Ninh 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Chậu Rửa Quảng Ninh &#8211; Phá Mỡ Sâu, Có Mặt 15 Phút"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1226,
+      "kind": "pages",
+      "slug": "thong-tac-cong-bai-chay",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "status": 200,
+      "location": null,
+      "title": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng",
+      "titleLen": 70,
+      "metaDescription": "Thông tắc cống Bãi Cháy 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 xử lý tắc nghẽn, mùi hôi, có mặt nhanh 15 phút, bảo hành dài hạn.",
+      "metaDescriptionLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Dịch vụ thông tắc cống Bãi Cháy 24/7 , không đục phá, bảo hành 12 tháng"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 400,
+      "kind": "pages",
+      "slug": "thong-tac-cong-cam-pha",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 60,
+      "metaDescription": "Thông tắc cống Cẩm Phả 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+      "metaDescriptionLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông tắc cống Cẩm Phả 24/7 , không đục phá, có mặt nhanh gọn"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 380,
+      "kind": "pages",
+      "slug": "thong-tac-cong-chung-cu-ha-long",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống chung cư Hạ Long 24/7, không đục phá, có mặt nhanh",
+      "titleLen": 65,
+      "metaDescription": "Thông tắc cống chung cư Hạ Long 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi ngay trong ngày.",
+      "metaDescriptionLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 425,
+      "kind": "pages",
+      "slug": "thong-tac-cong-dong-trieu",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống Đông Triều 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 63,
+      "metaDescription": "Thông tắc cống Đông Triều 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý tắc nghẽn, mùi hôi ngay tại nhà.",
+      "metaDescriptionLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 296,
+      "kind": "pages",
+      "slug": "thong-tac-cong-ha-long",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "status": 200,
+      "location": null,
+      "title": "Thông Tắc Cống Hạ Long – Thợ 24/7, Có Mặt Sau 15 Phút",
+      "titleLen": 53,
+      "metaDescription": "Thông tắc cống Hạ Long – Gọi 0963.953.533, thợ có mặt sau 15 phút, không đục phá, không báo giá ảo, bảo hành dài hạn. Phục vụ 24/7 toàn TP Hạ Long.",
+      "metaDescriptionLen": 147,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Hạ Long – Gọi Là Có Thợ, Xử Lý Dứt Điểm Không Đục Phá"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 426,
+      "kind": "pages",
+      "slug": "thong-tac-cong-mong-cai",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống Móng Cái 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 61,
+      "metaDescription": "Thông tắc cống Móng Cái 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi ngay trong ngày. nhanh",
+      "metaDescriptionLen": 153,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 384,
+      "kind": "pages",
+      "slug": "thong-tac-cong-ngo-nho-ha-long",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống ngõ nhỏ Hạ Long 24/7, không đục phá, có mặt nhanh",
+      "titleLen": 64,
+      "metaDescription": "Thông tắc cống ngõ nhỏ Hạ Long 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi ngay trong ngày.",
+      "metaDescriptionLen": 154,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 383,
+      "kind": "pages",
+      "slug": "thong-tac-cong-nha-hang-ha-long",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống nhà hàng Hạ Long 24/7, không đục phá, có mặt nhanh",
+      "titleLen": 65,
+      "metaDescription": "Thông tắc cống nhà hàng Hạ Long, xử lý mỡ bếp, hố ga sau bếp tại Bãi Cháy. Gọi 0963.953.533 / 0931.156.756, thợ hỏi nhanh, mang máy lò xo, làm ngoài giờ 24/7.",
+      "metaDescriptionLen": 158,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 35,
+      "kind": "pages",
+      "slug": "thong-tac-cong-quang-ninh",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống Quảng Ninh 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 63,
+      "metaDescription": "Thông tắc cống Quảng Ninh 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý tắc nghẽn, mùi hôi ngay tại nhà.",
+      "metaDescriptionLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 5
+    },
+    {
+      "id": 424,
+      "kind": "pages",
+      "slug": "thong-tac-cong-quang-yen",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống Quảng Yên 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 62,
+      "metaDescription": "Thông tắc cống Quảng Yên 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 405,
+      "kind": "pages",
+      "slug": "thong-tac-cong-uong-bi",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống Uông Bí 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 60,
+      "metaDescription": "Thông tắc cống Uông Bí 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+      "metaDescriptionLen": 150,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 427,
+      "kind": "pages",
+      "slug": "thong-tac-cong-van-don",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "status": 200,
+      "location": null,
+      "title": "Thông tắc cống Vân Đồn 24/7, không đục phá, có mặt nhanh gọn",
+      "titleLen": 60,
+      "metaDescription": "Thông tắc cống Vân Đồn 24/7, không đục phá, báo giá rõ, có mặt nhanh. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi ngay trong ngày. nhanh",
+      "metaDescriptionLen": 152,
+      "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 3
+    },
+    {
+      "id": 1369,
+      "kind": "posts",
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "status": 200,
+      "location": null,
+      "title": "Xử lý mùi hôi nhà vệ sinh: nguyên nhân và cách khắc phục",
+      "titleLen": 56,
+      "metaDescription": "Hướng dẫn xác định nguyên nhân mùi hôi nhà vệ sinh từ bể phốt, phễu thoát sàn, ống thông hơi và cách xử lý phù hợp, dễ kiểm tra trước khi gọi thợ.",
+      "metaDescriptionLen": 146,
+      "canonical": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Xử Lý Mùi Hôi Nhà Vệ Sinh &#8211; Nguyên Nhân Và Cách Xử Lý Dứt Điểm"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 2
+    },
+    {
+      "id": 311,
+      "kind": "pages",
+      "slug": "xu-ly-mui-hoi-quang-ninh",
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "status": 200,
+      "location": null,
+      "title": "Xử lý mùi hôi Quảng Ninh 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "titleLen": 62,
+      "metaDescription": "Xử lý mùi hôi Quảng Ninh 24/7, kiểm tra đúng nguyên nhân, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để thợ xử lý nhanh trong ngày tại Quảng Ninh. tại nhà",
+      "metaDescriptionLen": 155,
+      "canonical": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "noindex": false,
+      "h1": [
+        "Xử Lý Mùi Hôi Quảng Ninh – Tìm Đúng Nguồn Hôi, Hết Hẳn, Có Mặt 15 Phút"
+      ],
+      "h1Count": 1,
+      "schemaScriptCount": 4
+    }
+  ]
+}

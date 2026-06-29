@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-05-19T18:33:35.167Z",
+  "backupDir": "backups/audit-draft-cta-cleanup-2026-05-20",
+  "results": [
+    {
+      "id": 1807,
+      "slug": "thong-tac-chau-rua-quang-ninh",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1801,
+      "slug": "thong-tac-toilet-quang-ninh",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1794,
+      "slug": "xu-ly-mui-hoi-quang-ninh",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    }
+  ]
+}

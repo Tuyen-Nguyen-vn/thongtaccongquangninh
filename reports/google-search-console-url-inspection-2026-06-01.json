@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-06-01T16:06:56",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "items": [
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "verdict": "PASS",
+      "coverageState": "Đã được gửi và lập chỉ mục",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-05-31T02:20:38Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/",
+      "userCanonical": "https://thongtaccongquangninh.com/",
+      "referringUrls": [
+        "https://thongtaccongquangninh.com/dau-hieu-be-phot-day-can-hut-ngay/",
+        "https://www.facebook.com/thongtacbephot0966681480/?__xts__%5B%2Ffusion_builder_column%5D",
+        "https://m.facebook.com/thongtacbephot0966681480/?__xts__%5B%2Ffusion_builder_column%5D",
+        "https://mobile.facebook.com/thongtacbephot0966681480/"
+      ],
+      "richResultsVerdict": "FAIL"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "verdict": "PASS",
+      "coverageState": "Đã được gửi và lập chỉ mục",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-05-29T07:54:54Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "referringUrls": [
+        "https://thongtaccongquangninh.com/"
+      ],
+      "richResultsVerdict": "PASS"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "verdict": "PASS",
+      "coverageState": "Đã được gửi và lập chỉ mục",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-04-11T07:50:38Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "referringUrls": [],
+      "richResultsVerdict": "PASS"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "verdict": "PASS",
+      "coverageState": "Đã được gửi và lập chỉ mục",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-06-01T03:25:45Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "referringUrls": [
+        "https://www.thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "https://thongtaccongquangninh.com/"
+      ],
+      "richResultsVerdict": "FAIL"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "verdict": "PASS",
+      "coverageState": "Đã được gửi và lập chỉ mục",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-05-27T04:53:58Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "referringUrls": [
+        "https://thongtaccongquangninh.com/"
+      ],
+      "richResultsVerdict": "PASS"
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "verdict": "PASS",
+      "coverageState": "Đã được gửi và lập chỉ mục",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-05-30T20:08:26Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "referringUrls": [
+        "https://www.thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+        "https://thongtaccongquangninh.com/"
+      ],
+      "richResultsVerdict": "FAIL"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "generatedAt": "2026-05-31T05:10:42.789Z",
+  "apply": true,
+  "candidates": 50,
+  "changed": [
+    {
+      "id": 383,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+      "oldAddressCountBefore": 1,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 380,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "oldAddressCountBefore": 1,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 311,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "title": "Xử Lý Mùi Hôi Quảng Ninh – Tìm Đúng Nguồn Hôi, Hết Hẳn, Có Mặt 15 Phút",
+      "oldAddressCountBefore": 1,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 63,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/lien-he/",
+      "title": "Liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "oldAddressCountBefore": 1,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 62,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "title": "Giới thiệu Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "oldAddressCountBefore": 1,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 38,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "title": "Nạo Vét Hố Ga Quảng Ninh - Tránh Ngập Mùa Mưa, Có Mặt 24/7",
+      "oldAddressCountBefore": 2,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 36,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "title": "Thông Tắc Chậu Rửa Quảng Ninh - Phá Mỡ Sâu, Có Mặt 15 Phút",
+      "oldAddressCountBefore": 1,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 35,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "title": "Thông Tắc Cống Quảng Ninh – Máy Lò Xo, Không Đục Phá, Có Mặt 15 Phút",
+      "oldAddressCountBefore": 2,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 26,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "title": "Hút Bể Phốt Quảng Ninh – Xe Bồn Hút Sạch, Có Mặt 15 Phút",
+      "oldAddressCountBefore": 2,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    },
+    {
+      "id": 23,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/",
+      "title": "Môi Trường Đô Thị Số 1 Quảng Ninh - Hút Bể Phốt, Thông Tắc Cống 24/7",
+      "oldAddressCountBefore": 1,
+      "oldAddressCountAfter": 0,
+      "updateStatus": 200
+    }
+  ],
+  "unchanged": [
+    {
+      "id": 1483,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "title": "Thông tắc bồn cầu Móng Cái cho nhà phố, cửa hàng và nhà nghỉ 24/7"
+    },
+    {
+      "id": 1368,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+      "title": "Nạo vét hố ga Quảng Ninh: xử lý bùn lắng, mùi hôi, ngập sau mưa"
+    },
+    {
+      "id": 55,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới"
+    },
+    {
+      "id": 426,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy"
+    },
+    {
+      "id": 296,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "title": "Thông tắc cống Hạ Long 24/7 cho nhà hàng, khách sạn, nhà dân"
+    },
+    {
+      "id": 52,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "title": "Hút bể phốt Hạ Long: bể đầy, mùi hôi, xe bồn vào ngõ sâu 24/7"
+    },
+    {
+      "id": 2385,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khong-duc-pha-quang-ninh/",
+      "title": "Thông Tắc Bồn Cầu Không Đục Phá Quảng Ninh 2026 – Có Mặt 15 Phút"
+    },
+    {
+      "id": 2379,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/",
+      "title": "Thông Tắc Bồn Cầu Ban Đêm Quảng Ninh – Gọi Là Có Ngay 2026"
+    },
+    {
+      "id": 2378,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh-2/",
+      "title": "Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh – Có Mặt 15 Phút 2026"
+    },
+    {
+      "id": 2377,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "title": "Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh – Có Mặt 15 Phút 2026"
+    },
+    {
+      "id": 2357,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/",
+      "title": "Giá Thông Tắc Bồn Cầu Quảng Ninh 2026 – Báo Giá Thật, Không Phát Sinh"
+    },
+    {
+      "id": 2356,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/nguyen-song-hao/",
+      "title": "Nguyễn Song Hào – Nhà Sáng Lập Môi Trường Đô Thị Số 1 Quảng Ninh"
+    },
+    {
+      "id": 2332,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/cam-nang-thong-tac-cong-tai-ha-long/",
+      "title": "Thông Tắc Cống Tại Hạ Long: Cẩm Nang Xử Lý Nhanh Theo Từng Khu"
+    },
+    {
+      "id": 993,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "title": "Thông tắc cống Tuần Châu Hạ Long 24/7, thợ xử lý tận nơi nhanh"
+    },
+    {
+      "id": 992,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "title": "Thông tắc cống Giếng Đáy cho nhà dân, kho xưởng Hạ Long 24/7"
+    },
+    {
+      "id": 991,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+      "title": "Thông tắc cống Cao Xanh cho nhà dân, quán ăn tại Hạ Long 24/7"
+    },
+    {
+      "id": 2054,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "title": "Dịch vụ thông tắc cống Bãi Cháy 24/7, không đục phá, bảo hành 12 tháng"
+    },
+    {
+      "id": 2051,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/",
+      "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay"
+    },
+    {
+      "id": 2050,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/",
+      "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch"
+    },
+    {
+      "id": 2045,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/",
+      "title": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?"
+    },
+    {
+      "id": 2044,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/",
+      "title": "Chu kỳ hút bể phốt Quảng Ninh bao lâu? Lịch hút định kỳ 2026"
+    },
+    {
+      "id": 2043,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/",
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026"
+    },
+    {
+      "id": 2025,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/",
+      "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính chi phí thực tế"
+    },
+    {
+      "id": 1487,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+      "title": "Thông tắc bồn cầu Vân Đồn cho homestay, resort và nhà dân ven biển"
+    },
+    {
+      "id": 1486,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-uong-bi/",
+      "title": "Thông tắc bồn cầu Uông Bí cho nhà trọ, dân cư và công trình ống cũ"
+    },
+    {
+      "id": 1485,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "title": "Thông tắc bồn cầu Quảng Yên cho nhà dân, nhà trọ và cửa hàng"
+    },
+    {
+      "id": 1482,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "title": "Thông tắc bồn cầu Hạ Long cho khách sạn, nhà hàng và nhà dân 24/7"
+    },
+    {
+      "id": 1481,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "title": "Thông tắc bồn cầu Đông Triều cho nhà dân, nhà trọ và cửa hàng"
+    },
+    {
+      "id": 1377,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/",
+      "title": "Câu hỏi thường gặp thông tắc cống Quảng Ninh, giá và bảo hành"
+    },
+    {
+      "id": 1369,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+      "title": "Xử lý mùi hôi nhà vệ sinh Quảng Ninh: tìm đúng nguồn hôi 24/7"
+    },
+    {
+      "id": 1367,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+      "title": "Thông tắc bồn cầu bị tắc Quảng Ninh: xử lý trào ngược nhanh 24/7"
+    },
+    {
+      "id": 436,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+      "title": "Hút bể phốt Bãi Cháy - Xe bồn vào ngõ rộng, khách sạn nhà hàng"
+    },
+    {
+      "id": 58,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "title": "Hút bể phốt Vân Đồn 24/7 cho homestay, resort, nhà dân ven biển"
+    },
+    {
+      "id": 427,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+      "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển"
+    },
+    {
+      "id": 400,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "title": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn"
+    },
+    {
+      "id": 386,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long"
+    },
+    {
+      "id": 384,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân"
+    },
+    {
+      "id": 282,
+      "type": "page",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "title": "Chính sách bảo mật thông tin khách hàng"
+    },
+    {
+      "id": 217,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính rõ, gọi nhanh"
+    },
+    {
+      "id": 216,
+      "type": "post",
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "title": "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ"
+    }
+  ],
+  "failures": []
+}

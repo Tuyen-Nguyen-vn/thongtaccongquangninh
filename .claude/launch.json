@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Vite Landing Page (hut-be-phot)",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "landing-hut-be-phot-quang-ninh", "run", "dev"],
+      "port": 5173
+    },
+    {
+      "name": "Remotion Studio (video)",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "video-remotion", "run", "dev"],
+      "port": 3000
+    },
+    {
+      "name": "ChatGPT Apps MCP Server (SEO / Notion)",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\DELL\\Documents\\Codex\\2026-04-28\\chatgpt-apps-plugin-chatgpt-apps-openai\\server.js"],
+      "port": 8787
+    }
+  ]
+}

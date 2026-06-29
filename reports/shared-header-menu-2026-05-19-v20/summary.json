@@ -1,0 +1,536 @@
+[
+  {
+    "name": "home",
+    "width": 390,
+    "status": 200,
+    "sharedHeaders": 0,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": null,
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "logoRect": {
+      "x": 14,
+      "y": 9,
+      "w": 203,
+      "h": 54
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 789
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "home wp-singular page-template page-template-page-home page-template-page-home-php page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-generatepress home-page-direct right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 768,
+    "status": 200,
+    "sharedHeaders": 0,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": null,
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "logoRect": {
+      "x": 20,
+      "y": 8,
+      "w": 250,
+      "h": 66
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 700
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "home wp-singular page-template page-template-page-home page-template-page-home-php page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-generatepress home-page-direct right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "home",
+    "width": 1440,
+    "status": 200,
+    "sharedHeaders": 0,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": null,
+    "navText": "☰ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "logoRect": {
+      "x": 60,
+      "y": 9,
+      "w": 292,
+      "h": 78
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 770
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "none",
+    "bodyClass": "home wp-singular page-template page-template-page-home page-template-page-home-php page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-generatepress home-page-direct right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 390,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "logoRect": {
+      "x": 14,
+      "y": 9,
+      "w": 203,
+      "h": 54
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 838
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "wp-singular page-template-default page page-id-26 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active elementor-default elementor-kit-19 elementor-page elementor-page-26",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 768,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "logoRect": {
+      "x": 20,
+      "y": 8,
+      "w": 250,
+      "h": 66
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 700
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "wp-singular page-template-default page page-id-26 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active elementor-default elementor-kit-19 elementor-page elementor-page-26",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "service",
+    "width": 1440,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "☰ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "logoRect": {
+      "x": 60,
+      "y": 9,
+      "w": 292,
+      "h": 78
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 921
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "none",
+    "bodyClass": "wp-singular page-template-default page page-id-26 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active elementor-default elementor-kit-19 elementor-page elementor-page-26",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "area",
+    "width": 390,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "logoRect": {
+      "x": 14,
+      "y": 9,
+      "w": 203,
+      "h": 54
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 92,
+      "w": 390,
+      "h": 961
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "wp-singular page-template-default page page-id-296 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-service-page ttcqn-service-page-ha-long ttcqn-shared-header-active no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "consoleErrors": [],
+    "misses": [
+      "heroY=92,headerH=72"
+    ]
+  },
+  {
+    "name": "area",
+    "width": 768,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "logoRect": {
+      "x": 20,
+      "y": 8,
+      "w": 250,
+      "h": 66
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 102,
+      "w": 768,
+      "h": 724
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "wp-singular page-template-default page page-id-296 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-service-page ttcqn-service-page-ha-long ttcqn-shared-header-active no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "consoleErrors": [],
+    "misses": [
+      "heroY=102,headerH=82"
+    ]
+  },
+  {
+    "name": "area",
+    "width": 1440,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "☰ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "logoRect": {
+      "x": 60,
+      "y": 9,
+      "w": 292,
+      "h": 78
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 116,
+      "w": 1440,
+      "h": 946
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "none",
+    "bodyClass": "wp-singular page-template-default page page-id-296 wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-service-page ttcqn-service-page-ha-long ttcqn-shared-header-active no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover featured-image-active",
+    "consoleErrors": [],
+    "misses": [
+      "heroY=116,headerH=96"
+    ]
+  },
+  {
+    "name": "blog",
+    "width": 390,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 72
+    },
+    "logoRect": {
+      "x": 14,
+      "y": 9,
+      "w": 203,
+      "h": 54
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 72,
+      "w": 390,
+      "h": 908
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "wp-singular post-template-default single single-post postid-1377 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover elementor-default elementor-kit-19",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "blog",
+    "width": 768,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "✕ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 82
+    },
+    "logoRect": {
+      "x": 20,
+      "y": 8,
+      "w": 250,
+      "h": 66
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 82,
+      "w": 768,
+      "h": 742
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": true,
+    "submenuOpened": true,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "grid",
+    "bodyClass": "wp-singular post-template-default single single-post postid-1377 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover elementor-default elementor-kit-19",
+    "consoleErrors": [],
+    "misses": []
+  },
+  {
+    "name": "blog",
+    "width": 1440,
+    "status": 200,
+    "sharedHeaders": 1,
+    "ttcqnHeaders": 1,
+    "mastheadDisplay": "none",
+    "navText": "☰ Trang chủ Dịch vụ ⌄ Hút bể phốt Thông tắc cống Thông tắc bồn cầu Nạo vét hố ga Khu vực ⌄ Hạ Long Cẩm Phả Uông Bí Quảng Yên Vân Đồn Dự án Đối tác Bảng giá Blog Liên hệ 0963.953.533 - 0931.156.756",
+    "navBg": "rgb(3, 17, 31)",
+    "headerRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "navRect": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 96
+    },
+    "logoRect": {
+      "x": 60,
+      "y": 9,
+      "w": 292,
+      "h": 78
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 96,
+      "w": 1440,
+      "h": 921
+    },
+    "heroBg": "rgba(0, 0, 0, 0)",
+    "h1Count": 1,
+    "overflowX": 0,
+    "mobileOpened": null,
+    "submenuOpened": null,
+    "callHref": "tel:0963953533",
+    "mobileCallDisplay": "none",
+    "bodyClass": "wp-singular post-template-default single single-post postid-1377 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-generatepress ttcqn-shared-header-active ttcqn-seo-hero-active right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover elementor-default elementor-kit-19",
+    "consoleErrors": [],
+    "misses": []
+  }
+]

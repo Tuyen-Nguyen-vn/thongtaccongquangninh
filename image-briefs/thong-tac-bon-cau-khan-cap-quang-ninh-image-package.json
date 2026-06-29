@@ -1,0 +1,63 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "slug": "thong-tac-bon-cau-khan-cap-quang-ninh",
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+  "service": "thông tắc bồn cầu",
+  "area": "Quảng Ninh",
+  "sourceType": "edited_real_source",
+  "sourceNote": "Ảnh nguồn từ thư mục Ảnh cung cấp, đã crop/filter nhẹ, đổi tên không dấu, xuất WebP, không copy EXIF cũ. Caption không claim ảnh thực tế khi chưa xác minh riêng.",
+  "generatedAt": "2026-06-01T17:10:00+07:00",
+  "images": [
+    {
+      "fileName": "thong-tac-bon-cau-khan-cap-quang-ninh-tho-kiem-tra-nha-ve-sinh.webp",
+      "filePath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/thong-tac-bon-cau-khan-cap-quang-ninh-2026-06-01/thong-tac-bon-cau-khan-cap-quang-ninh-tho-kiem-tra-nha-ve-sinh.webp",
+      "fileSizeKb": 64.4,
+      "altText": "Thợ thông tắc bồn cầu tại nhà vệ sinh ở Quảng Ninh, chuẩn bị máy lò xo để xử lý nghẹt nhanh.",
+      "caption": "Thông tắc bồn cầu Quảng Ninh: Thợ xử lý bồn cầu nghẹt tại Quảng Ninh, ưu tiên kiểm tra tại chỗ trước khi báo phương án.",
+      "placement": "Ảnh đầu bài",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "sourcePath": "/mnt/d/.thongtaccongquangninh/Ảnh cung cấp/4. Tho Thong Bon Cau/hut-be-phot-ha-long-181.jpg",
+      "note": "No obvious customer face/license plate in selected crop; no EXIF copied by PIL export.",
+      "reusedAcrossPages": 1,
+      "duplicatePercent": 0,
+      "containsPrivateInfo": false,
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "isPoster": false
+    },
+    {
+      "fileName": "thong-tac-bon-cau-khan-cap-quang-ninh-may-lo-xo-khong-duc-pha.webp",
+      "filePath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/thong-tac-bon-cau-khan-cap-quang-ninh-2026-06-01/thong-tac-bon-cau-khan-cap-quang-ninh-may-lo-xo-khong-duc-pha.webp",
+      "fileSizeKb": 67.8,
+      "altText": "Máy lò xo thông tắc bồn cầu Quảng Ninh đặt trong nhà vệ sinh, dùng cho ca nghẹt giấy và dị vật mềm.",
+      "caption": "Máy lò xo thông tắc bồn cầu hỗ trợ xử lý nghẹt không đục phá tại Quảng Ninh.",
+      "placement": "Ảnh quy trình",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "sourcePath": "/mnt/d/.thongtaccongquangninh/Ảnh cung cấp/May Thong Cong/gia-thong-cong-bang-may-lo-xo-4.jpg",
+      "note": "No obvious customer face/license plate in selected crop; no EXIF copied by PIL export.",
+      "reusedAcrossPages": 1,
+      "duplicatePercent": 0,
+      "containsPrivateInfo": false,
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "isPoster": false
+    },
+    {
+      "fileName": "thong-tac-bon-cau-khan-cap-quang-ninh-xa-thu-sau-xu-ly.webp",
+      "filePath": "/mnt/d/.thongtaccongquangninh/Ảnh Đã Xử Lý SEO/thong-tac-bon-cau-khan-cap-quang-ninh-2026-06-01/thong-tac-bon-cau-khan-cap-quang-ninh-xa-thu-sau-xu-ly.webp",
+      "fileSizeKb": 81.8,
+      "altText": "Thông tắc bồn cầu Quảng Ninh - Thợ xả thử bồn cầu sau khi thông tắc tại Quảng Ninh để kiểm tra nước rút ổn định.",
+      "caption": "Kiểm tra xả nước sau khi thông tắc bồn cầu, hạn chế tái nghẹt trong sinh hoạt.",
+      "placement": "Ảnh case/quy trình",
+      "pageUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "sourcePath": "/mnt/d/.thongtaccongquangninh/Ảnh cung cấp/4. Tho Thong Bon Cau/thong-tac-cong-quang-ninh-anh-ai-1.png",
+      "note": "No obvious customer face/license plate in selected crop; no EXIF copied by PIL export.",
+      "reusedAcrossPages": 1,
+      "duplicatePercent": 0,
+      "containsPrivateInfo": false,
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "isPoster": false
+    }
+  ]
+}

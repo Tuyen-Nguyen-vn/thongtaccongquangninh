@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-06-27T04:20:27.220Z",
+  "localCss": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/assets/ttcqn-shared-footer.css",
+  "remoteCss": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-shared-footer.css",
+  "backupPath": "/mnt/d/.thongtaccongquangninh/backups/footer-design-token-live-2026-06-27T04-20-20-742Z/ttcqn-shared-footer.remote.css",
+  "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/assets/ttcqn-shared-footer.css\",\"status\":\"ok\"}\n",
+  "purgeText": "{\"purged\":\"thongtaccongquangninh.com\"}\n",
+  "remoteMatches": true,
+  "publicHome": {
+    "status": 200,
+    "hasFooter": true,
+    "hasCriticalError": false
+  },
+  "publicCss": {
+    "status": 200,
+    "ok": true,
+    "length": 25411
+  },
+  "success": true
+}

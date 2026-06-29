@@ -1,0 +1,1250 @@
+{
+  "root": "D:\\.thongtaccongquangninh",
+  "generated_at": "2026-06-27T09:25:00",
+  "totals": {
+    "files": 117483,
+    "directories": 39348,
+    "bytes": 31894268378
+  },
+  "category_counts": {
+    "other": 82644,
+    "tool-script": 20590,
+    "data-output": 9621,
+    "document": 1803,
+    "report": 1642,
+    "seo-revision": 905,
+    "wordpress-operation-log": 157,
+    "seo-status": 60,
+    "content-draft": 55,
+    "agent-config": 4,
+    "context": 2
+  },
+  "category_sizes": {
+    "other": 24723044552,
+    "tool-script": 5850712190,
+    "data-output": 951436157,
+    "report": 307035553,
+    "seo-revision": 29291459,
+    "document": 28378136,
+    "wordpress-operation-log": 1963726,
+    "seo-status": 1274701,
+    "content-draft": 1083283,
+    "context": 36720,
+    "agent-config": 11901
+  },
+  "top_level_counts": {
+    "tools": 20590,
+    "landing-hut-be-phot-quang-ninh": 19360,
+    "blogger": 19359,
+    "video-remotion": 19335,
+    ".google": 19302,
+    "_tmp": 6676,
+    ".venv-youtube": 3281,
+    "backups": 2805,
+    ".venv-google": 2166,
+    "reports": 1642,
+    "seo-revisions": 905,
+    "image-briefs": 608,
+    "Ảnh Đã Xử Lý SEO": 588,
+    "Ảnh cung cấp": 141,
+    "scratch": 132,
+    "_review_tmp": 69,
+    "content-drafts": 55,
+    "docs": 48,
+    "logs": 24,
+    ".tmp.driveupload": 20,
+    "Favicon": 12,
+    ".codex": 11,
+    "secrets": 9,
+    ".claude": 7,
+    ".cursor": 7,
+    "scripts": 7,
+    ".agents": 4,
+    "marketing": 4,
+    "skills": 3,
+    "D.thongtaccongquangninh": 2,
+    ".clinerules": 1,
+    ".cursorrules": 1,
+    ".env": 1,
+    ".env.example": 1,
+    ".gitattributes": 1,
+    ".gitignore": 1,
+    ".thongtaccongquangninhdocsSEO_PROGRESS.csv": 1,
+    "AGENTS.md": 1,
+    "AGENT_OWNERSHIP.md": 1,
+    "AI_AGENT_RULES.md": 1,
+    "AI_RULES.md": 1,
+    "ARTICLE_SEO_AI_OVERVIEW_CHECKLIST.md": 1,
+    "AUDIT_REPORT.md": 1,
+    "chinh-sach-bao-mat.md": 1,
+    "CLAUDE.md": 1,
+    "claukit-registry.md": 1,
+    "CODEX_CONTEXT.md": 1,
+    "CODE_CLEANUP_RULES.md": 1,
+    "console.log('ERR'": 1,
+    "CONTENT_RULES.md": 1,
+    "DASHBOARD_2026-05-10.md": 1,
+    "DASHBOARD_2026-05-11.md": 1,
+    "DASHBOARD_2026-05-12.md": 1,
+    "DASHBOARD_2026-05-13.md": 1,
+    "DASHBOARD_2026-05-14.md": 1,
+    "DASHBOARD_2026-05-15.md": 1,
+    "DASHBOARD_2026-05-16.md": 1,
+    "DASHBOARD_2026-05-17.md": 1,
+    "DASHBOARD_2026-05-18.md": 1,
+    "DASHBOARD_2026-05-20.md": 1,
+    "DASHBOARD_2026-05-21.md": 1,
+    "DASHBOARD_2026-05-22.md": 1,
+    "DASHBOARD_2026-05-23.md": 1,
+    "DASHBOARD_2026-05-24.md": 1,
+    "DASHBOARD_2026-05-25.md": 1,
+    "DASHBOARD_2026-05-26.md": 1,
+    "DASHBOARD_2026-05-27.md": 1,
+    "DASHBOARD_2026-05-28.md": 1,
+    "DASHBOARD_2026-05-29.md": 1,
+    "DASHBOARD_2026-05-30.md": 1,
+    "DASHBOARD_2026-05-31.md": 1,
+    "DASHBOARD_2026-06-01.md": 1,
+    "DASHBOARD_2026-06-02.md": 1,
+    "DASHBOARD_2026-06-03.md": 1,
+    "DASHBOARD_2026-06-04.md": 1,
+    "DASHBOARD_2026-06-05.md": 1,
+    "DASHBOARD_2026-06-06.md": 1,
+    "DASHBOARD_2026-06-07.md": 1,
+    "DASHBOARD_2026-06-08.md": 1,
+    "DASHBOARD_2026-06-09.md": 1,
+    "DASHBOARD_2026-06-10.md": 1,
+    "DASHBOARD_2026-06-11.md": 1,
+    "DASHBOARD_2026-06-12.md": 1,
+    "DASHBOARD_2026-06-13.md": 1,
+    "DASHBOARD_2026-06-14.md": 1,
+    "DASHBOARD_2026-06-15.md": 1,
+    "DASHBOARD_2026-06-16.md": 1,
+    "DASHBOARD_2026-06-17.md": 1,
+    "DASHBOARD_2026-06-18.md": 1,
+    "DASHBOARD_2026-06-19.md": 1,
+    "DASHBOARD_2026-06-20.md": 1,
+    "DASHBOARD_2026-06-21.md": 1,
+    "DASHBOARD_2026-06-22.md": 1,
+    "DASHBOARD_2026-06-23.md": 1,
+    "DASHBOARD_2026-06-24.md": 1,
+    "DASHBOARD_2026-06-25.md": 1,
+    "DASHBOARD_2026-06-26.md": 1,
+    "DASHBOARD_2026-06-27.md": 1,
+    "DEAD_CODE_CANDIDATES.md": 1,
+    "DESIGN.md": 1,
+    "dieu-khoan-dich-vu.md": 1,
+    "DRAFT_DUPLICATE_REVIEW.md": 1,
+    "DRAFT_REMAINING_AUDIT.md": 1,
+    "GoogleAdsAPI_Design_Documentation.pdf": 1,
+    "google_ads_ads_import.csv": 1,
+    "google_ads_campaign_config.json": 1,
+    "google_ads_campaign_import.csv": 1,
+    "google_ads_campaign_negatives_import.csv": 1,
+    "google_ads_keywords_import.csv": 1,
+    "he-thong-co-so-live.html": 1,
+    "htaccess_new.txt": 1,
+    "htaccess_restored.txt": 1,
+    "IMAGE_SEO_WORKFLOW_2026-05-06.md": 1,
+    "LOCAL_SEO_DOORWAY_SAFE_WORKFLOW_2026-05-05.md": 1,
+    "logo-cong-ty-moi-truong-do-thi-so-1-quang-ninh.jpg": 1,
+    "logo.png": 1,
+    "Makefile": 1,
+    "package-lock.json": 1,
+    "package.json": 1,
+    "page35_dump.html": 1,
+    "pinterest-d7236 (1).html": 1,
+    "pinterest-d7236.html": 1,
+    "post-sitemap.xml": 1,
+    "PUBLISH_GIENG_DAY_CONG_2026-06-24.json": 1,
+    "seo-content-guidelines.md": 1,
+    "SEO_DOORWAY_FIX_REPORT_CITY_GROUP_2026-05-05.md": 1,
+    "SEO_DOORWAY_FIX_REPORT_HA_LONG_2026-05-05.md": 1,
+    "SEO_FIX_PLAN.md": 1,
+    "SEO_GOOGLE_INDEX_2026-05-08.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-09.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-18.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-22.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-26.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-28.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-29.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-30.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-31.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-01.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-07.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-08.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-09.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-10.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-11.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-12.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-14.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-15.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-16.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-17.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-19.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-20.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-22.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-23.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-24.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-25.json": 1,
+    "SEO_GOOGLE_INDEX_2026-06-26.json": 1,
+    "SEO_INTERNAL_LINKS_LOG_2026-04-29.md": 1,
+    "SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv": 1,
+    "SEO_INTERNAL_LINK_REPORT.md": 1,
+    "SEO_RULES.md": 1,
+    "SEO_STATUS_2026-05-03.md": 1,
+    "SEO_STATUS_2026-05-05.md": 1,
+    "SEO_STATUS_2026-05-06.md": 1,
+    "SEO_STATUS_2026-05-10.md": 1,
+    "SEO_STATUS_2026-05-12.md": 1,
+    "SEO_STATUS_2026-06-01.md": 1,
+    "SEO_STATUS_2026-06-02.md": 1,
+    "SEO_STATUS_2026-06-03.md": 1,
+    "SEO_STATUS_2026-06-08.md": 1,
+    "TASKS.md": 1,
+    "technical-seo-sop.md": 1,
+    "tmp_doorway_schema_updated.php": 1,
+    "tmp_renderer_broken.php": 1,
+    "UPLOAD_DOI_TAC_IMAGES_2026-05-16.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-38-53-018Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-39-06-017Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-39-49-209Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-02T02-40-00-572Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-39-13-196Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-40-02-788Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-46-59-446Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-48-07-416Z.json": 1,
+    "WORDPRESS_AUTHOR_NGUYEN_SONG_HAO_2026-06-03T05-48-15-755Z.json": 1,
+    "WORDPRESS_CLEAN_DUPLICATE_IMAGE_FILENAMES_2026-05-07.json": 1,
+    "WORDPRESS_CLICK_LOGGER_PLUGIN_UPLOAD_2026-06-21.json": 1,
+    "WORDPRESS_DEACTIVATE_HOME_TEMP_PLUGINS_2026-05-13.json": 1,
+    "WORDPRESS_DEBUG_AFTER_HOME_BYPASS_2026-05-13.txt": 1,
+    "WORDPRESS_DESKTOP_IMAGE_SEO_2026-05-06T17-38-00.json": 1,
+    "WORDPRESS_DOORWAY_SAFE_RENDERER_PLUGIN_UPLOAD_2026-05-19.json": 1,
+    "WORDPRESS_DOORWAY_SCHEMA_UPLOAD_2026-05-28.json": 1,
+    "WORDPRESS_DOORWAY_SCHEMA_UPLOAD_2026-05-30.json": 1,
+    "WORDPRESS_FAVICON_20260512_PLUGIN_UPLOAD_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_20260514_PLUGIN_UPLOAD_2026-05-14.json": 1,
+    "WORDPRESS_FAVICON_CLEANUP_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_FORCE_DISABLE_OLD_PLUGIN_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-10.json": 1,
+    "WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_VERIFY_2026-05-10.json": 1,
+    "WORDPRESS_FAVICON_VERIFY_2026-05-14.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-40-55.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-43-37.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-45-54.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T18-28-38.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-14T15-34-14.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T19-12-26.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-10-24.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-14-35.json": 1,
+    "WORDPRESS_FINAL_VERIFY_SEO_IMAGES_2026-05-06.json": 1,
+    "WORDPRESS_FIX_BLOG_MENU_LABEL_2026-05-16T20-51-37-617Z.json": 1,
+    "WORDPRESS_FIX_CITY_META_DESCRIPTIONS_2026-05-05.json": 1,
+    "WORDPRESS_FIX_DUPLICATE_TITLES_2026-05-09.json": 1,
+    "WORDPRESS_FIX_HOME_BLANK_TEMPLATE_2026-05-12.json": 1,
+    "WORDPRESS_FIX_PAGE_311_NAP_2026-05-12.json": 1,
+    "WORDPRESS_GLOBAL_REUSE_IMAGE_FIX_2026-05-14T15-46-02.json": 1,
+    "WORDPRESS_HANDBOOK_FAQ_IMAGE_FIX_2026-05-23.json": 1,
+    "WORDPRESS_HANDBOOK_FEATURED_UPDATE_2026-05-22.json": 1,
+    "WORDPRESS_HANDBOOK_IMAGE_CONTENT_UPDATE_2026-05-22.json": 1,
+    "WORDPRESS_HANDBOOK_P0_RESTORE_2026-05-23.json": 1,
+    "WORDPRESS_HANDBOOK_P0_TEXT_FIX_2026-05-23.json": 1,
+    "WORDPRESS_HANDBOOK_RENDER_ARTIFACT_FIX_2026-05-23.json": 1,
+    "WORDPRESS_HANDBOOK_UNDER3_IMAGES_UPDATE_2026-05-22.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-13.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-23.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-25.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-29.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-31.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-06-19.json": 1,
+    "WORDPRESS_HOME_HERO_LAYOUT_BALANCE_2026-05-16.json": 1,
+    "WORDPRESS_HOME_HERO_WORKER_FRONT_FORM_2026-05-16.json": 1,
+    "WORDPRESS_HOME_LEAD_FORM_CACHE_TOUCH_2026-05-12.json": 1,
+    "WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-12.json": 1,
+    "WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-18.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_ACTIVATE_2026-05-11.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_DEACTIVATE_2026-05-21.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_PLUGIN_UPLOAD_2026-05-11.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_UPLOAD_2026-05-17.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_VERIFY_2026-05-11.json": 1,
+    "WORDPRESS_HOME_PROJECT_IMAGES_UPLOAD_2026-05-14.json": 1,
+    "WORDPRESS_HOME_PROJECT_IMAGES_VERIFY_2026-05-14.json": 1,
+    "WORDPRESS_HOME_REMOVE_TRUCK_TAIL_BLINK_2026-05-16.json": 1,
+    "WORDPRESS_HOME_RENDER_INSPECT_2026-05-06.json": 1,
+    "WORDPRESS_HOME_REPLACE_TRUCK_WORKER_BALANCE_2026-05-16.json": 1,
+    "WORDPRESS_HOME_SECTIONS_UPDATE_2026-05-14.json": 1,
+    "WORDPRESS_HOME_SERVICES_PIPE_TRUCK_LIGHTS_PLATE_2026-05-16.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_2026-05-07.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_PLUGIN_UPLOAD_2026-05-07.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_UPLOAD_2026-05-07.json": 1,
+    "WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_2026-05-13.json": 1,
+    "WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_PLUGIN_UPLOAD_2026-05-13.json": 1,
+    "WORDPRESS_IMAGE_LAYOUT_FIX_2026-05-07.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-20-56-933Z.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-22-57-527Z.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-27-20-134Z.json": 1,
+    "WORDPRESS_INSERT_READY_IMAGE_PACKAGES_2026-06-01T10-25-51-675Z.json": 1,
+    "WORDPRESS_INSERT_READY_IMAGE_PACKAGES_2026-06-01T10-26-11-338Z.json": 1,
+    "WORDPRESS_INTRO_FOUNDER_IMAGE_UPLOAD_2026-05-29.json": 1,
+    "WORDPRESS_LEGAL_PAGES_2026-06-03.json": 1,
+    "WORDPRESS_MCP_ABILITIES_2026-05-06.json": 1,
+    "WORDPRESS_MCP_ABILITIES_2026-05-10.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-05-06.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-05-28.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-06-01.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-06-03.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-06-05.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-06-17.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-06-21.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-06-25.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZED_UPLOADS_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_UPDATE_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_LEFT_STICKY_CTA_PLUGIN_UPLOAD_2026-05-16.json": 1,
+    "WORDPRESS_NEWS_SITEMAP_PLUGIN_UPLOAD_2026-06-24T05-03-07Z.json": 1,
+    "WORDPRESS_NEWS_SITEMAP_PLUGIN_UPLOAD_2026-06-24T05-03-44Z.json": 1,
+    "WORDPRESS_NSH_IMAGE_REPLACE_2026-05-29.json": 1,
+    "WORDPRESS_PHASE1_FIX_REPORT_2026-05-06.json": 1,
+    "WORDPRESS_PLUGINS_2026-05-10.json": 1,
+    "WORDPRESS_POST_FAQ_UPDATE_2026-05-22.json": 1,
+    "WORDPRESS_POST_SCHEMA_UPLOAD_2026-05-22.json": 1,
+    "WORDPRESS_PUBLISH_CAM_NANG_HA_LONG_2026-05-27.json": 1,
+    "WORDPRESS_PUBLISH_CAM_NANG_HA_LONG_2026-06-24.json": 1,
+    "WORDPRESS_PUBLISH_NGUYEN_SONG_HAO_PROFILE_2026-05-29.json": 1,
+    "WORDPRESS_PUSH_ALL_3_LOCAL_2026-05-22.json": 1,
+    "WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-10.json": 1,
+    "WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-16.json": 1,
+    "WORDPRESS_PUSH_IMAGE_PACKAGE_2026-06-26.json": 1,
+    "WORDPRESS_QN_SERVICE_LANDING_DRAFT_2026-06-10.json": 1,
+    "WORDPRESS_REPLACE_ANH_MINH_HOA_2026-05-07.json": 1,
+    "WORDPRESS_REPLACE_SUSPICIOUS_IMAGES_2026-05-14T15-39-10.json": 1,
+    "WORDPRESS_RESTORE_PAGE_HOME_TEMPLATE_2026-05-13.json": 1,
+    "WORDPRESS_RESTORE_PUBLISH_2026-05-07.json": 1,
+    "WORDPRESS_RESTORE_PUBLISH_CANDIDATES_2026-05-07.json": 1,
+    "WORDPRESS_REST_ROUTES_2026-05-06.json": 1,
+    "WORDPRESS_REWRITE_PAGE_380_CHUNG_CU_HA_LONG_2026-05-12.json": 1,
+    "WORDPRESS_REWRITE_PAGE_383_NHA_HANG_HA_LONG_2026-05-12.json": 1,
+    "WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-17.json": 1,
+    "WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-18.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-05-20.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T05-58-37-662Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T06-18-43-634Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T06-23-21-480Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T10-12-09-170Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T16-32-27-266Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-03T16-33-57-800Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-04T17-19-31-468Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-04T17-36-37-648Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-12T11-46-27-048Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-12T11-47-35-648Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-12T11-49-15-849Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-13T11-42-51-790Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-22T04-24-57-782Z.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-06-23T03-37-15-801Z.json": 1,
+    "WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T03-58-06.json": 1,
+    "WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T04-04-43.json": 1,
+    "WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T18-28-36.json": 1,
+    "WORDPRESS_SEO_CONTACT_BLOCK_PLUGIN_UPLOAD_2026-06-03T18-31-12.json": 1,
+    "WORDPRESS_SERVICE_SCHEMA_UPLOAD_2026-05-22.json": 1,
+    "WORDPRESS_SUBPAGE_BANNER_DEDUPE_PLUGIN_2026-05-07.json": 1,
+    "WORDPRESS_SYNC_RENDERER_OPTION_296_2026-05-06.json": 1,
+    "WORDPRESS_SYNC_RENDERER_OPTION_296_IMAGE_LAYOUT_2026-05-07.json": 1,
+    "WORDPRESS_UPDATE_CITY_DOORWAY_SAFE_2026-05-05.json": 1,
+    "WORDPRESS_UPDATE_DOORWAY_BATCH2_2026-05-06.json": 1,
+    "WORDPRESS_UPDATE_FAVICON_2026-05-10.json": 1,
+    "WORDPRESS_UPDATE_FAVICON_2026-05-14.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_DOORWAY_SAFE_2026-05-05.json": 1,
+    "WORDPRESS_UPLOAD_INSERT_SEO_IMAGES_2026-05-06.json": 1,
+    "WORDPRESS_VERIFY_SEO_IMAGES_2026-05-06.json": 1,
+    "wp-similar-title-pairs.csv": 1,
+    "wp-url-audit-list.csv": 1,
+    "wp-url-audit-list.json": 1,
+    "WP_URL_AUDIT_REPORT_2026-05-06.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-05-10.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-05-22.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-05-28.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-06-02.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-06-03.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-06-04.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-06-05.md": 1,
+    "_tmp_home_reference_preview.html": 1,
+    ".vscode": 1,
+    "seo-checklists": 1,
+    "terminal": 1
+  },
+  "suffix_counts": {
+    "[no extension]": 49622,
+    ".py": 22732,
+    ".json": 12873,
+    ".png": 5079,
+    ".h": 2878,
+    ".webp": 2509,
+    ".svg": 1963,
+    ".msg": 1470,
+    ".md": 1461,
+    ".tcl": 1300,
+    ".pyi": 1124,
+    ".txt": 1121,
+    ".js": 1093,
+    ".log": 844,
+    ".enc": 800,
+    ".old": 764,
+    ".proto": 756,
+    ".mp3": 614,
+    ".jpg": 607,
+    ".mjs": 587,
+    ".ldb": 504,
+    ".mp4": 447,
+    ".pyd": 400,
+    ".html": 369,
+    ".typed": 325,
+    ".csv": 308,
+    ".gif": 292,
+    ".pak": 290,
+    ".php": 264,
+    ".lock": 242,
+    ".css": 215,
+    ".bcmap": 168,
+    ".zip": 166,
+    ".msgpack": 135,
+    ".pb": 135,
+    ".dll": 130,
+    ".woff2": 129,
+    ".exe": 126,
+    ".sh": 122,
+    ".rkyv": 120,
+    ".http": 120,
+    ".tflite": 120,
+    ".properties": 105,
+    ".ico": 85,
+    ".pma": 80,
+    ".code-snippets": 75,
+    ".bat": 73,
+    ".binarypb": 61,
+    ".bak": 61,
+    ".lib": 60,
+    ".xbm": 60,
+    ".tmp": 60,
+    ".ps1": 52,
+    ".hyb": 52,
+    ".0-py3-none-any": 50,
+    ".tm": 50,
+    ".db": 50,
+    ".ttf": 46,
+    ".so": 45,
+    ".def": 40,
+    ".db-journal": 36,
+    ".woff": 36,
+    ".apache": 34,
+    ".bsd": 34,
+    ".rst": 33,
+    ".cfg": 30,
+    ".pem": 30,
+    ".md5": 26,
+    ".2-py3-none-any": 25,
+    ".heif": 25,
+    ".scm": 25,
+    ".dat": 23,
+    ".gz": 23,
+    ".ts": 21,
+    ".ini": 20,
+    ".vc": 20,
+    ".terms": 20,
+    ".eps": 20,
+    ".wasm": 20,
+    ".zsh": 20,
+    ".baj": 19,
+    ".baf": 19,
+    ".yml": 19,
+    ".lnk": 17,
+    ".bin": 17,
+    ".map": 17,
+    ".node": 15,
+    ".fish": 14,
+    ".db-wal": 14,
+    ".journal": 14,
+    ".cur": 14,
+    ".bf": 13,
+    ".model": 12,
+    ".docx": 11,
+    ".jpeg": 11,
+    ".xml": 10,
+    ".tag": 10,
+    ".pyw": 10,
+    ".ctypes": 10,
+    ".whl": 10,
+    ".c": 10,
+    ".nmake": 10,
+    ".ppm": 10,
+    ".fbs": 10,
+    ".scpt": 10,
+    ".0": 9,
+    ".csh": 8,
+    ".example": 7,
+    ".1": 7,
+    ".before": 6,
+    ".symbols": 6,
+    ".cmd": 5,
+    ".yaml": 5,
+    ".20-py3-none-any": 5,
+    ".0-cp314-cp314-win_amd64": 5,
+    ".7-cp314-cp314-win_amd64": 5,
+    ".0-cp311-abi3-win_amd64": 5,
+    ".18-py3-none-any": 5,
+    ".1-py3-none-any": 5,
+    ".0-cp310-abi3-win_amd64": 5,
+    ".3-py3-none-any": 5,
+    ".py3-none-any": 5,
+    ".nu": 5,
+    ".pth": 5,
+    "._ga": 5,
+    ".gpm": 5,
+    ".bak-downloads-20260504063355": 5,
+    ".bak_before_download_fix_20260430_213019": 5,
+    ".bak_before_download_fix_20260430_213043": 5,
+    ".asar": 5,
+    ".cjs": 5,
+    ".license": 5,
+    ".dockerfile": 5,
+    ".tmlanguage": 5,
+    ".mdc": 4,
+    ".toml": 3,
+    ".14": 3,
+    ".webm": 3,
+    ".pdf": 2,
+    ".after-edit": 2,
+    ".jsx": 2,
+    ".tsx": 2,
+    ".otf": 2,
+    ".mf": 2,
+    ".data": 2,
+    ".orig": 2,
+    ".2": 2,
+    ".log('err'": 1,
+    ".b64": 1,
+    ".code-workspace": 1,
+    ".bak-before-audit-26340": 1,
+    ".bak_20260620": 1,
+    ".bak_collision_20260622": 1,
+    ".bak-20260601-160431": 1,
+    ".dmp": 1,
+    ".cff": 1,
+    ".scss": 1,
+    ".erb": 1,
+    ".swf": 1,
+    ".6": 1,
+    ".18": 1,
+    ".3": 1,
+    ".4": 1,
+    ".17": 1,
+    ".7": 1
+  },
+  "latest_files": [
+    {
+      "path": "logs\\uptime.log",
+      "size": 671304,
+      "modified": "2026-06-27T09:19:48",
+      "category": "other"
+    },
+    {
+      "path": "logs\\uptime_status.json",
+      "size": 84,
+      "modified": "2026-06-27T09:19:48",
+      "category": "data-output"
+    },
+    {
+      "path": "scratch\\sync_skills.js",
+      "size": 3842,
+      "modified": "2026-06-27T09:18:52",
+      "category": "other"
+    },
+    {
+      "path": ".tmp.driveupload\\212617",
+      "size": 63,
+      "modified": "2026-06-27T09:18:15",
+      "category": "other"
+    },
+    {
+      "path": ".tmp.driveupload\\212621",
+      "size": 183,
+      "modified": "2026-06-27T09:18:15",
+      "category": "other"
+    },
+    {
+      "path": ".tmp.driveupload\\212599",
+      "size": 14745,
+      "modified": "2026-06-27T09:17:42",
+      "category": "other"
+    },
+    {
+      "path": "claukit-registry.md",
+      "size": 39449,
+      "modified": "2026-06-27T09:15:11",
+      "category": "document"
+    },
+    {
+      "path": "docs\\SEO_PROGRESS.csv",
+      "size": 320313,
+      "modified": "2026-06-27T08:50:32",
+      "category": "seo-status"
+    },
+    {
+      "path": "reports\\claude-seo-readonly-home-20260627T084619\\SUMMARY.md",
+      "size": 3783,
+      "modified": "2026-06-27T08:50:12",
+      "category": "report"
+    },
+    {
+      "path": "reports\\claude-seo-readonly-home-20260627T084619\\pagespeed-mobile.json",
+      "size": 655,
+      "modified": "2026-06-27T08:47:55",
+      "category": "report"
+    },
+    {
+      "path": "reports\\claude-seo-readonly-home-20260627T084619\\parse-home.json",
+      "size": 71874,
+      "modified": "2026-06-27T08:47:41",
+      "category": "report"
+    },
+    {
+      "path": "reports\\claude-seo-readonly-home-20260627T084619\\home-cachebuster.html",
+      "size": 287151,
+      "modified": "2026-06-27T08:47:17",
+      "category": "report"
+    },
+    {
+      "path": "reports\\claude-seo-readonly-home-20260627T084619\\robots.txt",
+      "size": 198,
+      "modified": "2026-06-27T08:47:17",
+      "category": "report"
+    },
+    {
+      "path": "reports\\claude-seo-readonly-home-20260627T084619\\sitemap_index.xml",
+      "size": 697,
+      "modified": "2026-06-27T08:47:17",
+      "category": "report"
+    },
+    {
+      "path": "_tmp_home_reference_preview.html",
+      "size": 175171,
+      "modified": "2026-06-27T08:47:16",
+      "category": "other"
+    },
+    {
+      "path": "tools\\render_home_preview.php",
+      "size": 2676,
+      "modified": "2026-06-27T08:46:18",
+      "category": "tool-script"
+    },
+    {
+      "path": "docs\\DESIGN_TOKEN_MAPPING.md",
+      "size": 4451,
+      "modified": "2026-06-27T08:44:12",
+      "category": "document"
+    },
+    {
+      "path": "tools\\check_design_token_mapping.mjs",
+      "size": 5491,
+      "modified": "2026-06-27T08:43:56",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer\\assets\\ttcqn-shared-footer.css",
+      "size": 25411,
+      "modified": "2026-06-27T08:43:38",
+      "category": "tool-script"
+    },
+    {
+      "path": "CODEX_CONTEXT.md",
+      "size": 16987,
+      "modified": "2026-06-27T08:37:50",
+      "category": "context"
+    }
+  ],
+  "latest_by_category": {
+    "agent-config": [
+      {
+        "path": ".agents\\tac-tu-quan-ly-thu-muc-du-an.md",
+        "size": 2812,
+        "modified": "2026-06-20T13:27:13",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\tac-tu-xu-ly-anh-seo.md",
+        "size": 5321,
+        "modified": "2026-06-20T13:27:13",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\skills\\google-indexing\\KI_NANG_GOOGLE_INDEXING.md",
+        "size": 3768,
+        "modified": "2026-06-20T13:27:13",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\inspector-agent-ben.md",
+        "size": 0,
+        "modified": "2026-05-10T02:22:39",
+        "category": "agent-config"
+      }
+    ],
+    "content-draft": [
+      {
+        "path": "content-drafts\\blog\\gia-thong-tac-cong-quang-ninh-2026.md",
+        "size": 22262,
+        "modified": "2026-06-27T06:06:53",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\hut-be-phot-ha-long-2026.md",
+        "size": 20532,
+        "modified": "2026-06-27T06:02:44",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\hut-be-phot\\hut-be-phot-hai-ha-rankmath-90.md",
+        "size": 15890,
+        "modified": "2026-06-27T03:11:00",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\thong-tac-cong-quang-ninh-ai-overview-revision-2026-06-21.md",
+        "size": 43071,
+        "modified": "2026-06-27T02:07:49",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\thong-tac-cong\\thong-tac-cong-mong-cai-rankmath-90.md",
+        "size": 29607,
+        "modified": "2026-06-27T01:48:59",
+        "category": "content-draft"
+      }
+    ],
+    "context": [
+      {
+        "path": "CODEX_CONTEXT.md",
+        "size": 16987,
+        "modified": "2026-06-27T08:37:50",
+        "category": "context"
+      },
+      {
+        "path": "AGENTS.md",
+        "size": 19733,
+        "modified": "2026-06-27T08:37:07",
+        "category": "context"
+      }
+    ],
+    "data-output": [
+      {
+        "path": "logs\\uptime_status.json",
+        "size": 84,
+        "modified": "2026-06-27T09:19:48",
+        "category": "data-output"
+      },
+      {
+        "path": "package.json",
+        "size": 523,
+        "modified": "2026-06-27T08:35:00",
+        "category": "data-output"
+      },
+      {
+        "path": "_tmp\\claude-seo\\hooks\\hooks.json",
+        "size": 416,
+        "modified": "2026-06-27T08:29:49",
+        "category": "data-output"
+      },
+      {
+        "path": "_tmp\\claude-seo\\schema\\templates.json",
+        "size": 9457,
+        "modified": "2026-06-27T08:29:49",
+        "category": "data-output"
+      },
+      {
+        "path": "_tmp\\claude-seo\\.claude-plugin\\marketplace.json",
+        "size": 2510,
+        "modified": "2026-06-27T08:29:48",
+        "category": "data-output"
+      }
+    ],
+    "document": [
+      {
+        "path": "claukit-registry.md",
+        "size": 39449,
+        "modified": "2026-06-27T09:15:11",
+        "category": "document"
+      },
+      {
+        "path": "docs\\DESIGN_TOKEN_MAPPING.md",
+        "size": 4451,
+        "modified": "2026-06-27T08:44:12",
+        "category": "document"
+      },
+      {
+        "path": "docs\\TOOLS.md",
+        "size": 2724,
+        "modified": "2026-06-27T08:37:36",
+        "category": "document"
+      },
+      {
+        "path": "docs\\CLAUDE_SEO_TTCQN_INTEGRATION_2026-06-27.md",
+        "size": 7867,
+        "modified": "2026-06-27T08:35:42",
+        "category": "document"
+      },
+      {
+        "path": "_tmp\\claude-seo\\skills\\seo\\LICENSE.txt",
+        "size": 143,
+        "modified": "2026-06-27T08:29:50",
+        "category": "document"
+      }
+    ],
+    "other": [
+      {
+        "path": "logs\\uptime.log",
+        "size": 671304,
+        "modified": "2026-06-27T09:19:48",
+        "category": "other"
+      },
+      {
+        "path": "scratch\\sync_skills.js",
+        "size": 3842,
+        "modified": "2026-06-27T09:18:52",
+        "category": "other"
+      },
+      {
+        "path": ".tmp.driveupload\\212617",
+        "size": 63,
+        "modified": "2026-06-27T09:18:15",
+        "category": "other"
+      },
+      {
+        "path": ".tmp.driveupload\\212621",
+        "size": 183,
+        "modified": "2026-06-27T09:18:15",
+        "category": "other"
+      },
+      {
+        "path": ".tmp.driveupload\\212599",
+        "size": 14745,
+        "modified": "2026-06-27T09:17:42",
+        "category": "other"
+      }
+    ],
+    "report": [
+      {
+        "path": "reports\\claude-seo-readonly-home-20260627T084619\\SUMMARY.md",
+        "size": 3783,
+        "modified": "2026-06-27T08:50:12",
+        "category": "report"
+      },
+      {
+        "path": "reports\\claude-seo-readonly-home-20260627T084619\\pagespeed-mobile.json",
+        "size": 655,
+        "modified": "2026-06-27T08:47:55",
+        "category": "report"
+      },
+      {
+        "path": "reports\\claude-seo-readonly-home-20260627T084619\\parse-home.json",
+        "size": 71874,
+        "modified": "2026-06-27T08:47:41",
+        "category": "report"
+      },
+      {
+        "path": "reports\\claude-seo-readonly-home-20260627T084619\\home-cachebuster.html",
+        "size": 287151,
+        "modified": "2026-06-27T08:47:17",
+        "category": "report"
+      },
+      {
+        "path": "reports\\claude-seo-readonly-home-20260627T084619\\robots.txt",
+        "size": 198,
+        "modified": "2026-06-27T08:47:17",
+        "category": "report"
+      }
+    ],
+    "seo-revision": [
+      {
+        "path": "seo-revisions\\wp-before-hbp-halong-intro-2026-06-26T23-20-36-099Z\\page-52.json",
+        "size": 53567,
+        "modified": "2026-06-27T06:20:36",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-hbp-halong-intro-2026-06-26T23-20-30-075Z\\page-52.json",
+        "size": 53567,
+        "modified": "2026-06-27T06:20:30",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-gia-ttc-fourth-image-2026-06-26T23-06-52-574Z\\post-2787-before.html",
+        "size": 22430,
+        "modified": "2026-06-27T06:06:53",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-gia-ttc-fourth-image-2026-06-26T23-06-52-574Z\\post-2787-before.json",
+        "size": 51112,
+        "modified": "2026-06-27T06:06:53",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-hbp-halong-h1-2026-06-26\\page-52-before-h1-2026-06-26T22-03-11-995Z.json",
+        "size": 53928,
+        "modified": "2026-06-27T05:03:11",
+        "category": "seo-revision"
+      }
+    ],
+    "seo-status": [
+      {
+        "path": "docs\\SEO_PROGRESS.csv",
+        "size": 320313,
+        "modified": "2026-06-27T08:50:32",
+        "category": "seo-status"
+      },
+      {
+        "path": "blogger\\hutbephothalong\\SEO_RULES.md",
+        "size": 3101,
+        "modified": "2026-06-27T02:12:11",
+        "category": "seo-status"
+      },
+      {
+        "path": "docs\\SEO_CHECKLIST.md",
+        "size": 4108,
+        "modified": "2026-06-27T02:08:25",
+        "category": "seo-status"
+      },
+      {
+        "path": "docs\\SEO_RULES.md",
+        "size": 4082,
+        "modified": "2026-06-27T02:08:25",
+        "category": "seo-status"
+      },
+      {
+        "path": "docs\\SEO_WEEK1_ASSIGNMENTS_2026-06-03.md",
+        "size": 6775,
+        "modified": "2026-06-27T02:08:25",
+        "category": "seo-status"
+      }
+    ],
+    "tool-script": [
+      {
+        "path": "tools\\render_home_preview.php",
+        "size": 2676,
+        "modified": "2026-06-27T08:46:18",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\check_design_token_mapping.mjs",
+        "size": 5491,
+        "modified": "2026-06-27T08:43:56",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer\\assets\\ttcqn-shared-footer.css",
+        "size": 25411,
+        "modified": "2026-06-27T08:43:38",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\refine_hbp_halong_intro_2026_06_27.mjs",
+        "size": 8185,
+        "modified": "2026-06-27T06:21:22",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\puppeteer_profile\\Local State",
+        "size": 8980,
+        "modified": "2026-06-27T06:09:46",
+        "category": "tool-script"
+      }
+    ],
+    "wordpress-operation-log": [
+      {
+        "path": "WORDPRESS_DOORWAY_SCHEMA_UPLOAD_2026-05-30.json",
+        "size": 361,
+        "modified": "2026-06-27T05:05:12",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_PUSH_IMAGE_PACKAGE_2026-06-26.json",
+        "size": 1845,
+        "modified": "2026-06-27T03:45:52",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_MCP_SMOKE_2026-06-25.json",
+        "size": 1943,
+        "modified": "2026-06-25T10:25:49",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_PUBLISH_CAM_NANG_HA_LONG_2026-06-24.json",
+        "size": 1584,
+        "modified": "2026-06-24T14:26:49",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_NEWS_SITEMAP_PLUGIN_UPLOAD_2026-06-24T05-03-44Z.json",
+        "size": 955,
+        "modified": "2026-06-24T12:03:44",
+        "category": "wordpress-operation-log"
+      }
+    ]
+  },
+  "important_files": [
+    {
+      "path": "docs\\SEO_PROGRESS.csv",
+      "size": 320313,
+      "modified": "2026-06-27T08:50:32",
+      "category": "seo-status"
+    },
+    {
+      "path": "CODEX_CONTEXT.md",
+      "size": 16987,
+      "modified": "2026-06-27T08:37:50",
+      "category": "context"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 19733,
+      "modified": "2026-06-27T08:37:07",
+      "category": "context"
+    },
+    {
+      "path": "WORDPRESS_DOORWAY_SCHEMA_UPLOAD_2026-05-30.json",
+      "size": 361,
+      "modified": "2026-06-27T05:05:12",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_PUSH_IMAGE_PACKAGE_2026-06-26.json",
+      "size": 1845,
+      "modified": "2026-06-27T03:45:52",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "blogger\\hutbephothalong\\SEO_RULES.md",
+      "size": 3101,
+      "modified": "2026-06-27T02:12:11",
+      "category": "seo-status"
+    },
+    {
+      "path": "docs\\SEO_CHECKLIST.md",
+      "size": 4108,
+      "modified": "2026-06-27T02:08:25",
+      "category": "seo-status"
+    },
+    {
+      "path": "docs\\SEO_RULES.md",
+      "size": 4082,
+      "modified": "2026-06-27T02:08:25",
+      "category": "seo-status"
+    },
+    {
+      "path": "docs\\SEO_WEEK1_ASSIGNMENTS_2026-06-03.md",
+      "size": 6775,
+      "modified": "2026-06-27T02:08:25",
+      "category": "seo-status"
+    },
+    {
+      "path": "docs\\SEO_WEEK1_REVIEW_GATE_2026-06-03.md",
+      "size": 3529,
+      "modified": "2026-06-27T02:08:25",
+      "category": "seo-status"
+    },
+    {
+      "path": "SEO_RULES.md",
+      "size": 979,
+      "modified": "2026-06-27T02:08:24",
+      "category": "seo-status"
+    },
+    {
+      "path": "backups\\remove-all-ban-rules-2026-06-27\\docs\\SEO_CHECKLIST.md",
+      "size": 5158,
+      "modified": "2026-06-27T02:06:14",
+      "category": "seo-status"
+    },
+    {
+      "path": "backups\\remove-all-ban-rules-2026-06-27\\docs\\SEO_RULES.md",
+      "size": 5678,
+      "modified": "2026-06-27T02:06:14",
+      "category": "seo-status"
+    },
+    {
+      "path": "backups\\remove-all-ban-rules-2026-06-27\\docs\\SEO_WEEK1_ASSIGNMENTS_2026-06-03.md",
+      "size": 8197,
+      "modified": "2026-06-27T02:06:14",
+      "category": "seo-status"
+    },
+    {
+      "path": "backups\\remove-all-ban-rules-2026-06-27\\docs\\SEO_WEEK1_REVIEW_GATE_2026-06-03.md",
+      "size": 4367,
+      "modified": "2026-06-27T02:06:14",
+      "category": "seo-status"
+    },
+    {
+      "path": "backups\\remove-all-ban-rules-2026-06-27\\blogger\\hutbephothalong\\SEO_RULES.md",
+      "size": 6762,
+      "modified": "2026-06-27T02:06:14",
+      "category": "seo-status"
+    },
+    {
+      "path": "backups\\remove-all-ban-rules-2026-06-27\\SEO_RULES.md",
+      "size": 3167,
+      "modified": "2026-06-27T02:04:31",
+      "category": "seo-status"
+    },
+    {
+      "path": "SEO_GOOGLE_INDEX_2026-06-26.json",
+      "size": 6237,
+      "modified": "2026-06-27T01:00:06",
+      "category": "seo-status"
+    },
+    {
+      "path": "SEO_GOOGLE_INDEX_2026-06-25.json",
+      "size": 6237,
+      "modified": "2026-06-26T01:00:06",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_MCP_SMOKE_2026-06-25.json",
+      "size": 1943,
+      "modified": "2026-06-25T10:25:49",
+      "category": "wordpress-operation-log"
+    }
+  ],
+  "large_files": [
+    {
+      "path": ".tmp.driveupload\\187627",
+      "size": 6524757,
+      "modified": "2026-06-27T08:29:48",
+      "category": "other"
+    },
+    {
+      "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer.zip",
+      "size": 14793797,
+      "modified": "2026-06-20T18:43:40",
+      "category": "tool-script"
+    },
+    {
+      "path": "backups\\home-renderer-alt-icons-20260617-001132\\ttcqn-home-emergency-renderer.zip",
+      "size": 14793459,
+      "modified": "2026-06-14T09:36:04",
+      "category": "other"
+    },
+    {
+      "path": "scratch\\ttcqn-home-emergency-renderer.zip",
+      "size": 14707734,
+      "modified": "2026-06-10T18:39:57",
+      "category": "other"
+    },
+    {
+      "path": ".google\\01-youtube\\.youtube\\.uv-cache\\archive-v0\\hbs7HItjlXskEFZ-_tN3N\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": ".google\\01-youtube\\.youtube\\03-youtube-api-tool\\.venv-win\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": "blogger\\hutbephothalong\\.google\\01-youtube\\.youtube\\.uv-cache\\archive-v0\\hbs7HItjlXskEFZ-_tN3N\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": "blogger\\hutbephothalong\\.google\\01-youtube\\.youtube\\03-youtube-api-tool\\.venv-win\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": "landing-hut-be-phot-quang-ninh\\.google\\01-youtube\\.youtube\\.uv-cache\\archive-v0\\hbs7HItjlXskEFZ-_tN3N\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": "landing-hut-be-phot-quang-ninh\\.google\\01-youtube\\.youtube\\03-youtube-api-tool\\.venv-win\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": "tools\\.google\\01-youtube\\.youtube\\.uv-cache\\archive-v0\\hbs7HItjlXskEFZ-_tN3N\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\.google\\01-youtube\\.youtube\\03-youtube-api-tool\\.venv-win\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "tool-script"
+    },
+    {
+      "path": "video-remotion\\.google\\01-youtube\\.youtube\\.uv-cache\\archive-v0\\hbs7HItjlXskEFZ-_tN3N\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": "video-remotion\\.google\\01-youtube\\.youtube\\03-youtube-api-tool\\.venv-win\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd",
+      "size": 9903104,
+      "modified": "2026-06-10T03:35:15",
+      "category": "other"
+    },
+    {
+      "path": ".google\\01-youtube\\.youtube\\.uv-python\\cpython-3.14-windows-x86_64-none\\python314.dll",
+      "size": 6568960,
+      "modified": "2026-06-10T03:34:12",
+      "category": "other"
+    },
+    {
+      "path": ".google\\01-youtube\\.youtube\\.uv-python\\cpython-3.14.4-windows-x86_64-none\\python314.dll",
+      "size": 6568960,
+      "modified": "2026-06-10T03:34:12",
+      "category": "other"
+    },
+    {
+      "path": "blogger\\hutbephothalong\\.google\\01-youtube\\.youtube\\.uv-python\\cpython-3.14-windows-x86_64-none\\python314.dll",
+      "size": 6568960,
+      "modified": "2026-06-10T03:34:12",
+      "category": "other"
+    },
+    {
+      "path": "blogger\\hutbephothalong\\.google\\01-youtube\\.youtube\\.uv-python\\cpython-3.14.4-windows-x86_64-none\\python314.dll",
+      "size": 6568960,
+      "modified": "2026-06-10T03:34:12",
+      "category": "other"
+    },
+    {
+      "path": "landing-hut-be-phot-quang-ninh\\.google\\01-youtube\\.youtube\\.uv-python\\cpython-3.14-windows-x86_64-none\\python314.dll",
+      "size": 6568960,
+      "modified": "2026-06-10T03:34:12",
+      "category": "other"
+    },
+    {
+      "path": "landing-hut-be-phot-quang-ninh\\.google\\01-youtube\\.youtube\\.uv-python\\cpython-3.14.4-windows-x86_64-none\\python314.dll",
+      "size": 6568960,
+      "modified": "2026-06-10T03:34:12",
+      "category": "other"
+    }
+  ],
+  "recommendations": [
+    "Giữ `AGENTS.md` và `CODEX_CONTEXT.md` làm nguồn quy tắc vận hành.",
+    "Không dọn `WORDPRESS_*.json` hoặc report live nếu chưa đối chiếu task liên quan.",
+    "Khi cần dọn thật, tạo danh sách move-plan trước rồi chờ Tuyền duyệt.",
+    "Thư mục `reports` có nhiều file; nên gom theo tháng sau khi tạo danh sách duyệt.",
+    "Thư mục `content-drafts` có nhiều draft; nên ưu tiên phân loại `đã live`, `chờ duyệt`, `cần sửa`.",
+    "Có file lớn; chỉ nén/chuyển sau khi kiểm tra không phải bằng chứng audit đang dùng.",
+    "Thư mục `tools` có nhiều script; nên ghi script nào là read-only, script nào có thể sửa live."
+  ]
+}

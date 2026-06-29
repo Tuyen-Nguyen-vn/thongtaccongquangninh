@@ -1,0 +1,2608 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-07T18:44:11+0700",
+  "mode": "fix",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 42,
+  "pagesWithIssues": 0,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 50,
+  "fixes": [
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+      "id": 430,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-mong-cai-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-mong-cai-1.webp",
+          "file": "thong-tac-bon-cau-mong-cai-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-mong-cai-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-mong-cai-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-mong-cai-1.webp",
+          "fileSizeKb": 70.0,
+          "quality": 82,
+          "dhash": 14083170795854919788
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+      "id": 429,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-dong-trieu-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-dong-trieu-1.webp",
+          "file": "thong-tac-bon-cau-dong-trieu-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-dong-trieu-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-dong-trieu-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-dong-trieu-1.webp",
+          "fileSizeKb": 68.1,
+          "quality": 82,
+          "dhash": 2031511987297706317
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "id": 428,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-yen-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-quang-yen-1.webp",
+          "file": "thong-tac-bon-cau-quang-yen-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-quang-yen-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-quang-yen-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-quang-yen-1.webp",
+          "fileSizeKb": 73.0,
+          "quality": 82,
+          "dhash": 14371964121962018926
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-yen-thong-tac-bon-cau-khong-duc-pha-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-yen-may-lo-xo-xu-ly-bon-cau-nghet-khong-duc-pha-tai-quang-yen-2.webp",
+          "file": "thong-tac-bon-cau-quang-yen-may-lo-xo-xu-ly-bon-cau-nghet-khong-duc-pha-tai-quang-yen-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-quang-yen-may-lo-xo-xu-ly-bon-cau-nghet-khong-duc-pha-tai-quang-yen-2.webp",
+          "fileSizeKb": 80.7,
+          "quality": 82,
+          "dhash": 15670401833330484282
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-yen-kiem-tra-bon-cau-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-yen-xa-thu-bon-cau-sau-xu-ly-tai-quang-yen-3.webp",
+          "file": "thong-tac-bon-cau-quang-yen-xa-thu-bon-cau-sau-xu-ly-tai-quang-yen-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-quang-yen-xa-thu-bon-cau-sau-xu-ly-tai-quang-yen-3.webp",
+          "fileSizeKb": 63.4,
+          "quality": 82,
+          "dhash": 14944458418453449118
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "id": 58,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-van-don-xe-bon-hut-be-phot-tai-nha-dan-o-van-don-1.webp",
+          "file": "hut-be-phot-van-don-xe-bon-hut-be-phot-tai-nha-dan-o-van-don-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-van-don-xe-bon-hut-be-phot-tai-nha-dan-o-van-don-1.webp",
+          "fileSizeKb": 80.9,
+          "quality": 82,
+          "dhash": 10972742199295109346
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "id": 55,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-mong-cai-xe-bon-hut-be-phot-tai-nha-dan-o-mong-cai-1.webp",
+          "file": "hut-be-phot-mong-cai-xe-bon-hut-be-phot-tai-nha-dan-o-mong-cai-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-mong-cai-xe-bon-hut-be-phot-tai-nha-dan-o-mong-cai-1.webp",
+          "fileSizeKb": 70.2,
+          "quality": 82,
+          "dhash": 16612827745426733246
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "id": 56,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-dong-trieu-xe-bon-hut-be-phot-tai-nha-dan-o-dong-trieu-1.webp",
+          "file": "hut-be-phot-dong-trieu-xe-bon-hut-be-phot-tai-nha-dan-o-dong-trieu-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-dong-trieu-xe-bon-hut-be-phot-tai-nha-dan-o-dong-trieu-1.webp",
+          "fileSizeKb": 73.8,
+          "quality": 82,
+          "dhash": 11008634657132044482
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-dong-trieu-xe-bon-hut-be-phot-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-dong-trieu-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-dong-trieu-2.webp",
+          "file": "hut-be-phot-dong-trieu-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-dong-trieu-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-dong-trieu-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-dong-trieu-2.webp",
+          "fileSizeKb": 131.2,
+          "quality": 82,
+          "dhash": 4098395298888481574
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "id": 57,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-quang-yen-xe-bon-hut-be-phot-tai-nha-dan-o-quang-yen-1.webp",
+          "file": "hut-be-phot-quang-yen-xe-bon-hut-be-phot-tai-nha-dan-o-quang-yen-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-quang-yen-xe-bon-hut-be-phot-tai-nha-dan-o-quang-yen-1.webp",
+          "fileSizeKb": 81.2,
+          "quality": 82,
+          "dhash": 10972742199295109346
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+      "id": 426,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-mong-cai-tho-thong-tac-cong-tai-nha-dan-o-mong-cai-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-mong-cai-tho-thong-tac-cong-tai-nha-dan-o-mong-cai-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-mong-cai-tho-thong-tac-cong-tai-nha-dan-o-mong-cai-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 95.2,
+          "quality": 82,
+          "dhash": 877411602152429174
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+      "id": 425,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-dong-trieu-tho-thong-tac-cong-tai-nha-dan-o-dong-trieu-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-dong-trieu-tho-thong-tac-cong-tai-nha-dan-o-dong-trieu-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-dong-trieu-tho-thong-tac-cong-tai-nha-dan-o-dong-trieu-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 103.3,
+          "quality": 82,
+          "dhash": 14865102346610264051
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "id": 424,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-quang-yen-tho-thong-tac-cong-tai-nha-dan-o-quang-yen-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-quang-yen-tho-thong-tac-cong-tai-nha-dan-o-quang-yen-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-quang-yen-tho-thong-tac-cong-tai-nha-dan-o-quang-yen-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 99.9,
+          "quality": 82,
+          "dhash": 9802420168005656182
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "id": 405,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-uong-bi-tho-thong-tac-cong-tai-nha-dan-o-uong-bi-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-uong-bi-tho-thong-tac-cong-tai-nha-dan-o-uong-bi-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-uong-bi-tho-thong-tac-cong-tai-nha-dan-o-uong-bi-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 92.3,
+          "quality": 82,
+          "dhash": 14865102346612361171
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-uong-bi-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-uong-bi-2.webp",
+          "file": "thong-tac-cong-uong-bi-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-uong-bi-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-uong-bi-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-uong-bi-2.webp",
+          "fileSizeKb": 158.3,
+          "quality": 82,
+          "dhash": 12867598239633896138
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-uong-bi-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-uong-bi-3.webp",
+          "file": "thong-tac-cong-uong-bi-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-uong-bi-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-uong-bi-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-uong-bi-3.webp",
+          "fileSizeKb": 179.1,
+          "quality": 82,
+          "dhash": 5969422124844120286
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+      "id": 400,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cam-pha-tho-thong-tac-cong-tai-nha-dan-o-cam-pha-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-cam-pha-tho-thong-tac-cong-tai-nha-dan-o-cam-pha-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-cam-pha-tho-thong-tac-cong-tai-nha-dan-o-cam-pha-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 97.6,
+          "quality": 82,
+          "dhash": 9802420168005394038
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-cam-pha-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-cam-pha-2.webp",
+          "file": "thong-tac-cong-cam-pha-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-cam-pha-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-cam-pha-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-cam-pha-2.webp",
+          "fileSizeKb": 186.1,
+          "quality": 82,
+          "dhash": 13048170759605903558
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+      "id": 398,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-ha-long-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-ha-long-1.webp",
+          "file": "thong-tac-bon-cau-ha-long-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-ha-long-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-ha-long-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-ha-long-1.webp",
+          "fileSizeKb": 97.0,
+          "quality": 82,
+          "dhash": 877411602152429206
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+      "id": 386,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nguyen-nhan-cong-tac-thuong-xuyen-ha-long-kiem-tra-ho-ga-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nguyen-nhan-cong-tac-thuong-xuyen-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "file": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/nguyen-nhan-cong-tac-thuong-xuyen-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 224.3,
+          "quality": 82,
+          "dhash": 12879970893655486700
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "id": 384,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngo-nho-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-ngo-nho-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-ngo-nho-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 91.6,
+          "quality": 82,
+          "dhash": 579048131150618230
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngo-nho-ha-long-may-lo-xo-thong-cong-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngo-nho-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "file": "thong-tac-cong-ngo-nho-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-ngo-nho-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "fileSizeKb": 146.7,
+          "quality": 82,
+          "dhash": 12974987267271581906
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngo-nho-ha-long-may-lo-xo-trong-nha-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngo-nho-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "file": "thong-tac-cong-ngo-nho-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-ngo-nho-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "fileSizeKb": 122.7,
+          "quality": 82,
+          "dhash": 8626324930270711750
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "id": 383,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-nha-hang-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 91.6,
+          "quality": 82,
+          "dhash": 579048131150618230
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-nha-hang-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "file": "thong-tac-cong-nha-hang-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-nha-hang-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "fileSizeKb": 120.7,
+          "quality": 82,
+          "dhash": 405003237302521044
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "id": 380,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chung-cu-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-chung-cu-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-chung-cu-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 98.6,
+          "quality": 82,
+          "dhash": 579048131150618198
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chung-cu-ha-long-thong-cong-duong-ong-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chung-cu-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "file": "thong-tac-cong-chung-cu-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-chung-cu-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "fileSizeKb": 112.8,
+          "quality": 82,
+          "dhash": 10362448262906102159
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chung-cu-ha-long-thong-cong-san-bep-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-chung-cu-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "file": "thong-tac-cong-chung-cu-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-chung-cu-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "fileSizeKb": 105.5,
+          "quality": 82,
+          "dhash": 5284752224886670310
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "id": 311,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xu-ly-mui-hoi-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "xu-ly-mui-hoi-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/xu-ly-mui-hoi-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 112.8,
+          "quality": 82,
+          "dhash": 3540436685559989862
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xu-ly-mui-hoi-quang-ninh-thong-cong-ho-ga-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xu-ly-mui-hoi-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "xu-ly-mui-hoi-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/xu-ly-mui-hoi-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 162.1,
+          "quality": 82,
+          "dhash": 7629374312685382508
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xu-ly-mui-hoi-quang-ninh-cuon-day-thong-cong-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xu-ly-mui-hoi-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "xu-ly-mui-hoi-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/xu-ly-mui-hoi-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 117.6,
+          "quality": 82,
+          "dhash": 5316152798290497396
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "id": 296,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-ha-long-tho-thong-tac-cong-tai-nha-dan-o-ha-long-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 100.2,
+          "quality": 82,
+          "dhash": 9802420168005394038
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "file": "thong-tac-cong-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-ha-long-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-ha-long-2.webp",
+          "fileSizeKb": 190.2,
+          "quality": 82,
+          "dhash": 13048170759605903558
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "file": "thong-tac-cong-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-ha-long-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-ha-long-3.webp",
+          "fileSizeKb": 146.4,
+          "quality": 82,
+          "dhash": 12879974741941990124
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "id": 282,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-mat-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "chinh-sach-bao-mat-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/chinh-sach-bao-mat-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 102.3,
+          "quality": 82,
+          "dhash": 8771864123659165437
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-mat-kiem-tra-ho-ga-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-mat-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "chinh-sach-bao-mat-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/chinh-sach-bao-mat-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 213.0,
+          "quality": 82,
+          "dhash": 12879970893655487212
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-mat-may-lo-xo-thong-cong-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-mat-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "chinh-sach-bao-mat-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/chinh-sach-bao-mat-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 145.2,
+          "quality": 82,
+          "dhash": 12974987267271581938
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+      "id": 166,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-toilet-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-toilet-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-toilet-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 104.8,
+          "quality": 82,
+          "dhash": 8771864123659165437
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-toilet-quang-ninh-may-lo-xo-bon-cau-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-toilet-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "thong-tac-toilet-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-toilet-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 75.6,
+          "quality": 82,
+          "dhash": 12744282375575450471
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-toilet-quang-ninh-thong-bon-cau-nha-ve-sinh-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-toilet-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "thong-tac-toilet-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-toilet-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 78.8,
+          "quality": 82,
+          "dhash": 11802802078610082232
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+      "id": 64,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-hanh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "chinh-sach-bao-hanh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/chinh-sach-bao-hanh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 104.9,
+          "quality": 82,
+          "dhash": 8339377753240786685
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-hanh-may-lo-xo-trong-nha-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-hanh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "chinh-sach-bao-hanh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/chinh-sach-bao-hanh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 116.6,
+          "quality": 82,
+          "dhash": 8628567929696406982
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-hanh-thong-cong-duong-ong-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/chinh-sach-bao-hanh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "chinh-sach-bao-hanh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/chinh-sach-bao-hanh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 119.2,
+          "quality": 82,
+          "dhash": 11515368668001321902
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/lien-he/",
+      "id": 63,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/lien-he-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "lien-he-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/lien-he-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 111.6,
+          "quality": 82,
+          "dhash": 3540436685559989862
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/lien-he-thong-cong-san-bep-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/lien-he-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "lien-he-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/lien-he-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 111.6,
+          "quality": 82,
+          "dhash": 7860351021648002458
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/lien-he-thong-cong-ho-ga-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/lien-he-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "lien-he-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/lien-he-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 157.5,
+          "quality": 82,
+          "dhash": 16816699135702477604
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "id": 62,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/gioi-thieu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 111.6,
+          "quality": 82,
+          "dhash": 3540436685559989862
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/bang-gia/",
+      "id": 61,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-keo-ong-hut-be-phot-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "file": "bang-gia-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/bang-gia-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "fileSizeKb": 96.9,
+          "quality": 82,
+          "dhash": 1428605401140925346
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "file": "bang-gia-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/bang-gia-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "fileSizeKb": 70.6,
+          "quality": 82,
+          "dhash": 11008634656863609026
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+      "id": 59,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-hoanh-bo-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "file": "hut-be-phot-hoanh-bo-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-hoanh-bo-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "fileSizeKb": 73.4,
+          "quality": 82,
+          "dhash": 16612827745426733242
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-hoanh-bo-xe-bon-ho-ga-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-hoanh-bo-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "file": "hut-be-phot-hoanh-bo-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-hoanh-bo-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "fileSizeKb": 165.0,
+          "quality": 82,
+          "dhash": 16413752137127355343
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-hoanh-bo-hut-be-phot-ho-ga-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-hoanh-bo-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "file": "hut-be-phot-hoanh-bo-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-hoanh-bo-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "fileSizeKb": 138.1,
+          "quality": 82,
+          "dhash": 2669682454824811362
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "id": 54,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-uong-bi-xe-bon-hut-be-phot-tai-nha-dan-o-uong-bi-1.webp",
+          "file": "hut-be-phot-uong-bi-xe-bon-hut-be-phot-tai-nha-dan-o-uong-bi-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-uong-bi-xe-bon-hut-be-phot-tai-nha-dan-o-uong-bi-1.webp",
+          "fileSizeKb": 76.8,
+          "quality": 82,
+          "dhash": 10972742199295109314
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "id": 53,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-cam-pha-xe-bon-hut-be-phot-tai-nha-dan-o-cam-pha-1.webp",
+          "file": "hut-be-phot-cam-pha-xe-bon-hut-be-phot-tai-nha-dan-o-cam-pha-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-cam-pha-xe-bon-hut-be-phot-tai-nha-dan-o-cam-pha-1.webp",
+          "fileSizeKb": 81.4,
+          "quality": 82,
+          "dhash": 16581584057369487550
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-nha-may-quang-yen-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-cam-pha-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-cam-pha-2.webp",
+          "file": "hut-be-phot-cam-pha-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-cam-pha-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-cam-pha-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-cam-pha-2.webp",
+          "fileSizeKb": 156.3,
+          "quality": 82,
+          "dhash": 5637511075627534027
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-nha-dan-uong-bi-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-cam-pha-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-cam-pha-3.webp",
+          "file": "hut-be-phot-cam-pha-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-cam-pha-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-cam-pha-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-cam-pha-3.webp",
+          "fileSizeKb": 111.1,
+          "quality": 82,
+          "dhash": 581739818717897064
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "id": 52,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-xe-hut-be-phot-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-ha-long-xe-bon-hut-be-phot-tai-nha-dan-o-ha-long-1.webp",
+          "file": "hut-be-phot-ha-long-xe-bon-hut-be-phot-tai-nha-dan-o-ha-long-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-ha-long-xe-bon-hut-be-phot-tai-nha-dan-o-ha-long-1.webp",
+          "fileSizeKb": 86.2,
+          "quality": 82,
+          "dhash": 630938112444838398
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-ha-long-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-ha-long-2.webp",
+          "file": "hut-be-phot-ha-long-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-ha-long-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-ha-long-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-ha-long-2.webp",
+          "fileSizeKb": 75.8,
+          "quality": 82,
+          "dhash": 10972882936774845122
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "id": 38,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xe-hut-be-phot-khu-cong-nghiep-quang-yen.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-quang-ninh-nao-vet-ho-ga-dan-dung-tai-quang-ninh-1.webp",
+          "file": "nao-vet-ho-ga-quang-ninh-nao-vet-ho-ga-dan-dung-tai-quang-ninh-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/nao-vet-ho-ga-quang-ninh-nao-vet-ho-ga-dan-dung-tai-quang-ninh-1.webp",
+          "fileSizeKb": 176.4,
+          "quality": 82,
+          "dhash": 10045081777435257759
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-quang-ninh-mo-nap-ho-ga-va-hut-bun-lang-tai-quang-ninh-2.webp",
+          "file": "nao-vet-ho-ga-quang-ninh-mo-nap-ho-ga-va-hut-bun-lang-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/nao-vet-ho-ga-quang-ninh-mo-nap-ho-ga-va-hut-bun-lang-tai-quang-ninh-2.webp",
+          "fileSizeKb": 117.1,
+          "quality": 82,
+          "dhash": 8339518490733371099
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/dich-vu-moi-truong-nha-may-quang-yen-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nao-vet-ho-ga-quang-ninh-kiem-tra-dong-chay-sau-nao-vet-ho-ga-tai-quang-ninh-3.webp",
+          "file": "nao-vet-ho-ga-quang-ninh-kiem-tra-dong-chay-sau-nao-vet-ho-ga-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/nao-vet-ho-ga-quang-ninh-kiem-tra-dong-chay-sau-nao-vet-ho-ga-tai-quang-ninh-3.webp",
+          "fileSizeKb": 66.4,
+          "quality": 82,
+          "dhash": 9032911803301156584
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "id": 37,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-ha-long-bang-may-lo-xo.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-quang-ninh-1.webp",
+          "file": "thong-tac-bon-cau-quang-ninh-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-quang-ninh-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-quang-ninh-tho-thong-tac-bon-cau-tai-nha-ve-sinh-o-quang-ninh-1.webp",
+          "fileSizeKb": 85.1,
+          "quality": 82,
+          "dhash": 17493788880161288914
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-may-lo-xo-xu-ly-bon-cau-nghet-khong-duc-pha-tai-quang-ninh-2.webp",
+          "file": "thong-tac-bon-cau-quang-ninh-may-lo-xo-xu-ly-bon-cau-nghet-khong-duc-pha-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-quang-ninh-may-lo-xo-xu-ly-bon-cau-nghet-khong-duc-pha-tai-quang-ninh-2.webp",
+          "fileSizeKb": 71.5,
+          "quality": 82,
+          "dhash": 878590482690826605
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-xa-thu-bon-cau-sau-xu-ly-tai-quang-ninh-3.webp",
+          "file": "thong-tac-bon-cau-quang-ninh-xa-thu-bon-cau-sau-xu-ly-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-bon-cau-quang-ninh-xa-thu-bon-cau-sau-xu-ly-tai-quang-ninh-3.webp",
+          "fileSizeKb": 86.4,
+          "quality": 82,
+          "dhash": 12943804584321626140
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "id": 36,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-chau-rua-bep-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-chau-rua-quang-ninh-tho-xu-ly-ong-thoat-chau-rua-duoi-tu-bep-tai-quang-ninh-1.webp",
+          "file": "thong-tac-chau-rua-quang-ninh-tho-xu-ly-ong-thoat-chau-rua-duoi-tu-bep-tai-quang-ninh-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-chau-rua-quang-ninh-tho-xu-ly-ong-thoat-chau-rua-duoi-tu-bep-tai-quang-ninh-1.webp",
+          "fileSizeKb": 69.3,
+          "quality": 82,
+          "dhash": 16059406245735687151
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-chau-rua-quang-ninh-kiem-tra-siphon-va-duong-ong-bon-rua-tai-quang-ninh-2.webp",
+          "file": "thong-tac-chau-rua-quang-ninh-kiem-tra-siphon-va-duong-ong-bon-rua-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-chau-rua-quang-ninh-kiem-tra-siphon-va-duong-ong-bon-rua-tai-quang-ninh-2.webp",
+          "fileSizeKb": 104.4,
+          "quality": 82,
+          "dhash": 8771864123659179773
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-chau-rua-quang-ninh-xu-ly-mang-bam-dau-mo-chau-rua-tai-quang-ninh-3.webp",
+          "file": "thong-tac-chau-rua-quang-ninh-xu-ly-mang-bam-dau-mo-chau-rua-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-chau-rua-quang-ninh-xu-ly-mang-bam-dau-mo-chau-rua-tai-quang-ninh-3.webp",
+          "fileSizeKb": 87.6,
+          "quality": 82,
+          "dhash": 3617088633535132647
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "id": 35,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "thong-tac-cong-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-quang-ninh-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 97.8,
+          "quality": 82,
+          "dhash": 17253065267963480051
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "thong-tac-cong-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-quang-ninh-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 186.3,
+          "quality": 82,
+          "dhash": 5969422124844120286
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "thong-tac-cong-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/thong-tac-cong-quang-ninh-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 124.4,
+          "quality": 82,
+          "dhash": 5316152798290497524
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "id": 26,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-quang-ninh-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "file": "hut-be-phot-quang-ninh-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-quang-ninh-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "fileSizeKb": 81.6,
+          "quality": 82,
+          "dhash": 10972746597341620418
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-nha-dan-uong-bi-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-quang-ninh-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "file": "hut-be-phot-quang-ninh-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-quang-ninh-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "fileSizeKb": 115.0,
+          "quality": 82,
+          "dhash": 5600082021309839849
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-nha-dan-quang-ninh-mo-nap-be.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-quang-ninh-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "file": "hut-be-phot-quang-ninh-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/hut-be-phot-quang-ninh-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "fileSizeKb": 97.1,
+          "quality": 82,
+          "dhash": 9148627119515466216
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/blog/",
+      "id": 25,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/blog-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "blog-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/blog-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 106.7,
+          "quality": 82,
+          "dhash": 2387515215312881248
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/blog-cuon-day-thong-cong-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/blog-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "blog-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/blog-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 118.6,
+          "quality": 82,
+          "dhash": 5316152798290497236
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/blog-kiem-tra-ho-ga-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/blog-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "blog-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/blog-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 208.8,
+          "quality": 82,
+          "dhash": 12871961106067944138
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/",
+      "id": 23,
+      "type": "pages",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-xe-hut-be-phot-ha-long-quang-ninh.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/trang-chu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "trang-chu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/trang-chu-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 85.3,
+          "quality": 82,
+          "dhash": 14300246599641494192
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/trang-chu-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "trang-chu-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/trang-chu-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 106.2,
+          "quality": 82,
+          "dhash": 2387515215312885344
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/trang-chu-may-lo-xo-thong-cong-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/trang-chu-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "trang-chu-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/trang-chu-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 152.6,
+          "quality": 82,
+          "dhash": 4815445227574720930
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+      "id": 217,
+      "type": "posts",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-quang-ninh-2026-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "file": "bang-gia-hut-be-phot-quang-ninh-2026-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/bang-gia-hut-be-phot-quang-ninh-2026-xe-bon-hut-be-phot-tai-nha-dan-o-quang-ninh-1.webp",
+          "fileSizeKb": 110.1,
+          "quality": 82,
+          "dhash": 3540436719919728226
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-quang-ninh-2026-xe-bon-moi-truong-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-quang-ninh-2026-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "file": "bang-gia-hut-be-phot-quang-ninh-2026-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/bang-gia-hut-be-phot-quang-ninh-2026-tho-keo-ong-hut-be-phot-vao-ngo-sau-tai-quang-ninh-2.webp",
+          "fileSizeKb": 121.3,
+          "quality": 82,
+          "dhash": 3123611707947905766
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-quang-ninh-2026-xe-bon-khu-cong-nghiep-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/bang-gia-hut-be-phot-quang-ninh-2026-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "file": "bang-gia-hut-be-phot-quang-ninh-2026-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/bang-gia-hut-be-phot-quang-ninh-2026-mo-nap-be-phot-hoac-ho-ga-truoc-khi-hut-tai-quang-ninh-3.webp",
+          "fileSizeKb": 167.3,
+          "quality": 82,
+          "dhash": 2179298516643884243
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "id": 216,
+      "type": "posts",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/cach-xu-ly-cong-thoat-nuoc-tac-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "cach-xu-ly-cong-thoat-nuoc-tac-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/cach-xu-ly-cong-thoat-nuoc-tac-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 105.5,
+          "quality": 82,
+          "dhash": 8339377753240819453
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/cach-xu-ly-cong-thoat-nuoc-tac-may-lo-xo-trong-nha-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/cach-xu-ly-cong-thoat-nuoc-tac-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "cach-xu-ly-cong-thoat-nuoc-tac-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/cach-xu-ly-cong-thoat-nuoc-tac-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 117.8,
+          "quality": 82,
+          "dhash": 8628567929696406982
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/cach-xu-ly-cong-thoat-nuoc-tac-thong-cong-duong-ong-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/cach-xu-ly-cong-thoat-nuoc-tac-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "cach-xu-ly-cong-thoat-nuoc-tac-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/cach-xu-ly-cong-thoat-nuoc-tac-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 111.9,
+          "quality": 82,
+          "dhash": 11515368668001321903
+        }
+      ]
+    },
+    {
+      "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+      "id": 215,
+      "type": "posts",
+      "fixes": [
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/dau-hieu-be-phot-can-hut-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "file": "dau-hieu-be-phot-can-hut-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/dau-hieu-be-phot-can-hut-tho-thong-tac-cong-tai-nha-dan-o-quang-ninh-bang-may-lo-xo-1.webp",
+          "fileSizeKb": 114.0,
+          "quality": 82,
+          "dhash": 3540436685559989862
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/dau-hieu-be-phot-can-hut-doi-xe-hut-be-phot-2.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/dau-hieu-be-phot-can-hut-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "file": "dau-hieu-be-phot-can-hut-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/dau-hieu-be-phot-can-hut-kiem-tra-ho-ga-va-duong-ong-thoat-nuoc-tai-quang-ninh-2.webp",
+          "fileSizeKb": 64.1,
+          "quality": 82,
+          "dhash": 150106760049250
+        },
+        {
+          "old": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/dau-hieu-be-phot-can-hut-xe-bon-hut-be-phot-3.webp",
+          "new": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/dau-hieu-be-phot-can-hut-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "file": "dau-hieu-be-phot-can-hut-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "output": "/mnt/d/.thongtaccongquangninh/_tmp/unique-image-variants-2026-05-07T18-36-25/dau-hieu-be-phot-can-hut-xu-ly-cong-bep-dau-mo-cho-nha-hang-quan-an-tai-quang-ninh-3.webp",
+          "fileSizeKb": 130.2,
+          "quality": 82,
+          "dhash": 4098395298888481574
+        }
+      ]
+    }
+  ],
+  "issues": [],
+  "globalReuse": [
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg",
+      "pageCount": 14,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+          "title": "Xử Lý Mùi Hôi Nhà Vệ Sinh Quảng Ninh Triệt Để Cống Trào",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+          "title": "Chính sách bảo mật 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+          "title": "Thông Tắc Toilet Quảng Ninh Bằng Công Nghệ Mới",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+          "title": "Chính sách bảo hành 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/lien-he/",
+          "title": "Liên hệ 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+          "title": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+          "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+          "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/",
+          "title": "Trang chủ 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+          "title": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026: Cập Nhật Mới Nhất",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+          "title": "Cách xử lý cống thoát nước tắc 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+          "title": "Dấu hiệu bể phốt cần hút 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "cb0ecece3feac70d6511ed9c7f17dff40e5cee7aa4468f34d2f343f14abf8dc0",
+      "pageCount": 14,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+          "title": "Xử Lý Mùi Hôi Nhà Vệ Sinh Quảng Ninh Triệt Để Cống Trào",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+          "title": "Chính sách bảo mật 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+          "title": "Thông Tắc Toilet Quảng Ninh Bằng Công Nghệ Mới",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+          "title": "Chính sách bảo hành 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/lien-he/",
+          "title": "Liên hệ 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+          "title": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+          "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+          "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/",
+          "title": "Trang chủ 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+          "title": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026: Cập Nhật Mới Nhất",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+          "title": "Cách xử lý cống thoát nước tắc 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+          "title": "Dấu hiệu bể phốt cần hút 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "og-ve-sinh-moi-truong-quang-ninh-phuc-vu-24-7.jpg"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "pageCount": 12,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+          "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+          "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+          "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+          "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+          "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+          "title": "Thông Tắc Bồn Cầu Hạ Long: Xử Lý Ngay Sự Cố Nhà Vệ Sinh Khách Sạn",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+          "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+          "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+          "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+          "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "c8563ddd89b22a654c250d773b7b5acfcf16f98d6d38f2082ea575781eddf1dc",
+      "pageCount": 12,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+          "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+          "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+          "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+          "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+          "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+          "title": "Thông Tắc Bồn Cầu Hạ Long: Xử Lý Ngay Sự Cố Nhà Vệ Sinh Khách Sạn",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+          "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+          "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+          "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+          "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp",
+      "pageCount": 11,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+          "title": "Hút bể phốt Bãi Cháy 24/7, xe bồn có mặt nhanh",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+          "title": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+          "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+          "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 1,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bang-gia/",
+          "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+          "index": 2,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+          "title": "Hút bể phốt Hoành Bồ 24/7, xe bồn có mặt nhanh",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+          "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+          "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+          "title": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+          "index": 1,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+          "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "e182ea99d6746bb2a5d33f84c89692f4be176f809f07786867028ea52fada9ad",
+      "pageCount": 11,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+          "title": "Hút bể phốt Bãi Cháy 24/7, xe bồn có mặt nhanh",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+          "title": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+          "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+          "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 1,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bang-gia/",
+          "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+          "index": 2,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+          "title": "Hút bể phốt Hoành Bồ 24/7, xe bồn có mặt nhanh",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+          "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+          "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+          "title": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+          "index": 1,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+          "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+          "index": 0,
+          "file": "xe-hut-be-phot-chuyen-dung-quang-ninh-02.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp",
+      "pageCount": 5,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+          "title": "Thông Tắc Bồn Cầu Vân Đồn Cho Homestay, Resort Nhanh Chóng",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+          "title": "Thông Tắc Bồn Cầu Móng Cái Tận Nơi, Không Đục Phá",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+          "title": "Thông Tắc Bồn Cầu Đông Triều Tận Nhà, Giá Rẻ Khởi Điểm",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+          "title": "Thông Tắc Bồn Cầu Quảng Yên Kịp Thời Cho Khu Dân Cư Mới",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Bồn Cầu Quảng Ninh: Dứt Điểm Tái Phát",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp",
+      "pageCount": 5,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+          "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+          "index": 2,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+          "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+          "index": 2,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+          "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+          "index": 1,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+          "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+          "index": 1,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+          "index": 1,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "f6f7d0957dc40050ec2bf02704adc0ad4f999e4bebf06b482d4bfd9f198496eb",
+      "pageCount": 5,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+          "title": "Thông Tắc Bồn Cầu Vân Đồn Cho Homestay, Resort Nhanh Chóng",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+          "title": "Thông Tắc Bồn Cầu Móng Cái Tận Nơi, Không Đục Phá",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+          "title": "Thông Tắc Bồn Cầu Đông Triều Tận Nhà, Giá Rẻ Khởi Điểm",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+          "title": "Thông Tắc Bồn Cầu Quảng Yên Kịp Thời Cho Khu Dân Cư Mới",
+          "index": 0,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Bồn Cầu Quảng Ninh: Dứt Điểm Tái Phát",
+          "index": 1,
+          "file": "ky-thuat-thong-tac-bon-cau-quang-ninh-01.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "79a9e48274ada578b9f9ad3fe96e67a691895b931ecdb9a3bead262782a843ce",
+      "pageCount": 5,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+          "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+          "index": 2,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+          "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+          "index": 2,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+          "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+          "index": 1,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+          "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+          "index": 1,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+          "index": 1,
+          "file": "thong-tac-cong-ngoai-troi-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "fcafb7e6e1f32173ed53383b0965e14a7cc18d088ef431b0628c994f76909926",
+      "pageCount": 4,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 1,
+          "file": "thong-tac-cong-van-don-kiem-tra-ho-ga-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 2,
+          "file": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long-kiem-tra-ho-ga-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+          "title": "Chính sách bảo mật 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "chinh-sach-bao-mat-kiem-tra-ho-ga-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh 24/7, xử lý nhanh trong ngày",
+          "index": 2,
+          "file": "blog-kiem-tra-ho-ga-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "ac1f91e5d76556b4f087338de8fdb4aef4bbbe063c7d9d79f2b071a07bbadb15",
+      "pageCount": 4,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-van-don/",
+          "title": "Thông Tắc Cống Vân Đồn Đảm Bảo Vệ Sinh Môi Trường Biển",
+          "index": 2,
+          "file": "thong-tac-cong-van-don-may-lo-xo-thong-cong-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+          "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+          "index": 1,
+          "file": "thong-tac-cong-ngo-nho-ha-long-may-lo-xo-thong-cong-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+          "title": "Chính sách bảo mật 24/7, xử lý nhanh trong ngày",
+          "index": 2,
+          "file": "chinh-sach-bao-mat-may-lo-xo-thong-cong-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/",
+          "title": "Trang chủ 24/7, xử lý nhanh trong ngày",
+          "index": 2,
+          "file": "trang-chu-may-lo-xo-thong-cong-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "46e35dd9d219dc0585c4619320206cd19bdca5c4c12c1f477c0f912ba9224cf1",
+      "pageCount": 4,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+          "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+          "index": 1,
+          "file": "thong-tac-cong-mong-cai-may-lo-xo-trong-nha-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+          "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+          "index": 2,
+          "file": "thong-tac-cong-ngo-nho-ha-long-may-lo-xo-trong-nha-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+          "title": "Chính sách bảo hành 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "chinh-sach-bao-hanh-may-lo-xo-trong-nha-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+          "title": "Cách xử lý cống thoát nước tắc 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "cach-xu-ly-cong-thoat-nuoc-tac-may-lo-xo-trong-nha-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "9c15d5ed8d236f15e9934f44c50334ddc924f6b9145ded07389ea6cab5ae564a",
+      "pageCount": 4,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-mong-cai/",
+          "title": "Thông Tắc Cống Móng Cái Nhanh Gọn, Khơi Thông Dòng Chảy",
+          "index": 2,
+          "file": "thong-tac-cong-mong-cai-thong-cong-duong-ong-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+          "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+          "index": 1,
+          "file": "thong-tac-cong-chung-cu-ha-long-thong-cong-duong-ong-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/chinh-sach-bao-hanh/",
+          "title": "Chính sách bảo hành 24/7, xử lý nhanh trong ngày",
+          "index": 2,
+          "file": "chinh-sach-bao-hanh-thong-cong-duong-ong-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+          "title": "Cách xử lý cống thoát nước tắc 24/7, xử lý nhanh trong ngày",
+          "index": 2,
+          "file": "cach-xu-ly-cong-thoat-nuoc-tac-thong-cong-duong-ong-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+          "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+          "index": 1,
+          "file": "thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+          "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+          "index": 1,
+          "file": "thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+          "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+          "index": 2,
+          "file": "thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+          "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+          "index": 2,
+          "file": "thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+          "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+          "index": 2,
+          "file": "thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+          "index": 2,
+          "file": "thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+          "title": "Thông Tắc Bồn Cầu Hạ Long: Xử Lý Ngay Sự Cố Nhà Vệ Sinh Khách Sạn",
+          "index": 2,
+          "file": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Bồn Cầu Quảng Ninh: Dứt Điểm Tái Phát",
+          "index": 2,
+          "file": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+          "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+          "index": 2,
+          "file": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-xe-hut-be-phot-ha-long-quang-ninh.webp",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+          "title": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "doi-xe-hut-be-phot-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+          "title": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+          "index": 0,
+          "file": "doi-xe-hut-be-phot-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/",
+          "title": "Trang chủ 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "doi-xe-hut-be-phot-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-nha-dan-uong-bi-quang-ninh.webp",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+          "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+          "index": 1,
+          "file": "hut-be-phot-nha-dan-uong-bi-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+          "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+          "index": 2,
+          "file": "hut-be-phot-nha-dan-uong-bi-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+          "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+          "index": 1,
+          "file": "hut-be-phot-nha-dan-uong-bi-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "a5a86b7859a10dfd6b69b2e75f5a5ee29ecf8dc84216c82d49a430f702b11149",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+          "title": "Hút bể phốt Bãi Cháy 24/7, xe bồn có mặt nhanh",
+          "index": 1,
+          "file": "hut-be-phot-bai-chay-xe-bon-hut-be-phot-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+          "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+          "index": 2,
+          "file": "hut-be-phot-dong-trieu-xe-bon-hut-be-phot-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+          "title": "Dấu hiệu bể phốt cần hút 24/7, xử lý nhanh trong ngày",
+          "index": 2,
+          "file": "dau-hieu-be-phot-can-hut-xe-bon-hut-be-phot-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "1dc3830e5d0402518268d9cdbcb00d9c44a18a20b4e412c19320e9a5095f03e5",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+          "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+          "index": 1,
+          "file": "thong-tac-cong-dong-trieu-thong-cong-san-bep-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+          "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+          "index": 2,
+          "file": "thong-tac-cong-chung-cu-ha-long-thong-cong-san-bep-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/lien-he/",
+          "title": "Liên hệ 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "lien-he-thong-cong-san-bep-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "047e32cf1084ec8e0fa5503281cb3277018c214e4a46d6cb703c9e6e4c81bd84",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-dong-trieu/",
+          "title": "Thông Tắc Cống Đông Triều: Xử Lý Cống Thoát Nước Sân Vườn",
+          "index": 2,
+          "file": "thong-tac-cong-dong-trieu-thong-cong-ho-ga-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+          "title": "Xử Lý Mùi Hôi Nhà Vệ Sinh Quảng Ninh Triệt Để Cống Trào",
+          "index": 1,
+          "file": "xu-ly-mui-hoi-quang-ninh-thong-cong-ho-ga-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/lien-he/",
+          "title": "Liên hệ 24/7, xử lý nhanh trong ngày",
+          "index": 2,
+          "file": "lien-he-thong-cong-ho-ga-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "4c693c48952484cad38c9cc897f227fe1a0acf5da31f2ef9fdeb8db4cff7d2d3",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+          "title": "Thông Tắc Cống Quảng Yên: Giải Quyết Cống Ngập Kẹt Rác",
+          "index": 1,
+          "file": "thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+          "title": "Thông Tắc Cống Uông Bí An Toàn Cho Hệ Thống Cũ",
+          "index": 1,
+          "file": "thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+          "title": "Thông Tắc Cống Hạ Long Triệt Để Mỡ Đóng Cục Nhà Hàng",
+          "index": 2,
+          "file": "thong-tac-cong-ong-thoat-quang-yen-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "fdb5940309cfb8e2bcaad279575fbc754d94f2e5ab351311e65e2e02799729a9",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+          "title": "Thông Tắc Cống Cẩm Phả: Khắc Phục Nghẹt Ống Do Đất Đá Lâu Năm",
+          "index": 2,
+          "file": "thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+          "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+          "index": 2,
+          "file": "thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Cống Quảng Ninh Công Nghệ Cao, Sạch 100%",
+          "index": 2,
+          "file": "thong-tac-cong-ap-luc-cao-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "455af8caf1b67c06934b859b023821085b3a11f1184ed537e53a4283d13463ce",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+          "title": "Thông Tắc Bồn Cầu Hạ Long: Xử Lý Ngay Sự Cố Nhà Vệ Sinh Khách Sạn",
+          "index": 2,
+          "file": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Bồn Cầu Quảng Ninh: Dứt Điểm Tái Phát",
+          "index": 2,
+          "file": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+          "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+          "index": 2,
+          "file": "thong-tac-bon-cau-quang-ninh-nha-ve-sinh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "ecb792cbb8e4558daff7f522a3d9665a1eb88e5fb13d18d398ea27dadf0a1a4b",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/nguyen-nhan-cong-tac-thuong-xuyen-ha-long/",
+          "title": "Giải Mã Nguyên Nhân Cống Tắc Thường Xuyên Tại Hạ Long",
+          "index": 1,
+          "file": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long-cuon-day-thong-cong-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+          "title": "Xử Lý Mùi Hôi Nhà Vệ Sinh Quảng Ninh Triệt Để Cống Trào",
+          "index": 2,
+          "file": "xu-ly-mui-hoi-quang-ninh-cuon-day-thong-cong-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/blog/",
+          "title": "Blog vệ sinh môi trường Quảng Ninh 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "blog-cuon-day-thong-cong-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "c1d046372b298ecdf531d9b7cfa7e7a5434a646a5aa81a68287aff8701670592",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/gioi-thieu/",
+          "title": "Giới thiệu 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "doi-xe-hut-be-phot-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+          "title": "Hút Bể Phốt Hạ Long Cho Khách Sạn, Nhà Hàng, Đồi Dốc",
+          "index": 0,
+          "file": "doi-xe-hut-be-phot-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/",
+          "title": "Trang chủ 24/7, xử lý nhanh trong ngày",
+          "index": 0,
+          "file": "doi-xe-hut-be-phot-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "c79d5420c2e3eb9c487dbefe4fa1b96bd2df6ecc699699d6a8f369b9b32601e3",
+      "pageCount": 3,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+          "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+          "index": 1,
+          "file": "hut-be-phot-nha-dan-uong-bi-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+          "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+          "index": 2,
+          "file": "hut-be-phot-nha-dan-uong-bi-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+          "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+          "index": 1,
+          "file": "hut-be-phot-nha-dan-uong-bi-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/xe-hut-be-phot-khu-cong-nghiep-quang-yen.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 0,
+          "file": "xe-hut-be-phot-khu-cong-nghiep-quang-yen.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+          "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+          "index": 0,
+          "file": "xe-hut-be-phot-khu-cong-nghiep-quang-yen.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/dich-vu-moi-truong-nha-may-quang-yen-quang-ninh.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 2,
+          "file": "dich-vu-moi-truong-nha-may-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+          "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+          "index": 2,
+          "file": "dich-vu-moi-truong-nha-may-quang-yen-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-nha-may-quang-yen-quang-ninh.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 3,
+          "file": "hut-be-phot-nha-may-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+          "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+          "index": 1,
+          "file": "hut-be-phot-nha-may-quang-yen-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-bon-cau-ha-long-bang-may-lo-xo.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+          "title": "Thông Tắc Bồn Cầu Hạ Long: Xử Lý Ngay Sự Cố Nhà Vệ Sinh Khách Sạn",
+          "index": 1,
+          "file": "thong-tac-bon-cau-ha-long-bang-may-lo-xo.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Bồn Cầu Quảng Ninh: Dứt Điểm Tái Phát",
+          "index": 0,
+          "file": "thong-tac-bon-cau-ha-long-bang-may-lo-xo.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/thong-tac-chau-rua-bep-ha-long-quang-ninh.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+          "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+          "index": 0,
+          "file": "thong-tac-chau-rua-bep-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+          "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+          "index": 0,
+          "file": "thong-tac-chau-rua-bep-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_url",
+      "key": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/hut-be-phot-nha-dan-quang-ninh-mo-nap-be.webp",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+          "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+          "index": 2,
+          "file": "hut-be-phot-nha-dan-quang-ninh-mo-nap-be.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+          "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+          "index": 2,
+          "file": "hut-be-phot-nha-dan-quang-ninh-mo-nap-be.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "733a35818a2e90ab55c595a25f4158e71bb90e3e4b57bdbc7d3952a74b8cb516",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-bai-chay/",
+          "title": "Hút bể phốt Bãi Cháy 24/7, xe bồn có mặt nhanh",
+          "index": 2,
+          "file": "hut-be-phot-bai-chay-keo-ong-hut-be-phot-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bang-gia/",
+          "title": "Bảng giá hút bể phốt, thông tắc cống Quảng Ninh 2026",
+          "index": 1,
+          "file": "bang-gia-keo-ong-hut-be-phot-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "547674eb7afaccf61d4bd2a3e97c1493f958f728c81dce374ba8fe80fb760e8b",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-van-don/",
+          "title": "Thông Tắc Bồn Cầu Vân Đồn Cho Homestay, Resort Nhanh Chóng",
+          "index": 2,
+          "file": "thong-tac-bon-cau-van-don-thong-tac-bon-cau-khong-duc-pha-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+          "title": "Thông Tắc Bồn Cầu Quảng Yên Kịp Thời Cho Khu Dân Cư Mới",
+          "index": 1,
+          "file": "thong-tac-bon-cau-quang-yen-thong-tac-bon-cau-khong-duc-pha-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "cb57d539f959be4a42fc203689c2bed786f09e960eb5fa6fb3553f9f87180509",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+          "title": "Thông Tắc Bồn Cầu Móng Cái Tận Nơi, Không Đục Phá",
+          "index": 1,
+          "file": "thong-tac-bon-cau-mong-cai-kiem-tra-bon-cau-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+          "title": "Thông Tắc Bồn Cầu Quảng Yên Kịp Thời Cho Khu Dân Cư Mới",
+          "index": 2,
+          "file": "thong-tac-bon-cau-quang-yen-kiem-tra-bon-cau-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "24ae9f3d22402605eaca91dfb791ac696e32148b9902d101c06aa2d56e50adfd",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-mong-cai/",
+          "title": "Thông Tắc Bồn Cầu Móng Cái Tận Nơi, Không Đục Phá",
+          "index": 2,
+          "file": "thong-tac-bon-cau-mong-cai-may-lo-xo-bon-cau-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+          "title": "Thông Tắc Toilet Quảng Ninh Bằng Công Nghệ Mới",
+          "index": 1,
+          "file": "thong-tac-toilet-quang-ninh-may-lo-xo-bon-cau-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "5c0e70650428e29b3fd547a9b9528ac85aa8689af31d033de6c880815790cfd2",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-dong-trieu/",
+          "title": "Thông Tắc Bồn Cầu Đông Triều Tận Nhà, Giá Rẻ Khởi Điểm",
+          "index": 1,
+          "file": "thong-tac-bon-cau-dong-trieu-thong-bon-cau-nha-ve-sinh-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-toilet-quang-ninh/",
+          "title": "Thông Tắc Toilet Quảng Ninh Bằng Công Nghệ Mới",
+          "index": 2,
+          "file": "thong-tac-toilet-quang-ninh-thong-bon-cau-nha-ve-sinh-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "1c388430e810dd0f2708473e182f647c44e9138a7a7bdf56c34bff908c203a4d",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+          "title": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+          "index": 1,
+          "file": "hut-be-phot-van-don-xe-bon-ho-ga-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+          "title": "Hút bể phốt Hoành Bồ 24/7, xe bồn có mặt nhanh",
+          "index": 1,
+          "file": "hut-be-phot-hoanh-bo-xe-bon-ho-ga-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "ca52b10118d350a094d60408ab33ff410a2ffb0ea7fb6ed12790388be73cf0f1",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+          "title": "Hút Bể Phốt Vân Đồn: Dành Cho Đặc Thù Khu Du Lịch, Biển Đảo",
+          "index": 2,
+          "file": "hut-be-phot-van-don-hut-be-phot-ho-ga-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-hoanh-bo/",
+          "title": "Hút bể phốt Hoành Bồ 24/7, xe bồn có mặt nhanh",
+          "index": 2,
+          "file": "hut-be-phot-hoanh-bo-hut-be-phot-ho-ga-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "624dab4c5f3635c4aae146b40bc5c2e903b2c58fba8f58d2a9a8de1f47a59439",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+          "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+          "index": 1,
+          "file": "hut-be-phot-mong-cai-xe-bon-moi-truong-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+          "title": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026: Cập Nhật Mới Nhất",
+          "index": 1,
+          "file": "bang-gia-hut-be-phot-quang-ninh-2026-xe-bon-moi-truong-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "5fe3760c6f558a76a17dbb258ed1f8631f6ac281f7c58bd75bf01d64d569d879",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+          "title": "Hút Bể Phốt Móng Cái: Nhanh Chóng Khu Vực Biên Giới",
+          "index": 2,
+          "file": "hut-be-phot-mong-cai-xe-bon-khu-cong-nghiep-3.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/bang-gia-hut-be-phot-quang-ninh-2026/",
+          "title": "Bảng Giá Hút Bể Phốt Quảng Ninh 2026: Cập Nhật Mới Nhất",
+          "index": 2,
+          "file": "bang-gia-hut-be-phot-quang-ninh-2026-xe-bon-khu-cong-nghiep-3.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "6fa8b4908ef521fd830232650af3f056999e72cd69223fa57fe5999ad7ce84d8",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+          "title": "Hút Bể Phốt Đông Triều: Hỗ Trợ Hộ Gia Đình, Khu Nông Nghiệp",
+          "index": 1,
+          "file": "hut-be-phot-dong-trieu-doi-xe-hut-be-phot-2.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/dau-hieu-be-phot-can-hut/",
+          "title": "Dấu hiệu bể phốt cần hút 24/7, xử lý nhanh trong ngày",
+          "index": 1,
+          "file": "dau-hieu-be-phot-can-hut-doi-xe-hut-be-phot-2.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "603f70766bb5bad98251edadc59189a84aa29d709aea4ae8676156d30382be7b",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 0,
+          "file": "xe-hut-be-phot-khu-cong-nghiep-quang-yen.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+          "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+          "index": 0,
+          "file": "xe-hut-be-phot-khu-cong-nghiep-quang-yen.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "ffe1a39dfb551d52f46b3b865ac422262e5048919dc02ed530bad1927b278860",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 2,
+          "file": "dich-vu-moi-truong-nha-may-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+          "title": "Nạo Vét Hố Ga Quảng Ninh: Tránh Ngập Úng Cục Bộ",
+          "index": 2,
+          "file": "dich-vu-moi-truong-nha-may-quang-yen-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "f53c15199d85c745a90b66e49f435eb1c631f1b103db56c8573ba9edd3d3ff61",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "title": "Hút Bể Phốt Quảng Yên: Giải Pháp Cho Khu Công Nghiệp, Nhà Xưởng",
+          "index": 3,
+          "file": "hut-be-phot-nha-may-quang-yen-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+          "title": "Hút Bể Phốt Cẩm Phả: Xử Lý Tận Gốc Cho Khu Mỏ, Đường Hẹp",
+          "index": 1,
+          "file": "hut-be-phot-nha-may-quang-yen-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "d1ec268c0fd17f0e4b2268ac1241e111a8987191be34ed86bef701154fa58d8e",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/",
+          "title": "Thông Tắc Bồn Cầu Hạ Long: Xử Lý Ngay Sự Cố Nhà Vệ Sinh Khách Sạn",
+          "index": 1,
+          "file": "thong-tac-bon-cau-ha-long-bang-may-lo-xo.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+          "title": "Dịch Vụ Thông Tắc Bồn Cầu Quảng Ninh: Dứt Điểm Tái Phát",
+          "index": 0,
+          "file": "thong-tac-bon-cau-ha-long-bang-may-lo-xo.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "07310475ad93cb602cc41735d680f5f8ec77716e910414667946b0d7ce755bcb",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+          "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+          "index": 0,
+          "file": "thong-tac-chau-rua-bep-ha-long-quang-ninh.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+          "title": "Thông Tắc Chậu Rửa Bát Quảng Ninh Tận Nơi 15 Phút",
+          "index": 0,
+          "file": "thong-tac-chau-rua-bep-ha-long-quang-ninh.webp"
+        }
+      ]
+    },
+    {
+      "kind": "same_bytes",
+      "key": "16bd51350809631e53a3fe8bcb29ea9dc21c8a28064e9bfe90abfab333721b9a",
+      "pageCount": 2,
+      "uses": [
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+          "title": "Hút Bể Phốt Uông Bí: Phục Vụ Nhanh Khu Nhà Trọ, Đường Xa",
+          "index": 2,
+          "file": "hut-be-phot-nha-dan-quang-ninh-mo-nap-be.webp"
+        },
+        {
+          "link": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+          "title": "Hút Bể Phốt Quảng Ninh Số 1: Công Nghệ Xe Bồn Hiện Đại",
+          "index": 2,
+          "file": "hut-be-phot-nha-dan-quang-ninh-mo-nap-be.webp"
+        }
+      ]
+    }
+  ]
+}

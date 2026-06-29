@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-05-09T16:59:29.624Z",
+  "total_entries": 7,
+  "completed_entries": 3,
+  "pending_count": 4,
+  "pending_slugs": [
+    "SEO-INIT-001",
+    "backlink-thongtaccongquangninh-com",
+    "trang-vang-citation",
+    "mapstore-muabanvn"
+  ],
+  "seo_progress_score": 43,
+  "review_required_count": 4,
+  "issues": [
+    "Có 4 task cần review hoặc chưa completed trong SEO_PROGRESS.csv.",
+    "Có 4 task ở trạng thái review_required.",
+    "Có URL lặp trong tiến độ: https://thongtaccongquangninh.com/ (3)."
+  ],
+  "verdict": "CONDITIONAL",
+  "notes": [
+    "Deep batch audit checks CSV quality, duplicate URLs, and required docs presence."
+  ]
+}

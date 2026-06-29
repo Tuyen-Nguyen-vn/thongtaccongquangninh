@@ -1,0 +1,303 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=home-process-v27-1779139178587",
+  "results": [
+    {
+      "width": 1440,
+      "metrics": {
+        "h1Total": 1,
+        "h1InsideProcess": 0,
+        "h2InsideProcess": 1,
+        "homeProcessCount": 1,
+        "oldProcessSectionCount": 0,
+        "stepCount": 5,
+        "cardCount": 5,
+        "benefitCount": 4,
+        "callHref": "tel:0963953533",
+        "zaloHref": "https://zalo.me/0963953533",
+        "sectionWidth": 1440,
+        "sectionHeight": 1271,
+        "scrollOverflow": false,
+        "docScrollWidth": 1440,
+        "clientWidth": 1440,
+        "uniqueStepRows": 1,
+        "gridTemplateColumns": "230px 230px 230px 230px 230px",
+        "timelineDisplay": "block",
+        "firstCardDisplay": "flex",
+        "firstCardGridCols": "none",
+        "ctaButtons": 2,
+        "processInViewClass": true,
+        "floatNodes": [
+          {
+            "sel": ".ttcqn-mls",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".ttcqn-sga",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".footer-back-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": "#ai-back-to-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          }
+        ],
+        "consoleErrors": []
+      }
+    },
+    {
+      "width": 1366,
+      "metrics": {
+        "h1Total": 1,
+        "h1InsideProcess": 0,
+        "h2InsideProcess": 1,
+        "homeProcessCount": 1,
+        "oldProcessSectionCount": 0,
+        "stepCount": 5,
+        "cardCount": 5,
+        "benefitCount": 4,
+        "callHref": "tel:0963953533",
+        "zaloHref": "https://zalo.me/0963953533",
+        "sectionWidth": 1366,
+        "sectionHeight": 1268,
+        "scrollOverflow": false,
+        "docScrollWidth": 1366,
+        "clientWidth": 1366,
+        "uniqueStepRows": 1,
+        "gridTemplateColumns": "230px 230px 230px 230px 230px",
+        "timelineDisplay": "block",
+        "firstCardDisplay": "flex",
+        "firstCardGridCols": "none",
+        "ctaButtons": 2,
+        "processInViewClass": true,
+        "floatNodes": [
+          {
+            "sel": ".ttcqn-mls",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".ttcqn-sga",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".footer-back-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": "#ai-back-to-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          }
+        ],
+        "consoleErrors": []
+      }
+    },
+    {
+      "width": 1280,
+      "metrics": {
+        "h1Total": 1,
+        "h1InsideProcess": 0,
+        "h2InsideProcess": 1,
+        "homeProcessCount": 1,
+        "oldProcessSectionCount": 0,
+        "stepCount": 5,
+        "cardCount": 5,
+        "benefitCount": 4,
+        "callHref": "tel:0963953533",
+        "zaloHref": "https://zalo.me/0963953533",
+        "sectionWidth": 1280,
+        "sectionHeight": 1265,
+        "scrollOverflow": false,
+        "docScrollWidth": 1280,
+        "clientWidth": 1280,
+        "uniqueStepRows": 1,
+        "gridTemplateColumns": "214.797px 214.797px 214.797px 214.797px 214.812px",
+        "timelineDisplay": "block",
+        "firstCardDisplay": "flex",
+        "firstCardGridCols": "none",
+        "ctaButtons": 2,
+        "processInViewClass": true,
+        "floatNodes": [
+          {
+            "sel": ".ttcqn-mls",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".ttcqn-sga",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".footer-back-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": "#ai-back-to-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          }
+        ],
+        "consoleErrors": []
+      }
+    },
+    {
+      "width": 768,
+      "metrics": {
+        "h1Total": 1,
+        "h1InsideProcess": 0,
+        "h2InsideProcess": 1,
+        "homeProcessCount": 1,
+        "oldProcessSectionCount": 0,
+        "stepCount": 5,
+        "cardCount": 5,
+        "benefitCount": 4,
+        "callHref": "tel:0963953533",
+        "zaloHref": "https://zalo.me/0963953533",
+        "sectionWidth": 768,
+        "sectionHeight": 1996,
+        "scrollOverflow": false,
+        "docScrollWidth": 768,
+        "clientWidth": 768,
+        "uniqueStepRows": 3,
+        "gridTemplateColumns": "330px 330px",
+        "timelineDisplay": "none",
+        "firstCardDisplay": "flex",
+        "firstCardGridCols": "none",
+        "ctaButtons": 2,
+        "processInViewClass": true,
+        "floatNodes": [
+          {
+            "sel": ".ttcqn-mls",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".ttcqn-sga",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".footer-back-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": "#ai-back-to-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          }
+        ],
+        "consoleErrors": []
+      }
+    },
+    {
+      "width": 390,
+      "metrics": {
+        "h1Total": 1,
+        "h1InsideProcess": 0,
+        "h2InsideProcess": 1,
+        "homeProcessCount": 1,
+        "oldProcessSectionCount": 0,
+        "stepCount": 5,
+        "cardCount": 5,
+        "benefitCount": 4,
+        "callHref": "tel:0963953533",
+        "zaloHref": "https://zalo.me/0963953533",
+        "sectionWidth": 390,
+        "sectionHeight": 1403,
+        "scrollOverflow": false,
+        "docScrollWidth": 390,
+        "clientWidth": 390,
+        "uniqueStepRows": 5,
+        "gridTemplateColumns": "repeat(5, minmax(0px, 1fr))",
+        "timelineDisplay": "none",
+        "firstCardDisplay": "grid",
+        "firstCardGridCols": "100px 174px",
+        "ctaButtons": 2,
+        "processInViewClass": true,
+        "floatNodes": [
+          {
+            "sel": ".ttcqn-mls",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".ttcqn-sga",
+            "missing": true
+          },
+          {
+            "sel": ".footer-back-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": "#ai-back-to-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          }
+        ],
+        "consoleErrors": []
+      }
+    },
+    {
+      "width": 375,
+      "metrics": {
+        "h1Total": 1,
+        "h1InsideProcess": 0,
+        "h2InsideProcess": 1,
+        "homeProcessCount": 1,
+        "oldProcessSectionCount": 0,
+        "stepCount": 5,
+        "cardCount": 5,
+        "benefitCount": 4,
+        "callHref": "tel:0963953533",
+        "zaloHref": "https://zalo.me/0963953533",
+        "sectionWidth": 375,
+        "sectionHeight": 1444,
+        "scrollOverflow": false,
+        "docScrollWidth": 375,
+        "clientWidth": 375,
+        "uniqueStepRows": 5,
+        "gridTemplateColumns": "repeat(5, minmax(0px, 1fr))",
+        "timelineDisplay": "none",
+        "firstCardDisplay": "grid",
+        "firstCardGridCols": "100px 159px",
+        "ctaButtons": 2,
+        "processInViewClass": true,
+        "floatNodes": [
+          {
+            "sel": ".ttcqn-mls",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": ".ttcqn-sga",
+            "missing": true
+          },
+          {
+            "sel": ".footer-back-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          },
+          {
+            "sel": "#ai-back-to-top",
+            "opacity": "0",
+            "pointerEvents": "none"
+          }
+        ],
+        "consoleErrors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "results": [
+    {
+      "url": "home",
+      "viewport": "desktop",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": false,
+        "sharedFooterCss": false,
+        "themeFooterCount": 0,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -160.734375,
+          "bottom": 950,
+          "h": 1110.734375,
+          "w": 1440
+        },
+        "footerBottomGap": 0,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(126, 217, 87)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      }
+    },
+    {
+      "url": "home",
+      "viewport": "mobile",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": false,
+        "sharedFooterCss": false,
+        "themeFooterCount": 0,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -1955.28125,
+          "bottom": 1130,
+          "h": 3085.28125,
+          "w": 390
+        },
+        "footerBottomGap": 70,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(255, 255, 255)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      }
+    },
+    {
+      "url": "service",
+      "viewport": "desktop",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": true,
+        "sharedFooterCss": true,
+        "themeFooterCount": 1,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -216.109375,
+          "bottom": 920.703125,
+          "h": 1136.8125,
+          "w": 1440
+        },
+        "footerBottomGap": 29,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(126, 217, 87)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      }
+    },
+    {
+      "url": "service",
+      "viewport": "mobile",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": true,
+        "sharedFooterCss": true,
+        "themeFooterCount": 1,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -2013.84375,
+          "bottom": 1100.8125,
+          "h": 3114.65625,
+          "w": 390
+        },
+        "footerBottomGap": 99,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(255, 255, 255)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      }
+    },
+    {
+      "url": "area",
+      "viewport": "desktop",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": true,
+        "sharedFooterCss": true,
+        "themeFooterCount": 1,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -215.4375,
+          "bottom": 921.375,
+          "h": 1136.8125,
+          "w": 1440
+        },
+        "footerBottomGap": 28,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(126, 217, 87)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      }
+    },
+    {
+      "url": "area",
+      "viewport": "mobile",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": true,
+        "sharedFooterCss": true,
+        "themeFooterCount": 1,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -2013.359375,
+          "bottom": 1101.296875,
+          "h": 3114.65625,
+          "w": 390
+        },
+        "footerBottomGap": 98,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(255, 255, 255)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      }
+    },
+    {
+      "url": "blog",
+      "viewport": "desktop",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": true,
+        "sharedFooterCss": true,
+        "themeFooterCount": 1,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -215.140625,
+          "bottom": 921.671875,
+          "h": 1136.8125,
+          "w": 1440
+        },
+        "footerBottomGap": 28,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(126, 217, 87)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      }
+    },
+    {
+      "url": "blog",
+      "viewport": "mobile",
+      "status": 200,
+      "consoleErrors": [],
+      "metrics": {
+        "h1Total": 1,
+        "customFooterCount": 1,
+        "sharedFooterActive": true,
+        "sharedFooterCss": true,
+        "themeFooterCount": 1,
+        "visibleThemeFooterCount": 0,
+        "footerRect": {
+          "top": -2013.953125,
+          "bottom": 1100.703125,
+          "h": 3114.65625,
+          "w": 390
+        },
+        "footerBottomGap": 99,
+        "contactLinkColor": "rgb(236, 246, 255)",
+        "callBtnColor": "rgb(255, 255, 255)",
+        "exitDisplay": "none",
+        "oldBackTopDisplay": "none",
+        "newBackTopDisplay": "grid",
+        "textLeak": false,
+        "horizontalOverflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-06-28T20:09:51.192Z",
+  "postId": 2379,
+  "mediaId": 2380,
+  "backupDir": "/mnt/d/.thongtaccongquangninh/backups/fix-post-2379-rankmath-media-live-2026-06-29T03-09-51-173+07-00",
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/fix-post-2379-rankmath-media-live-2026-06-29T03-09-51-173+07-00.json",
+  "success": true,
+  "rankMathUpdate": {
+    "slug": true,
+    "schemas": []
+  },
+  "mediaUpdate": {
+    "id": 2380,
+    "alt_text": "Thợ thông tắc bồn cầu tại nhà dân Hạ Long Quảng Ninh",
+    "title": "Thông tắc bồn cầu Hạ Long - Môi Trường Đô Thị Số 1",
+    "caption": "Thợ có mặt trong 15 phút, xử lý tắc bồn cầu tại Hạ Long"
+  },
+  "public": {
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ban-dem-quang-ninh/?nowprocket=1&codex=2026-06-29T03-09-51-173+07-00",
+    "status": 200,
+    "hasCaptionNight": false,
+    "hasKeywordNight": false,
+    "hasNightCopy": false
+  }
+}

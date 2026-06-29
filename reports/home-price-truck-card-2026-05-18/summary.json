@@ -1,0 +1,52 @@
+[
+  {
+    "viewport": "desktop",
+    "status": 200,
+    "consoleErrors": [],
+    "meta": "2026.05.18.06; direct-template",
+    "main": {
+      "top": 389.765625,
+      "bottom": 879.359375,
+      "left": 896.828125,
+      "right": 1422,
+      "width": 525.171875,
+      "height": 489.59375
+    },
+    "card": {
+      "top": 895.359375,
+      "bottom": 1200.359375,
+      "left": 929.40625,
+      "right": 1389.40625,
+      "width": 460,
+      "height": 305
+    },
+    "overlapArea": 0,
+    "cardPosition": "relative",
+    "cardMarginTop": "0px"
+  },
+  {
+    "viewport": "mobile",
+    "status": 200,
+    "consoleErrors": [],
+    "meta": "2026.05.18.06; direct-template",
+    "main": {
+      "top": 2857.28125,
+      "bottom": 3309.78125,
+      "left": 14,
+      "right": 376,
+      "width": 362,
+      "height": 452.5
+    },
+    "card": {
+      "top": 3323.78125,
+      "bottom": 3566.40625,
+      "left": 30,
+      "right": 360,
+      "width": 330,
+      "height": 242.625
+    },
+    "overlapArea": 0,
+    "cardPosition": "relative",
+    "cardMarginTop": "0px"
+  }
+]

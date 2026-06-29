@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-06-26T23:06:44.106Z",
+  "pageId": 52,
+  "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+  "postTitle": "Hút Bể Phốt Hạ Long Giá Rõ Ràng, Có Mặt Nhanh Tại Nhà Dân, Khách Sạn, Homestay",
+  "status": "publish",
+  "rankMath": {
+    "storedScore": null,
+    "batchScore": null,
+    "scoreExposed": false,
+    "batchOffset": 0,
+    "batchItemKeys": [
+      "title",
+      "description",
+      "keywords",
+      "keyword",
+      "content",
+      "url",
+      "hasContentAi",
+      "post_type",
+      "thumbnail",
+      "thumbnailAlt"
+    ],
+    "objectSeoStatus": 404,
+    "objectSeoKeys": [
+      "code",
+      "message",
+      "data"
+    ],
+    "focusKeyword": "hút bể phốt Hạ Long",
+    "title": "Hút Bể Phốt Hạ Long Giá Rõ Ràng, Phục Vụ Nhanh Tại Bãi Cháy, Hồng Gai",
+    "titleLength": 69,
+    "description": "Hút bể phốt Hạ Long cho nhà dân, khách sạn, homestay, nhà hàng tại Bãi Cháy, Hồng Gai, Tuần Châu. Báo giá rõ trước khi làm, xe đến nhanh. Gọi 0963.953.533.",
+    "descriptionLength": 155
+  },
+  "contentChecks": {
+    "hasOneRawH1": true,
+    "hasPriceTable": true,
+    "hasFaqHeading": true,
+    "hasAuthorLink": true
+  }
+}

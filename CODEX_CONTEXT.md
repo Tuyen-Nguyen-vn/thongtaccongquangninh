@@ -221,8 +221,11 @@ Lưu ý vận hành:
 - Trước khi dùng GitHub CLI cho PR/CI/log, chạy `gh auth status`; nếu chưa đăng nhập thì cần Tuyền hoàn tất OAuth trong trình duyệt.
 - Khi cần deploy fix footer interaction live theo nhịp backup-first, mặc định dùng `npm run release:footer-backtop-live`; wrapper sẽ gọi deploy rồi verify public theo đúng workflow chuẩn.
 - Khi cần xem nhanh bộ lệnh vận hành footer, dùng `npm run help:footer-backtop`.
-- Có thể dùng alias ngắn tương đương: `npm run footer:release`, `footer:dry-run`, `footer:report`, `footer:verify`, `footer:help`, `footer:deploy`.
+- Có thể dùng alias ngắn tương đương: `npm run footer:release`, `footer:dry-run`, `footer:report`, `footer:verify`, `footer:postcheck`, `footer:status`, `footer:status-short`, `footer:help`, `footer:deploy`.
 - Khi chỉ cần verify public footer interaction, dùng `npm run verify:footer-live`; script tự dò Chrome/Chromium và kiểm 7 scenario public.
+- Khi cần verify lại rồi xem ngay snapshot deploy gần nhất, dùng `npm run footer:postcheck`; output được rút gọn thành summary dễ đọc.
+- Khi chỉ cần hỏi trạng thái footer live hiện tại, dùng `npm run footer:status`.
+- Khi cần 1 dòng ngắn cho shell/log/cron, dùng `npm run footer:status-short`.
 - `npm run deploy:footer-backtop-live` chỉ dùng khi cần tách bước hoặc điều tra lỗi. Có thể test wrapper bằng `npm run release:footer-backtop-dry-run`.
 - Khi cần đọc nhanh kết quả lần release footer gần nhất, dùng `npm run report:footer-backtop-latest`.
 - Nếu report footer release có `purgeOk=false`, hiểu đó là warning do host chưa có `wp litespeed-purge`; chỉ coi là blocker khi `success !== true` hoặc verify public không đạt `passed 7/7`.

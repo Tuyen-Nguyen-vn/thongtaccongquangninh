@@ -1,0 +1,522 @@
+{
+  "summary": {
+    "generatedAt": "2026-06-03T05:46:10.258Z",
+    "mode": "dry-run",
+    "backupDir": null,
+    "total": 12,
+    "ok": 12,
+    "failed": 0
+  },
+  "results": [
+    {
+      "canonicalSlug": "bon-cau-rut-cham-nguyen-nhan",
+      "currentSlug": "bon-cau-rut-cham-nguyen-nhan-3",
+      "live": {
+        "collection": "posts",
+        "id": 2043,
+        "slug": "bon-cau-rut-cham-nguyen-nhan-3",
+        "status": "publish",
+        "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+        "link": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan-3/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 2027,
+          "from": "bon-cau-rut-cham-nguyen-nhan",
+          "to": "draft-legacy-2027-bon-cau-rut-cham-nguyen-nhan",
+          "status": "draft",
+          "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 2027,
+          "from": "bon-cau-rut-cham-nguyen-nhan",
+          "to": "draft-legacy-2027-bon-cau-rut-cham-nguyen-nhan"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2043,
+          "from": "bon-cau-rut-cham-nguyen-nhan-3",
+          "to": "bon-cau-rut-cham-nguyen-nhan"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "chi-phi-hut-be-phot-quang-ninh",
+      "currentSlug": "chi-phi-hut-be-phot-quang-ninh-2",
+      "live": {
+        "collection": "pages",
+        "id": 2025,
+        "slug": "chi-phi-hut-be-phot-quang-ninh-2",
+        "status": "publish",
+        "title": "Bảng giá hút bể phốt Quảng Ninh 2026: cách tính chi phí thực tế",
+        "link": "https://thongtaccongquangninh.com/chi-phi-hut-be-phot-quang-ninh-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 2026,
+          "from": "chi-phi-hut-be-phot-quang-ninh",
+          "to": "draft-legacy-2026-chi-phi-hut-be-phot-quang-ninh",
+          "status": "draft",
+          "title": "Chi phí hút bể phốt Quảng Ninh: tự tính theo m3 và vị trí xe"
+        },
+        {
+          "collection": "pages",
+          "id": 2024,
+          "from": "chi-phi-hut-be-phot-quang-ninh",
+          "to": "draft-legacy-2024-chi-phi-hut-be-phot-quang-ninh",
+          "status": "draft",
+          "title": "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết, báo giá ngay"
+        },
+        {
+          "collection": "posts",
+          "id": 1645,
+          "from": "chi-phi-hut-be-phot-quang-ninh-2",
+          "to": "draft-legacy-1645-chi-phi-hut-be-phot-quang-ninh-2",
+          "status": "draft",
+          "title": "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết, báo giá ngay"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 2026,
+          "from": "chi-phi-hut-be-phot-quang-ninh",
+          "to": "draft-legacy-2026-chi-phi-hut-be-phot-quang-ninh"
+        },
+        {
+          "action": "would_move_blocker",
+          "collection": "pages",
+          "id": 2024,
+          "from": "chi-phi-hut-be-phot-quang-ninh",
+          "to": "draft-legacy-2024-chi-phi-hut-be-phot-quang-ninh"
+        },
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1645,
+          "from": "chi-phi-hut-be-phot-quang-ninh-2",
+          "to": "draft-legacy-1645-chi-phi-hut-be-phot-quang-ninh-2"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "pages",
+          "id": 2025,
+          "from": "chi-phi-hut-be-phot-quang-ninh-2",
+          "to": "chi-phi-hut-be-phot-quang-ninh"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "chu-ky-hut-be-phot",
+      "currentSlug": "chu-ky-hut-be-phot-3",
+      "live": {
+        "collection": "posts",
+        "id": 2044,
+        "slug": "chu-ky-hut-be-phot-3",
+        "status": "publish",
+        "title": "Chu kỳ hút bể phốt Quảng Ninh bao lâu? Lịch hút định kỳ 2026",
+        "link": "https://thongtaccongquangninh.com/chu-ky-hut-be-phot-3/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 2028,
+          "from": "chu-ky-hut-be-phot",
+          "to": "draft-legacy-2028-chu-ky-hut-be-phot",
+          "status": "draft",
+          "title": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 2028,
+          "from": "chu-ky-hut-be-phot",
+          "to": "draft-legacy-2028-chu-ky-hut-be-phot"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2044,
+          "from": "chu-ky-hut-be-phot-3",
+          "to": "chu-ky-hut-be-phot"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "hoa-chat-tu-thong-cong",
+      "currentSlug": "hoa-chat-tu-thong-cong-3",
+      "live": {
+        "collection": "posts",
+        "id": 2045,
+        "slug": "hoa-chat-tu-thong-cong-3",
+        "status": "publish",
+        "title": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?",
+        "link": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong-3/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 2029,
+          "from": "hoa-chat-tu-thong-cong",
+          "to": "draft-legacy-2029-hoa-chat-tu-thong-cong",
+          "status": "draft",
+          "title": "Hóa chất thông cống tại nhà – Loại nào an toàn, loại nào gây hại?"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 2029,
+          "from": "hoa-chat-tu-thong-cong",
+          "to": "draft-legacy-2029-hoa-chat-tu-thong-cong"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2045,
+          "from": "hoa-chat-tu-thong-cong-3",
+          "to": "hoa-chat-tu-thong-cong"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "mui-hoi-cong-nguyen-nhan-xu-ly",
+      "currentSlug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+      "live": {
+        "collection": "posts",
+        "id": 2046,
+        "slug": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+        "status": "publish",
+        "title": "Mùi hôi từ cống trong nhà – Nguyên nhân và cách xử lý",
+        "link": "https://thongtaccongquangninh.com/mui-hoi-cong-nguyen-nhan-xu-ly-4/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 1644,
+          "from": "mui-hoi-cong-nguyen-nhan-xu-ly",
+          "to": "draft-legacy-1644-mui-hoi-cong-nguyen-nhan-xu-ly",
+          "status": "draft",
+          "title": "Mùi hôi từ cống, bể phốt trong nhà – Nguyên nhân và cách xử lý dứt điểm"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1644,
+          "from": "mui-hoi-cong-nguyen-nhan-xu-ly",
+          "to": "draft-legacy-1644-mui-hoi-cong-nguyen-nhan-xu-ly"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2046,
+          "from": "mui-hoi-cong-nguyen-nhan-xu-ly-4",
+          "to": "mui-hoi-cong-nguyen-nhan-xu-ly"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "hut-be-phot-ba-che",
+      "currentSlug": "hut-be-phot-ba-che-2",
+      "live": {
+        "collection": "posts",
+        "id": 2047,
+        "slug": "hut-be-phot-ba-che-2",
+        "status": "publish",
+        "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ",
+        "link": "https://thongtaccongquangninh.com/hut-be-phot-ba-che-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 1932,
+          "from": "hut-be-phot-ba-che",
+          "to": "draft-legacy-1932-hut-be-phot-ba-che",
+          "status": "draft",
+          "title": "Hút bể phốt Ba Chẽ Quảng Ninh 24/7 – Xe vào vùng núi, báo giá rõ"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1932,
+          "from": "hut-be-phot-ba-che",
+          "to": "draft-legacy-1932-hut-be-phot-ba-che"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2047,
+          "from": "hut-be-phot-ba-che-2",
+          "to": "hut-be-phot-ba-che"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "hut-be-phot-binh-lieu",
+      "currentSlug": "hut-be-phot-binh-lieu-2",
+      "live": {
+        "collection": "posts",
+        "id": 2048,
+        "slug": "hut-be-phot-binh-lieu-2",
+        "status": "publish",
+        "title": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới",
+        "link": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 1940,
+          "from": "hut-be-phot-binh-lieu",
+          "to": "draft-legacy-1940-hut-be-phot-binh-lieu",
+          "status": "draft",
+          "title": "Hút bể phốt Bình Liêu Quảng Ninh 24/7 – Xe đến tận huyện biên giới"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1940,
+          "from": "hut-be-phot-binh-lieu",
+          "to": "draft-legacy-1940-hut-be-phot-binh-lieu"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2048,
+          "from": "hut-be-phot-binh-lieu-2",
+          "to": "hut-be-phot-binh-lieu"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "hut-be-phot-co-to",
+      "currentSlug": "hut-be-phot-co-to-2",
+      "live": {
+        "collection": "posts",
+        "id": 2049,
+        "slug": "hut-be-phot-co-to-2",
+        "status": "publish",
+        "title": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước",
+        "link": "https://thongtaccongquangninh.com/hut-be-phot-co-to-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 1944,
+          "from": "hut-be-phot-co-to",
+          "to": "draft-legacy-1944-hut-be-phot-co-to",
+          "status": "draft",
+          "title": "Hút bể phốt Cô Tô Quảng Ninh 24/7 – Xe vào đảo, báo giá rõ trước"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1944,
+          "from": "hut-be-phot-co-to",
+          "to": "draft-legacy-1944-hut-be-phot-co-to"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2049,
+          "from": "hut-be-phot-co-to-2",
+          "to": "hut-be-phot-co-to"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "hut-be-phot-dam-ha",
+      "currentSlug": "hut-be-phot-dam-ha-2",
+      "live": {
+        "collection": "posts",
+        "id": 2050,
+        "slug": "hut-be-phot-dam-ha-2",
+        "status": "publish",
+        "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch",
+        "link": "https://thongtaccongquangninh.com/hut-be-phot-dam-ha-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 1936,
+          "from": "hut-be-phot-dam-ha",
+          "to": "draft-legacy-1936-hut-be-phot-dam-ha",
+          "status": "draft",
+          "title": "Hút bể phốt Đầm Hà Quảng Ninh 24/7 – Xe đến tận nơi, báo giá minh bạch"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1936,
+          "from": "hut-be-phot-dam-ha",
+          "to": "draft-legacy-1936-hut-be-phot-dam-ha"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2050,
+          "from": "hut-be-phot-dam-ha-2",
+          "to": "hut-be-phot-dam-ha"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "hut-be-phot-hai-ha",
+      "currentSlug": "hut-be-phot-hai-ha-2",
+      "live": {
+        "collection": "posts",
+        "id": 2051,
+        "slug": "hut-be-phot-hai-ha-2",
+        "status": "publish",
+        "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay",
+        "link": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 1928,
+          "from": "hut-be-phot-hai-ha",
+          "to": "draft-legacy-1928-hut-be-phot-hai-ha",
+          "status": "draft",
+          "title": "Hút bể phốt Hải Hà Quảng Ninh 24/7 – Xe đến tận huyện, báo giá ngay"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1928,
+          "from": "hut-be-phot-hai-ha",
+          "to": "draft-legacy-1928-hut-be-phot-hai-ha"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2051,
+          "from": "hut-be-phot-hai-ha-2",
+          "to": "hut-be-phot-hai-ha"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "hut-be-phot-tien-yen",
+      "currentSlug": "hut-be-phot-tien-yen-2",
+      "live": {
+        "collection": "posts",
+        "id": 2052,
+        "slug": "hut-be-phot-tien-yen-2",
+        "status": "publish",
+        "title": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ",
+        "link": "https://thongtaccongquangninh.com/hut-be-phot-tien-yen-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 1924,
+          "from": "hut-be-phot-tien-yen",
+          "to": "draft-legacy-1924-hut-be-phot-tien-yen",
+          "status": "draft",
+          "title": "Hút bể phốt Tiên Yên Quảng Ninh 24/7 – Xe đến tận nơi, báo giá rõ"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 1924,
+          "from": "hut-be-phot-tien-yen",
+          "to": "draft-legacy-1924-hut-be-phot-tien-yen"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2052,
+          "from": "hut-be-phot-tien-yen-2",
+          "to": "hut-be-phot-tien-yen"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    },
+    {
+      "canonicalSlug": "thong-tac-cong-hong-gai",
+      "currentSlug": "thong-tac-cong-hong-gai-2",
+      "live": {
+        "collection": "posts",
+        "id": 2053,
+        "slug": "thong-tac-cong-hong-gai-2",
+        "status": "publish",
+        "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá",
+        "link": "https://thongtaccongquangninh.com/thong-tac-cong-hong-gai-2/"
+      },
+      "blockers": [
+        {
+          "collection": "posts",
+          "id": 2037,
+          "from": "thong-tac-cong-hong-gai",
+          "to": "draft-legacy-2037-thong-tac-cong-hong-gai",
+          "status": "draft",
+          "title": "Thông tắc cống Hồng Gai Hạ Long 24/7 – Ngõ hẹp phố cổ, không đục phá"
+        }
+      ],
+      "actions": [
+        {
+          "action": "would_move_blocker",
+          "collection": "posts",
+          "id": 2037,
+          "from": "thong-tac-cong-hong-gai",
+          "to": "draft-legacy-2037-thong-tac-cong-hong-gai"
+        },
+        {
+          "action": "would_normalize_live",
+          "collection": "posts",
+          "id": 2053,
+          "from": "thong-tac-cong-hong-gai-2",
+          "to": "thong-tac-cong-hong-gai"
+        }
+      ],
+      "verify": null,
+      "ok": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ok": true,
+  "mode": "write",
+  "generatedAt": "2026-06-27T04:21:08.038Z",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-image-hash-duplicates-2026-06-27T04-21-08-033Z",
+  "targets": [
+    {
+      "id": 2054,
+      "type": "posts",
+      "slug": "thong-tac-cong-bai-chay",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "changed": true,
+      "replaced": 1,
+      "beforeHasOld": true,
+      "afterHasOld": false,
+      "afterHasNew": true,
+      "media": {
+        "id": 3018,
+        "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/hash-fix-bai-chay-kiem-tra-ho-ga-rieng.webp"
+      },
+      "liveVerify": {
+        "status": 200,
+        "mainHasNew": true,
+        "mainHasOld": false,
+        "missingAlt": 0,
+        "h1Count": 1,
+        "hasBannedWord": false
+      }
+    },
+    {
+      "id": 282,
+      "type": "pages",
+      "slug": "chinh-sach-bao-mat",
+      "link": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "changed": false,
+      "replaced": 0,
+      "beforeHasOld": false,
+      "afterHasOld": false,
+      "afterHasNew": true,
+      "media": {
+        "id": 3020,
+        "source_url": "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/hash-fix-chinh-sach-bao-mat-doi-ky-thuat.webp"
+      },
+      "liveVerify": null
+    }
+  ]
+}

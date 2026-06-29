@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-06-27T15:40:18.039Z",
+  "status": 200,
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/?nowprocket=1&codex=20260627-unique-final",
+  "title": "Thông Tắc Cống Tuần Châu Hạ Long 24/7 - Không Đục Phá",
+  "descLen": 146,
+  "imageCount": 4,
+  "uniqueImageCount": 4,
+  "imageSrcs": [
+    "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-tuan-chau-resort-01-4.webp",
+    "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-tuan-chau-may-ap-luc-02-4.webp",
+    "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-tuan-chau-kiem-tra-03-4.webp",
+    "https://thongtaccongquangninh.com/wp-content/uploads/2026/06/thong-tac-cong-tuan-chau-quy-trinh-04.webp"
+  ],
+  "hasUniqueSupport": true,
+  "hasMap": true,
+  "hasSummary": true,
+  "literalMarkdownLink": false,
+  "schemaBlockCount": 5,
+  "schemaTypes": [
+    "LocalBusiness",
+    "HomeAndConstructionBusiness",
+    "Organization",
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Person",
+    "BlogPosting",
+    "Service",
+    "FAQPage",
+    "HowTo"
+  ]
+}

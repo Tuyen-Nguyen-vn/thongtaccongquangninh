@@ -1,0 +1,36 @@
+[
+  {
+    "viewport": "desktop",
+    "status": 200,
+    "console": [],
+    "metrics": {
+      "marker": "2026.05.29.8; direct-template",
+      "mapSection": true,
+      "iframeCount": 2,
+      "iframeHeights": [
+        300,
+        300
+      ],
+      "overflowX": false,
+      "scrollWidth": 1440,
+      "innerWidth": 1440
+    }
+  },
+  {
+    "viewport": "mobile",
+    "status": 200,
+    "console": [],
+    "metrics": {
+      "marker": "2026.05.29.8; direct-template",
+      "mapSection": true,
+      "iframeCount": 2,
+      "iframeHeights": [
+        240,
+        240
+      ],
+      "overflowX": false,
+      "scrollWidth": 390,
+      "innerWidth": 390
+    }
+  }
+]

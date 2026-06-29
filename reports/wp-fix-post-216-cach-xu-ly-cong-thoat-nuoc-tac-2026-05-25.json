@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-25",
+  "url": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+  "postId": 216,
+  "revision": "seo-revisions/post-216-cach-xu-ly-cong-thoat-nuoc-tac-seo-fix-2026-05-25.html",
+  "backup": "backups/post-216-cach-xu-ly-cong-thoat-nuoc-tac-before-seo-fix-2026-05-25.json",
+  "request": {
+    "title": "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ",
+    "description": "Cách xử lý cống thoát nước tắc khi nước rút chậm, mùi hôi hoặc trào ngược trong nhà, sân, hố ga. Gọi 0963.953.533 / 0931.156.756 để kiểm tra đúng nguyên nhân.",
+    "focusKeyword": "cách xử lý cống thoát nước tắc",
+    "score": 90
+  },
+  "result": {
+    "updated": {
+      "id": 216,
+      "status": "publish",
+      "modified": "2026-05-25T21:48:09",
+      "link": "https://thongtaccongquangninh.com/cach-xu-ly-cong-thoat-nuoc-tac/",
+      "title": "Cách xử lý cống thoát nước tắc: kiểm tra nguyên nhân trước khi gọi thợ"
+    },
+    "rankMeta": {
+      "slug": true,
+      "schemas": []
+    },
+    "rankScore": 1,
+    "finalSchemaUpdate": {
+      "id": 216,
+      "status": "publish",
+      "modified": "2026-05-25T21:50:16",
+      "reason": "Add managed FAQPage JSON-LD"
+    }
+  }
+}

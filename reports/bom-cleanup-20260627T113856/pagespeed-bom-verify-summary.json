@@ -1,0 +1,18 @@
+{
+  "mobile": {
+    "seoScore": 1,
+    "bestPracticesScore": 0.77,
+    "doctype": 1,
+    "metaDescription": 1,
+    "documentTitle": 1,
+    "crawlableAnchors": 1
+  },
+  "desktop": {
+    "seoScore": 1,
+    "bestPracticesScore": 0.77,
+    "doctype": 1,
+    "metaDescription": 1,
+    "documentTitle": 1,
+    "crawlableAnchors": 1
+  }
+}

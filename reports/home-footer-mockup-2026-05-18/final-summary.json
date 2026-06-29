@@ -1,0 +1,191 @@
+[
+  {
+    "viewport": {
+      "name": "desktop-final",
+      "width": 1440,
+      "height": 1100
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.08; direct-template",
+      "yAtFooter": 10796,
+      "footerTop": 10796.03125,
+      "footerHeight": 1329,
+      "noHorizontalScroll": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "supportItems": 3,
+      "socialIcons": 5,
+      "accordionButtons": 3,
+      "commitItems": 6,
+      "benefitCards": 3,
+      "telUnique": [
+        "tel:0931156756"
+      ],
+      "mailUnique": [
+        "mailto:moitruongdothiso1qn@gmail.com"
+      ],
+      "supportColumns": "330px 620px 360px",
+      "mainColumns": "289.906px 196.719px 186.375px 196.734px 300.266px",
+      "truckSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+      "truckFit": "contain",
+      "truckComplete": true,
+      "workerSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+      "workerFit": "contain",
+      "workerComplete": true,
+      "accordionBefore": [
+        "true",
+        "false",
+        "false"
+      ],
+      "accordionAfter": [
+        "true",
+        "false",
+        "false"
+      ],
+      "backTopAfterClick": 0
+    }
+  },
+  {
+    "viewport": {
+      "name": "wide-final",
+      "width": 1920,
+      "height": 1100
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.08; direct-template",
+      "yAtFooter": 10846,
+      "footerTop": 10845.953125,
+      "footerHeight": 1160.796875,
+      "noHorizontalScroll": true,
+      "scrollWidth": 1920,
+      "innerWidth": 1920,
+      "supportItems": 3,
+      "socialIcons": 5,
+      "accordionButtons": 3,
+      "commitItems": 6,
+      "benefitCards": 3,
+      "telUnique": [
+        "tel:0931156756"
+      ],
+      "mailUnique": [
+        "mailto:moitruongdothiso1qn@gmail.com"
+      ],
+      "supportColumns": "330px 856px 360px",
+      "mainColumns": "350.359px 237.75px 225.25px 237.75px 362.891px",
+      "truckSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+      "truckFit": "contain",
+      "truckComplete": true,
+      "workerSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+      "workerFit": "contain",
+      "workerComplete": true,
+      "accordionBefore": [
+        "true",
+        "false",
+        "false"
+      ],
+      "accordionAfter": [
+        "true",
+        "false",
+        "false"
+      ],
+      "backTopAfterClick": 0
+    }
+  },
+  {
+    "viewport": {
+      "name": "tablet-final",
+      "width": 900,
+      "height": 1100
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.08; direct-template",
+      "yAtFooter": 14212,
+      "footerTop": 14212.25,
+      "footerHeight": 2537.796875,
+      "noHorizontalScroll": true,
+      "scrollWidth": 900,
+      "innerWidth": 900,
+      "supportItems": 3,
+      "socialIcons": 5,
+      "accordionButtons": 3,
+      "commitItems": 6,
+      "benefitCards": 3,
+      "telUnique": [
+        "tel:0931156756"
+      ],
+      "mailUnique": [
+        "mailto:moitruongdothiso1qn@gmail.com"
+      ],
+      "supportColumns": "806px",
+      "mainColumns": "386px 386px",
+      "truckSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+      "truckFit": "contain",
+      "truckComplete": true,
+      "workerSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+      "workerFit": "contain",
+      "workerComplete": true,
+      "accordionBefore": [
+        "true",
+        "false",
+        "false"
+      ],
+      "accordionAfter": [
+        "true",
+        "false",
+        "false"
+      ],
+      "backTopAfterClick": 0
+    }
+  },
+  {
+    "viewport": {
+      "name": "mobile-final",
+      "width": 390,
+      "height": 1100,
+      "mobile": true
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.08; direct-template",
+      "yAtFooter": 23559,
+      "footerTop": 23559.140625,
+      "footerHeight": 3504.125,
+      "noHorizontalScroll": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "supportItems": 3,
+      "socialIcons": 5,
+      "accordionButtons": 3,
+      "commitItems": 6,
+      "benefitCards": 3,
+      "telUnique": [
+        "tel:0931156756"
+      ],
+      "mailUnique": [
+        "mailto:moitruongdothiso1qn@gmail.com"
+      ],
+      "supportColumns": "320px",
+      "mainColumns": "312px",
+      "truckSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/septic-truck-real.webp",
+      "truckFit": "contain",
+      "truckComplete": true,
+      "workerSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/hero-worker-tho-thong-tac-cong-quang-ninh.webp",
+      "workerFit": "contain",
+      "workerComplete": true,
+      "accordionBefore": [
+        "true",
+        "false",
+        "false"
+      ],
+      "accordionAfter": [
+        "true",
+        "true",
+        "false"
+      ],
+      "backTopAfterClick": 0
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "desktop",
+    "before": {
+      "meta": "2026.05.18.27; direct-template",
+      "viewport": {
+        "winWidth": 1440,
+        "docWidth": 1440
+      },
+      "section": {
+        "w": 1440,
+        "h": 948
+      },
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "telLinks": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zaloLinks": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "mobileMenu": true,
+      "personComplete": true,
+      "truckComplete": true,
+      "vectorComplete": true,
+      "personRect": {
+        "x": 472,
+        "y": 234,
+        "w": 800,
+        "h": 650
+      },
+      "titleRect": {
+        "x": 130,
+        "y": 489,
+        "w": 620,
+        "h": 250
+      }
+    },
+    "menuAfterClick": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "tablet",
+    "before": {
+      "meta": "2026.05.18.27; direct-template",
+      "viewport": {
+        "winWidth": 900,
+        "docWidth": 900
+      },
+      "section": {
+        "w": 900,
+        "h": 914
+      },
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "telLinks": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zaloLinks": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "mobileMenu": true,
+      "personComplete": true,
+      "truckComplete": true,
+      "vectorComplete": true,
+      "personRect": {
+        "x": 170,
+        "y": 260,
+        "w": 800,
+        "h": 590
+      },
+      "titleRect": {
+        "x": 20,
+        "y": 504,
+        "w": 486,
+        "h": 169
+      }
+    },
+    "menuAfterClick": null,
+    "consoleErrors": []
+  },
+  {
+    "name": "mobile",
+    "before": {
+      "meta": "2026.05.18.27; direct-template",
+      "viewport": {
+        "winWidth": 390,
+        "docWidth": 390
+      },
+      "section": {
+        "w": 390,
+        "h": 1008
+      },
+      "title": "DỊCH VỤ\nCỦA CHÚNG TÔI",
+      "telLinks": [
+        "tel:0931156756",
+        "tel:0931156756"
+      ],
+      "zaloLinks": [
+        "https://zalo.me/0963953533",
+        "https://zalo.me/0963953533"
+      ],
+      "mobileMenu": true,
+      "personComplete": true,
+      "truckComplete": true,
+      "vectorComplete": true,
+      "personRect": {
+        "x": -418,
+        "y": 362,
+        "w": 800,
+        "h": 332
+      },
+      "titleRect": {
+        "x": 32,
+        "y": 678,
+        "w": 326,
+        "h": 67
+      }
+    },
+    "menuAfterClick": {
+      "navActive": true,
+      "navExpanded": "true"
+    },
+    "consoleErrors": []
+  }
+]

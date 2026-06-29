@@ -1,0 +1,47 @@
+# DEAD CODE CANDIDATES
+
+Ngày cập nhật: 2026-05-21
+
+Quy ước:
+- **SAFE_DELETE**: chắc chắn không dùng, đã kiểm reference/import/runtime hợp lý.
+- **REVIEW_REQUIRED**: có thể dùng động qua WordPress/plugin/shortcode/route/deploy/rollback.
+- **KEEP**: đang dùng hoặc là backup/report/media/source vận hành chưa có retention policy.
+
+| File/Khu vực | Dòng/khu vực | Loại | Lý do nghi ngờ không dùng | Bằng chứng | Mức an toàn | Action đề xuất |
+|---|---:|---|---|---|---|---|
+| `tmp_fix.py` | toàn file | JS/Python temp | File tạm lỗi cú pháp, không có giá trị vận hành | Nội dung 15 bytes `print(" Hello\)`; `rg` không có reference | SAFE_DELETE | Fixed: đã xóa |
+| `.*` | toàn file | Temp/broken filename | File rỗng tên lỗi ở root | `ls -lab`, size 0 bytes | SAFE_DELETE | Fixed: đã xóa |
+| `]*` | toàn file | Temp/broken filename | File rỗng tên lỗi ở root | `find` phát hiện size 0 bytes | SAFE_DELETE | Fixed: đã xóa |
+| `sticky_cta_zalo_phone.html` | toàn file | HTML/CSS snippet | Snippet CTA cũ, dùng số giả `0900000000`, không thấy import/reference thật | `rg` chỉ thấy chính file; active mobile CTA đã có plugin riêng; sau xóa `ls` báo không còn file | SAFE_DELETE | Fixed: đã xóa |
+| `global-styles.php` | toàn file | PHP/CSS override | Root plugin override trang con, nhiều `!important`, `display:none`, `visibility:hidden` | Renderer v2026.05.21.3 strip block `GENERATEPRESS THEME OVERRIDE`; live `/blog/` và `/hut-be-phot-quang-ninh/` còn HTTP 200, H1 = 1, `ttcqn-gp-pages-css` = 1 | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `ttcqn-home-performance-tune.php` ở root | toàn file | PHP plugin duplicate | Cùng tên với plugin trong `tools/wp-plugins`, nhưng active/source upload path là `tools/wp-plugins/ttcqn-home-performance-tune/` | MCP active plugin xác nhận `ttcqn-home-performance-tune/ttcqn-home-performance-tune.php`; root duplicate đã chuyển vào backup | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/ttcqn-home-performance-tune/` + zip | toàn folder | Plugin/CSS patch cũ | Plugin chỉ còn vai trò patch CSS/preload cho homepage | CSS/preload đã gộp vào `ttcqn-home-emergency-renderer/templates/page-home-direct.php`; live plugin đã deactivated; homepage 200; marker style cũ không còn | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/ttcqn-home-lead-form/` + zip | toàn folder | Plugin backend/UI cũ | Frontend không còn render; backend CPT/REST đã gộp vào renderer | Live plugin inactive; REST `/wp-json/ttcqn/v1/lead` vẫn trả 200 cho honeypot POST; homepage 200 | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/upload_home_lead_form_plugin.mjs` | toàn file | Upload script cũ | Script có thể tái upload plugin đã deactivated | Plugin source/zip đã archive; backend hiện nằm trong renderer | SAFE_ARCHIVE | Fixed: archived |
+| `tools/upload_home_performance_tune_plugin.mjs` | toàn file | Upload script cũ | Script có thể tái upload plugin đã deactivated | Plugin source/zip đã archive; script không còn đường deploy hợp lệ | SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/ttcqn-scroll-guide-assistant/` + zip | toàn folder | Plugin UI cũ | Plugin UI riêng tạo thêm lớp CSS/JS, chức năng đã chuyển vào renderer chính | Renderer v2026.05.21.5 include `includes/scroll-guide-assistant.php`; live plugin gốc đã delete; `/`, `/blog/`, `/hut-be-phot-quang-ninh/` vẫn có marker scroll guide và HTTP 200 | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/upload_scroll_guide_assistant_plugin.mjs` | toàn file | Upload script cũ | Script có thể tái upload plugin đã hợp nhất/xóa live | Source/zip plugin gốc đã archive; renderer là deploy path hiện tại | SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/ttcqn-mobile-left-sticky-cta/` + zip | toàn folder | Plugin UI cũ | Plugin UI riêng tạo thêm lớp CSS/asset, chức năng đã chuyển vào renderer chính | Renderer v2026.05.21.5 include `includes/mobile-left-sticky-cta.php`; live plugin gốc đã delete; `/`, `/blog/`, `/hut-be-phot-quang-ninh/` vẫn có marker `ttcqn-mls` và HTTP 200 | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/upload_mobile_left_sticky_cta_plugin.mjs` | toàn file | Upload script cũ | Script có thể tái upload plugin đã hợp nhất/xóa live | Source/zip plugin gốc đã archive; renderer là deploy path hiện tại | SAFE_ARCHIVE | Fixed: archived |
+| `_tmp/check-ttcqn-home-performance-tune-zip/` | toàn folder | Temp verify artifact | Snapshot kiểm zip của plugin cũ | Không phải source active; plugin đã archive | SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/ttcqn-favicon-override/` + zip | toàn folder | Plugin asset | Bản favicon cũ đã bị thay bởi v3 | MCP active plugin xác nhận `ttcqn-favicon-override-v3/ttcqn-favicon-override-v3.php` | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/ttcqn-favicon-override-20260512/` + zip | toàn folder | Plugin asset | Bản favicon cũ theo ngày đã bị thay bởi v3 | MCP active plugin xác nhận `ttcqn-favicon-override-v3/ttcqn-favicon-override-v3.php` | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/ttcqn-home-template-diagnostics/` + zip | toàn folder | Plugin diagnostic | Plugin debug homepage không còn active | MCP active plugin list không có diagnostics; report cũ ghi đã deactivate | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `_tmp_home_reference_preview.html` | toàn file | HTML/CSS snapshot | Preview lớn ở root, không phải source active | File do `tools/render_home_preview.php` tạo; không được deploy | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `reports/tmp-hut-be-phot-ha-long-live.html` | toàn file | Report artifact | Snapshot HTML cũ | Nằm trong `reports`, có giá trị audit lịch sử | KEEP | Giữ hoặc gom archive theo tháng |
+| `reports/tmp-hut-be-phot-ha-long-after-doorway-fix.html` | toàn file | Report artifact | Snapshot HTML cũ | Nằm trong `reports`, có giá trị audit lịch sử | KEEP | Giữ hoặc gom archive theo tháng |
+| `content-drafts/**` chứa `CTA cuối bài:` | nhiều dòng | Content draft artifact | Nhãn biên tập còn trong nội dung | Backup 51 file vào `backups/cleanup-cta-label-2026-05-21/source-files.tar.gz`; sau sửa `rg` không còn match | SAFE_DELETE phần nhãn, KEEP file draft | Fixed: đã xóa tiền tố nhãn, không xóa draft |
+| `tools/generate_*_drafts.mjs` | template CTA | JS generator | Generator sinh tiền tố `CTA cuối bài:` | Đã sửa `generate_hut_be_phot_drafts.mjs`, `generate_thong_tac_cong_drafts.mjs`, `generate_remaining_seo_drafts.mjs`; `node --check` OK | SAFE_DELETE phần nhãn | Fixed: generator không tái tạo nhãn |
+| `image-briefs/assets-backup-2026-05-10/hut-be-phot-van-don-case-study.jpg` | toàn file | Asset backup | File 0 bytes trong backup ảnh | `find -size 0`; không còn trong active image package | REVIEW_REQUIRED -> SAFE_ARCHIVE | Fixed: archived |
+| `tools/wp-plugins/*.zip` | toàn folder | Deployment artifact | Nhiều zip phiên bản plugin | Có thể dùng rollback/upload | KEEP | Không xóa; lập manifest version trước |
+| Live `ttcqn-favicon-override-v3` | WordPress plugin live | Plugin | Có thể nhìn giống plugin phụ, nhưng đang phục vụ favicon | HTML live vẫn có favicon URL; chưa có source hợp nhất thay thế | KEEP | Không xóa trong batch này |
+| Live `ttcqn-google-ads-tag` | WordPress plugin live | Plugin | Có thể nhìn giống plugin phụ, nhưng đang phục vụ tracking | HTML live có Google Ads conversion id `AW-18031795119` | KEEP | Không xóa trong batch này |
+| Live `ttcqn-home-service-images` | WordPress plugin live | Plugin | Có thể là plugin ảnh homepage cũ | Live homepage còn marker `ttcqn-home-service-images` | REVIEW_REQUIRED | Chỉ xóa sau khi renderer sở hữu toàn bộ ảnh homepage và visual pass |
+| Live `ttcqn-mobile-image-optimizer` | WordPress plugin live | Plugin | Có thể là plugin tối ưu ảnh runtime | Live `/`, `/blog/`, `/hut-be-phot-quang-ninh/` còn marker `ttcqn-mobile-image-optimizer` | REVIEW_REQUIRED | Cần so sánh HTML ảnh/caption trước-sau hoặc inspect source live |
+| Live `ttcqn-subpage-banner-dedupe` | WordPress plugin live | Plugin | Marker public đang không thấy, có thể đã được renderer xử lý một phần | Plugin vẫn active; chưa có bằng chứng source/tác dụng runtime đầy đủ | REVIEW_REQUIRED | Kiểm source live hoặc visual trang con trước khi deactivate |
+| `backups/**` | toàn folder | Backup | Dung lượng 258MB | Dữ liệu rollback live | KEEP | Không xóa nếu chưa có retention policy |
+| `reports/**` | toàn folder | Report | Dung lượng 156MB | Lịch sử audit/verify | KEEP | Chỉ archive, không delete |
+| `seo-revisions/**` | toàn folder | Backup/revision | Dung lượng 13MB | Lưu bản trước/sau SEO | KEEP | Không xóa |
+| `node_modules/**` | toàn folder | Dependency install | Có thể cài lại, nhưng đang phục vụ script local | `package.json` dùng `puppeteer`, `tools/package.json` dùng `basic-ftp` | KEEP | Không xóa trong audit này |
+
+Kết luận: đã xóa/cleanup các nhóm SAFE_DELETE và đã archive thêm nhóm REVIEW_REQUIRED có đủ bằng chứng vào `backups/cleanup-review-required-2026-05-21/`, `backups/cleanup-home-performance-tune-2026-05-21/`, `backups/cleanup-global-styles-2026-05-21/`, `backups/cleanup-home-lead-form-2026-05-21/` và `backups/cleanup-integrated-ui-2026-05-21/`. Legacy `global-styles.php` không còn xuất hiện trong HTML live qua marker `GENERATEPRESS THEME OVERRIDE`; CSS scoped mới vẫn được giữ. Các plugin favicon/Ads/mobile image/home service/subpage banner chưa bị xóa vì chưa đủ bằng chứng SAFE_DELETE.

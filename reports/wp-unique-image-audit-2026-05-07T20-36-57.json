@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-07T20:37:22+0700",
+  "mode": "audit",
+  "includeDrafts": false,
+  "hashed": true,
+  "totalContent": 36,
+  "pagesWithIssues": 0,
+  "samePageDuplicatePages": 0,
+  "pagesUnderThreeImages": 0,
+  "globalReuseGroups": 0,
+  "fixes": [],
+  "issues": [],
+  "globalReuse": []
+}

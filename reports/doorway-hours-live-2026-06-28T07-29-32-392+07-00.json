@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-06-28T07:29:32.392+07:00",
+  "timezone": "Asia/Bangkok",
+  "target": {
+    "local": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-doorway-schema/ttcqn-doorway-schema.php",
+    "remote": "/public_html/wp-content/plugins/ttcqn-doorway-schema/ttcqn-doorway-schema.php",
+    "backupPath": "/mnt/d/.thongtaccongquangninh/backups/doorway-hours-live-2026-06-28T07-29-32-392+07-00/ttcqn-doorway-schema.remote.php"
+  },
+  "write": {
+    "backupCreated": true,
+    "remoteMatches": true,
+    "writeText": "{\"path\":\"/public_html/wp-content/plugins/ttcqn-doorway-schema/ttcqn-doorway-schema.php\",\"status\":\"ok\"}"
+  },
+  "public": {
+    "qnPage": {
+      "status": 200,
+      "hasDoorwayScript": false,
+      "hasNewHours": false,
+      "hasOldHours": false,
+      "hasOld247": false,
+      "hasVerifiedHoursText": true
+    },
+    "baiChayPage": {
+      "status": 200,
+      "hasDoorwayScript": false,
+      "hasNewHours": false,
+      "hasOldHours": false,
+      "hasOld247": false,
+      "hasVerifiedHoursText": true
+    }
+  },
+  "success": false
+}

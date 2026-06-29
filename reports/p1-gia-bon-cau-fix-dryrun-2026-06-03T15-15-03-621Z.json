@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-03T15:15:05.044Z",
+  "target": {
+    "id": 2357,
+    "collection": "posts",
+    "slug": "gia-thong-tac-bon-cau-quang-ninh",
+    "url": "https://thongtaccongquangninh.com/gia-thong-tac-bon-cau-quang-ninh/"
+  },
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-p1-gia-bon-cau-2026-06-03T15-15-03-621Z",
+  "newTitle": "Giá thông tắc bồn cầu Quảng Ninh 2026: báo giá rõ từng trường hợp",
+  "newTitleLen": 65,
+  "newDesc": "Giá thông tắc bồn cầu Quảng Ninh 2026 rõ từng ca, báo trước khi làm. Tắc nhẹ, vật cứng, khách sạn, ban đêm gọi 0963.953.533 / 0931.156.756 xử lý 24/7.",
+  "newDescLen": 150,
+  "before": {
+    "title": "Giá Thông Tắc Bồn Cầu Quảng Ninh 2026 – Báo Giá Thật, Không Phát Sinh",
+    "excerpt": "Giá thông tắc bồn cầu Quảng Ninh 2026 rõ ràng, không phát sinh thêm. Thợ có mặt 15 phút, xử lý không đục phá, bảo hành dài hạn. Gọi ngay 0963.953.533 – phục vụ 24/7.",
+    "rawWordCount": 2068,
+    "rawH1Count": 1,
+    "rawH2Count": 9,
+    "hasNguyenNhanH2": false,
+    "hasOldAuthorUrl": true,
+    "hasAuthorArchive": false,
+    "hasServiceSchema": false
+  },
+  "update": {
+    "changes": [
+      {
+        "label": "add_nguyen_nhan_h2",
+        "changed": true
+      },
+      {
+        "label": "replace_old_author_url",
+        "changed": true
+      },
+      {
+        "label": "update_blogposting_schema",
+        "changed": true
+      },
+      {
+        "label": "add_service_schema",
+        "changed": true
+      },
+      {
+        "label": "ensure_final_author_line",
+        "changed": true
+      }
+    ],
+    "afterRawWordCount": 2071,
+    "afterRawH1Count": 1,
+    "afterRawH2Count": 9,
+    "hasNguyenNhanH2": true,
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "finalAuthorLine": true
+  },
+  "rankMath": null,
+  "verify": null
+}

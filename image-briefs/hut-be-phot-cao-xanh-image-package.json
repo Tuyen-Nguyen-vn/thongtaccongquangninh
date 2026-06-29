@@ -1,0 +1,66 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-19T00:00:00.000Z",
+  "slug": "hut-be-phot-cao-xanh",
+  "service": "hút bể phốt",
+  "area": "Cao Xanh – Hạ Long",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "hut-be-phot-cao-xanh-ha-long-anh-dau-bai.jpg",
+      "fileNameWebP": "hut-be-phot-cao-xanh-ha-long-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-cao-xanh\\hut-be-phot-cao-xanh-ha-long-anh-dau-bai.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\hut-be-phot-cao-xanh-ha-long-anh-dau-bai.jpg",
+      "fileSizeKb": 194,
+      "altText": "Xe hút bể phốt Cao Xanh Hạ Long khu dân cư đông",
+      "title": "Hút bể phốt Cao Xanh – Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "caption": "Dịch vụ hút bể phốt Cao Xanh Hạ Long, gọi 0963.953.533",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-cao-xanh/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – Ảnh đầu bài / hero",
+      "privacyOk": true, "customerFaceVisible": false, "faceConsent": false, "isPoster": false, "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-cao-xanh-ha-long-khu-dan-cu-dong.jpg",
+      "fileNameWebP": "hut-be-phot-cao-xanh-ha-long-khu-dan-cu-dong.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-cao-xanh\\hut-be-phot-cao-xanh-ha-long-khu-dan-cu-dong.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\hut-be-phot-cao-xanh-ha-long-khu-dan-cu-dong.jpg",
+      "fileSizeKb": 237,
+      "altText": "Hút bể phốt khu dân cư đông phường Cao Xanh Hạ Long",
+      "title": "Hút bể phốt khu dân cư Cao Xanh Hạ Long",
+      "caption": "Xe hút bể phốt phục vụ khu dân cư Cao Xanh, Hạ Long",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-cao-xanh/",
+      "placement": "trong phần Tại sao chọn",
+      "slot": "Ảnh 2 – Khu vực phục vụ",
+      "privacyOk": true, "customerFaceVisible": false, "faceConsent": false, "isPoster": false, "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-cao-xanh-ha-long-case-study.jpg",
+      "fileNameWebP": "hut-be-phot-cao-xanh-ha-long-case-study.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-cao-xanh\\hut-be-phot-cao-xanh-ha-long-case-study.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\hut-be-phot-cao-xanh-ha-long-case-study.jpg",
+      "fileSizeKb": 181,
+      "altText": "Hút bể phốt nhà trọ đông phòng phường Cao Xanh Hạ Long",
+      "title": "Case study hút bể phốt nhà trọ Cao Xanh – xử lý sạch triệt để",
+      "caption": "Xử lý bể phốt nhà trọ 12 phòng phường Cao Xanh, Hạ Long",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-cao-xanh/",
+      "placement": "trong phần Case study E-E-A-T",
+      "slot": "Ảnh 3 – Case study",
+      "privacyOk": true, "customerFaceVisible": false, "faceConsent": false, "isPoster": false, "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-cao-xanh-ha-long-quy-trinh-thi-cong.jpg",
+      "fileNameWebP": "hut-be-phot-cao-xanh-ha-long-quy-trinh-thi-cong.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-cao-xanh\\hut-be-phot-cao-xanh-ha-long-quy-trinh-thi-cong.jpg",
+      "assetsPath": "D:\\.thongtaccongquangninh\\image-briefs\\assets\\hut-be-phot-cao-xanh-ha-long-quy-trinh-thi-cong.jpg",
+      "fileSizeKb": 273,
+      "altText": "Quy trình 5 bước hút bể phốt tại phường Cao Xanh Hạ Long",
+      "title": "Quy trình hút bể phốt Cao Xanh – 5 bước chuẩn",
+      "caption": "5 bước hút bể phốt tại Cao Xanh Hạ Long – minh bạch, không phát sinh",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-cao-xanh/",
+      "placement": "trong phần Quy trình 5 bước",
+      "slot": "Ảnh 4 – Quy trình thi công",
+      "privacyOk": true, "customerFaceVisible": false, "faceConsent": false, "isPoster": false, "containsPrivateInfo": false
+    }
+  ]
+}

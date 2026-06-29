@@ -1,0 +1,74 @@
+{
+  "desktop": {
+    "version": true,
+    "sectionBg": "radial-gradient(circle at 45% 45%, rgba(57, 211, 83, 0.2), rgba(0, 0, 0, 0) 42%), radial-gradient(circle at 30% 55%, rgba(126, 217, 87, 0.14), rgba(0, 0, 0, 0) 38%), radial-gradient(circle at 88% 22%, rgba(0, 184, 217, 0",
+    "gridColumns": "673.906px 574.094px",
+    "firstSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+    "imageCount": 7,
+    "featureCount": 6,
+    "hiddenFeatureCount": 0,
+    "badgeText": "DỊCH VỤ TẠI QUẢNG NINH",
+    "hasRegionSvg": true,
+    "sliderTransformChanged": true,
+    "nextAria": "Ảnh tiếp theo",
+    "firstDotAria": "Chuyển đến ảnh 1",
+    "sliderViewport": {
+      "w": 674,
+      "h": 421
+    },
+    "contentBox": {
+      "w": 574,
+      "h": 813
+    },
+    "horizontalScroll": false,
+    "consoleErrors": []
+  },
+  "tablet": {
+    "version": true,
+    "sectionBg": "radial-gradient(circle at 45% 45%, rgba(57, 211, 83, 0.2), rgba(0, 0, 0, 0) 42%), radial-gradient(circle at 30% 55%, rgba(126, 217, 87, 0.14), rgba(0, 0, 0, 0) 38%), radial-gradient(circle at 88% 22%, rgba(0, 184, 217, 0",
+    "gridColumns": "760px",
+    "firstSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+    "imageCount": 7,
+    "featureCount": 6,
+    "hiddenFeatureCount": 0,
+    "badgeText": "DỊCH VỤ TẠI QUẢNG NINH",
+    "hasRegionSvg": true,
+    "sliderTransformChanged": true,
+    "nextAria": "Ảnh tiếp theo",
+    "firstDotAria": "Chuyển đến ảnh 1",
+    "sliderViewport": {
+      "w": 760,
+      "h": 570
+    },
+    "contentBox": {
+      "w": 0,
+      "h": 0
+    },
+    "horizontalScroll": false,
+    "consoleErrors": []
+  },
+  "mobile": {
+    "version": true,
+    "sectionBg": "radial-gradient(circle at 45% 45%, rgba(57, 211, 83, 0.2), rgba(0, 0, 0, 0) 42%), radial-gradient(circle at 30% 55%, rgba(126, 217, 87, 0.14), rgba(0, 0, 0, 0) 38%), radial-gradient(circle at 88% 22%, rgba(0, 184, 217, 0",
+    "gridColumns": "358px",
+    "firstSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/doi-tac-cong-ty-xu-ly-nuoc-thai-quang-ninh.webp",
+    "imageCount": 7,
+    "featureCount": 6,
+    "hiddenFeatureCount": 0,
+    "badgeText": "DỊCH VỤ TẠI QUẢNG NINH",
+    "hasRegionSvg": true,
+    "sliderTransformChanged": true,
+    "nextAria": "Ảnh tiếp theo",
+    "firstDotAria": "Chuyển đến ảnh 1",
+    "sliderViewport": {
+      "w": 358,
+      "h": 269
+    },
+    "contentBox": {
+      "w": 0,
+      "h": 0
+    },
+    "horizontalScroll": false,
+    "consoleErrors": []
+  }
+}

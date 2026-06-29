@@ -1,0 +1,973 @@
+{
+  "root": "D:\\.thongtaccongquangninh",
+  "generated_at": "2026-05-22T23:19:54",
+  "totals": {
+    "files": 5435,
+    "directories": 1016,
+    "bytes": 1418769779
+  },
+  "category_counts": {
+    "other": 2870,
+    "report": 668,
+    "tool-script": 611,
+    "seo-revision": 594,
+    "data-output": 341,
+    "document": 220,
+    "wordpress-operation-log": 88,
+    "content-draft": 19,
+    "seo-status": 18,
+    "agent-config": 4,
+    "context": 2
+  },
+  "category_sizes": {
+    "other": 1084161170,
+    "report": 185783664,
+    "tool-script": 120387220,
+    "seo-revision": 16202223,
+    "data-output": 7828261,
+    "document": 2255676,
+    "wordpress-operation-log": 1536162,
+    "content-draft": 357436,
+    "seo-status": 208026,
+    "context": 38040,
+    "agent-config": 11901
+  },
+  "top_level_counts": {
+    "backups": 1144,
+    "_tmp": 1015,
+    "reports": 668,
+    "tools": 611,
+    "seo-revisions": 594,
+    "image-briefs": 588,
+    "Ảnh Đã Xử Lý SEO": 405,
+    "Ảnh cung cấp": 113,
+    "scratch": 31,
+    "logs": 23,
+    "docs": 22,
+    "content-drafts": 19,
+    "Favicon": 12,
+    ".codex": 9,
+    ".cursor": 7,
+    "scripts": 7,
+    ".claude": 6,
+    ".agents": 4,
+    ".tmp.driveupload": 2,
+    "skills": 2,
+    ".clinerules": 1,
+    ".cursorrules": 1,
+    ".env": 1,
+    ".env.example": 1,
+    "AGENTS.md": 1,
+    "AGENT_OWNERSHIP.md": 1,
+    "AI_AGENT_RULES.md": 1,
+    "AI_RULES.md": 1,
+    "ARTICLE_SEO_AI_OVERVIEW_CHECKLIST.md": 1,
+    "AUDIT_REPORT.md": 1,
+    "CLAUDE.md": 1,
+    "CODEX_CONTEXT.md": 1,
+    "CODE_CLEANUP_RULES.md": 1,
+    "CONTENT_RULES.md": 1,
+    "DASHBOARD_2026-05-10.md": 1,
+    "DASHBOARD_2026-05-11.md": 1,
+    "DASHBOARD_2026-05-12.md": 1,
+    "DASHBOARD_2026-05-13.md": 1,
+    "DASHBOARD_2026-05-14.md": 1,
+    "DASHBOARD_2026-05-15.md": 1,
+    "DASHBOARD_2026-05-16.md": 1,
+    "DASHBOARD_2026-05-17.md": 1,
+    "DASHBOARD_2026-05-18.md": 1,
+    "DASHBOARD_2026-05-20.md": 1,
+    "DASHBOARD_2026-05-21.md": 1,
+    "DASHBOARD_2026-05-22.md": 1,
+    "DEAD_CODE_CANDIDATES.md": 1,
+    "DRAFT_DUPLICATE_REVIEW.md": 1,
+    "DRAFT_REMAINING_AUDIT.md": 1,
+    "htaccess_new.txt": 1,
+    "htaccess_restored.txt": 1,
+    "IMAGE_SEO_WORKFLOW_2026-05-06.md": 1,
+    "LOCAL_SEO_DOORWAY_SAFE_WORKFLOW_2026-05-05.md": 1,
+    "logo-cong-ty-moi-truong-do-thi-so-1-quang-ninh.jpg": 1,
+    "logo.png": 1,
+    "Makefile": 1,
+    "package-lock.json": 1,
+    "package.json": 1,
+    "seo-content-guidelines.md": 1,
+    "SEO_DOORWAY_FIX_REPORT_CITY_GROUP_2026-05-05.md": 1,
+    "SEO_DOORWAY_FIX_REPORT_HA_LONG_2026-05-05.md": 1,
+    "SEO_FIX_PLAN.md": 1,
+    "SEO_GOOGLE_INDEX_2026-05-08.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-09.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-18.json": 1,
+    "SEO_GOOGLE_INDEX_2026-05-22.json": 1,
+    "SEO_INTERNAL_LINKS_LOG_2026-04-29.md": 1,
+    "SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv": 1,
+    "SEO_RULES.md": 1,
+    "SEO_STATUS_2026-05-03.md": 1,
+    "SEO_STATUS_2026-05-05.md": 1,
+    "SEO_STATUS_2026-05-06.md": 1,
+    "SEO_STATUS_2026-05-10.md": 1,
+    "SEO_STATUS_2026-05-12.md": 1,
+    "TASKS.md": 1,
+    "technical-seo-sop.md": 1,
+    "UPLOAD_DOI_TAC_IMAGES_2026-05-16.json": 1,
+    "WORDPRESS_CLEAN_DUPLICATE_IMAGE_FILENAMES_2026-05-07.json": 1,
+    "WORDPRESS_DEACTIVATE_HOME_TEMP_PLUGINS_2026-05-13.json": 1,
+    "WORDPRESS_DEBUG_AFTER_HOME_BYPASS_2026-05-13.txt": 1,
+    "WORDPRESS_DESKTOP_IMAGE_SEO_2026-05-06T17-38-00.json": 1,
+    "WORDPRESS_DOORWAY_SAFE_RENDERER_PLUGIN_UPLOAD_2026-05-19.json": 1,
+    "WORDPRESS_FAVICON_20260512_PLUGIN_UPLOAD_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_20260514_PLUGIN_UPLOAD_2026-05-14.json": 1,
+    "WORDPRESS_FAVICON_CLEANUP_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_FORCE_DISABLE_OLD_PLUGIN_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-10.json": 1,
+    "WORDPRESS_FAVICON_PLUGIN_UPLOAD_2026-05-12.json": 1,
+    "WORDPRESS_FAVICON_VERIFY_2026-05-10.json": 1,
+    "WORDPRESS_FAVICON_VERIFY_2026-05-14.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-40-55.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-43-37.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T17-45-54.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-06T18-28-38.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-14T15-34-14.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T19-12-26.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-10-24.json": 1,
+    "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-14-35.json": 1,
+    "WORDPRESS_FINAL_VERIFY_SEO_IMAGES_2026-05-06.json": 1,
+    "WORDPRESS_FIX_BLOG_MENU_LABEL_2026-05-16T20-51-37-617Z.json": 1,
+    "WORDPRESS_FIX_CITY_META_DESCRIPTIONS_2026-05-05.json": 1,
+    "WORDPRESS_FIX_DUPLICATE_TITLES_2026-05-09.json": 1,
+    "WORDPRESS_FIX_HOME_BLANK_TEMPLATE_2026-05-12.json": 1,
+    "WORDPRESS_FIX_PAGE_311_NAP_2026-05-12.json": 1,
+    "WORDPRESS_GLOBAL_REUSE_IMAGE_FIX_2026-05-14T15-46-02.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-13.json": 1,
+    "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json": 1,
+    "WORDPRESS_HOME_HERO_LAYOUT_BALANCE_2026-05-16.json": 1,
+    "WORDPRESS_HOME_HERO_WORKER_FRONT_FORM_2026-05-16.json": 1,
+    "WORDPRESS_HOME_LEAD_FORM_CACHE_TOUCH_2026-05-12.json": 1,
+    "WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-12.json": 1,
+    "WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-18.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_ACTIVATE_2026-05-11.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_DEACTIVATE_2026-05-21.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_PLUGIN_UPLOAD_2026-05-11.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_UPLOAD_2026-05-17.json": 1,
+    "WORDPRESS_HOME_PERFORMANCE_TUNE_VERIFY_2026-05-11.json": 1,
+    "WORDPRESS_HOME_PROJECT_IMAGES_UPLOAD_2026-05-14.json": 1,
+    "WORDPRESS_HOME_PROJECT_IMAGES_VERIFY_2026-05-14.json": 1,
+    "WORDPRESS_HOME_REMOVE_TRUCK_TAIL_BLINK_2026-05-16.json": 1,
+    "WORDPRESS_HOME_RENDER_INSPECT_2026-05-06.json": 1,
+    "WORDPRESS_HOME_REPLACE_TRUCK_WORKER_BALANCE_2026-05-16.json": 1,
+    "WORDPRESS_HOME_SECTIONS_UPDATE_2026-05-14.json": 1,
+    "WORDPRESS_HOME_SERVICES_PIPE_TRUCK_LIGHTS_PLATE_2026-05-16.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_2026-05-07.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_PLUGIN_UPLOAD_2026-05-07.json": 1,
+    "WORDPRESS_HOME_SERVICE_IMAGES_UPLOAD_2026-05-07.json": 1,
+    "WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_2026-05-13.json": 1,
+    "WORDPRESS_HOME_TEMPLATE_DIAGNOSTICS_PLUGIN_UPLOAD_2026-05-13.json": 1,
+    "WORDPRESS_IMAGE_LAYOUT_FIX_2026-05-07.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-20-56-933Z.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-22-57-527Z.json": 1,
+    "WORDPRESS_IMAGE_SEO_DOT2_2026-05-06T07-27-20-134Z.json": 1,
+    "WORDPRESS_MCP_ABILITIES_2026-05-06.json": 1,
+    "WORDPRESS_MCP_ABILITIES_2026-05-10.json": 1,
+    "WORDPRESS_MCP_SMOKE_2026-05-06.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZED_UPLOADS_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_IMAGE_OPTIMIZER_PLUGIN_UPDATE_2026-05-07.json": 1,
+    "WORDPRESS_MOBILE_LEFT_STICKY_CTA_PLUGIN_UPLOAD_2026-05-16.json": 1,
+    "WORDPRESS_PHASE1_FIX_REPORT_2026-05-06.json": 1,
+    "WORDPRESS_PLUGINS_2026-05-10.json": 1,
+    "WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-10.json": 1,
+    "WORDPRESS_PUSH_IMAGE_PACKAGE_2026-05-16.json": 1,
+    "WORDPRESS_REPLACE_ANH_MINH_HOA_2026-05-07.json": 1,
+    "WORDPRESS_REPLACE_SUSPICIOUS_IMAGES_2026-05-14T15-39-10.json": 1,
+    "WORDPRESS_RESTORE_PAGE_HOME_TEMPLATE_2026-05-13.json": 1,
+    "WORDPRESS_RESTORE_PUBLISH_2026-05-07.json": 1,
+    "WORDPRESS_RESTORE_PUBLISH_CANDIDATES_2026-05-07.json": 1,
+    "WORDPRESS_REST_ROUTES_2026-05-06.json": 1,
+    "WORDPRESS_REWRITE_PAGE_380_CHUNG_CU_HA_LONG_2026-05-12.json": 1,
+    "WORDPRESS_REWRITE_PAGE_383_NHA_HANG_HA_LONG_2026-05-12.json": 1,
+    "WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-17.json": 1,
+    "WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-18.json": 1,
+    "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-05-20.json": 1,
+    "WORDPRESS_SUBPAGE_BANNER_DEDUPE_PLUGIN_2026-05-07.json": 1,
+    "WORDPRESS_SYNC_RENDERER_OPTION_296_2026-05-06.json": 1,
+    "WORDPRESS_SYNC_RENDERER_OPTION_296_IMAGE_LAYOUT_2026-05-07.json": 1,
+    "WORDPRESS_UPDATE_CITY_DOORWAY_SAFE_2026-05-05.json": 1,
+    "WORDPRESS_UPDATE_DOORWAY_BATCH2_2026-05-06.json": 1,
+    "WORDPRESS_UPDATE_FAVICON_2026-05-10.json": 1,
+    "WORDPRESS_UPDATE_FAVICON_2026-05-14.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_DOORWAY_SAFE_2026-05-05.json": 1,
+    "WORDPRESS_UPLOAD_INSERT_SEO_IMAGES_2026-05-06.json": 1,
+    "WORDPRESS_VERIFY_SEO_IMAGES_2026-05-06.json": 1,
+    "wp-similar-title-pairs.csv": 1,
+    "wp-url-audit-list.csv": 1,
+    "wp-url-audit-list.json": 1,
+    "WP_URL_AUDIT_REPORT_2026-05-06.md": 1,
+    "WP_URL_AUDIT_REPORT_2026-05-10.md": 1,
+    ".vscode": 1,
+    "seo-checklists": 1,
+    "terminal": 1
+  },
+  "suffix_counts": {
+    ".webp": 1319,
+    ".json": 1258,
+    ".png": 855,
+    ".py": 546,
+    ".md": 343,
+    "[no extension]": 341,
+    ".jpg": 270,
+    ".mjs": 113,
+    ".php": 76,
+    ".bak": 55,
+    ".zip": 46,
+    ".old": 25,
+    ".html": 23,
+    ".log": 19,
+    ".txt": 15,
+    ".typed": 15,
+    ".jpeg": 10,
+    ".db": 9,
+    ".0": 9,
+    ".so": 8,
+    ".pyi": 8,
+    ".csv": 7,
+    ".journal": 7,
+    ".tmp": 6,
+    ".ps1": 5,
+    ".js": 5,
+    ".sh": 4,
+    ".mdc": 4,
+    ".bat": 3,
+    ".db-journal": 2,
+    ".db-wal": 2,
+    ".2": 2,
+    ".example": 1,
+    ".lock": 1,
+    ".b64": 1,
+    ".code-workspace": 1,
+    ".toml": 1,
+    ".before": 1,
+    ".gz": 1,
+    ".pma": 1,
+    ".dat": 1,
+    ".pb": 1,
+    ".dmp": 1,
+    ".baj": 1,
+    ".baf": 1,
+    ".cfg": 1,
+    ".csh": 1,
+    ".fish": 1,
+    ".14": 1,
+    ".1": 1,
+    ".6": 1,
+    ".18": 1,
+    ".3": 1,
+    ".4": 1,
+    ".17": 1,
+    ".7": 1,
+    ".pem": 1
+  },
+  "latest_files": [
+    {
+      "path": ".tmp.driveupload\\1419",
+      "size": 165080,
+      "modified": "2026-05-22T23:19:49",
+      "category": "other"
+    },
+    {
+      "path": ".tmp.driveupload\\1423",
+      "size": 84,
+      "modified": "2026-05-22T23:19:49",
+      "category": "other"
+    },
+    {
+      "path": "logs\\uptime.log",
+      "size": 165080,
+      "modified": "2026-05-22T23:19:49",
+      "category": "other"
+    },
+    {
+      "path": "logs\\uptime_status.json",
+      "size": 84,
+      "modified": "2026-05-22T23:19:49",
+      "category": "data-output"
+    },
+    {
+      "path": "reports\\wp-unique-image-audit-2026-05-22T23-17-12.json",
+      "size": 14183,
+      "modified": "2026-05-22T23:17:59",
+      "category": "report"
+    },
+    {
+      "path": "reports\\wp-unique-image-audit-2026-05-22T23-17-12.md",
+      "size": 258,
+      "modified": "2026-05-22T23:17:59",
+      "category": "report"
+    },
+    {
+      "path": "docs\\SEO_PROGRESS.csv",
+      "size": 125386,
+      "modified": "2026-05-22T23:17:24",
+      "category": "seo-status"
+    },
+    {
+      "path": "reports\\schema-blueprint-2026-05-22.md",
+      "size": 3266,
+      "modified": "2026-05-22T23:17:08",
+      "category": "report"
+    },
+    {
+      "path": "reports\\site-full-audit-2026-05-22.json",
+      "size": 192534,
+      "modified": "2026-05-22T23:16:50",
+      "category": "report"
+    },
+    {
+      "path": "reports\\site-full-audit-2026-05-22.md",
+      "size": 15758,
+      "modified": "2026-05-22T23:16:50",
+      "category": "report"
+    },
+    {
+      "path": "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json",
+      "size": 16170,
+      "modified": "2026-05-22T23:15:41",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "tools\\wp-plugins\\ttcqn-doorway-safe-renderer.zip",
+      "size": 3125,
+      "modified": "2026-05-22T23:15:34",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\wp-plugins\\ttcqn-seo-cleanup-redirects.zip",
+      "size": 3823,
+      "modified": "2026-05-22T23:15:34",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer.zip",
+      "size": 6098271,
+      "modified": "2026-05-22T23:15:33",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer\\ttcqn-home-emergency-renderer.php",
+      "size": 105636,
+      "modified": "2026-05-22T23:15:22",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\url-inventory-2026-05-22.json",
+      "size": 18583,
+      "modified": "2026-05-22T23:15:10",
+      "category": "report"
+    },
+    {
+      "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer\\templates\\page-home-direct.php",
+      "size": 284926,
+      "modified": "2026-05-22T23:12:43",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\full-site-fix-summary-2026-05-22.md",
+      "size": 2756,
+      "modified": "2026-05-22T22:47:03",
+      "category": "report"
+    },
+    {
+      "path": "reports\\full-site-live-audit-after-fix-2026-05-22.json",
+      "size": 75106,
+      "modified": "2026-05-22T22:43:27",
+      "category": "report"
+    },
+    {
+      "path": "reports\\full-site-live-audit-after-fix-2026-05-22.md",
+      "size": 1017,
+      "modified": "2026-05-22T22:43:27",
+      "category": "report"
+    }
+  ],
+  "latest_by_category": {
+    "agent-config": [
+      {
+        "path": ".agents\\tac-tu-quan-ly-thu-muc-du-an.md",
+        "size": 2812,
+        "modified": "2026-05-12T00:37:20",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\tac-tu-xu-ly-anh-seo.md",
+        "size": 5321,
+        "modified": "2026-05-12T00:37:20",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\skills\\google-indexing\\KI_NANG_GOOGLE_INDEXING.md",
+        "size": 3768,
+        "modified": "2026-05-12T00:37:20",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\inspector-agent-ben.md",
+        "size": 0,
+        "modified": "2026-05-10T02:22:39",
+        "category": "agent-config"
+      }
+    ],
+    "content-draft": [
+      {
+        "path": "content-drafts\\blog\\mui-hoi-cong-nguyen-nhan-xu-ly-rankmath-90.md",
+        "size": 10839,
+        "modified": "2026-05-22T03:40:47",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\blog\\hoa-chat-tu-thong-cong-rankmath-90.md",
+        "size": 11679,
+        "modified": "2026-05-22T03:40:44",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\blog\\bon-cau-rut-cham-nguyen-nhan-rankmath-90.md",
+        "size": 10703,
+        "modified": "2026-05-22T03:40:33",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\thong-tac-cong-tuan-chau-ha-long-rankmath-draft.md",
+        "size": 22437,
+        "modified": "2026-05-22T03:40:23",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\thong-tac-cong-gieng-day-ha-long-rankmath-draft.md",
+        "size": 20367,
+        "modified": "2026-05-22T03:40:19",
+        "category": "content-draft"
+      }
+    ],
+    "context": [
+      {
+        "path": "AGENTS.md",
+        "size": 23089,
+        "modified": "2026-05-22T11:03:08",
+        "category": "context"
+      },
+      {
+        "path": "CODEX_CONTEXT.md",
+        "size": 14951,
+        "modified": "2026-05-14T15:28:36",
+        "category": "context"
+      }
+    ],
+    "data-output": [
+      {
+        "path": "logs\\uptime_status.json",
+        "size": 84,
+        "modified": "2026-05-22T23:19:49",
+        "category": "data-output"
+      },
+      {
+        "path": "_tmp\\rm_opts_revert.json",
+        "size": 5376,
+        "modified": "2026-05-22T21:25:03",
+        "category": "data-output"
+      },
+      {
+        "path": "_tmp\\rm_opts_updated.json",
+        "size": 5890,
+        "modified": "2026-05-22T21:09:25",
+        "category": "data-output"
+      },
+      {
+        "path": "_tmp\\rm_opts.json",
+        "size": 12056,
+        "modified": "2026-05-22T21:09:11",
+        "category": "data-output"
+      },
+      {
+        "path": ".claude\\settings.local.json",
+        "size": 16915,
+        "modified": "2026-05-22T21:04:09",
+        "category": "data-output"
+      }
+    ],
+    "document": [
+      {
+        "path": "technical-seo-sop.md",
+        "size": 6147,
+        "modified": "2026-05-22T21:59:37",
+        "category": "document"
+      },
+      {
+        "path": "CONTENT_RULES.md",
+        "size": 3673,
+        "modified": "2026-05-22T18:34:21",
+        "category": "document"
+      },
+      {
+        "path": "DASHBOARD_2026-05-22.md",
+        "size": 1426,
+        "modified": "2026-05-22T07:00:05",
+        "category": "document"
+      },
+      {
+        "path": "AI_AGENT_RULES.md",
+        "size": 4886,
+        "modified": "2026-05-22T03:33:53",
+        "category": "document"
+      },
+      {
+        "path": "docs\\website-audit-report.md",
+        "size": 12817,
+        "modified": "2026-05-22T03:10:38",
+        "category": "document"
+      }
+    ],
+    "other": [
+      {
+        "path": ".tmp.driveupload\\1419",
+        "size": 165080,
+        "modified": "2026-05-22T23:19:49",
+        "category": "other"
+      },
+      {
+        "path": ".tmp.driveupload\\1423",
+        "size": 84,
+        "modified": "2026-05-22T23:19:49",
+        "category": "other"
+      },
+      {
+        "path": "logs\\uptime.log",
+        "size": 165080,
+        "modified": "2026-05-22T23:19:49",
+        "category": "other"
+      },
+      {
+        "path": "Ảnh Đã Xử Lý SEO\\chi-phi-hut-be-phot-quang-ninh-xe-bon-gia-dinh.webp",
+        "size": 195808,
+        "modified": "2026-05-22T21:44:19",
+        "category": "other"
+      },
+      {
+        "path": "Ảnh Đã Xử Lý SEO\\bon-cau-rut-cham-nguyen-nhan-3-tho-thong-bon-cau-3-new.webp",
+        "size": 87282,
+        "modified": "2026-05-22T21:44:15",
+        "category": "other"
+      }
+    ],
+    "report": [
+      {
+        "path": "reports\\wp-unique-image-audit-2026-05-22T23-17-12.json",
+        "size": 14183,
+        "modified": "2026-05-22T23:17:59",
+        "category": "report"
+      },
+      {
+        "path": "reports\\wp-unique-image-audit-2026-05-22T23-17-12.md",
+        "size": 258,
+        "modified": "2026-05-22T23:17:59",
+        "category": "report"
+      },
+      {
+        "path": "reports\\schema-blueprint-2026-05-22.md",
+        "size": 3266,
+        "modified": "2026-05-22T23:17:08",
+        "category": "report"
+      },
+      {
+        "path": "reports\\site-full-audit-2026-05-22.json",
+        "size": 192534,
+        "modified": "2026-05-22T23:16:50",
+        "category": "report"
+      },
+      {
+        "path": "reports\\site-full-audit-2026-05-22.md",
+        "size": 15758,
+        "modified": "2026-05-22T23:16:50",
+        "category": "report"
+      }
+    ],
+    "seo-revision": [
+      {
+        "path": "seo-revisions\\wp-before-fill-missing-images-2026-05-22T21-14-35\\pages-2024-chi-phi-hut-be-phot-quang-ninh.json",
+        "size": 18402,
+        "modified": "2026-05-22T21:20:47",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-fill-missing-images-2026-05-22T21-14-35\\posts-2043-bon-cau-rut-cham-nguyen-nhan-3.json",
+        "size": 28555,
+        "modified": "2026-05-22T21:20:39",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-fill-missing-images-2026-05-22T21-14-35\\posts-2044-chu-ky-hut-be-phot-3.json",
+        "size": 29222,
+        "modified": "2026-05-22T21:20:31",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-fill-missing-images-2026-05-22T21-14-35\\posts-2045-hoa-chat-tu-thong-cong-3.json",
+        "size": 31468,
+        "modified": "2026-05-22T21:20:23",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-fill-missing-images-2026-05-22T21-14-35\\posts-2046-mui-hoi-cong-nguyen-nhan-xu-ly-4.json",
+        "size": 28964,
+        "modified": "2026-05-22T21:20:15",
+        "category": "seo-revision"
+      }
+    ],
+    "seo-status": [
+      {
+        "path": "docs\\SEO_PROGRESS.csv",
+        "size": 125386,
+        "modified": "2026-05-22T23:17:24",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_GOOGLE_INDEX_2026-05-22.json",
+        "size": 3542,
+        "modified": "2026-05-22T22:41:38",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_FIX_PLAN.md",
+        "size": 12187,
+        "modified": "2026-05-21T17:52:57",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_RULES.md",
+        "size": 3167,
+        "modified": "2026-05-20T09:44:25",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_GOOGLE_INDEX_2026-05-18.json",
+        "size": 3542,
+        "modified": "2026-05-18T23:53:58",
+        "category": "seo-status"
+      }
+    ],
+    "tool-script": [
+      {
+        "path": "tools\\wp-plugins\\ttcqn-doorway-safe-renderer.zip",
+        "size": 3125,
+        "modified": "2026-05-22T23:15:34",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\wp-plugins\\ttcqn-seo-cleanup-redirects.zip",
+        "size": 3823,
+        "modified": "2026-05-22T23:15:34",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer.zip",
+        "size": 6098271,
+        "modified": "2026-05-22T23:15:33",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer\\ttcqn-home-emergency-renderer.php",
+        "size": 105636,
+        "modified": "2026-05-22T23:15:22",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer\\templates\\page-home-direct.php",
+        "size": 284926,
+        "modified": "2026-05-22T23:12:43",
+        "category": "tool-script"
+      }
+    ],
+    "wordpress-operation-log": [
+      {
+        "path": "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json",
+        "size": 16170,
+        "modified": "2026-05-22T23:15:41",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-05-20.json",
+        "size": 454,
+        "modified": "2026-05-22T22:40:01",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-14-35.json",
+        "size": 119918,
+        "modified": "2026-05-22T21:21:56",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-10-24.json",
+        "size": 98869,
+        "modified": "2026-05-22T21:12:46",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T19-12-26.json",
+        "size": 23653,
+        "modified": "2026-05-22T19:13:23",
+        "category": "wordpress-operation-log"
+      }
+    ]
+  },
+  "important_files": [
+    {
+      "path": "docs\\SEO_PROGRESS.csv",
+      "size": 125386,
+      "modified": "2026-05-22T23:17:24",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-18.json",
+      "size": 16170,
+      "modified": "2026-05-22T23:15:41",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "SEO_GOOGLE_INDEX_2026-05-22.json",
+      "size": 3542,
+      "modified": "2026-05-22T22:41:38",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_SEO_CLEANUP_REDIRECTS_UPLOAD_2026-05-20.json",
+      "size": 454,
+      "modified": "2026-05-22T22:40:01",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-14-35.json",
+      "size": 119918,
+      "modified": "2026-05-22T21:21:56",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T21-10-24.json",
+      "size": 98869,
+      "modified": "2026-05-22T21:12:46",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FILL_MISSING_IMAGES_2026-05-22T19-12-26.json",
+      "size": 23653,
+      "modified": "2026-05-22T19:13:23",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_MCP_SMOKE_2026-05-06.json",
+      "size": 7835,
+      "modified": "2026-05-22T18:28:16",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 23089,
+      "modified": "2026-05-22T11:03:08",
+      "category": "context"
+    },
+    {
+      "path": "SEO_FIX_PLAN.md",
+      "size": 12187,
+      "modified": "2026-05-21T17:52:57",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_HOME_PERFORMANCE_TUNE_DEACTIVATE_2026-05-21.json",
+      "size": 33477,
+      "modified": "2026-05-21T15:40:49",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "SEO_RULES.md",
+      "size": 3167,
+      "modified": "2026-05-20T09:44:25",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-18.json",
+      "size": 17737,
+      "modified": "2026-05-19T21:48:26",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_DOORWAY_SAFE_RENDERER_PLUGIN_UPLOAD_2026-05-19.json",
+      "size": 17729,
+      "modified": "2026-05-19T03:10:44",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "SEO_GOOGLE_INDEX_2026-05-18.json",
+      "size": 3542,
+      "modified": "2026-05-18T23:53:58",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_HOME_PERFORMANCE_TUNE_UPLOAD_2026-05-17.json",
+      "size": 162,
+      "modified": "2026-05-18T12:21:49",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_HOME_LEAD_FORM_PLUGIN_UPLOAD_2026-05-18.json",
+      "size": 18804,
+      "modified": "2026-05-18T11:33:39",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_HOME_EMERGENCY_RENDERER_PLUGIN_UPLOAD_2026-05-13.json",
+      "size": 18877,
+      "modified": "2026-05-18T11:21:14",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_SCROLL_GUIDE_ASSISTANT_UPLOAD_2026-05-17.json",
+      "size": 18869,
+      "modified": "2026-05-17T17:53:22",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_BLOG_MENU_LABEL_2026-05-16T20-51-37-617Z.json",
+      "size": 3580,
+      "modified": "2026-05-17T03:51:44",
+      "category": "wordpress-operation-log"
+    }
+  ],
+  "large_files": [
+    {
+      "path": "tools\\wp-plugins\\ttcqn-home-emergency-renderer.zip",
+      "size": 6098271,
+      "modified": "2026-05-22T23:15:33",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\puppeteer_profile\\Default\\Cache\\Cache_Data\\sqldb0",
+      "size": 12812288,
+      "modified": "2026-05-22T02:06:09",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\puppeteer_profile\\Default\\Cache\\Cache_Data\\sqldb1",
+      "size": 10616832,
+      "modified": "2026-05-22T02:06:09",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\puppeteer_profile\\Default\\Cache\\Cache_Data\\sqldb2",
+      "size": 10616832,
+      "modified": "2026-05-22T02:06:09",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\puppeteer_profile\\Default\\Code Cache\\pc\\5bb[a`6`2`2fu0@;`2.db",
+      "size": 7819264,
+      "modified": "2026-05-22T01:58:45",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\home-bg-sync-cache-purge-2026-05-21\\desktop.png",
+      "size": 6135471,
+      "modified": "2026-05-21T01:12:34",
+      "category": "report"
+    },
+    {
+      "path": "reports\\home-bg-sync-2026-05-21\\desktop.png",
+      "size": 6134872,
+      "modified": "2026-05-21T00:58:05",
+      "category": "report"
+    },
+    {
+      "path": "backups\\seo-hero-shared-2026-05-19\\ttcqn-home-emergency-renderer.zip",
+      "size": 6060365,
+      "modified": "2026-05-19T00:12:03",
+      "category": "other"
+    },
+    {
+      "path": "backups\\service-hero-mockup-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 6019876,
+      "modified": "2026-05-18T23:45:18",
+      "category": "other"
+    },
+    {
+      "path": "backups\\projects-section-mockup-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 6015219,
+      "modified": "2026-05-18T17:01:03",
+      "category": "other"
+    },
+    {
+      "path": "backups\\region-section-bg-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 5908725,
+      "modified": "2026-05-18T14:28:37",
+      "category": "other"
+    },
+    {
+      "path": "backups\\services-section-dark-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 5907360,
+      "modified": "2026-05-18T12:45:56",
+      "category": "other"
+    },
+    {
+      "path": "backups\\home-gallery-assistant-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 5907095,
+      "modified": "2026-05-18T12:38:19",
+      "category": "other"
+    },
+    {
+      "path": "backups\\home-footer-mockup-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 5901090,
+      "modified": "2026-05-18T12:21:35",
+      "category": "other"
+    },
+    {
+      "path": "backups\\home-no-crop-images-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 5901076,
+      "modified": "2026-05-18T12:14:55",
+      "category": "other"
+    },
+    {
+      "path": "backups\\home-price-truck-card-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 5901094,
+      "modified": "2026-05-18T12:11:13",
+      "category": "other"
+    },
+    {
+      "path": "backups\\home-seo-headings-meta-2026-05-18\\ttcqn-home-emergency-renderer.zip",
+      "size": 5901297,
+      "modified": "2026-05-18T11:33:26",
+      "category": "other"
+    },
+    {
+      "path": "backups\\home-replace-truck-real-20260516-185839\\ttcqn-home-emergency-renderer.zip",
+      "size": 5428315,
+      "modified": "2026-05-16T18:58:40",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets\\trang-faq-tong-hop-thong-tac-cong-rankmath-draft-cta-niem-tin.png",
+      "size": 16385886,
+      "modified": "2026-05-10T13:39:50",
+      "category": "other"
+    },
+    {
+      "path": "image-briefs\\assets-backup-2026-05-10\\trang-faq-tong-hop-thong-tac-cong-rankmath-draft-cta-niem-tin.png",
+      "size": 15197990,
+      "modified": "2026-05-10T13:39:44",
+      "category": "other"
+    }
+  ],
+  "recommendations": [
+    "Giữ `AGENTS.md` và `CODEX_CONTEXT.md` làm nguồn quy tắc vận hành.",
+    "Không dọn `WORDPRESS_*.json` hoặc report live nếu chưa đối chiếu task liên quan.",
+    "Khi cần dọn thật, tạo danh sách move-plan trước rồi chờ Tuyền duyệt.",
+    "Thư mục `reports` có nhiều file; nên gom theo tháng sau khi tạo danh sách duyệt.",
+    "Có file lớn; chỉ nén/chuyển sau khi kiểm tra không phải bằng chứng audit đang dùng.",
+    "Thư mục `tools` có nhiều script; nên ghi script nào là read-only, script nào có thể sửa live."
+  ]
+}

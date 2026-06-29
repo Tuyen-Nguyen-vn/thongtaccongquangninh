@@ -1,0 +1,117 @@
+{
+  "name": "seo-local-preflight-checklist",
+  "version": "2026-05-06",
+  "project": "thongtaccongquangninh.com",
+  "description": "Checklist khuyen nghi truoc khi viet bai SEO, sua bai SEO, sua landing page, sua WordPress hoac nghiem thu tac vu SEO local. Khong con dung lam hard gate chan thuc thi.",
+  "items": [
+    {
+      "id": "read_project_context",
+      "required": true,
+      "evidence_key": "read_project_context",
+      "description": "Da doc AGENTS.md, CODEX_CONTEXT.md va file trang thai SEO moi nhat."
+    },
+    {
+      "id": "read_skill",
+      "required": true,
+      "evidence_key": "read_skill",
+      "description": "Da doc skills/seo-local-audit-strict/SKILL.md."
+    },
+    {
+      "id": "collect_related_urls",
+      "required": true,
+      "evidence_key": "collect_related_urls",
+      "description": "Da lay URL lien quan tu wp-url-audit-list.json hoac REST/sitemap."
+    },
+    {
+      "id": "read_existing_page",
+      "required": true,
+      "evidence_key": "read_existing_page",
+      "description": "Da doc trang hien tai neu sua bai/landing page hoac URL dich neu viet bai moi."
+    },
+    {
+      "id": "read_competing_internal_pages",
+      "required": true,
+      "evidence_key": "read_competing_internal_pages",
+      "description": "Da doc cac bai cung dich vu, cung dia phuong hoac cung intent de tranh trung lap."
+    },
+    {
+      "id": "check_similarity",
+      "required": true,
+      "evidence_key": "check_similarity",
+      "description": "Da co bao cao similarity/title/excerpt/H1/outline."
+    },
+    {
+      "id": "check_local_entity_consistency",
+      "required": true,
+      "evidence_key": "check_local_entity_consistency",
+      "description": "Da kiem dich vu va dia phuong khong bi tron sai."
+    },
+    {
+      "id": "check_sitemap_index_canonical",
+      "required": true,
+      "evidence_key": "check_sitemap_index_canonical",
+      "description": "Da kiem sitemap, index/noindex, canonical, redirect, status HTTP."
+    },
+    {
+      "id": "check_image_seo_package",
+      "required_for": ["local_seo_article", "local_seo_landing", "image_update"],
+      "evidence_key": "check_image_seo_package",
+      "description": "Da co image package hoac bao PENDING_IMAGE_SEO neu chua du anh."
+    },
+    {
+      "id": "check_internal_links",
+      "required": true,
+      "evidence_key": "check_internal_links",
+      "description": "Da kiem internal link tu nhien, anchor co dau, khong spam va khong 404."
+    },
+    {
+      "id": "check_mobile_frontend",
+      "required_for": ["wordpress_edit", "landing_page_edit", "frontend_edit", "cta_edit", "image_update"],
+      "evidence_key": "check_mobile_frontend",
+      "description": "Da kiem mobile frontend, CTA/floating button khong che noi dung."
+    },
+    {
+      "id": "create_backup_before_edit",
+      "required_for": ["wordpress_edit", "content_edit", "code_edit", "landing_page_edit", "image_update"],
+      "evidence_key": "create_backup_before_edit",
+      "description": "Da backup truoc khi sua content/code/WordPress."
+    },
+    {
+      "id": "list_files_before_edit",
+      "required_for": ["wordpress_edit", "content_edit", "code_edit", "landing_page_edit", "image_update"],
+      "evidence_key": "list_files_before_edit",
+      "description": "Da liet ke file, URL, Post ID hoac option se sua."
+    },
+    {
+      "id": "run_tests",
+      "required": true,
+      "evidence_key": "run_tests",
+      "description": "Da chay test/syntax check/smoke test phu hop."
+    },
+    {
+      "id": "verify_live_frontend",
+      "required_for": ["wordpress_edit", "landing_page_edit", "frontend_edit", "cta_edit", "image_update"],
+      "evidence_key": "verify_live_frontend",
+      "description": "Da verify live frontend sau khi sua WordPress/frontend."
+    },
+    {
+      "id": "final_report",
+      "required": true,
+      "evidence_key": "final_report",
+      "description": "Da bao cao file/URL da sua, truoc/sau, rui ro con lai va buoc tiep theo."
+    }
+  ],
+  "task_types": [
+    "audit_only",
+    "seo_article",
+    "local_seo_article",
+    "local_seo_landing",
+    "wordpress_edit",
+    "content_edit",
+    "code_edit",
+    "landing_page_edit",
+    "frontend_edit",
+    "cta_edit",
+    "image_update"
+  ]
+}

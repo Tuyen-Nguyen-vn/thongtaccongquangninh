@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-24T19:02:13.498Z",
+  "baseUrl": "https://thongtaccongquangninh.com",
+  "type": "pages",
+  "id": 54,
+  "slug": "hut-be-phot-uong-bi",
+  "link": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+  "title": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư, cơ sở kinh doanh",
+  "description": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư cũ và cơ sở đông người khi bể đầy, mùi hoặc trào ngược. Gọi 0963.953.533 / 0931.156.756 để đặt lịch kiểm tra sớm.",
+  "focus": "hút bể phốt Uông Bí",
+  "contentPath": "seo-revisions/page-54-hut-be-phot-uong-bi-seo-fix-2026-05-25.html",
+  "before": {
+    "title": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư, cơ sở kinh doanh",
+    "excerpt": "hút bể phốt Uông Bí cần khảo sát đúng vị trí bể, đường xe vào và mức độ đầy trước khi báo giá. Nếu bể quá đầy, bùn đặc hoặc nắp bể khó tiếp cận, chi phí và",
+    "contentLength": 7497
+  },
+  "after": {
+    "title": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư, cơ sở kinh doanh",
+    "excerpt": "Hút bể phốt Uông Bí cho nhà trọ, khu dân cư cũ và cơ sở đông người khi bể đầy, mùi hoặc trào ngược. Gọi 0963.953.533 / 0931.156.756 để đặt lịch kiểm tra sớm.",
+    "contentLength": 14591,
+    "hasManagedFaq": true
+  },
+  "rankMathMeta": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankMathScore": 1,
+  "renderRule": "ttcqn-home-emergency-renderer active condition skips automatic FAQ and takeaways when managed FAQPage exists in content"
+}

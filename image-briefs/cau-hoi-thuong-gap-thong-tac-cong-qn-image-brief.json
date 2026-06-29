@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.198Z",
+  "slug": "cau-hoi-thuong-gap-thong-tac-cong-qn",
+  "url": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong-qn/",
+  "focusKeyword": "câu hỏi thường gặp thông tắc cống",
+  "service": "thông tắc cống",
+  "area": "câu hỏi thường gặp thông tắc cống",
+  "subAreas": "",
+  "searchIntent": "",
+  "caseStudy": "E-E-A-T: cống bếp nhà hàng Hạ Long tắc nặng Một nhà hàng tại Hạ Long gọi vì nước bếp rút chậm, có mùi hôi và giờ cao điểm không thể rửa dọn bình thường. Ban đầu nhân viên đã thử đổ hóa chất nhưng chỉ đỡ trong vài giờ, sau đó nước lại dâng lên ở chậu rửa và phễu sàn. Đội thợ kiểm tra và xác định nguyên nhân chính là dầu mỡ đóng dày trong đoạn ống thoát bếp, kèm cặn thức ăn nhỏ. Phương án được báo trước: dùng máy lò xo phá mảng bám, xả kiểm tra nhiều lần, sau đó hướng dẫn vệ sinh lưới lọc. Đây là tình huống điển hình trong nhóm câu hỏi thường gặp thông tắc cống về dầu mỡ. Sau xử lý, nước rút đều hơn, mùi hôi giảm rõ và bếp hoạt động lại trong ngày. Câu hỏi thường gặp thông tắc cống rút ra là không nên chỉ đổ hóa chất khi cống bếp tắc do dầu mỡ lâu ngày.",
+  "shouldUse": [
+    "máy lò xo",
+    "cống",
+    "hố ga",
+    "đường ống",
+    "thợ xử lý ngoài trời/bếp"
+  ],
+  "shouldAvoid": [
+    "ảnh xe hút bể phốt nếu bài không nói đến hút"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

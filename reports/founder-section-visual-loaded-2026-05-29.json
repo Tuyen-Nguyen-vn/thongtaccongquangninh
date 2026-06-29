@@ -1,0 +1,55 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=founder-visual-load-1780009850162",
+  "results": [
+    {
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000
+      },
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/founder-section-image-desktop-2026-05-29.png",
+      "titleText": "Nguyễn Song Hào",
+      "captionText": "Nguyễn Song Hào cùng đội ngũ kỹ thuật Môi Trường Đô Thị Số 1 Quảng Ninh.",
+      "imageSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nguyen-song-hao-doi-ngu-moi-truong-do-thi-so-1-quang-ninh.png",
+      "imageComplete": true,
+      "naturalWidth": 1448,
+      "naturalHeight": 1086,
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "imgBox": {
+        "width": 460,
+        "height": 345
+      },
+      "wrapperBox": {
+        "width": 460,
+        "height": 345
+      },
+      "oldNameVisible": false
+    },
+    {
+      "viewport": {
+        "name": "mobile",
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/founder-section-image-mobile-2026-05-29.png",
+      "titleText": "Nguyễn Song Hào",
+      "captionText": "Nguyễn Song Hào cùng đội ngũ kỹ thuật Môi Trường Đô Thị Số 1 Quảng Ninh.",
+      "imageSrc": "https://thongtaccongquangninh.com/wp-content/uploads/2026/05/nguyen-song-hao-doi-ngu-moi-truong-do-thi-so-1-quang-ninh.png",
+      "imageComplete": true,
+      "naturalWidth": 1448,
+      "naturalHeight": 1086,
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "imgBox": {
+        "width": 350,
+        "height": 263
+      },
+      "wrapperBox": {
+        "width": 350,
+        "height": 263
+      },
+      "oldNameVisible": false
+    }
+  ]
+}

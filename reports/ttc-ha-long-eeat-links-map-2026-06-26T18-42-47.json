@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-06-26T18:42:48.834Z",
+  "mode": "dry-run",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+  "before": {
+    "page": {
+      "hasBaiChay": true,
+      "hasHongGai": true,
+      "hasHbpHaLong": true,
+      "hasSxd": true,
+      "hasMapEmbed": true,
+      "hasAuthorBioFinal": true,
+      "hasPersonSchema": true,
+      "hasLocalBusinessSchema": true,
+      "hasFaqPage": true,
+      "forbidden": []
+    },
+    "options": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "inspect": {
+          "hasBaiChay": true,
+          "hasHongGai": true,
+          "hasHbpHaLong": true,
+          "hasSxd": true,
+          "hasMapEmbed": true,
+          "hasAuthorBioFinal": true,
+          "hasPersonSchema": true,
+          "hasLocalBusinessSchema": true,
+          "hasFaqPage": true,
+          "forbidden": []
+        }
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "inspect": {
+          "hasBaiChay": true,
+          "hasHongGai": true,
+          "hasHbpHaLong": true,
+          "hasSxd": true,
+          "hasMapEmbed": true,
+          "hasAuthorBioFinal": true,
+          "hasPersonSchema": true,
+          "hasLocalBusinessSchema": true,
+          "hasFaqPage": true,
+          "forbidden": []
+        }
+      }
+    ]
+  },
+  "changes": {
+    "page": [],
+    "options": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "changes": []
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "changes": []
+      }
+    ]
+  },
+  "after": {
+    "page": {
+      "hasBaiChay": true,
+      "hasHongGai": true,
+      "hasHbpHaLong": true,
+      "hasSxd": true,
+      "hasMapEmbed": true,
+      "hasAuthorBioFinal": true,
+      "hasPersonSchema": true,
+      "hasLocalBusinessSchema": true,
+      "hasFaqPage": true,
+      "forbidden": []
+    },
+    "options": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "inspect": {
+          "hasBaiChay": true,
+          "hasHongGai": true,
+          "hasHbpHaLong": true,
+          "hasSxd": true,
+          "hasMapEmbed": true,
+          "hasAuthorBioFinal": true,
+          "hasPersonSchema": true,
+          "hasLocalBusinessSchema": true,
+          "hasFaqPage": true,
+          "forbidden": []
+        }
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "inspect": {
+          "hasBaiChay": true,
+          "hasHongGai": true,
+          "hasHbpHaLong": true,
+          "hasSxd": true,
+          "hasMapEmbed": true,
+          "hasAuthorBioFinal": true,
+          "hasPersonSchema": true,
+          "hasLocalBusinessSchema": true,
+          "hasFaqPage": true,
+          "forbidden": []
+        }
+      }
+    ]
+  },
+  "backupDir": null,
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/ttc-ha-long-eeat-links-map-2026-06-26T18-42-47.json"
+}

@@ -1,0 +1,12 @@
+{
+  "target": "thong-tac-bon-cau-khan-cap-quang-ninh-2",
+  "checked_at": "2026-06-01T10:08:42.008Z",
+  "status": "READY_FOR_REVIEW",
+  "pass": true,
+  "slug": "thong-tac-bon-cau-khan-cap-quang-ninh-2",
+  "image_count": 3,
+  "package_path": "/mnt/d/.thongtaccongquangninh/image-briefs/thong-tac-bon-cau-khan-cap-quang-ninh-2-image-package.json",
+  "notes": [
+    "Image SEO package passed."
+  ]
+}

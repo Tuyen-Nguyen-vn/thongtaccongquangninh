@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-06-03T19:14:41.550Z",
+  "target": {
+    "id": 56,
+    "collection": "pages",
+    "slug": "hut-be-phot-dong-trieu",
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-p1-hut-be-phot-dong-trieu-2026-06-03T19-14-39-862Z",
+  "title": "Hút Bể Phốt Đông Triều 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+  "titleLen": 66,
+  "metaDesc": "Hút bể phốt Đông Triều 24/7 sạch triệt để, thợ giỏi có mặt sau 15 phút, cam kết không đục phá, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756",
+  "metaDescLen": 149,
+  "before": {
+    "title": "Hút Bể Phốt Đông Triều 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+    "excerpt": "Hút bể phốt Đông Triều 24/7 sạch triệt để, thợ giỏi có mặt sau 15 phút, cam kết không đục phá, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756",
+    "contentLen": 21537,
+    "rawWordCount": 3192,
+    "keyword": {
+      "count": 4,
+      "total": 3192,
+      "density": 0.006265664160401002,
+      "densityPct": 0.63
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true
+  },
+  "update": {
+    "changed": true,
+    "contentLen": 16786,
+    "rawWordCount": 2140,
+    "keyword": {
+      "count": 5,
+      "total": 2140,
+      "density": 0.011682242990654205,
+      "densityPct": 1.17
+    },
+    "hasOldAuthorUrl": false,
+    "hasAuthorArchive": true,
+    "hasServiceSchema": true,
+    "hasFinalAuthor": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankScore": {
+    "error": "WP 400 /rankmath/v1/updateSeoScore: Missing parameter(s): postScores"
+  },
+  "verify": {
+    "status": 200,
+    "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/?nowprocket=1&codex=dong-trieu-1780514086961",
+    "title": "Hút Bể Phốt Đông Triều 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+    "titleLen": 66,
+    "metaDesc": "Hút bể phốt Đông Triều 24/7 sạch triệt để, thợ giỏi có mặt sau 15 phút, cam kết không đục phá, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756",
+    "metaDescLen": 149,
+    "canonical": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+    "h1": [
+      "Hút Bể Phốt Đông Triều 24/7 &#8211; Giá Rẻ Không Đục Phá, Có Mặt 15 Phút"
+    ],
+    "h2": [
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nhận gọi lại miễn phí",
+      "Nguyên nhân khiến bể phốt nhanh đầy và nghẹt đường ống tại Đông Triều",
+      "Tại sao chọn dịch vụ hút bể phốt Đông Triều của Môi Trường Đô Thị Số 1",
+      "Bảng giá dịch vụ hút bể phốt tại Đông Triều mới nhất 2026",
+      "Quy trình 5 bước hút bể phốt Đông Triều nhanh gọn",
+      "Case study E-E-A-T: Xử lý bể phốt bùn đặc cho trang trại lớn tại xã Bình Dương, Đông Triều",
+      "Địa chỉ liên hệ và văn phòng hút bể phốt Đông Triều",
+      "FAQ &#8211; Câu hỏi thường gặp về dịch vụ hút bể phốt Đông Triều",
+      "Dịch vụ liên quan cần xem",
+      "Cách liên hệ Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "VỀ CHÚNG TÔI"
+    ],
+    "wordCount": 3577,
+    "keyword": {
+      "count": 8,
+      "total": 3577,
+      "density": 0.01118255521386637,
+      "densityPct": 1.12
+    },
+    "schemaTypes": [
+      "LocalBusiness",
+      "HomeAndConstructionBusiness",
+      "PostalAddress",
+      "City",
+      "AdministrativeArea",
+      "OfferCatalog",
+      "Offer",
+      "Service",
+      "BreadcrumbList",
+      "ListItem",
+      "FAQPage",
+      "Question",
+      "Answer",
+      "GeoCoordinates",
+      "ServiceChannel",
+      "OpeningHoursSpecification",
+      "ContactPoint"
+    ],
+    "hasServiceSchema": true,
+    "hasCleanupMarker": true,
+    "hasAuthorArchive": true,
+    "hasOldAuthorUrl": false,
+    "hasFinalAuthor": true,
+    "imageAlts": [
+      "Môi Trường Đô Thị Số 1 Quảng Ninh - hút bể phốt thông tắc cống 24/7",
+      "Logo Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "Xe hút bể phốt chuyên dụng tại Quảng Ninh",
+      "Kỹ thuật viên Môi Trường Đô Thị Số 1 Quảng Ninh tư vấn dịch vụ",
+      "xe bồn hút bể phốt tại nhà dân ở Đông Triều",
+      "Đội xe hút bể phốt cho dịch vụ hút bể phốt tại Đông Triều",
+      "thợ kéo ống hút bể phốt vào ngõ sâu tại Đông Triều",
+      "Xe hút bể phốt chuyên dụng màu xanh phục vụ tại Quảng Ninh",
+      "Kỹ thuật viên thông tắc cống tại Quảng Ninh"
+    ]
+  },
+  "after": {
+    "title": "Hút Bể Phốt Đông Triều 24/7 - Giá Rẻ Không Đục Phá, Có Mặt 15 Phút",
+    "excerpt": "Hút bể phốt Đông Triều 24/7 sạch triệt để, thợ giỏi có mặt sau 15 phút, cam kết không đục phá, bảo hành dài hạn. Gọi ngay 0963.953.533 / 0931.156.756",
+    "contentLen": 16786,
+    "rawWordCount": 2140,
+    "keyword": {
+      "count": 5,
+      "total": 2140,
+      "density": 0.011682242990654205,
+      "densityPct": 1.17
+    }
+  }
+}

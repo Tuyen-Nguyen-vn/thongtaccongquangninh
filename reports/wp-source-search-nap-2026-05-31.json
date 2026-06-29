@@ -1,0 +1,129 @@
+{
+  "calls": [
+    {
+      "term": "%moitruongdothiso1quangninh%",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 2,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"options\":[],\"total\":0}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "options": [],
+                "total": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "term": "%111 Cái Lân%",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 3,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"options\":[],\"total\":0}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "options": [],
+                "total": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "term": "%thongtaccongquangninh@gmail.com%",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 4,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"options\":[],\"total\":0}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "options": [],
+                "total": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "term": "%LocalBusiness%",
+      "res": {
+        "status": 200,
+        "sessionId": null,
+        "payload": {
+          "jsonrpc": "2.0",
+          "id": 5,
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\"success\":true,\"data\":{\"success\":true,\"options\":[],\"total\":0}}"
+              }
+            ],
+            "structuredContent": {
+              "success": true,
+              "data": {
+                "success": true,
+                "options": [],
+                "total": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "content": {
+    "status": 200,
+    "sessionId": null,
+    "payload": {
+      "jsonrpc": "2.0",
+      "id": 99,
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Ability \"content/search\" has invalid input. Reason: type is not a valid property of Object."
+          }
+        ],
+        "isError": true
+      }
+    }
+  }
+}

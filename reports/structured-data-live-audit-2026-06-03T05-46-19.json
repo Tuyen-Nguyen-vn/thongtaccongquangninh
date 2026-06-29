@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-06-03T05:46:19.363Z",
+  "results": [
+    {
+      "slug": "manual-url",
+      "title": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "httpStatus": 200,
+      "scripts": [
+        {
+          "index": 1,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "LocalBusiness",
+            "HomeAndConstructionBusiness",
+            "PostalAddress",
+            "GeoCoordinates",
+            "City",
+            "AdministrativeArea",
+            "OfferCatalog",
+            "Offer",
+            "Service"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#service-catalog"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 2,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "BreadcrumbList",
+            "ListItem"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/#breadcrumb",
+            "https://thongtaccongquangninh.com",
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 3,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "FAQPage",
+            "Question",
+            "Answer"
+          ],
+          "ids": [],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 4,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "BlogPosting",
+            "WebPage",
+            "Person"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/#blogposting",
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+            "https://thongtaccongquangninh.com/#localbusiness",
+            "https://thongtaccongquangninh.com/#website"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        },
+        {
+          "index": 5,
+          "parsed": true,
+          "error": null,
+          "types": [
+            "BlogPosting",
+            "Person",
+            "Organization",
+            "ImageObject"
+          ],
+          "ids": [
+            "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/#blogposting"
+          ],
+          "warnings": [],
+          "forbiddenReviewMarkers": []
+        }
+      ],
+      "error": null,
+      "noindex": false,
+      "issues": [],
+      "warnings": [],
+      "status": "PASS",
+      "schemaTypes": [
+        "LocalBusiness",
+        "HomeAndConstructionBusiness",
+        "PostalAddress",
+        "GeoCoordinates",
+        "City",
+        "AdministrativeArea",
+        "OfferCatalog",
+        "Offer",
+        "Service",
+        "BreadcrumbList",
+        "ListItem",
+        "FAQPage",
+        "Question",
+        "Answer",
+        "BlogPosting",
+        "WebPage",
+        "Person",
+        "Organization",
+        "ImageObject"
+      ]
+    }
+  ]
+}

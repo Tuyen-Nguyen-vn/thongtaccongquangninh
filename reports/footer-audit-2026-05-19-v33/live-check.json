@@ -1,0 +1,125 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=footer-v33-1779191335413",
+  "results": [
+    {
+      "vp": {
+        "name": "desktop-1440",
+        "width": 1440,
+        "height": 950
+      },
+      "metrics": {
+        "version": "2026.05.19.33; direct-template",
+        "h1Total": 1,
+        "footerCount": 1,
+        "footerRect": {
+          "top": -160.734375,
+          "bottom": 950,
+          "h": 1110.734375,
+          "w": 1440,
+          "x": 0,
+          "y": -160.734375
+        },
+        "copyrightRect": {
+          "top": 869.5,
+          "bottom": 920,
+          "h": 50.5,
+          "w": 1396,
+          "x": 22,
+          "y": 869.5
+        },
+        "exitDisplay": "none",
+        "prDisplay": "none",
+        "aiBackTopDisplay": "none",
+        "footerBackTopDisplay": "grid",
+        "textLeak": false,
+        "docH": 10903,
+        "scrollY": 9953,
+        "innerH": 950,
+        "maxScroll": 9953,
+        "footerBottomGap": 0,
+        "horizontalOverflow": false,
+        "consoleErrors": []
+      }
+    },
+    {
+      "vp": {
+        "name": "mobile-390",
+        "width": 390,
+        "height": 1200
+      },
+      "metrics": {
+        "version": "2026.05.19.33; direct-template",
+        "h1Total": 1,
+        "footerCount": 1,
+        "footerRect": {
+          "top": -1955.28125,
+          "bottom": 1130,
+          "h": 3085.28125,
+          "w": 390,
+          "x": 0,
+          "y": -1955.28125
+        },
+        "copyrightRect": {
+          "top": 991.21875,
+          "bottom": 1108,
+          "h": 116.78125,
+          "w": 358,
+          "x": 16,
+          "y": 991.21875
+        },
+        "exitDisplay": "none",
+        "prDisplay": "none",
+        "aiBackTopDisplay": "none",
+        "footerBackTopDisplay": "grid",
+        "textLeak": false,
+        "docH": 16907,
+        "scrollY": 15707,
+        "innerH": 1200,
+        "maxScroll": 15707,
+        "footerBottomGap": 70,
+        "horizontalOverflow": false,
+        "consoleErrors": []
+      }
+    },
+    {
+      "vp": {
+        "name": "mobile-375",
+        "width": 375,
+        "height": 1200
+      },
+      "metrics": {
+        "version": "2026.05.19.33; direct-template",
+        "h1Total": 1,
+        "footerCount": 1,
+        "footerRect": {
+          "top": -2108.84375,
+          "bottom": 1129.515625,
+          "h": 3238.359375,
+          "w": 375,
+          "x": 0,
+          "y": -2108.84375
+        },
+        "copyrightRect": {
+          "top": 960.140625,
+          "bottom": 1107.515625,
+          "h": 147.375,
+          "w": 343,
+          "x": 16,
+          "y": 960.140625
+        },
+        "exitDisplay": "none",
+        "prDisplay": "none",
+        "aiBackTopDisplay": "none",
+        "footerBackTopDisplay": "grid",
+        "textLeak": false,
+        "docH": 17171,
+        "scrollY": 15971,
+        "innerH": 1200,
+        "maxScroll": 15971,
+        "footerBottomGap": 71,
+        "horizontalOverflow": false,
+        "consoleErrors": []
+      }
+    }
+  ]
+}

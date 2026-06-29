@@ -90,8 +90,11 @@
 - Nếu cần sửa lại nhãn menu Blog bị kéo dài từ page title, dùng `node .\tools\fix_blog_menu_label_and_audit.mjs`; script backup menu/page Blog, đổi menu item `/blog/` về `Blog`, kiểm frontend và audit nhanh nội dung Blog.
 - Mặc định khi deploy fix hành vi nút `footer-back-top` hoặc partial JS footer chung của home renderer theo cách backup-first, dùng `npm run release:footer-backtop-live`; workflow này tự làm backup-first deploy + verify public 7 scenario.
 - Nếu cần xem nhanh bộ lệnh footer nên dùng lệnh nào, chạy `npm run help:footer-backtop`.
-- Alias ngắn ưu tiên khi thao tác nhanh: `npm run footer:release`, `footer:dry-run`, `footer:report`, `footer:verify`, `footer:help`, `footer:deploy`.
+- Alias ngắn ưu tiên khi thao tác nhanh: `npm run footer:release`, `footer:dry-run`, `footer:report`, `footer:verify`, `footer:postcheck`, `footer:status`, `footer:status-short`, `footer:help`, `footer:deploy`.
 - Nếu chỉ cần verify public footer interaction sau deploy hoặc sau khi cache ổn định, dùng `npm run verify:footer-live`; script tự dò Chrome/Chromium, kiểm 7 scenario public và chỉ chốt khi `passed 7/7`.
+- Nếu cần recheck nhanh sau cache hoặc sau vài phút mà vẫn muốn nhìn report gần nhất ngay sau đó, dùng `npm run footer:postcheck`; lệnh này trả summary ngắn gọn thay vì đổ toàn bộ JSON verify.
+- Nếu mục tiêu chỉ là xem **footer live hiện tại có đang ổn không**, ưu tiên dùng `npm run footer:status`.
+- Nếu cần 1 dòng gọn để paste log hoặc dùng trong script/cron, dùng `npm run footer:status-short`.
 - `npm run deploy:footer-backtop-live` chỉ dùng khi cần tách bước để debug hoặc rerun riêng phần deploy; để test workflow không ghi live, dùng `npm run release:footer-backtop-dry-run`.
 - Nếu cần xem nhanh kết quả lần release footer gần nhất mà không tự mở report JSON, dùng `npm run report:footer-backtop-latest`.
 - Host hiện có thể trả `purgeOk=false` vì thiếu lệnh `wp litespeed-purge`; coi đây là **warning đã biết**, không coi là fail nếu report vẫn `success: true` và verify public vẫn `passed 7/7`.

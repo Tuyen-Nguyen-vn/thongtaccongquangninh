@@ -1,0 +1,23 @@
+{
+  "submittedAt": "2026-06-27T16:02:19.049Z",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+  "rankMath": {
+    "ok": true,
+    "status": 200,
+    "body": {
+      "success": true,
+      "message": "Successfully submitted 1 URL."
+    }
+  },
+  "googleIndexing": {
+    "ok": false,
+    "status": 403,
+    "body": {
+      "error": {
+        "code": 403,
+        "message": "Permission denied. Failed to verify the URL ownership.",
+        "status": "PERMISSION_DENIED"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T03:30:00.000Z",
+  "slug": "hut-be-phot-hai-ha",
+  "service": "hút bể phốt",
+  "area": "Hải Hà – Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "hut-be-phot-hai-ha-quang-ninh-anh-dau-bai.jpg",
+      "fileNameWebP": "hut-be-phot-hai-ha-quang-ninh-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha\\hut-be-phot-hai-ha-quang-ninh-anh-dau-bai.jpg",
+      "fileSizeKb": 168,
+      "altText": "Xe hút bể phốt Hải Hà Quảng Ninh phục vụ vùng ven biển",
+      "title": "Hút bể phốt Hải Hà – Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "caption": "Dịch vụ hút bể phốt Hải Hà, gọi 0963.953.533",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – Ảnh đầu bài / hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-hai-ha-quang-ninh-xe-hut-be-phot.jpg",
+      "fileNameWebP": "hut-be-phot-hai-ha-quang-ninh-xe-hut-be-phot.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha\\hut-be-phot-hai-ha-quang-ninh-xe-hut-be-phot.jpg",
+      "fileSizeKb": 205,
+      "altText": "Hút bể phốt nhà dân và cơ sở hải sản huyện Hải Hà",
+      "title": "Xe hút bể phốt Hải Hà – xe bồn chuyên dụng",
+      "caption": "Xe hút bể phốt huyện Hải Hà, điều phối 24/7",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+      "placement": "trong phần Tại sao chọn hoặc Quy trình",
+      "slot": "Ảnh 2 – Xe hút bể phốt",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-hai-ha-quang-ninh-case-study.jpg",
+      "fileNameWebP": "hut-be-phot-hai-ha-quang-ninh-case-study.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-hai-ha\\hut-be-phot-hai-ha-quang-ninh-case-study.jpg",
+      "fileSizeKb": 154,
+      "altText": "Đội thợ xử lý bể phốt cơ sở chế biến hải sản Hải Hà",
+      "title": "Case study hút bể phốt Hải Hà",
+      "caption": "Xử lý thực tế bể phốt tại huyện Hải Hà, Quảng Ninh",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-hai-ha/",
+      "placement": "trong phần Case study E-E-A-T",
+      "slot": "Ảnh 3 – Case study",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

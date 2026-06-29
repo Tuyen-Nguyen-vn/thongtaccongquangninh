@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-05-28T08:12:55.432Z",
+  "mode": "apply",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-quang-yen-uong-bi-p1-2026-05-28T08:12:44",
+  "results": [
+    {
+      "id": 424,
+      "slug": "thong-tac-cong-quang-yen",
+      "area": "Quảng Yên",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "before": {
+        "wordCount": 1858,
+        "keywordCount": 4,
+        "keywordDensity": 0.86,
+        "imgCount": 3,
+        "hasWhyH2": true,
+        "hasNapH2": true,
+        "forbidden": false
+      },
+      "after": {
+        "wordCount": 1858,
+        "keywordCount": 4,
+        "keywordDensity": 0.86,
+        "imgCount": 3,
+        "hasWhyH2": true,
+        "hasNapH2": true,
+        "forbidden": false
+      },
+      "oldTitle": "Thông tắc cống Quảng Yên 24/7 cho nhà ven sông, hố ga thấp",
+      "newTitle": "Thông tắc cống Quảng Yên 24/7 cho nhà ven sông, hố ga thấp",
+      "pass": true,
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-quang-yen-uong-bi-p1-2026-05-28T08:12:44/pages-424-thong-tac-cong-quang-yen.json",
+      "pushed": {
+        "id": 424,
+        "status": "publish",
+        "link": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/"
+      },
+      "rankMathUpdate": {
+        "slug": true,
+        "schemas": []
+      },
+      "live": {
+        "status": 200,
+        "canonicalOk": true,
+        "noindex": false,
+        "h1Count": 1,
+        "imgCount": 9,
+        "hasServiceSchema": true,
+        "hasWhyH2": true,
+        "hasNapH2": true
+      }
+    },
+    {
+      "id": 405,
+      "slug": "thong-tac-cong-uong-bi",
+      "area": "Uông Bí",
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/",
+      "before": {
+        "wordCount": 1843,
+        "keywordCount": 4,
+        "keywordDensity": 0.87,
+        "imgCount": 3,
+        "hasWhyH2": true,
+        "hasNapH2": true,
+        "forbidden": false
+      },
+      "after": {
+        "wordCount": 1843,
+        "keywordCount": 4,
+        "keywordDensity": 0.87,
+        "imgCount": 3,
+        "hasWhyH2": true,
+        "hasNapH2": true,
+        "forbidden": false
+      },
+      "oldTitle": "Thông tắc cống Uông Bí 24/7 cho hệ ống cũ, nhà trọ đông",
+      "newTitle": "Thông tắc cống Uông Bí 24/7 cho hệ ống cũ, nhà trọ đông",
+      "pass": true,
+      "backupPath": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-quang-yen-uong-bi-p1-2026-05-28T08:12:44/pages-405-thong-tac-cong-uong-bi.json",
+      "pushed": {
+        "id": 405,
+        "status": "publish",
+        "link": "https://thongtaccongquangninh.com/thong-tac-cong-uong-bi/"
+      },
+      "rankMathUpdate": {
+        "slug": true,
+        "schemas": []
+      },
+      "live": {
+        "status": 200,
+        "canonicalOk": true,
+        "noindex": false,
+        "h1Count": 1,
+        "imgCount": 9,
+        "hasServiceSchema": true,
+        "hasWhyH2": true,
+        "hasNapH2": true
+      }
+    }
+  ],
+  "ok": true
+}

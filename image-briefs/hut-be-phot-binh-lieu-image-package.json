@@ -1,0 +1,61 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "processedAt": "2026-05-20T03:30:00.000Z",
+  "slug": "hut-be-phot-binh-lieu",
+  "service": "hút bể phốt",
+  "area": "Bình Liêu – Quảng Ninh",
+  "sourceType": "local_archive",
+  "images": [
+    {
+      "fileName": "hut-be-phot-binh-lieu-quang-ninh-anh-dau-bai.jpg",
+      "fileNameWebP": "hut-be-phot-binh-lieu-quang-ninh-anh-dau-bai.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-binh-lieu\\hut-be-phot-binh-lieu-quang-ninh-anh-dau-bai.jpg",
+      "fileSizeKb": 175,
+      "altText": "Xe hút bể phốt Bình Liêu Quảng Ninh – vùng cao biên giới",
+      "title": "Hút bể phốt Bình Liêu – Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "caption": "Dịch vụ hút bể phốt Bình Liêu, gọi 0963.953.533",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+      "placement": "sau mở bài",
+      "slot": "Ảnh 1 – Ảnh đầu bài / hero",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-binh-lieu-quang-ninh-xe-hut-be-phot.jpg",
+      "fileNameWebP": "hut-be-phot-binh-lieu-quang-ninh-xe-hut-be-phot.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-binh-lieu\\hut-be-phot-binh-lieu-quang-ninh-xe-hut-be-phot.jpg",
+      "fileSizeKb": 245,
+      "altText": "Hút bể phốt trường nội trú và nhà dân huyện biên giới Bình Liêu",
+      "title": "Xe hút bể phốt Bình Liêu – xe bồn chuyên dụng",
+      "caption": "Xe hút bể phốt huyện Bình Liêu, điều phối 24/7",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+      "placement": "trong phần Tại sao chọn hoặc Quy trình",
+      "slot": "Ảnh 2 – Xe hút bể phốt",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    },
+    {
+      "fileName": "hut-be-phot-binh-lieu-quang-ninh-case-study.jpg",
+      "fileNameWebP": "hut-be-phot-binh-lieu-quang-ninh-case-study.webp",
+      "filePath": "D:\\.thongtaccongquangninh\\Ảnh Đã Xử Lý SEO\\hut-be-phot-binh-lieu\\hut-be-phot-binh-lieu-quang-ninh-case-study.jpg",
+      "fileSizeKb": 170,
+      "altText": "Đội thợ xử lý bể phốt bùn cứng vùng cao Bình Liêu",
+      "title": "Case study hút bể phốt Bình Liêu",
+      "caption": "Xử lý thực tế bể phốt tại huyện Bình Liêu, Quảng Ninh",
+      "pageUrl": "https://thongtaccongquangninh.com/hut-be-phot-binh-lieu/",
+      "placement": "trong phần Case study E-E-A-T",
+      "slot": "Ảnh 3 – Case study",
+      "privacyOk": true,
+      "customerFaceVisible": false,
+      "faceConsent": false,
+      "isPoster": false,
+      "containsPrivateInfo": false
+    }
+  ]
+}

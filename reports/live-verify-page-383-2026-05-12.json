@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-05-12T14:25:57.326Z",
+  "slug": "thong-tac-cong-nha-hang-ha-long",
+  "checks": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "status": 200,
+      "ok": true,
+      "length": 97946,
+      "cache": null,
+      "hasNewOpening": true,
+      "hasSeoSection": true,
+      "hasMetaDesc": true,
+      "hasNap": true,
+      "hasSchema": true,
+      "oldCtaBug": false,
+      "oldCaptionBug": false,
+      "h1Count": 1,
+      "h2Count": 11,
+      "imgCount": 8
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/?nocache=1&t=1778595954805",
+      "status": 200,
+      "ok": true,
+      "length": 96254,
+      "cache": "miss",
+      "hasNewOpening": true,
+      "hasSeoSection": true,
+      "hasMetaDesc": true,
+      "hasNap": true,
+      "hasSchema": true,
+      "oldCtaBug": false,
+      "oldCaptionBug": false,
+      "h1Count": 1,
+      "h2Count": 11,
+      "imgCount": 8
+    }
+  ],
+  "pass": true
+}

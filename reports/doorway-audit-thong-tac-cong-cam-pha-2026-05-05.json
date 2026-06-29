@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-05-05T17:35:02.113Z",
+  "slug": "thong-tac-cong-cam-pha",
+  "url": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+  "liveStatus": 200,
+  "postId": 400,
+  "type": "pages",
+  "status": "publish",
+  "title": "Thông tắc cống Cẩm Phả 24/7, có mặt nhanh 15 phút",
+  "metaTitle": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn",
+  "metaDescription": "Thông tắc cống Cẩm Phả 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày.",
+  "h1": [
+    "Thông tắc cống Cẩm Phả 24/7, có mặt nhanh 15 phút"
+  ],
+  "canonical": "https://thongtaccongquangninh.com/thong-tac-cong-cam-pha/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "Organization",
+      "WebSite",
+      "ImageObject",
+      "BreadcrumbList",
+      "WebPage",
+      "Person",
+      "Article",
+      "FAQPage"
+    ],
+    "localBusinessAreaServed": [
+      "Hạ Long",
+      "Cẩm Phả",
+      "Uông Bí",
+      "Móng Cái",
+      "Đông Triều",
+      "Quảng Yên",
+      "Vân Đồn"
+    ],
+    "hasExpectedArea": true
+  },
+  "faq": [
+    "Gọi thông tắc cống Cẩm Phả bao lâu thì có thợ đến?",
+    "Thông tắc cống Cẩm Phả có cần đục nền không?",
+    "Cống tắc kèm mùi hôi tại Cẩm Phả có phải do bể phốt không?",
+    "Giá thông tắc cống Cẩm Phả ban đêm có cao hơn không?"
+  ],
+  "internalLinks": [
+    "/",
+    "/bang-gia/",
+    "/blog/",
+    "/cau-hoi-thuong-gap-thong-tac-cong/",
+    "/chinh-sach-bao-hanh/",
+    "/gioi-thieu/",
+    "/hut-be-phot-cam-pha/",
+    "/hut-be-phot-dong-trieu/",
+    "/hut-be-phot-ha-long/",
+    "/hut-be-phot-hoanh-bo/",
+    "/hut-be-phot-mong-cai/",
+    "/hut-be-phot-quang-ninh/",
+    "/hut-be-phot-quang-yen/",
+    "/hut-be-phot-uong-bi/",
+    "/hut-be-phot-van-don/",
+    "/lien-he/",
+    "/nao-vet-ho-ga-quang-ninh/",
+    "/thong-tac-bon-cau-cam-pha/",
+    "/thong-tac-bon-cau-quang-ninh/",
+    "/thong-tac-chau-rua-quang-ninh/",
+    "/thong-tac-cong-cam-pha/",
+    "/thong-tac-cong-quang-ninh/",
+    "/thong-tac-toilet-quang-ninh/",
+    "/ve-sinh-duong-ong-quang-ninh/"
+  ],
+  "images": [
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/logo-cong-ty.png",
+      "alt": "Logo Công Ty Môi Trường Đô Thị Số 1 Quảng Ninh",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/banner-thong-tac-cong-quang-ninh-cac-trang-con.webp?v=20260416-1",
+      "alt": "Banner dịch vụ hút bể phốt và thông tắc cống Quảng Ninh của Môi Trường Đô Thị Số 1",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "alt": "Kỹ thuật viên thông tắc cống nhà hàng tại Hạ Long Quảng Ninh",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/uploads/2026/04/ky-thuat-thong-tac-cong-dan-dung-quang-ninh-01.webp",
+      "alt": "thông tắc cống Cẩm Phả bằng máy lò xo",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-floating-cta/assets/call.webp",
+      "alt": "Gọi 0963 953 533",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-floating-cta/assets/zalo.webp",
+      "alt": "Zalo 0931 156 756",
+      "title": ""
+    },
+    {
+      "src": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-floating-cta/assets/facebook.webp",
+      "alt": "Facebook Thông Tắc Cống Hạ Long 24h",
+      "title": ""
+    }
+  ],
+  "targetStatuses": {
+    "/thong-tac-cong-quang-ninh/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/"
+    },
+    "/hut-be-phot-cam-pha/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/"
+    },
+    "/thong-tac-bon-cau-cam-pha/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/thong-tac-bon-cau-cam-pha/"
+    },
+    "/cau-hoi-thuong-gap-thong-tac-cong/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/cau-hoi-thuong-gap-thong-tac-cong/"
+    },
+    "/lien-he/": {
+      "status": 200,
+      "ok": true,
+      "finalUrl": "https://thongtaccongquangninh.com/lien-he/"
+    }
+  },
+  "rankMath": {
+    "offset": 25,
+    "keyword": "thông tắc cống Cẩm Phả",
+    "title": "Thông tắc cống Cẩm Phả 24/7, không đục phá, có mặt nhanh gọn",
+    "description": "Thông tắc cống Cẩm Phả 24/7, không đục phá, báo giá rõ. Gọi 0963.953.533 / 0931.156.756 để xử lý tắc nghẽn, mùi hôi tại nhà, nhà hàng ngay trong ngày."
+  },
+  "issues": []
+}

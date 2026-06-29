@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-05-24T16:03:01.844Z",
+  "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga/",
+  "titleLen": 63,
+  "title": "Nạo vét hố ga Quảng Ninh: xử lý bùn lắng, mùi hôi, ngập sau mưa",
+  "descLen": 153,
+  "desc": "Nạo vét hố ga Quảng Ninh xử lý bùn lắng, mùi hôi, nước thoát chậm, ngập sân sau mưa tại nhà dân, nhà hàng, khu trọ. Gọi 0963.953.533 / 0931.156.756 ngay.",
+  "words": 10591,
+  "h1": 1,
+  "h2Count": 12,
+  "required": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "forbidden": [],
+  "hotlines": 26,
+  "images": 5,
+  "imgIssues": [],
+  "internalLinks": 3,
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "FAQPage",
+      "BlogPosting",
+      "LocalBusiness",
+      "BreadcrumbList",
+      "Service",
+      "FAQPage"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "oldEscaped": false,
+  "sourceHtml": "reports/live-after-post-1368-nao-vet-ho-ga-2026-05-24.html"
+}

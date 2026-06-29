@@ -1,0 +1,49 @@
+{
+  "status": "PENDING_IMAGE_SEO",
+  "createdAt": "2026-05-16T15:31:05.164Z",
+  "slug": "chinh-sach-bao-mat",
+  "url": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+  "focusKeyword": "chính sách bảo mật",
+  "service": "chính sách bảo",
+  "area": "mật",
+  "subAreas": "nhận chính sách bảo mật Môi Trường Đô Thị Số 1 Quảng Ninh nhận chính sách bảo mật tại Quảng Ninh và các khu vực lân cận. Đội kỹ thuật có thể điều thợ hoặc xe gần nhất theo tình trạng thực tế. Nhà dân thường gặp sự cố do dùng lâu ngày. Nhà t...",
+  "searchIntent": "Khách muốn biết cách website bảo mật thông tin liên hệ, địa chỉ, số điện thoại và dữ liệu gửi qua form.",
+  "caseStudy": "E-E-A-T: xử lý sự cố tại khách hàng tại Quảng Yên Một khách tại khách hàng tại Quảng Yên gọi vào buổi tối vì cống tắc, nước trào, mùi hôi và tắc lặp lại. Gia đình đã thử tự xử lý nhưng tình trạng chỉ giảm tạm thời rồi quay lại sau vài ngày. Kỹ thuật hỏi nhanh qua điện thoại và nhận thấy dấu hiệu không chỉ nằm ở bề mặt. Công trình đã sử dụng nhiều năm, có nhiều điểm thoát liên quan và chưa được kiểm tra định kỳ. Sau khi đến nơi, đội chính sách bảo mật kiểm tra điểm phát sinh, hố ga, đường thoát và thiết bị liên quan. Thợ dùng thiết bị phù hợp để xử lý đoạn nghẹt hoặc phần quá tải trước, sau đó xả thử nhiều lần. Vì hệ thống có dấu hiệu phát sinh từ nguyên nhân gốc, khách được báo thêm phương án xử lý triệt để. Sau khi hoàn tất, dòng thoát ổn định hơn, mùi hôi giảm và khu vực làm việc được vệ sinh. Case này cho thấy cần đánh giá toàn hệ thống. Nếu chỉ xử lý điểm nhìn thấy mà bỏ qua bể đầy,...",
+  "shouldUse": [
+    "ảnh đúng dịch vụ",
+    "thiết bị thi công",
+    "thợ xử lý",
+    "bối cảnh địa phương"
+  ],
+  "shouldAvoid": [
+    "ảnh sai dịch vụ",
+    "ảnh sai địa phương"
+  ],
+  "imageSlots": [
+    {
+      "name": "Ảnh 1 - Ảnh đầu bài",
+      "placement": "sau mở bài",
+      "purpose": "Xác nhận đúng dịch vụ, đúng địa phương, đúng nhu cầu xử lý gấp."
+    },
+    {
+      "name": "Ảnh 2 - Ảnh khu vực phục vụ",
+      "placement": "trong phần khu vực phục vụ",
+      "purpose": "Gợi bối cảnh địa phương/phường/xã phụ, không dùng sai địa bàn."
+    },
+    {
+      "name": "Ảnh 3 - Ảnh case study",
+      "placement": "trong phần case study",
+      "purpose": "Bám tình huống case study chính của bài."
+    },
+    {
+      "name": "Ảnh 4 - Ảnh quy trình thi công",
+      "placement": "trong phần quy trình",
+      "purpose": "Thể hiện thiết bị, thợ và thao tác xử lý."
+    },
+    {
+      "name": "Ảnh 5 - Ảnh CTA/niềm tin",
+      "placement": "trước CTA cuối bài",
+      "purpose": "Tăng niềm tin nhưng không thiết kế kiểu poster."
+    }
+  ]
+}

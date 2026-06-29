@@ -1,0 +1,509 @@
+{
+  "timestamp": "2026-05-22T02:14:05.274768",
+  "excelSource": "D:\\Downloads\\aa5b-thongtaccongquangninh.com.xlsx",
+  "backlinkCount": 353,
+  "gatewayPageUrl": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+  "rankMathSubmitted": true,
+  "pingResults": [
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    },
+    {
+      "server": "http://blogsearch.google.com/ping/RPC2",
+      "status": "failed",
+      "response": "<ProtocolError for blogsearch.google.com/ping/RPC2: 302 Found>"
+    },
+    {
+      "server": "http://rpc.weblogs.com/RPC2",
+      "status": "failed",
+      "response": "[Errno 11002] getaddrinfo failed"
+    },
+    {
+      "server": "http://rpc.pingomatic.com/",
+      "status": "success",
+      "response": "{'flerror': False, 'message': 'Pings being forwarded to 3 services!'}"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://thongtaccongquangninh.com/?nowprocket=1&codex=intro-final-20260529",
+  "checkedAt": "2026-05-29T11:35:26.584Z",
+  "results": [
+    {
+      "viewport": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1050,
+        "dpr": 1
+      },
+      "status": 200,
+      "data": {
+        "marker": "2026.05.29.16; direct-template",
+        "title": "Đơn vị thông tắc cống, hút bể phốt tại Quảng Ninh",
+        "founderEdu": "Cử nhân Đại học Bách Khoa Hà Nội",
+        "imgSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/intro-section/intro-nguyen-song-hao-doi-ngu-moi-truong-do-thi-so-1-quang-ninh-ha-long-mobile.jpg",
+        "imgNatural": "460x345",
+        "imgComplete": true,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      },
+      "logs": [],
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/home-intro-section-desktop-final-2026-05-29.png"
+    },
+    {
+      "viewport": {
+        "name": "mobile-top",
+        "width": 390,
+        "height": 1050,
+        "dpr": 2,
+        "isMobile": true,
+        "target": ".ttcqn-intro-section"
+      },
+      "status": 200,
+      "data": {
+        "marker": "2026.05.29.16; direct-template",
+        "title": "Đơn vị thông tắc cống, hút bể phốt tại Quảng Ninh",
+        "founderEdu": "Cử nhân Đại học Bách Khoa Hà Nội",
+        "imgSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/intro-section/intro-nguyen-song-hao-doi-ngu-moi-truong-do-thi-so-1-quang-ninh-ha-long-mobile.jpg",
+        "imgNatural": "342x256",
+        "imgComplete": true,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      },
+      "logs": [],
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/home-intro-section-mobile-top-final-2026-05-29.png"
+    },
+    {
+      "viewport": {
+        "name": "mobile-image",
+        "width": 390,
+        "height": 1050,
+        "dpr": 2,
+        "isMobile": true,
+        "target": ".ttcqn-intro-image-col"
+      },
+      "status": 200,
+      "data": {
+        "marker": "2026.05.29.16; direct-template",
+        "title": "Đơn vị thông tắc cống, hút bể phốt tại Quảng Ninh",
+        "founderEdu": "Cử nhân Đại học Bách Khoa Hà Nội",
+        "imgSrc": "https://thongtaccongquangninh.com/wp-content/plugins/ttcqn-home-emergency-renderer/assets/intro-section/intro-nguyen-song-hao-doi-ngu-moi-truong-do-thi-so-1-quang-ninh-ha-long-mobile.jpg",
+        "imgNatural": "342x256",
+        "imgComplete": true,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390
+      },
+      "logs": [],
+      "screenshot": "/mnt/d/.thongtaccongquangninh/reports/home-intro-section-mobile-image-final-2026-05-29.png"
+    }
+  ]
+}

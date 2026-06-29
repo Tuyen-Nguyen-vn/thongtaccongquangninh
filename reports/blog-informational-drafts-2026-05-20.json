@@ -1,0 +1,62 @@
+{
+  "createdAt": "2026-05-19T17:34:10.851Z",
+  "batchName": "blog-informational-drafts-2026-05-20",
+  "status": "verified",
+  "posts": [
+    {
+      "slug": "dau-hieu-be-phot-can-hut",
+      "postId": 1633,
+      "status": "draft",
+      "link": "https://thongtaccongquangninh.com/?p=1633",
+      "title": "Dấu hiệu bể phốt cần hút 24/7, báo giá rõ, xử lý nhanh tại nhà",
+      "featured_media": 1631,
+      "rankMetaOk": true,
+      "imagesOk": 2,
+      "imagesTotal": 2
+    },
+    {
+      "slug": "chu-ky-hut-be-phot",
+      "postId": 1639,
+      "status": "draft",
+      "link": "https://thongtaccongquangninh.com/?p=1639",
+      "title": "Chu kỳ hút bể phốt bao lâu một lần? – Hướng dẫn đầy đủ 2026",
+      "featured_media": 1635,
+      "rankMetaOk": true,
+      "imagesOk": 2,
+      "imagesTotal": 2
+    },
+    {
+      "slug": "chi-phi-hut-be-phot-quang-ninh",
+      "postId": 1645,
+      "status": "draft",
+      "link": "https://thongtaccongquangninh.com/?p=1645",
+      "title": "Chi phí hút bể phốt Quảng Ninh 2026 – Bảng giá chi tiết, báo giá ngay",
+      "featured_media": 1641,
+      "rankMetaOk": true,
+      "imagesOk": 2,
+      "imagesTotal": 2
+    },
+    {
+      "slug": "bon-cau-rut-cham-nguyen-nhan",
+      "postId": 1648,
+      "status": "draft",
+      "link": "https://thongtaccongquangninh.com/?p=1648",
+      "title": "Bồn cầu rút nước chậm – Nguyên nhân và cách xử lý tại nhà 2026",
+      "featured_media": 1646,
+      "rankMetaOk": true,
+      "imagesOk": 2,
+      "imagesTotal": 2
+    },
+    {
+      "slug": "mui-hoi-cong-nguyen-nhan-xu-ly",
+      "postId": 1651,
+      "status": "draft",
+      "link": "https://thongtaccongquangninh.com/?p=1651",
+      "title": "Mùi hôi từ cống, bể phốt trong nhà – Nguyên nhân và cách xử lý dứt điểm",
+      "featured_media": 1649,
+      "rankMetaOk": true,
+      "imagesOk": 2,
+      "imagesTotal": 2
+    }
+  ]
+}

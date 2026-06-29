@@ -1,0 +1,69 @@
+{
+  "updatedAt": "2026-05-19T18:30:06.278Z",
+  "backupDir": "backups/audit-draft-cta-cleanup-2026-05-20",
+  "results": [
+    {
+      "id": 1759,
+      "slug": "thong-tac-cong-ngo-nho-ha-long",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1753,
+      "slug": "thong-tac-cong-quang-ninh",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1747,
+      "slug": "thong-tac-cong-van-don",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1741,
+      "slug": "thong-tac-cong-uong-bi",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1734,
+      "slug": "thong-tac-cong-quang-yen",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1727,
+      "slug": "thong-tac-cong-mong-cai",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1721,
+      "slug": "thong-tac-cong-dong-trieu",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1715,
+      "slug": "thong-tac-cong-cam-pha",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    },
+    {
+      "id": 1709,
+      "slug": "thong-tac-cong-ha-long",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    }
+  ]
+}

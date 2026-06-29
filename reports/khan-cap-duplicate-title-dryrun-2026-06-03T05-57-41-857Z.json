@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-06-03T05:57:41.861Z",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/seo-revisions/wp-before-khan-cap-duplicate-title-2026-06-03T05-57-41-857Z",
+  "canonical": {
+    "id": 2377,
+    "slug": "thong-tac-bon-cau-khan-cap-quang-ninh",
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+    "title": "Thông tắc bồn cầu khẩn cấp Quảng Ninh 24/7, có thợ sau 15 phút",
+    "description": "Bồn cầu tắc trào ngược tại Quảng Ninh? Gọi 0963.953.533 / 0931.156.756, thợ đến nhanh 24/7, xử lý bằng máy lò xo, không đục phá, báo giá trước cho nhà dân."
+  },
+  "draft": {
+    "id": 2378,
+    "slug": "thong-tac-bon-cau-khan-cap-quang-ninh-2",
+    "title": "Bản nháp gộp: thông tắc bồn cầu khẩn cấp Quảng Ninh"
+  },
+  "actions": [
+    {
+      "id": 2377,
+      "slug": "thong-tac-bon-cau-khan-cap-quang-ninh",
+      "status": "publish",
+      "oldTitle": "Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh – Có Mặt 15 Phút 2026",
+      "newTitle": "Thông tắc bồn cầu khẩn cấp Quảng Ninh 24/7, có thợ sau 15 phút",
+      "oldExcerpt": "Thông tắc bồn cầu khẩn cấp Quảng Ninh – gọi 0963.953.533, có mặt trong 15 phút, xử lý dứt điểm ngay lần đầu, không đục phá, phục vụ 24/7 Hạ Long, Cẩm Phả, Uông Bí.",
+      "newExcerpt": "Bồn cầu tắc trào ngược tại Quảng Ninh? Gọi 0963.953.533 / 0931.156.756, thợ đến nhanh 24/7, xử lý bằng máy lò xo, không đục phá, báo giá trước cho nhà dân.",
+      "authorJsonLdUpdated": true
+    },
+    {
+      "id": 2378,
+      "slug": "thong-tac-bon-cau-khan-cap-quang-ninh-2",
+      "status": "draft",
+      "oldTitle": "Thông Tắc Bồn Cầu Khẩn Cấp Quảng Ninh – Có Mặt 15 Phút 2026",
+      "newTitle": "Bản nháp gộp: thông tắc bồn cầu khẩn cấp Quảng Ninh"
+    }
+  ],
+  "verify": {}
+}

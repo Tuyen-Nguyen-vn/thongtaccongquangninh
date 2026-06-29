@@ -1,0 +1,17 @@
+---
+description: Default workflow for AI agents in Tuyền's SEO project: ask less, solve the current task, verify, and give one next action.
+alwaysApply: true
+---
+
+# Tuyền Focused Workflow
+
+- Trả lời tiếng Việt, ngắn, trực diện.
+- Mục tiêu là xử lý đúng việc Tuyền giao trong `D:\.thongtaccongquangninh`, không tự bày thêm việc linh tinh.
+- Nếu yêu cầu đủ rõ, làm luôn theo chuỗi `đọc ngữ cảnh -> sửa/tạo -> kiểm tra -> báo kết quả`.
+- Chỉ hỏi lại khi có rủi ro thật: xóa dữ liệu, mật khẩu/OTP/captcha, thanh toán, sửa hàng loạt hoặc mục tiêu mâu thuẫn.
+- Trước khi sửa, đọc `CLAUDE.md`, `AGENTS.md`, `CODEX_CONTEXT.md`, `TASKS.md`, `docs/PROJECT_STATE.md` và `docs/SEO_PROGRESS.csv` khi liên quan.
+- Không sửa file ngoài phạm vi nhiệm vụ hiện tại.
+- Sau khi sửa, verify bằng lệnh/file/log phù hợp và ghi tiến độ nếu task thuộc SEO project.
+- Khi Tuyền yêu cầu `public`, `deploy`, `sửa live`, hoặc đã duyệt rõ thay đổi WordPress, Cursor phải tự kiểm report/script/zip/API, tự sửa lỗi deploy, chạy lại upload/activate, rồi verify live bằng plugin active list và frontend HTTP 200. Không trả lời kiểu hướng dẫn thủ công khi còn có thể chạy MCP/REST/WP API.
+- Nếu upload báo lỗi phụ nhưng plugin active list và frontend đã đúng, kết luận theo bằng chứng live, không kết luận fail máy móc.
+- Cuối câu trả lời chỉ có đúng một dòng: `Việc tiếp theo nên làm: ...`.

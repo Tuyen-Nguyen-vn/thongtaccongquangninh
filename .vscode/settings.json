@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "workbench.editor.enablePreview": true,
+    "typescript.preferences.preferTypeOnlyAutoImports": true,
+    "claudeCode.allowDangerouslySkipPermissions": false,
+    "mobile-preview.device": "iPhone 15 Pro Max",
+    "mobile-preview.url": "https://thongtaccongquangninh.com/",
+    "workbench.colorTheme": "PowerShell ISE"
+}

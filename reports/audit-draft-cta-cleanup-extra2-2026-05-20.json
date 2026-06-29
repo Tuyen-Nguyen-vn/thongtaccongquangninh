@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-05-19T18:32:28.577Z",
+  "backupDir": "backups/audit-draft-cta-cleanup-2026-05-20",
+  "results": [
+    {
+      "id": 1788,
+      "slug": "nao-vet-ho-ga-quang-ninh",
+      "status": "draft",
+      "changed": true,
+      "remaining": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-06-26T23:03:11.254Z",
+  "pageId": 52,
+  "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+  "postTitle": "",
+  "rankMath": {
+    "storedScore": 0,
+    "batchScore": 0,
+    "batchOffset": null,
+    "batchItem": null,
+    "objectSeoStatus": 404,
+    "objectSeoKeys": [],
+    "focusKeyword": "",
+    "title": "",
+    "titleLength": 0,
+    "description": "",
+    "descriptionLength": 0
+  },
+  "contentChecks": {
+    "hasOneRawH1": true,
+    "hasPriceTable": false,
+    "hasFaqHeading": false,
+    "hasAuthorLink": false
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-06-26T18:58:45.193Z",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-panel-2026-06-26T18-58-45-189Z",
+  "targets": [
+    {
+      "name": "home renderer template",
+      "localPath": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "remotePath": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-panel-2026-06-26T18-58-45-189Z/page-home-direct.remote.php",
+      "backupChars": 170475,
+      "writeStatus": 200,
+      "writeOk": true,
+      "remoteVerify": {
+        "ok": true,
+        "missing": [],
+        "forbidden": []
+      }
+    },
+    {
+      "name": "doorway schema GBP data",
+      "localPath": "/mnt/d/.thongtaccongquangninh/tools/wp-plugins/ttcqn-doorway-schema/gbp_data.json",
+      "remotePath": "/public_html/wp-content/plugins/ttcqn-doorway-schema/gbp_data.json",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-panel-2026-06-26T18-58-45-189Z/doorway-gbp-data.remote.json",
+      "backupChars": 4240,
+      "writeStatus": 200,
+      "writeOk": true,
+      "remoteVerify": {
+        "ok": true,
+        "missing": [],
+        "forbidden": []
+      }
+    },
+    {
+      "name": "home image alt fixer plugin",
+      "localPath": "/mnt/d/.thongtaccongquangninh/tools/mu-plugins/ttcqn-fix-home-img-alt.php",
+      "remotePath": "/public_html/wp-content/plugins/ttcqn-fix-home-img-alt/ttcqn-fix-home-img-alt.php",
+      "backupPath": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-panel-2026-06-26T18-58-45-189Z/fix-home-img-alt.remote.php",
+      "backupChars": 5288,
+      "writeStatus": 200,
+      "writeOk": true,
+      "remoteVerify": {
+        "ok": true,
+        "missing": [],
+        "forbidden": []
+      }
+    }
+  ],
+  "cachePurge": {
+    "isError": true,
+    "text": "PHP Warning:  Constant DISALLOW_FILE_EDIT already defined in phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1309) : eval()'d code on line 116\n[ERROR] WordPress ability 'wp-mcp-ultimate/discover-abilities' does not exist. | Context: [\"RegisterAbilityAsMcpTool::wp-mcp-ultimate\\/discover-abilities\"] | User ID: 0\n[ERROR] WordPress ability 'wp-mcp-ultimate/get-ability-info' does not exist. | Context: [\"RegisterAbilityAsMcpTool::wp-mcp-ultimate\\/get-ability-info\"] | User ID: 0\n[ERROR] WordPress ability 'wp-mcp-ultimate/execute-ability' does not exist. | Context: [\"RegisterAbilityAsMcpTool::wp-mcp-ultimate\\/execute-ability\"] | User ID: 0\nError: 'litespeed-purge' is not a registered wp command. See 'wp help' for available commands.\n",
+    "status": 200
+  },
+  "publicVerification": {
+    "home": {
+      "status": 200,
+      "hasNewLogoAlt": true,
+      "hasOldLogoAlt": false,
+      "hasForbiddenPattern": false,
+      "hasAggregateRating": false,
+      "hasRevMock": false,
+      "hasMockReviewName": false
+    },
+    "area": {
+      "status": 200,
+      "hasNewLogoAlt": false,
+      "hasOldLogoAlt": false,
+      "hasForbiddenPattern": false,
+      "hasAggregateRating": false,
+      "hasRevMock": false,
+      "hasMockReviewName": false,
+      "hasServiceSchema": true
+    }
+  },
+  "success": true
+}

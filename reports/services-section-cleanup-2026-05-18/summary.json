@@ -1,0 +1,53 @@
+{
+  "desktop": {
+    "meta": "",
+    "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rgba(0, 45, 90, 0.16) 28%, rgba(2, 11, 20, 0) 55%), radial-gradient(circle at 92% 25%, rgba(0, 170, 255, 0.18) 0%, rgba(0, 80, 130, 0.1) 30%, rgba(2, 11, 20, 0) 60%), linear-gradient(135deg, rgb(2, 11, 20) 0%, rgb(3, 21, 34) 45%, rgb(2, 11, 20) 100%)",
+    "cardCount": 6,
+    "vectorCount": 10,
+    "visibleVectors": 10,
+    "benefitCells": 5,
+    "badgeHasSvg": true,
+    "badgeText": "DỊCH VỤ 24/7 TẠI QUẢNG NINH",
+    "gridColumns": "436px 436px 436px",
+    "firstImageAspect": "200x200",
+    "bodyW": 1440,
+    "viewportW": 1440,
+    "horizontalScroll": false,
+    "consoleReady": true,
+    "consoleErrors": []
+  },
+  "tablet": {
+    "meta": "",
+    "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rgba(0, 45, 90, 0.16) 28%, rgba(2, 11, 20, 0) 55%), radial-gradient(circle at 92% 25%, rgba(0, 170, 255, 0.18) 0%, rgba(0, 80, 130, 0.1) 30%, rgba(2, 11, 20, 0) 60%), linear-gradient(135deg, rgb(2, 11, 20) 0%, rgb(3, 21, 34) 45%, rgb(2, 11, 20) 100%)",
+    "cardCount": 6,
+    "vectorCount": 10,
+    "visibleVectors": 10,
+    "benefitCells": 5,
+    "badgeHasSvg": true,
+    "badgeText": "DỊCH VỤ 24/7 TẠI QUẢNG NINH",
+    "gridColumns": "419px 419px",
+    "firstImageAspect": "200x200",
+    "bodyW": 900,
+    "viewportW": 900,
+    "horizontalScroll": false,
+    "consoleReady": true,
+    "consoleErrors": []
+  },
+  "mobile": {
+    "meta": "",
+    "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rgba(0, 45, 90, 0.16) 28%, rgba(2, 11, 20, 0) 55%), radial-gradient(circle at 92% 25%, rgba(0, 170, 255, 0.18) 0%, rgba(0, 80, 130, 0.1) 30%, rgba(2, 11, 20, 0) 60%), linear-gradient(135deg, rgb(2, 11, 20) 0%, rgb(3, 21, 34) 45%, rgb(2, 11, 20) 100%)",
+    "cardCount": 6,
+    "vectorCount": 10,
+    "visibleVectors": 5,
+    "benefitCells": 5,
+    "badgeHasSvg": true,
+    "badgeText": "DỊCH VỤ 24/7 TẠI QUẢNG NINH",
+    "gridColumns": "102px 102px 102px",
+    "firstImageAspect": "100x100",
+    "bodyW": 390,
+    "viewportW": 390,
+    "horizontalScroll": false,
+    "consoleReady": true,
+    "consoleErrors": []
+  }
+}

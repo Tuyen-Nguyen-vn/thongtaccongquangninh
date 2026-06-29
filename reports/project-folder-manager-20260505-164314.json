@@ -1,0 +1,630 @@
+{
+  "root": "D:\\.thongtaccongquangninh",
+  "generated_at": "2026-05-05T16:43:14",
+  "totals": {
+    "files": 543,
+    "directories": 75,
+    "bytes": 11221156
+  },
+  "category_counts": {
+    "seo-revision": 223,
+    "report": 162,
+    "wordpress-operation-log": 60,
+    "content-draft": 49,
+    "tool-script": 32,
+    "seo-status": 9,
+    "context": 2,
+    "document": 2,
+    "agent-config": 2,
+    "content-status": 1,
+    "data-output": 1
+  },
+  "category_sizes": {
+    "seo-revision": 8997405,
+    "content-draft": 869855,
+    "report": 761610,
+    "tool-script": 387830,
+    "wordpress-operation-log": 127944,
+    "seo-status": 28231,
+    "content-status": 26738,
+    "context": 12540,
+    "agent-config": 6509,
+    "document": 2066,
+    "data-output": 428
+  },
+  "top_level_counts": {
+    "seo-revisions": 223,
+    "reports": 162,
+    "content-drafts": 49,
+    "tools": 32,
+    ".agents": 2,
+    "AGENTS.md": 1,
+    "CHATGPT_APPS_CONNECTOR_UPDATE_BLOCK_2026-04-29.md": 1,
+    "CHATGPT_APPS_UPDATE_BLOCK_2026-04-29.md": 1,
+    "CODEX_CONTEXT.md": 1,
+    "CONTENT_DRAFT_STATUS_2026-04-29.md": 1,
+    "LOCAL_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json": 1,
+    "SEO_FIX_STATUS_2026-04-29.md": 1,
+    "SEO_INSTANT_INDEXING_2026-04-29.json": 1,
+    "SEO_INTERNAL_LINKS_LOG_2026-04-29.md": 1,
+    "SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv": 1,
+    "SEO_NEXT_ACTION_STATUS_2026-04-29.md": 1,
+    "SEO_PUSH_LOG_2026-04-29.md": 1,
+    "SEO_PUSH_RESULTS_2026-04-29.csv": 1,
+    "SEO_RANKMATH_AUDIT_2026-04-29.md": 1,
+    "SEO_STATUS_2026-05-03.md": 1,
+    "WORDPRESS_DRAFT_UONG_BI_BON_CAU_2026-04-29.json": 1,
+    "WORDPRESS_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json": 1,
+    "WORDPRESS_FIX_BANG_GIA_TEXT_2026-04-30.json": 1,
+    "WORDPRESS_FIX_GLOBAL_LINKS_2026-04-30.json": 1,
+    "WORDPRESS_FIX_LIEN_HE_WORD_COUNT_2026-04-30.json": 1,
+    "WORDPRESS_FIX_LOW_MISSING_PAGES_2026-04-30.json": 1,
+    "WORDPRESS_FIX_MENU_LINK_SOURCES_2026-04-30.json": 1,
+    "WORDPRESS_FIX_VE_CHUNG_TOI_URL_2026-04-30.json": 1,
+    "WORDPRESS_INSERT_YOUTUBE_VIDEOS_2026-04-30.json": 1,
+    "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-20.json": 1,
+    "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-51.json": 1,
+    "WORDPRESS_PUBLISH_UONG_BI_BON_CAU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_BANG_GIA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_BANG_GIA_HUT_BE_PHOT_QUANG_NINH_2026_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_BLOG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_BLOG_SETTINGS_2026-04-30.json": 1,
+    "WORDPRESS_UPDATE_CACH_XU_LY_CONG_THOAT_NUOC_TAC_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_CHINH_SACH_BAO_HANH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_CHINH_SACH_BAO_MAT_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_DAU_HIEU_BE_PHOT_CAN_HUT_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_GIA_THONG_TAC_CONG_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_GIOI_THIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_BAI_CHAY_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_CAM_PHA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_DONG_TRIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HA_LONG_XE_HUT_24_7_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_HOANH_BO_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_MONG_CAI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_QUANG_YEN_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_UONG_BI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_HUT_BE_PHOT_VAN_DON_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_LIEN_HE_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_NAO_VET_HO_GA_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_NGUYEN_NHAN_CONG_TAC_THUONG_XUYEN_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_QUANG_YEN_BON_CAU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_CAM_PHA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_DONG_TRIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_MONG_CAI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_BON_CAU_VAN_DON_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CHAU_RUA_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_CAM_PHA_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_CHUNG_CU_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_DONG_TRIEU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_HA_LONG_BAN_DEM_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_HONG_GAI_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_MONG_CAI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_NGO_NHO_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_NHA_HANG_HA_LONG_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_QUANG_YEN_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_UONG_BI_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_CONG_VAN_DON_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_THONG_TAC_TOILET_QUANG_NINH_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_TRANG_CHU_2026-04-29.json": 1,
+    "WORDPRESS_UPDATE_XU_LY_MUI_HOI_QUANG_NINH_2026-04-29.json": 1
+  },
+  "suffix_counts": {
+    ".json": 305,
+    ".md": 167,
+    ".csv": 39,
+    ".mjs": 27,
+    ".py": 4,
+    ".html": 1
+  },
+  "latest_files": [
+    {
+      "path": "reports\\project-folder-manager-20260505-145819.json",
+      "size": 21213,
+      "modified": "2026-05-05T14:58:19",
+      "category": "report"
+    },
+    {
+      "path": "reports\\project-folder-manager-20260505-145819.md",
+      "size": 8721,
+      "modified": "2026-05-05T14:58:19",
+      "category": "report"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 6682,
+      "modified": "2026-05-05T14:58:09",
+      "category": "context"
+    },
+    {
+      "path": "CODEX_CONTEXT.md",
+      "size": 5858,
+      "modified": "2026-05-05T14:58:09",
+      "category": "context"
+    },
+    {
+      "path": ".agents\\folder-manager-agent.md",
+      "size": 2751,
+      "modified": "2026-05-05T14:58:09",
+      "category": "agent-config"
+    },
+    {
+      "path": "tools\\project_folder_manager.py",
+      "size": 9928,
+      "modified": "2026-05-05T14:58:09",
+      "category": "tool-script"
+    },
+    {
+      "path": "tools\\scan_recent_files.mjs",
+      "size": 1841,
+      "modified": "2026-05-05T14:42:34",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\MKT_PAGE_PROXY_STATUS_AFTER_CLEANUP_20260503_183336.md",
+      "size": 10147,
+      "modified": "2026-05-03T18:34:40",
+      "category": "report"
+    },
+    {
+      "path": "reports\\MKT_PAGE_PROXY_STATUS_AFTER_CLEANUP_20260503_183336.csv",
+      "size": 9036,
+      "modified": "2026-05-03T18:33:43",
+      "category": "report"
+    },
+    {
+      "path": "tools\\mkt_page_proxy_cleanup_assign.py",
+      "size": 15522,
+      "modified": "2026-05-03T18:33:28",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\DESKTOP_PROXY_AUDIT_20260503_164344.csv",
+      "size": 1175,
+      "modified": "2026-05-03T16:43:50",
+      "category": "report"
+    },
+    {
+      "path": "reports\\DESKTOP_PROXY_AUDIT_20260503_164344.md",
+      "size": 1892,
+      "modified": "2026-05-03T16:43:50",
+      "category": "report"
+    },
+    {
+      "path": "tools\\audit_desktop_proxy_files.py",
+      "size": 8968,
+      "modified": "2026-05-03T16:43:36",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\DESKTOP_PROXY_AUDIT_20260503_164234.csv",
+      "size": 570,
+      "modified": "2026-05-03T16:42:35",
+      "category": "report"
+    },
+    {
+      "path": "reports\\DESKTOP_PROXY_AUDIT_20260503_164234.md",
+      "size": 1090,
+      "modified": "2026-05-03T16:42:35",
+      "category": "report"
+    },
+    {
+      "path": "reports\\MKT_PAGE_50_FANPAGE_QN_306307_UTF8_FIXED_20260503_160529.csv",
+      "size": 25984,
+      "modified": "2026-05-03T16:05:30",
+      "category": "report"
+    },
+    {
+      "path": "reports\\MKT_PAGE_50_FANPAGE_QN_306307_UTF8_FIXED_20260503_160529.md",
+      "size": 60994,
+      "modified": "2026-05-03T16:05:30",
+      "category": "report"
+    },
+    {
+      "path": "tools\\fix_mkt_page_50_qn306307_utf8.py",
+      "size": 10357,
+      "modified": "2026-05-03T16:05:23",
+      "category": "tool-script"
+    },
+    {
+      "path": "reports\\MKT_PAGE_50_FANPAGE_QN_306307_UTF8_FIXED_20260503_160516.csv",
+      "size": 60,
+      "modified": "2026-05-03T16:05:16",
+      "category": "report"
+    },
+    {
+      "path": "reports\\MKT_PAGE_50_FANPAGE_QN_306307_20260503_160313.csv",
+      "size": 26861,
+      "modified": "2026-05-03T16:03:13",
+      "category": "report"
+    }
+  ],
+  "latest_by_category": {
+    "agent-config": [
+      {
+        "path": ".agents\\folder-manager-agent.md",
+        "size": 2751,
+        "modified": "2026-05-05T14:58:09",
+        "category": "agent-config"
+      },
+      {
+        "path": ".agents\\skills\\google-indexing\\SKILL.md",
+        "size": 3758,
+        "modified": "2026-04-30T18:42:54",
+        "category": "agent-config"
+      }
+    ],
+    "content-draft": [
+      {
+        "path": "content-drafts\\trang-faq-tong-hop-thong-tac-cong-rankmath-draft.md",
+        "size": 19903,
+        "modified": "2026-05-03T12:17:48",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\blog-rankmath-90.md",
+        "size": 17065,
+        "modified": "2026-04-30T00:14:48",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\chinh-sach-bao-hanh-rankmath-90.md",
+        "size": 16923,
+        "modified": "2026-04-29T23:52:02",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\chinh-sach-bao-mat-rankmath-90.md",
+        "size": 16933,
+        "modified": "2026-04-29T23:52:02",
+        "category": "content-draft"
+      },
+      {
+        "path": "content-drafts\\remaining\\gioi-thieu-rankmath-90.md",
+        "size": 16727,
+        "modified": "2026-04-29T23:52:02",
+        "category": "content-draft"
+      }
+    ],
+    "content-status": [
+      {
+        "path": "CONTENT_DRAFT_STATUS_2026-04-29.md",
+        "size": 26738,
+        "modified": "2026-04-30T05:35:05",
+        "category": "content-status"
+      }
+    ],
+    "context": [
+      {
+        "path": "AGENTS.md",
+        "size": 6682,
+        "modified": "2026-05-05T14:58:09",
+        "category": "context"
+      },
+      {
+        "path": "CODEX_CONTEXT.md",
+        "size": 5858,
+        "modified": "2026-05-05T14:58:09",
+        "category": "context"
+      }
+    ],
+    "data-output": [
+      {
+        "path": "LOCAL_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json",
+        "size": 428,
+        "modified": "2026-05-03T12:09:11",
+        "category": "data-output"
+      }
+    ],
+    "document": [
+      {
+        "path": "CHATGPT_APPS_CONNECTOR_UPDATE_BLOCK_2026-04-29.md",
+        "size": 682,
+        "modified": "2026-04-29T06:47:17",
+        "category": "document"
+      },
+      {
+        "path": "CHATGPT_APPS_UPDATE_BLOCK_2026-04-29.md",
+        "size": 1384,
+        "modified": "2026-04-29T06:47:17",
+        "category": "document"
+      }
+    ],
+    "report": [
+      {
+        "path": "reports\\project-folder-manager-20260505-145819.json",
+        "size": 21213,
+        "modified": "2026-05-05T14:58:19",
+        "category": "report"
+      },
+      {
+        "path": "reports\\project-folder-manager-20260505-145819.md",
+        "size": 8721,
+        "modified": "2026-05-05T14:58:19",
+        "category": "report"
+      },
+      {
+        "path": "reports\\MKT_PAGE_PROXY_STATUS_AFTER_CLEANUP_20260503_183336.md",
+        "size": 10147,
+        "modified": "2026-05-03T18:34:40",
+        "category": "report"
+      },
+      {
+        "path": "reports\\MKT_PAGE_PROXY_STATUS_AFTER_CLEANUP_20260503_183336.csv",
+        "size": 9036,
+        "modified": "2026-05-03T18:33:43",
+        "category": "report"
+      },
+      {
+        "path": "reports\\DESKTOP_PROXY_AUDIT_20260503_164344.csv",
+        "size": 1175,
+        "modified": "2026-05-03T16:43:50",
+        "category": "report"
+      }
+    ],
+    "seo-revision": [
+      {
+        "path": "seo-revisions\\wp-before-faq-publish-2026-05-03T05-17-51\\pages-649-cau-hoi-thuong-gap-thong-tac-cong.json",
+        "size": 45114,
+        "modified": "2026-05-03T12:17:52",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-anh-chi-wording-2026-05-03T05-09-11\\posts-538-thong-tac-bon-cau-quang-yen.json",
+        "size": 29575,
+        "modified": "2026-05-03T12:09:22",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-lien-he-word-count-fix-2026-04-30\\pages-63-lien-he.json",
+        "size": 37855,
+        "modified": "2026-04-30T10:12:21",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-ve-chung-toi-url-fix-2026-04-30\\pages-644-ve-chung-toi.json",
+        "size": 39621,
+        "modified": "2026-04-30T10:07:05",
+        "category": "seo-revision"
+      },
+      {
+        "path": "seo-revisions\\wp-before-low-missing-pages-fix-2026-04-30\\pages-629-hut-be-phot-tien-yen.json",
+        "size": 36421,
+        "modified": "2026-04-30T09:57:44",
+        "category": "seo-revision"
+      }
+    ],
+    "seo-status": [
+      {
+        "path": "SEO_STATUS_2026-05-03.md",
+        "size": 5327,
+        "modified": "2026-05-03T12:19:04",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_INTERNAL_LINKS_LOG_2026-04-29.md",
+        "size": 563,
+        "modified": "2026-04-29T05:41:06",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_INTERNAL_LINKS_RESULTS_2026-04-29.csv",
+        "size": 4766,
+        "modified": "2026-04-29T05:41:04",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_NEXT_ACTION_STATUS_2026-04-29.md",
+        "size": 1634,
+        "modified": "2026-04-29T05:36:22",
+        "category": "seo-status"
+      },
+      {
+        "path": "SEO_INSTANT_INDEXING_2026-04-29.json",
+        "size": 555,
+        "modified": "2026-04-29T05:35:47",
+        "category": "seo-status"
+      }
+    ],
+    "tool-script": [
+      {
+        "path": "tools\\project_folder_manager.py",
+        "size": 9928,
+        "modified": "2026-05-05T14:58:09",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\scan_recent_files.mjs",
+        "size": 1841,
+        "modified": "2026-05-05T14:42:34",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\mkt_page_proxy_cleanup_assign.py",
+        "size": 15522,
+        "modified": "2026-05-03T18:33:28",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\audit_desktop_proxy_files.py",
+        "size": 8968,
+        "modified": "2026-05-03T16:43:36",
+        "category": "tool-script"
+      },
+      {
+        "path": "tools\\fix_mkt_page_50_qn306307_utf8.py",
+        "size": 10357,
+        "modified": "2026-05-03T16:05:23",
+        "category": "tool-script"
+      }
+    ],
+    "wordpress-operation-log": [
+      {
+        "path": "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-51.json",
+        "size": 3068,
+        "modified": "2026-05-03T12:18:03",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-20.json",
+        "size": 3117,
+        "modified": "2026-05-03T12:17:39",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json",
+        "size": 618,
+        "modified": "2026-05-03T12:09:23",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_FIX_LIEN_HE_WORD_COUNT_2026-04-30.json",
+        "size": 234,
+        "modified": "2026-04-30T10:12:23",
+        "category": "wordpress-operation-log"
+      },
+      {
+        "path": "WORDPRESS_FIX_VE_CHUNG_TOI_URL_2026-04-30.json",
+        "size": 210,
+        "modified": "2026-04-30T10:07:07",
+        "category": "wordpress-operation-log"
+      }
+    ]
+  },
+  "important_files": [
+    {
+      "path": "AGENTS.md",
+      "size": 6682,
+      "modified": "2026-05-05T14:58:09",
+      "category": "context"
+    },
+    {
+      "path": "CODEX_CONTEXT.md",
+      "size": 5858,
+      "modified": "2026-05-05T14:58:09",
+      "category": "context"
+    },
+    {
+      "path": "SEO_STATUS_2026-05-03.md",
+      "size": 5327,
+      "modified": "2026-05-03T12:19:04",
+      "category": "seo-status"
+    },
+    {
+      "path": "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-51.json",
+      "size": 3068,
+      "modified": "2026-05-03T12:18:03",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_PUBLISH_FAQ_TONG_HOP_2026-05-03T05-17-20.json",
+      "size": 3117,
+      "modified": "2026-05-03T12:17:39",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json",
+      "size": 618,
+      "modified": "2026-05-03T12:09:23",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "LOCAL_FIX_ANH_CHI_WORDING_2026-05-03T05-09-11.json",
+      "size": 428,
+      "modified": "2026-05-03T12:09:11",
+      "category": "data-output"
+    },
+    {
+      "path": "WORDPRESS_FIX_LIEN_HE_WORD_COUNT_2026-04-30.json",
+      "size": 234,
+      "modified": "2026-04-30T10:12:23",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_VE_CHUNG_TOI_URL_2026-04-30.json",
+      "size": 210,
+      "modified": "2026-04-30T10:07:07",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_LOW_MISSING_PAGES_2026-04-30.json",
+      "size": 796,
+      "modified": "2026-04-30T09:57:47",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_MENU_LINK_SOURCES_2026-04-30.json",
+      "size": 16644,
+      "modified": "2026-04-30T09:49:23",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_GLOBAL_LINKS_2026-04-30.json",
+      "size": 1909,
+      "modified": "2026-04-30T09:42:56",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_FIX_BANG_GIA_TEXT_2026-04-30.json",
+      "size": 542,
+      "modified": "2026-04-30T09:36:44",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "CONTENT_DRAFT_STATUS_2026-04-29.md",
+      "size": 26738,
+      "modified": "2026-04-30T05:35:05",
+      "category": "content-status"
+    },
+    {
+      "path": "WORDPRESS_INSERT_YOUTUBE_VIDEOS_2026-04-30.json",
+      "size": 4001,
+      "modified": "2026-04-30T05:27:07",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_UPDATE_BLOG_SETTINGS_2026-04-30.json",
+      "size": 210,
+      "modified": "2026-04-30T00:15:35",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_UPDATE_BLOG_2026-04-29.json",
+      "size": 1905,
+      "modified": "2026-04-30T00:15:15",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_UPDATE_CHINH_SACH_BAO_MAT_2026-04-29.json",
+      "size": 1981,
+      "modified": "2026-04-29T23:53:31",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_UPDATE_CHINH_SACH_BAO_HANH_2026-04-29.json",
+      "size": 2003,
+      "modified": "2026-04-29T23:53:20",
+      "category": "wordpress-operation-log"
+    },
+    {
+      "path": "WORDPRESS_UPDATE_GIOI_THIEU_2026-04-29.json",
+      "size": 1951,
+      "modified": "2026-04-29T23:53:11",
+      "category": "wordpress-operation-log"
+    }
+  ],
+  "large_files": [],
+  "recommendations": [
+    "Giữ `AGENTS.md` và `CODEX_CONTEXT.md` làm nguồn quy tắc vận hành.",
+    "Không dọn `WORDPRESS_*.json` hoặc report live nếu chưa đối chiếu task liên quan.",
+    "Khi cần dọn thật, tạo danh sách move-plan trước rồi chờ Tuyền duyệt.",
+    "Thư mục `reports` có nhiều file; nên gom theo tháng sau khi tạo danh sách duyệt.",
+    "Thư mục `content-drafts` có nhiều draft; nên ưu tiên phân loại `đã live`, `chờ duyệt`, `cần sửa`.",
+    "Thư mục `tools` có nhiều script; nên ghi script nào là read-only, script nào có thể sửa live."
+  ]
+}

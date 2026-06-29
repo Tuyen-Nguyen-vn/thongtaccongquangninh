@@ -1,0 +1,22 @@
+{
+  "mobile": {
+    "performance": 0.85,
+    "bestPractices": 1,
+    "seo": 1,
+    "unusedJs": "Est savings of 167 KiB",
+    "unminifiedJsScore": 0.5,
+    "bootupTime": "0.2 s",
+    "lcp": "3.3 s",
+    "tbt": "60 ms"
+  },
+  "desktop": {
+    "performance": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "unusedJs": "Est savings of 167 KiB",
+    "unminifiedJsScore": 0.5,
+    "bootupTime": "0.2 s",
+    "lcp": "0.8 s",
+    "tbt": "210 ms"
+  }
+}

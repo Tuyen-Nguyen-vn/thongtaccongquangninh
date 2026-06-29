@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-06-29T05:29:44.402Z",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "inspectionUrl": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+  "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=3rOwCOBEYInVDUFLFA22pg&utm_medium=link&utm_source=api",
+  "indexStatus": {
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED",
+    "lastCrawlTime": null,
+    "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "googleCanonical": null,
+    "userCanonical": null,
+    "sitemap": [
+      "https://thongtaccongquangninh.com/post-sitemap.xml",
+      "https://thongtaccongquangninh.com/sitemap.xml",
+      "https://thongtaccongquangninh.com/sitemap_index.xml"
+    ],
+    "referringUrls": [
+      "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+      "https://thongtaccongquangninh.com/"
+    ]
+  },
+  "raw": {
+    "inspectionResult": {
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=3rOwCOBEYInVDUFLFA22pg&utm_medium=link&utm_source=api",
+      "indexStatusResult": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+          "https://thongtaccongquangninh.com/"
+        ],
+        "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+      },
+      "mobileUsabilityResult": {
+        "verdict": "VERDICT_UNSPECIFIED"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "updatedAt": "2026-05-19T18:25:45.995Z",
+  "backupDir": "backups/audit-seo-title-fix-2026-05-20",
+  "results": [
+    {
+      "id": 37,
+      "kind": "pages",
+      "slug": "thong-tac-bon-cau-quang-ninh",
+      "seoTitle": "Thông tắc bồn cầu Quảng Ninh 24/7, báo giá rõ, xử lý nhanh",
+      "titleLength": 58,
+      "rankMathResponse": {
+        "slug": true,
+        "schemas": []
+      }
+    },
+    {
+      "id": 1369,
+      "kind": "posts",
+      "slug": "xu-ly-mui-hoi-nha-ve-sinh",
+      "seoTitle": "Xử lý mùi hôi nhà vệ sinh: nguyên nhân và cách khắc phục",
+      "titleLength": 56,
+      "rankMathResponse": {
+        "slug": true,
+        "schemas": []
+      }
+    }
+  ]
+}

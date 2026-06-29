@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-06-26T18:53:13.054Z",
+  "envPath": "/mnt/d/.thongtaccongquangninh/.env",
+  "backupDir": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-live-2026-06-26T18-53-13-049Z",
+  "backups": [
+    {
+      "remotePath": "/public_html/wp-content/plugins/ttcqn-home-emergency-renderer/templates/page-home-direct.php",
+      "target": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-live-2026-06-26T18-53-13-049Z/page-home-direct.remote.php",
+      "status": 404,
+      "ok": false,
+      "preview": "{\"jsonrpc\":\"2.0\",\"id\":1782499993577,\"error\":{\"code\":-32003,\"message\":\"Tool not found: wp-mcp-ultimate-execute-ability\"}}"
+    },
+    {
+      "remotePath": "/public_html/wp-content/plugins/ttcqn-doorway-schema/gbp_data.json",
+      "target": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-live-2026-06-26T18-53-13-049Z/doorway-gbp-data.remote.json",
+      "status": 404,
+      "ok": false,
+      "preview": "{\"jsonrpc\":\"2.0\",\"id\":1782499993857,\"error\":{\"code\":-32003,\"message\":\"Tool not found: wp-mcp-ultimate-execute-ability\"}}"
+    },
+    {
+      "remotePath": "/public_html/wp-content/plugins/ttcqn-doorway-schema/ttcqn-doorway-schema.php",
+      "target": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-live-2026-06-26T18-53-13-049Z/doorway-schema.remote.php",
+      "status": 404,
+      "ok": false,
+      "preview": "{\"jsonrpc\":\"2.0\",\"id\":1782499994271,\"error\":{\"code\":-32003,\"message\":\"Tool not found: wp-mcp-ultimate-execute-ability\"}}"
+    },
+    {
+      "remotePath": "/public_html/wp-content/plugins/ttcqn-fix-home-img-alt/ttcqn-fix-home-img-alt.php",
+      "target": "/mnt/d/.thongtaccongquangninh/backups/forbidden-cleanup-live-2026-06-26T18-53-13-049Z/fix-home-img-alt.remote.php",
+      "status": 404,
+      "ok": false,
+      "preview": "{\"jsonrpc\":\"2.0\",\"id\":1782499994504,\"error\":{\"code\":-32003,\"message\":\"Tool not found: wp-mcp-ultimate-execute-ability\"}}"
+    }
+  ],
+  "uploads": [
+    {
+      "slug": "ttcqn-home-emergency-renderer",
+      "status": 404,
+      "ok": false,
+      "zipBytes": 15314386,
+      "result": "{\"jsonrpc\":\"2.0\",\"id\":1782499996840,\"error\":{\"code\":-32003,\"message\":\"Tool not found: wp-mcp-ultimate-execute-ability\"}}"
+    },
+    {
+      "slug": "ttcqn-doorway-schema",
+      "status": 404,
+      "ok": false,
+      "zipBytes": 40692,
+      "result": "{\"jsonrpc\":\"2.0\",\"id\":1782499998686,\"error\":{\"code\":-32003,\"message\":\"Tool not found: wp-mcp-ultimate-execute-ability\"}}"
+    },
+    {
+      "slug": "ttcqn-fix-home-img-alt",
+      "status": 404,
+      "ok": false,
+      "zipBytes": 5913,
+      "result": "{\"jsonrpc\":\"2.0\",\"id\":1782499998963,\"error\":{\"code\":-32003,\"message\":\"Tool not found: wp-mcp-ultimate-execute-ability\"}}"
+    }
+  ],
+  "verification": {
+    "home": {
+      "status": 200,
+      "hasNewLogoAlt": false,
+      "hasMockReviewName": false,
+      "hasAggregateRating": false,
+      "noForbiddenPattern": false
+    },
+    "area": {
+      "status": 200,
+      "hasRevMock": false,
+      "hasAggregateRating": false,
+      "hasServiceSchema": true
+    },
+    "activePlugins": {
+      "homeRenderer": false,
+      "doorwaySchema": false,
+      "imgAlt": false
+    }
+  },
+  "success": false
+}

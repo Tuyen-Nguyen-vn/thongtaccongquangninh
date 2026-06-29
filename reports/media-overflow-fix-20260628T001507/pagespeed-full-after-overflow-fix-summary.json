@@ -1,0 +1,32 @@
+{
+  "mobile": {
+    "performance": 0.87,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "doctype": 1,
+    "metaDescription": 1,
+    "documentTitle": 1,
+    "errorsInConsole": 1,
+    "deprecations": 1,
+    "lcp": "3.1 s",
+    "cls": "0",
+    "tbt": "230 ms",
+    "bestPracticeFailures": []
+  },
+  "desktop": {
+    "performance": 0.76,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "doctype": 1,
+    "metaDescription": 1,
+    "documentTitle": 1,
+    "errorsInConsole": 1,
+    "deprecations": 1,
+    "lcp": "0.9 s",
+    "cls": "0",
+    "tbt": "510 ms",
+    "bestPracticeFailures": []
+  }
+}

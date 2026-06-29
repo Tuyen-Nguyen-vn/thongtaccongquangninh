@@ -1,0 +1,16 @@
+{
+  "slug": "demo-slug",
+  "checked_at": "2026-05-09T12:32:32.275Z",
+  "candidate": null,
+  "word_count": 0,
+  "has_hotline": false,
+  "has_local_intent": false,
+  "has_cta": false,
+  "issues": [
+    "Không tìm thấy file live/draft để audit."
+  ],
+  "pass": false,
+  "notes": [
+    "Live audit now checks content length, hotline, local intent, and CTA."
+  ]
+}

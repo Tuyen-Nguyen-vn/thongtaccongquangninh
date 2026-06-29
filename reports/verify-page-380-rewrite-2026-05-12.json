@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-05-11T19:42:42.194Z",
+  "pages": [
+    {
+      "id": 380,
+      "title": "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-chung-cu-ha-long/",
+      "modified": "2026-05-12T02:42:16",
+      "restWords": 2644,
+      "liveWords": 2881,
+      "restBadHits": [],
+      "liveBadHits": [],
+      "liveStatus": 200,
+      "liveContainsTitle": true
+    },
+    {
+      "id": 383,
+      "title": "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-nha-hang-ha-long/",
+      "modified": "2026-05-11T23:31:08",
+      "restWords": 3144,
+      "liveWords": 3379,
+      "restBadHits": [],
+      "liveBadHits": [],
+      "liveStatus": 200,
+      "liveContainsTitle": true
+    },
+    {
+      "id": 384,
+      "title": "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân",
+      "link": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "modified": "2026-05-11T23:31:12",
+      "restWords": 3144,
+      "liveWords": 3382,
+      "restBadHits": [],
+      "liveBadHits": [],
+      "liveStatus": 200,
+      "liveContainsTitle": true
+    }
+  ],
+  "pairs": [
+    {
+      "ids": [
+        380,
+        383
+      ],
+      "titles": [
+        "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+        "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu"
+      ],
+      "fivegramJaccard": 0.013
+    },
+    {
+      "ids": [
+        380,
+        384
+      ],
+      "titles": [
+        "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+        "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân"
+      ],
+      "fivegramJaccard": 0.013
+    },
+    {
+      "ids": [
+        383,
+        384
+      ],
+      "titles": [
+        "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu",
+        "Thông Tắc Cống Ngõ Nhỏ Hạ Long Dành Cho Nhà Dân"
+      ],
+      "fivegramJaccard": 0.897
+    }
+  ],
+  "ok": {
+    "ids": [
+      380,
+      383
+    ],
+    "titles": [
+      "Thông Tắc Cống Chung Cư Hạ Long: Xử Lý Trục Đứng Tầng Hầm",
+      "Thông Tắc Cống Nhà Hàng Hạ Long: Đánh Tan Mỡ Cứng Đầu"
+    ],
+    "fivegramJaccard": 0.013
+  }
+}

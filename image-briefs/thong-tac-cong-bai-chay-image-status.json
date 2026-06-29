@@ -1,0 +1,10 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "slug": "thong-tac-cong-bai-chay",
+  "briefPath": "D:\\.thongtaccongquangninh\\image-briefs\\thong-tac-cong-bai-chay-image-brief.md",
+  "briefJsonPath": "D:\\.thongtaccongquangninh\\image-briefs\\thong-tac-cong-bai-chay-image-brief.json",
+  "packagePath": "D:\\.thongtaccongquangninh\\image-briefs\\thong-tac-cong-bai-chay-image-package.json",
+  "nextAction": "Push WordPress: node tools/push_new_landing.mjs content-drafts/thong-tac-cong-bai-chay-rankmath-draft.md --publish",
+  "gatePass": true,
+  "gatePassAt": "2026-06-05T02:45:00.000Z"
+}

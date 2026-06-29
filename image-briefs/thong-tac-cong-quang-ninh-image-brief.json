@@ -1,0 +1,18 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "slug": "thong-tac-cong-quang-ninh",
+  "title": "\"Dịch vụ thông tắc cống Quảng Ninh 24/7 | Song Hào\"",
+  "service": "thông tắc cống",
+  "area": "Quảng Ninh",
+  "briefPath": "/mnt/d/.thongtaccongquangninh/image-briefs/thong-tac-cong-quang-ninh-image-brief.json",
+  "packagePath": "/mnt/d/.thongtaccongquangninh/image-briefs/thong-tac-cong-quang-ninh-image-package.json",
+  "sourceType": "edited_ai",
+  "imagesNeeded": 4,
+  "content": {
+    "summary": "Dịch vụ thông tắc cống Quảng Ninh - Uy tín, chuyên nghiệp 24/7",
+    "h2Count": 7,
+    "bodyWordCount": 5978
+  },
+  "nextAction": "Upload 4 ảnh trong image-package lên WordPress media rồi thay đường dẫn local trong draft bằng URL media.",
+  "images": []
+}

@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-05-28T08:31:49.933Z",
+  "mode": "dry-run",
+  "reportPath": "/mnt/d/.thongtaccongquangninh/reports/ha-long-p1-fix-2026-05-28T08:31:45.json",
+  "backupDir": null,
+  "result": {
+    "id": 296,
+    "slug": "thong-tac-cong-ha-long",
+    "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+    "before": {
+      "wordCount": 1092,
+      "keywordCount": 2,
+      "keywordDensity": 0.92,
+      "imgCount": 3,
+      "hasWhyH2": false,
+      "hasNapH2": false,
+      "forbidden": false
+    },
+    "after": {
+      "wordCount": 2297,
+      "keywordCount": 5,
+      "keywordDensity": 1.09,
+      "imgCount": 3,
+      "hasWhyH2": true,
+      "hasNapH2": true,
+      "forbidden": false
+    },
+    "optionBackups": [
+      {
+        "name": "ttcqn_doorway_safe_page_296_content",
+        "before": {
+          "wordCount": 1092,
+          "keywordCount": 2,
+          "keywordDensity": 0.92,
+          "imgCount": 3,
+          "hasWhyH2": false,
+          "hasNapH2": false,
+          "forbidden": false
+        },
+        "after": {
+          "wordCount": 2297,
+          "keywordCount": 5,
+          "keywordDensity": 1.09,
+          "imgCount": 3,
+          "hasWhyH2": true,
+          "hasNapH2": true,
+          "forbidden": false
+        }
+      },
+      {
+        "name": "ttcqn_doorway_safe_page_296_content_v2",
+        "before": {
+          "wordCount": 1092,
+          "keywordCount": 2,
+          "keywordDensity": 0.92,
+          "imgCount": 3,
+          "hasWhyH2": false,
+          "hasNapH2": false,
+          "forbidden": false
+        },
+        "after": {
+          "wordCount": 2297,
+          "keywordCount": 5,
+          "keywordDensity": 1.09,
+          "imgCount": 3,
+          "hasWhyH2": true,
+          "hasNapH2": true,
+          "forbidden": false
+        }
+      }
+    ],
+    "oldTitle": "Thông tắc cống Hạ Long cho nhà hàng, khách sạn, nhà dân",
+    "newTitle": "Thông tắc cống Hạ Long 24/7 cho nhà hàng, khách sạn, nhà dân",
+    "pass": true
+  },
+  "ok": true
+}

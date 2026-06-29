@@ -1,0 +1,42 @@
+[
+  {
+    "viewport": {
+      "name": "desktop-footer-clean",
+      "width": 1440,
+      "height": 1100
+    },
+    "consoleErrors": [],
+    "pre": {
+      "y": 10796,
+      "footerTop": 0.03125,
+      "footerOffset": 10796
+    }
+  },
+  {
+    "viewport": {
+      "name": "tablet-footer-clean",
+      "width": 900,
+      "height": 1100
+    },
+    "consoleErrors": [],
+    "pre": {
+      "y": 14212,
+      "footerTop": 0.25,
+      "footerOffset": 14212
+    }
+  },
+  {
+    "viewport": {
+      "name": "mobile-footer-clean",
+      "width": 390,
+      "height": 1100,
+      "mobile": true
+    },
+    "consoleErrors": [],
+    "pre": {
+      "y": 23559,
+      "footerTop": 0.140625,
+      "footerOffset": 23559
+    }
+  }
+]

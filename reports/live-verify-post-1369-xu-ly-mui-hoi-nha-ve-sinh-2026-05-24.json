@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-05-24T14:21:30.144Z",
+  "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-nha-ve-sinh/",
+  "titleLen": 61,
+  "title": "Xử lý mùi hôi nhà vệ sinh Quảng Ninh: tìm đúng nguồn hôi 24/7",
+  "descLen": 157,
+  "desc": "Xử lý mùi hôi nhà vệ sinh Quảng Ninh: kiểm tra thoát sàn, lavabo, bồn cầu, bể phốt, hố ga và ống thông khí. Gọi 0963.953.533 / 0931.156.756 để xử lý tận gốc.",
+  "words": 10799,
+  "h1": 1,
+  "h2Count": 13,
+  "required": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "forbidden": [],
+  "hotlines": 24,
+  "images": 5,
+  "imgIssues": [],
+  "internalLinks": 4,
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "FAQPage",
+      "BlogPosting",
+      "Service"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "oldEscaped": false,
+  "sourceHtml": "reports/live-after-post-1369-xu-ly-mui-hoi-nha-ve-sinh-2026-05-24.html"
+}

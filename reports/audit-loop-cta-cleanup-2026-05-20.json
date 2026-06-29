@@ -1,0 +1,87 @@
+{
+  "updatedAt": "2026-05-19T18:35:07.257Z",
+  "backupDir": "backups/audit-loop-cta-cleanup-2026-05-20",
+  "iterations": [
+    {
+      "iter": 1,
+      "scanned": 117,
+      "issueCount": 4,
+      "issues": [
+        {
+          "kind": "posts",
+          "id": 1813,
+          "slug": "thong-tac-cong-hong-gai-ha-long-2",
+          "status": "draft",
+          "issues": [
+            "CTA cuối bài"
+          ]
+        },
+        {
+          "kind": "posts",
+          "id": 1822,
+          "slug": "thong-tac-cong-ha-long-ban-dem-2",
+          "status": "draft",
+          "issues": [
+            "CTA cuối bài"
+          ]
+        },
+        {
+          "kind": "posts",
+          "id": 1828,
+          "slug": "hut-be-phot-ha-long-xe-hut-24-7-2",
+          "status": "draft",
+          "issues": [
+            "CTA cuối bài"
+          ]
+        },
+        {
+          "kind": "posts",
+          "id": 1834,
+          "slug": "gia-thong-tac-cong-ha-long-2",
+          "status": "draft",
+          "issues": [
+            "CTA cuối bài"
+          ]
+        }
+      ]
+    },
+    {
+      "iter": 2,
+      "scanned": 118,
+      "issueCount": 1,
+      "issues": [
+        {
+          "kind": "posts",
+          "id": 1840,
+          "slug": "nguyen-nhan-cong-tac-thuong-xuyen-ha-long",
+          "status": "draft",
+          "issues": [
+            "CTA cuối bài"
+          ]
+        }
+      ]
+    },
+    {
+      "iter": 3,
+      "scanned": 119,
+      "issueCount": 1,
+      "issues": [
+        {
+          "kind": "posts",
+          "id": 1851,
+          "slug": "cach-xu-ly-cong-thoat-nuoc-tac-2",
+          "status": "draft",
+          "issues": [
+            "CTA cuối bài"
+          ]
+        }
+      ]
+    },
+    {
+      "iter": 4,
+      "scanned": 119,
+      "issueCount": 0,
+      "issues": []
+    }
+  ]
+}

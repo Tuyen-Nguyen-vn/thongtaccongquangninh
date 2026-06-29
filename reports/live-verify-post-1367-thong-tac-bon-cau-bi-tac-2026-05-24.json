@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-05-24T14:29:13.108Z",
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bi-tac/",
+  "titleLen": 64,
+  "title": "Thông tắc bồn cầu bị tắc Quảng Ninh: xử lý trào ngược nhanh 24/7",
+  "descLen": 154,
+  "desc": "Thông tắc bồn cầu bị tắc Quảng Ninh: xử lý nước trào, dị vật, bể phốt đầy, mùi hôi tại nhà. Gọi 0963.953.533 / 0931.156.756 để được thợ hỗ trợ nhanh ngay.",
+  "words": 10734,
+  "h1": 1,
+  "h2Count": 13,
+  "required": {
+    "hit": [
+      "Nguyên nhân",
+      "Tại sao chọn / Cam kết",
+      "Bảng giá",
+      "Quy trình",
+      "NAP / Liên hệ",
+      "FAQ / Câu hỏi"
+    ],
+    "missing": []
+  },
+  "forbidden": [],
+  "hotlines": 24,
+  "images": 5,
+  "imgIssues": [],
+  "internalLinks": 3,
+  "schema": {
+    "types": [
+      "LocalBusiness",
+      "BreadcrumbList",
+      "FAQPage",
+      "BlogPosting",
+      "Service"
+    ],
+    "problems": [],
+    "parseErrors": []
+  },
+  "oldEscaped": false,
+  "sourceHtml": "reports/live-after-post-1367-thong-tac-bon-cau-bi-tac-2026-05-24.html"
+}

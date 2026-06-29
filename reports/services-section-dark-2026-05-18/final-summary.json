@@ -1,0 +1,108 @@
+[
+  {
+    "viewport": {
+      "name": "desktop-final",
+      "width": 1440,
+      "height": 1050
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.10; direct-template",
+      "noHorizontalScroll": true,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "cardCount": 6,
+      "vectorCount": 10,
+      "visibleVectorCount": 10,
+      "benefitCells": 5,
+      "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rgba(0, 45, 90, 0.16) 28%, rgba(2, 11, 20, 0) 55%), radial-gradient(circle at 92% 25%, rgba(0, 170, 255, 0.18) 0%, rgba(0, 80, 130, 0.1) 30%, rgba(2, 11, 20, 0) 60%), linear-gradient(135deg, rgb(2, 11, 20) 0%, rgb(3, 21, 34) 45%, rgb(2, 11, 20) 100%)",
+      "gridColumns": "436px 436px 436px",
+      "cardOpacity": "1",
+      "cardBg": "rgba(255, 255, 255, 0.97) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cardBorder": "rgba(84, 210, 65, 0.25)",
+      "cardRect": {
+        "x": 40,
+        "y": 479.21875,
+        "width": 436,
+        "height": 294.53125,
+        "top": 479.21875,
+        "right": 476,
+        "bottom": 773.75,
+        "left": 40
+      },
+      "imgFit": "contain",
+      "benefitBg": "linear-gradient(rgba(5, 30, 48, 0.98), rgba(2, 18, 31, 0.98))"
+    }
+  },
+  {
+    "viewport": {
+      "name": "tablet-final",
+      "width": 900,
+      "height": 1050
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.10; direct-template",
+      "noHorizontalScroll": true,
+      "scrollWidth": 900,
+      "innerWidth": 900,
+      "cardCount": 6,
+      "vectorCount": 10,
+      "visibleVectorCount": 10,
+      "benefitCells": 5,
+      "sectionBg": "radial-gradient(circle at 50% 45%, rgba(37, 190, 55, 0.35) 0%, rgba(10, 80, 35, 0.22) 28%, rgba(2, 11, 20, 0) 58%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.28) 0%, rgba(0, 45, 90, 0.16) 28%, rgba(2, 11, 20, 0) 55%), radial-gradient(circle at 92% 25%, rgba(0, 170, 255, 0.18) 0%, rgba(0, 80, 130, 0.1) 30%, rgba(2, 11, 20, 0) 60%), linear-gradient(135deg, rgb(2, 11, 20) 0%, rgb(3, 21, 34) 45%, rgb(2, 11, 20) 100%)",
+      "gridColumns": "398px 398px",
+      "cardOpacity": "1",
+      "cardBg": "rgba(255, 255, 255, 0.97) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cardBorder": "rgba(84, 210, 65, 0.25)",
+      "cardRect": {
+        "x": 40,
+        "y": 437.21875,
+        "width": 398,
+        "height": 315.4375,
+        "top": 437.21875,
+        "right": 438,
+        "bottom": 752.65625,
+        "left": 40
+      },
+      "imgFit": "contain",
+      "benefitBg": "linear-gradient(rgba(5, 30, 48, 0.98), rgba(2, 18, 31, 0.98))"
+    }
+  },
+  {
+    "viewport": {
+      "name": "mobile-final",
+      "width": 390,
+      "height": 1050,
+      "mobile": true
+    },
+    "consoleErrors": [],
+    "data": {
+      "meta": "2026.05.18.10; direct-template",
+      "noHorizontalScroll": true,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "cardCount": 6,
+      "vectorCount": 10,
+      "visibleVectorCount": 5,
+      "benefitCells": 5,
+      "sectionBg": "radial-gradient(circle at 50% 36%, rgba(37, 190, 55, 0.32), rgba(10, 80, 35, 0.16) 38%, rgba(2, 11, 20, 0) 68%), radial-gradient(circle at 8% 78%, rgba(0, 119, 216, 0.22), rgba(0, 0, 0, 0) 48%), linear-gradient(135deg, rgb(2, 11, 20) 0%, rgb(3, 21, 34) 48%, rgb(2, 11, 20) 100%)",
+      "gridColumns": "358px",
+      "cardOpacity": "1",
+      "cardBg": "rgba(255, 255, 255, 0.97) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cardBorder": "rgba(84, 210, 65, 0.25)",
+      "cardRect": {
+        "x": 16,
+        "y": 719.515625,
+        "width": 358,
+        "height": 639.828125,
+        "top": 719.515625,
+        "right": 374,
+        "bottom": 1359.34375,
+        "left": 16
+      },
+      "imgFit": "contain",
+      "benefitBg": "linear-gradient(rgba(5, 30, 48, 0.98), rgba(2, 18, 31, 0.98))"
+    }
+  }
+]

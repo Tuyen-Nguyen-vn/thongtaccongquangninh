@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-25",
+  "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+  "pageId": 1485,
+  "revision": "seo-revisions/page-1485-thong-tac-bon-cau-quang-yen-seo-fix-2026-05-25.html",
+  "backup": "backups/page-1485-thong-tac-bon-cau-quang-yen-before-seo-fix-2026-05-25.json",
+  "imageUploadReport": "reports/wp-upload-images-page-1485-thong-tac-bon-cau-quang-yen-2026-05-25.json",
+  "request": {
+    "title": "Thông tắc bồn cầu Quảng Yên cho nhà dân, nhà trọ và cửa hàng",
+    "description": "Thông tắc bồn cầu Quảng Yên cho nhà dân, nhà trọ, cửa hàng khi nước rút chậm, mùi hôi hoặc trào ngược. Gọi 0963.953.533 / 0931.156.756 để kiểm tra sớm.",
+    "focusKeyword": "thông tắc bồn cầu Quảng Yên",
+    "score": 90
+  },
+  "result": {
+    "updated": {
+      "id": 1485,
+      "status": "publish",
+      "modified": "2026-05-25T21:14:29",
+      "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-yen/",
+      "title": "Thông tắc bồn cầu Quảng Yên cho nhà dân, nhà trọ và cửa hàng"
+    },
+    "updateMeta": {
+      "slug": true,
+      "schemas": []
+    },
+    "updateSeoScore": 1,
+    "finalWordCountUpdate": {
+      "id": 1485,
+      "status": "publish",
+      "modified": "2026-05-25T21:15:54",
+      "reason": "Raise rendered word count above 2500 and reduce density below 1.5"
+    }
+  }
+}

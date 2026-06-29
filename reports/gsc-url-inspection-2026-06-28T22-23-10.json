@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-06-28T22:23:10.201Z",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "urlCount": 1,
+  "okCount": 1,
+  "errorCount": 0,
+  "results": [
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=S4ylni2EKwAlaSk-x7dcWA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "URL is unknown to Google",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    }
+  ]
+}
