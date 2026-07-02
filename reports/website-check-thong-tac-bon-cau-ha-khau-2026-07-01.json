@@ -1,0 +1,64 @@
+{
+  "slug": "thong-tac-bon-cau-ha-khau",
+  "primary": {
+    "type": "page",
+    "id": 3276,
+    "status": "publish",
+    "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-khau/",
+    "title": "Thông Tắc Bồn Cầu Hà Khẩu – Nhà Trọ, Khu Cảng, Ống Ngầm Lún",
+    "seoTitle": "Thông Tắc Bồn Cầu Hà Khẩu – Nhà Trọ, Khu Cảng, Ống Ngầm Lún",
+    "description": "Thông tắc bồn cầu Hà Khẩu – nhà trọ công nhân, khu cảng, ống ngầm lún cũ. Có mặt 15-30 phút, báo giá rõ trước khi làm. Gọi 0963.953.533 / 0931.156.756.",
+    "focusKeyword": "thông tắc bồn cầu Hà Khẩu",
+    "featuredMedia": 0,
+    "contentChars": 8589
+  },
+  "duplicates": [],
+  "live": {
+    "ok": true,
+    "status": 200,
+    "length": 173376,
+    "hasHotlines": true,
+    "hasFocusKeyword": true
+  },
+  "rankMathBatch": {
+    "offset": 100,
+    "keyword": "thông tắc bồn cầu Hà Khẩu",
+    "title": "Thông Tắc Bồn Cầu Hà Khẩu – Nhà Trọ, Khu Cảng, Ống Ngầm Lún"
+  },
+  "score": {
+    "score": 81,
+    "titleLength": 59,
+    "descriptionLength": 151,
+    "wordCount": 1214,
+    "focusTotal": 21,
+    "keywordDensity": 1.73,
+    "liveH1": 1,
+    "h2Count": 9,
+    "duplicateHeadings": [],
+    "bannedHits": [],
+    "hasEmoji": false,
+    "checks": {
+      "Meta title 60-70 ký tự": false,
+      "Meta description 150-160 ký tự": true,
+      "Focus keyword trong title": true,
+      "Focus keyword trong description": true,
+      "Slug đúng keyword": true,
+      "Word count 2500-3000": false,
+      "Mật độ keyword 1-1.5%": false,
+      "1 H1 trên live page": true,
+      "Focus keyword trong 100 từ đầu": true,
+      "Có Nguyên nhân": true,
+      "Có Cam kết 3 Không": true,
+      "Có Bảng giá": true,
+      "Có Quy trình 5 bước": true,
+      "Có Case study E-E-A-T": true,
+      "Có NAP": true,
+      "Có FAQ": true,
+      "Đủ 2 hotline": true,
+      "CTA hotline >= 3": true,
+      "Không có từ cấm": true,
+      "Không emoji/ký hiệu": true,
+      "Có featured media": false
+    }
+  }
+}

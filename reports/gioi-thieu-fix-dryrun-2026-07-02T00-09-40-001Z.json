@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-07-02T00:09:40.534Z",
+  "target": {
+    "id": 62,
+    "collection": "pages",
+    "slug": "gioi-thieu",
+    "url": "https://thongtaccongquangninh.com/gioi-thieu/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-gioi-thieu-2026-07-02T00-09-40-001Z",
+  "stats": {
+    "before": {
+      "wordCount": 2470,
+      "keywordCount": 14
+    },
+    "after": {
+      "wordCount": 2605,
+      "keywordCount": 25,
+      "density": 0.96,
+      "banned": 1,
+      "titleLen": 69,
+      "descLen": 150
+    }
+  },
+  "verify": null
+}

@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-07-02T03:05:51.503Z",
+  "target": {
+    "id": 2043,
+    "collection": "posts",
+    "slug": "bon-cau-rut-cham-nguyen-nhan",
+    "url": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-bon-cau-rut-cham-2026-07-02T03-05-50-705Z",
+  "stats": {
+    "before": {
+      "wordCount": 1064,
+      "keywordCount": 16
+    },
+    "after": {
+      "wordCount": 2560,
+      "keywordCount": 26,
+      "density": 1.02,
+      "banned": 0,
+      "titleLen": 65,
+      "descLen": 153
+    }
+  },
+  "verify": null
+}

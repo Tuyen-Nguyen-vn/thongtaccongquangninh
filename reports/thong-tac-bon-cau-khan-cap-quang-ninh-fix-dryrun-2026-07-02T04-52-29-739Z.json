@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-07-02T04:52:30.332Z",
+  "target": {
+    "id": 2377,
+    "collection": "posts",
+    "slug": "thong-tac-bon-cau-khan-cap-quang-ninh",
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-thong-tac-bon-cau-khan-cap-quang-ninh-2026-07-02T04-52-29-739Z",
+  "stats": {
+    "before": {
+      "wordCount": 932,
+      "keywordCount": 16
+    },
+    "after": {
+      "wordCount": 2422,
+      "keywordCount": 26,
+      "density": 1.07,
+      "banned": 0,
+      "titleLen": 60,
+      "descLen": 158
+    }
+  },
+  "verify": null
+}

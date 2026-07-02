@@ -1,0 +1,66 @@
+{
+  "slug": "he-thong-lien-ket-doi-tac",
+  "primary": {
+    "type": "page",
+    "id": 2022,
+    "status": "publish",
+    "link": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/",
+    "title": "Đối Tác Bể Phốt Quảng Ninh – Hệ Thống Liên Kết Truyền Thông",
+    "seoTitle": "Đối Tác Bể Phốt Quảng Ninh – Hệ Thống Liên Kết Truyền Thông",
+    "description": "Đối tác bể phốt Quảng Ninh – hệ thống liên kết truyền thông, đầu mối xác minh NAP chính thức của Thông Tắc Cống Quảng Ninh. Gọi hotline 0963.953.533.",
+    "focusKeyword": "đối tác bể phốt Quảng Ninh",
+    "featuredMedia": 0,
+    "contentChars": 21480
+  },
+  "duplicates": [],
+  "live": {
+    "ok": true,
+    "status": 200,
+    "length": 187074,
+    "hasHotlines": true,
+    "hasFocusKeyword": true
+  },
+  "rankMathBatch": {
+    "offset": 50,
+    "keyword": "đối tác bể phốt Quảng Ninh",
+    "title": "Đối Tác Bể Phốt Quảng Ninh – Hệ Thống Liên Kết Truyền Thông"
+  },
+  "score": {
+    "score": 62,
+    "titleLength": 59,
+    "descriptionLength": 149,
+    "wordCount": 3211,
+    "focusTotal": 19,
+    "keywordDensity": 0.59,
+    "liveH1": 1,
+    "h2Count": 16,
+    "duplicateHeadings": [],
+    "bannedHits": [
+      "uy tín"
+    ],
+    "hasEmoji": false,
+    "checks": {
+      "Meta title 60-70 ký tự": false,
+      "Meta description 150-160 ký tự": false,
+      "Focus keyword trong title": true,
+      "Focus keyword trong description": true,
+      "Slug đúng keyword": false,
+      "Word count 2500-3000": false,
+      "Mật độ keyword 1-1.5%": false,
+      "1 H1 trên live page": true,
+      "Focus keyword trong 100 từ đầu": false,
+      "Có Nguyên nhân": true,
+      "Có Cam kết 3 Không": true,
+      "Có Bảng giá": true,
+      "Có Quy trình 5 bước": true,
+      "Có Case study E-E-A-T": true,
+      "Có NAP": true,
+      "Có FAQ": true,
+      "Đủ 2 hotline": true,
+      "CTA hotline >= 3": true,
+      "Không có từ cấm": false,
+      "Không emoji/ký hiệu": true,
+      "Có featured media": false
+    }
+  }
+}

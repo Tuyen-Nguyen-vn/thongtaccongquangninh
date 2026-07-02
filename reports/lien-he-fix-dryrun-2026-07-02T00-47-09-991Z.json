@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-07-02T00:47:10.449Z",
+  "target": {
+    "id": 63,
+    "collection": "pages",
+    "slug": "lien-he",
+    "url": "https://thongtaccongquangninh.com/lien-he/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-lien-he-2026-07-02T00-47-09-991Z",
+  "stats": {
+    "before": {
+      "wordCount": 2590,
+      "keywordCount": 13
+    },
+    "after": {
+      "wordCount": 2597,
+      "keywordCount": 26,
+      "density": 1,
+      "banned": 0,
+      "titleLen": 62,
+      "descLen": 153
+    }
+  },
+  "verify": null
+}

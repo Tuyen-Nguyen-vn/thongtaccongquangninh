@@ -1,0 +1,66 @@
+{
+  "slug": "bon-cau-rut-cham-nguyen-nhan",
+  "primary": {
+    "type": "post",
+    "id": 2043,
+    "status": "publish",
+    "link": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/",
+    "title": "Bồn Cầu Rút Chậm Nguyên Nhân Và Cách Xử Lý Dứt Điểm",
+    "seoTitle": "Bồn Cầu Rút Chậm Nguyên Nhân Và Cách Xử Lý Dứt Điểm",
+    "description": "Bồn cầu rút chậm nguyên nhân từ cặn canxi, dị vật, xi phông kém. Thợ Quảng Ninh xử lý 15-30 phút, báo giá trước, không phát sinh. Gọi 0963.953.533.",
+    "focusKeyword": "bồn cầu rút chậm nguyên nhân",
+    "featuredMedia": 2198,
+    "contentChars": 5829
+  },
+  "duplicates": [],
+  "live": {
+    "ok": true,
+    "status": 200,
+    "length": 179789,
+    "hasHotlines": true,
+    "hasFocusKeyword": true
+  },
+  "rankMathBatch": {
+    "offset": 50,
+    "keyword": "bồn cầu rút chậm nguyên nhân",
+    "title": "Bồn Cầu Rút Chậm Nguyên Nhân Và Cách Xử Lý Dứt Điểm"
+  },
+  "score": {
+    "score": 76,
+    "titleLength": 51,
+    "descriptionLength": 147,
+    "wordCount": 1029,
+    "focusTotal": 18,
+    "keywordDensity": 1.75,
+    "liveH1": 1,
+    "h2Count": 9,
+    "duplicateHeadings": [],
+    "bannedHits": [
+      "chuyên nghiệp"
+    ],
+    "hasEmoji": false,
+    "checks": {
+      "Meta title 60-70 ký tự": false,
+      "Meta description 150-160 ký tự": false,
+      "Focus keyword trong title": true,
+      "Focus keyword trong description": true,
+      "Slug đúng keyword": true,
+      "Word count 2500-3000": false,
+      "Mật độ keyword 1-1.5%": false,
+      "1 H1 trên live page": true,
+      "Focus keyword trong 100 từ đầu": true,
+      "Có Nguyên nhân": true,
+      "Có Cam kết 3 Không": true,
+      "Có Bảng giá": true,
+      "Có Quy trình 5 bước": true,
+      "Có Case study E-E-A-T": true,
+      "Có NAP": true,
+      "Có FAQ": true,
+      "Đủ 2 hotline": true,
+      "CTA hotline >= 3": true,
+      "Không có từ cấm": false,
+      "Không emoji/ký hiệu": true,
+      "Có featured media": true
+    }
+  }
+}

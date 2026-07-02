@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-07-02T01:00:55.696Z",
+  "target": {
+    "id": 2045,
+    "collection": "posts",
+    "slug": "hoa-chat-tu-thong-cong",
+    "url": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-hoa-chat-tu-thong-cong-2026-07-02T01-00-55-238Z",
+  "stats": {
+    "before": {
+      "wordCount": 992,
+      "keywordCount": 31,
+      "banned": 1
+    },
+    "after": {
+      "wordCount": 2542,
+      "keywordCount": 31,
+      "density": 1.22,
+      "banned": 0,
+      "titleLen": 63,
+      "descLen": 159
+    }
+  },
+  "verify": null
+}

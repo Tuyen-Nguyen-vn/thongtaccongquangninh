@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-07-02T00:00:31.523Z",
+  "target": {
+    "id": 2022,
+    "collection": "pages",
+    "slug": "he-thong-lien-ket-doi-tac",
+    "url": "https://thongtaccongquangninh.com/he-thong-lien-ket-doi-tac/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-p2-he-thong-lien-ket-doi-tac-2026-07-02T00-00-30-961Z",
+  "stats": {
+    "before": {
+      "wordCount": 3225,
+      "keywordCount": 17,
+      "banned": 2
+    },
+    "after": {
+      "wordCount": 2839,
+      "keywordCount": 30,
+      "density": 1.06,
+      "first100HasKeyword": true,
+      "banned": 0,
+      "titleLen": 68,
+      "descLen": 156
+    }
+  },
+  "verify": {
+    "status": 200,
+    "length": 178245,
+    "metaDescLen": 156,
+    "hasFocusKeyword": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  }
+}

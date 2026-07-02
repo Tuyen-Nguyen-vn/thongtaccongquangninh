@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-07-02T09:10:48.081Z",
+  "target": {
+    "id": 3277,
+    "collection": "pages",
+    "slug": "thong-tac-bon-cau-tuan-chau",
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-tuan-chau/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-thong-tac-bon-cau-tuan-chau-2026-07-02T09-10-47-705Z",
+  "stats": {
+    "before": {
+      "wordCount": 1269,
+      "keywordCount": 18
+    },
+    "after": {
+      "wordCount": 2828,
+      "keywordCount": 29,
+      "density": 1.03,
+      "banned": 0,
+      "titleLen": 65,
+      "descLen": 150
+    }
+  },
+  "verify": {
+    "status": 200,
+    "length": 173767,
+    "metaDescLen": 155,
+    "hasFocusKeyword": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  }
+}

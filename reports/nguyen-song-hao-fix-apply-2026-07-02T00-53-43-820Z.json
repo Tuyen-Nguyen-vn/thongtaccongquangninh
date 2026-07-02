@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "mode": "apply",
+  "generatedAt": "2026-07-02T00:53:44.338Z",
+  "target": {
+    "id": 2356,
+    "collection": "pages",
+    "slug": "nguyen-song-hao",
+    "url": "https://thongtaccongquangninh.com/nguyen-song-hao/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-nguyen-song-hao-2026-07-02T00-53-43-820Z",
+  "stats": {
+    "before": {
+      "wordCount": 2560,
+      "keywordCount": 12
+    },
+    "after": {
+      "wordCount": 2693,
+      "keywordCount": 27,
+      "density": 1,
+      "banned": 0,
+      "titleLen": 60,
+      "descLen": 151
+    }
+  },
+  "verify": {
+    "status": 200,
+    "length": 179686,
+    "metaDescLen": 154,
+    "hasFocusKeyword": true
+  },
+  "rankMath": {
+    "slug": true,
+    "schemas": []
+  }
+}

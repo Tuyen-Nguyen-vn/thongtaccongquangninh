@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "mode": "dry-run",
+  "generatedAt": "2026-07-02T03:43:18.788Z",
+  "target": {
+    "id": 3272,
+    "collection": "pages",
+    "slug": "thong-tac-bon-cau-bai-chay",
+    "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-bai-chay/"
+  },
+  "backupDir": "D:\\.thongtaccongquangninh\\seo-revisions\\wp-before-thong-tac-bon-cau-bai-chay-2026-07-02T03-43-18-283Z",
+  "stats": {
+    "before": {
+      "wordCount": 1237,
+      "keywordCount": 19
+    },
+    "after": {
+      "wordCount": 1881,
+      "keywordCount": 24,
+      "density": 1.28,
+      "banned": 0,
+      "titleLen": 63,
+      "descLen": 154
+    }
+  },
+  "verify": null
+}

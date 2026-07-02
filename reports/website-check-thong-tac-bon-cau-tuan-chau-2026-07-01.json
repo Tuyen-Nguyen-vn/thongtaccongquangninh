@@ -1,0 +1,64 @@
+{
+  "slug": "thong-tac-bon-cau-tuan-chau",
+  "primary": {
+    "type": "page",
+    "id": 3277,
+    "status": "publish",
+    "link": "https://thongtaccongquangninh.com/thong-tac-bon-cau-tuan-chau/",
+    "title": "Thông Tắc Bồn Cầu Tuần Châu – Resort, Biệt Thự, Bồn Cầu Nhập Khẩu",
+    "seoTitle": "Thông Tắc Bồn Cầu Tuần Châu – Resort, Biệt Thự, Bồn Cầu Nhập Khẩu",
+    "description": "Thông tắc bồn cầu Tuần Châu – resort, biệt thự cao cấp, bồn cầu treo nhập khẩu. Có mặt 15-30 phút, thợ kinh nghiệm thiết bị cao cấp. Gọi 0963.953.533.",
+    "focusKeyword": "thông tắc bồn cầu Tuần Châu",
+    "featuredMedia": 0,
+    "contentChars": 8882
+  },
+  "duplicates": [],
+  "live": {
+    "ok": true,
+    "status": 200,
+    "length": 173731,
+    "hasHotlines": true,
+    "hasFocusKeyword": true
+  },
+  "rankMathBatch": {
+    "offset": 100,
+    "keyword": "thông tắc bồn cầu Tuần Châu",
+    "title": "Thông Tắc Bồn Cầu Tuần Châu – Resort, Biệt Thự, Bồn Cầu Nhập Khẩu"
+  },
+  "score": {
+    "score": 86,
+    "titleLength": 65,
+    "descriptionLength": 150,
+    "wordCount": 1235,
+    "focusTotal": 20,
+    "keywordDensity": 1.62,
+    "liveH1": 1,
+    "h2Count": 9,
+    "duplicateHeadings": [],
+    "bannedHits": [],
+    "hasEmoji": false,
+    "checks": {
+      "Meta title 60-70 ký tự": true,
+      "Meta description 150-160 ký tự": true,
+      "Focus keyword trong title": true,
+      "Focus keyword trong description": true,
+      "Slug đúng keyword": true,
+      "Word count 2500-3000": false,
+      "Mật độ keyword 1-1.5%": false,
+      "1 H1 trên live page": true,
+      "Focus keyword trong 100 từ đầu": true,
+      "Có Nguyên nhân": true,
+      "Có Cam kết 3 Không": true,
+      "Có Bảng giá": true,
+      "Có Quy trình 5 bước": true,
+      "Có Case study E-E-A-T": true,
+      "Có NAP": true,
+      "Có FAQ": true,
+      "Đủ 2 hotline": true,
+      "CTA hotline >= 3": true,
+      "Không có từ cấm": true,
+      "Không emoji/ký hiệu": true,
+      "Có featured media": false
+    }
+  }
+}

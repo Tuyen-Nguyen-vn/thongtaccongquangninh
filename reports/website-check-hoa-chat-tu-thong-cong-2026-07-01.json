@@ -1,0 +1,66 @@
+{
+  "slug": "hoa-chat-tu-thong-cong",
+  "primary": {
+    "type": "post",
+    "id": 2045,
+    "status": "publish",
+    "link": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong/",
+    "title": "Hóa Chất Tự Thông Cống: Hiệu Quả Thực Tế Và Khi Nào Cần Thợ",
+    "seoTitle": "Hóa Chất Tự Thông Cống: Hiệu Quả Thực Tế Và Khi Nào Cần Thợ",
+    "description": "Hóa chất tự thông cống hiệu quả với cặn dầu mỡ nhẹ, nhưng không xử lý được dị vật cứng. Dùng sai có thể hỏng ống PVC. Cần thợ chuyên nghiệp? Gọi 0963.953.533.",
+    "focusKeyword": "hóa chất tự thông cống",
+    "featuredMedia": 2196,
+    "contentChars": 5604
+  },
+  "duplicates": [],
+  "live": {
+    "ok": true,
+    "status": 200,
+    "length": 179628,
+    "hasHotlines": true,
+    "hasFocusKeyword": true
+  },
+  "rankMathBatch": {
+    "offset": 50,
+    "keyword": "hóa chất tự thông cống",
+    "title": "Hóa Chất Tự Thông Cống: Hiệu Quả Thực Tế Và Khi Nào Cần Thợ"
+  },
+  "score": {
+    "score": 81,
+    "titleLength": 59,
+    "descriptionLength": 158,
+    "wordCount": 970,
+    "focusTotal": 33,
+    "keywordDensity": 3.4,
+    "liveH1": 1,
+    "h2Count": 9,
+    "duplicateHeadings": [],
+    "bannedHits": [
+      "chuyên nghiệp"
+    ],
+    "hasEmoji": false,
+    "checks": {
+      "Meta title 60-70 ký tự": false,
+      "Meta description 150-160 ký tự": true,
+      "Focus keyword trong title": true,
+      "Focus keyword trong description": true,
+      "Slug đúng keyword": true,
+      "Word count 2500-3000": false,
+      "Mật độ keyword 1-1.5%": false,
+      "1 H1 trên live page": true,
+      "Focus keyword trong 100 từ đầu": true,
+      "Có Nguyên nhân": true,
+      "Có Cam kết 3 Không": true,
+      "Có Bảng giá": true,
+      "Có Quy trình 5 bước": true,
+      "Có Case study E-E-A-T": true,
+      "Có NAP": true,
+      "Có FAQ": true,
+      "Đủ 2 hotline": true,
+      "CTA hotline >= 3": true,
+      "Không có từ cấm": false,
+      "Không emoji/ký hiệu": true,
+      "Có featured media": true
+    }
+  }
+}
