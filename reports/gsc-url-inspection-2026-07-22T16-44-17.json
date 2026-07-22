@@ -1,0 +1,1045 @@
+{
+  "generatedAt": "2026-07-22T16:44:17.070Z",
+  "siteUrl": "https://thongtaccongquangninh.com/",
+  "urlCount": 31,
+  "okCount": 31,
+  "errorCount": 0,
+  "results": [
+    {
+      "url": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=LAu6j4MdK2Na-rWsiD682A&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-22T12:55:52Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/",
+        "userCanonical": "https://thongtaccongquangninh.com/bon-cau-rut-cham-nguyen-nhan/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=9kL_K67uFlKtIQncDekoUA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-20T15:47:55Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/gioi-thieu/",
+        "userCanonical": "https://thongtaccongquangninh.com/gioi-thieu/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/gioi-thieu/",
+          "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+          "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hoa-chat-tu-thong-cong/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=7pxm8mS86IuZXWclBPO5OA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-24-7-quang-ninh/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=yG0hJYrXnEwvh_KgntOfew&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-bach-dang/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=hgQj_y8Y8QvXtd2dHPX2aQ&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-thuy/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=G5ObIkQ475h1AAulZ1xt5w&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-trung/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=-h2idAgMlN0bxtIkWqBqsg&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-22T08:52:50Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-trung/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-trung/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-chung-cu-quang-ninh-2026/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=o7upRRULdwhGvNaauWXuvg&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-khau/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=3c1lZzpttHkf2EyhwaoKGw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-18T17:46:41Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-khau/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-khau/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-hong-gai/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=6_gjEQ2i40b3iXilW7HmZg&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-22T14:48:43Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-hong-gai/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-hong-gai/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-hung-thang/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=MSIjGLpNzG9aaUX-EvVFMg&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-21T11:31:28Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-hung-thang/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-hung-thang/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mao-khe/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=Zj1L2qH6p7YxFLk5uFSNLw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-22T03:31:09Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-mao-khe/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-mao-khe/",
+        "sitemap": [],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-tuan-chau/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=zcY-nOWCz3IWw7KwtJdS5Q&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-21T10:58:16Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-tuan-chau/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-tuan-chau/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-yen-thanh/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=iXd1Wmc88JKo-cbMRQG-2A&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-hong-gai/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=7nQYfrt_iRLEhCBnDStplQ&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-khan-cap-quang-ninh/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=IdVsjsQpp8CIyrlY78fZbw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml"
+        ]
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-tuan-chau/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=1UKKk6K7ADaKCatw5ihYjw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=GzJFonPSH-Qdeh0E4sF9Ag&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-11T20:01:17Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+        "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+        "sitemap": [],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/category/xu-ly-mui-hoi/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-gieng-day/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=Dzwe6dS4jjngMiMQmM7cmA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "NEUTRAL",
+        "coverageState": "Discovered - currently not indexed",
+        "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+        "lastCrawlTime": null,
+        "googleCanonical": null,
+        "userCanonical": null,
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": null,
+        "detectedTypes": [],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-khau/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=E5lEU39uR2b8SLNSpr4JGw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-22T14:03:22Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-khau/",
+        "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-ha-khau/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/post-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=jsFPf7wJDdoVtzs_0bPbMA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-21T11:39:35Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+        "sitemap": [],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=LQ8S19TJ7NJWpmFo15lFNw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-16T05:21:29Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs",
+          "Videos"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=q0MEd80VncyPHUhaMw7zKg&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-13T07:32:46Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/hut-be-phot-van-don/",
+          "https://thongtaccongquangninh.com/category/canh-bao/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=BMYOIa6Y0KUMn4iijJrQnA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-06-28T06:25:07Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=Y9KMF07pO-51cR8OQPIhaA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-20T17:29:18Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+          "https://thongtaccongquangninh.com/category/huong-dan-tai-nha/feed/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs",
+          "Videos"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=1xdQMxhorAXCTN7wGQkYzw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-19T06:50:55Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/",
+        "userCanonical": "https://thongtaccongquangninh.com/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://thongtaccongquangninh.com/dau-hieu-be-phot-day-can-hut-ngay/",
+          "https://www.facebook.com/thongtacbephot0966681480/?__xts__%5B%2Ffusion_builder_column%5D",
+          "https://m.facebook.com/thongtacbephot0966681480/?__xts__%5B%2Ffusion_builder_column%5D",
+          "https://mobile.facebook.com/thongtacbephot0966681480/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs",
+          "Videos"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=kXFYuYFUaK68D2Ejx8l9AQ&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-21T19:26:37Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+          "https://thongtaccongquangninh.com/category/thong-tac-cong/page/3/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=THfMbHAZql6U0SHMmqZoEw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-11T20:07:12Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+        "userCanonical": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": []
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=F9LU202Sj9ObEaAjvHI_pA&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-12T13:45:05Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/bang-gia/",
+        "userCanonical": "https://thongtaccongquangninh.com/bang-gia/",
+        "sitemap": [
+          "https://thongtaccongquangninh.com/page-sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap.xml",
+          "https://thongtaccongquangninh.com/sitemap_index.xml"
+        ],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/bang-gia/",
+          "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/blog/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=oXGvszOdPQH_6eUVJQIOAw&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-19T18:45:37Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/blog/",
+        "userCanonical": "https://thongtaccongquangninh.com/blog/",
+        "sitemap": [],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/blog/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "ok": true,
+      "status": 200,
+      "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=https://thongtaccongquangninh.com/&id=65a1uuzqdQ-UVoBj9Qlp_w&utm_medium=link&utm_source=api",
+      "indexStatus": {
+        "verdict": "PASS",
+        "coverageState": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "lastCrawlTime": "2026-07-12T14:42:28Z",
+        "googleCanonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+        "userCanonical": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+        "sitemap": [],
+        "referringUrls": [
+          "https://www.thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+          "https://thongtaccongquangninh.com/category/thong-tac-cong/page/2/",
+          "https://thongtaccongquangninh.com/"
+        ]
+      },
+      "richResults": {
+        "verdict": "PASS",
+        "detectedTypes": [
+          "Breadcrumbs"
+        ],
+        "issueCount": 0
+      },
+      "mobileUsability": {
+        "verdict": "VERDICT_UNSPECIFIED",
+        "issueCount": 0
+      }
+    }
+  ]
+}
