@@ -1,0 +1,1432 @@
+{
+  "site": "https://thongtaccongquangninh.com/",
+  "fetchedAt": "2026-07-22T16:41:12.656Z",
+  "range": {
+    "startDate": "2026-06-24",
+    "endDate": "2026-07-19"
+  },
+  "totals": {
+    "clicks": 347,
+    "impressions": 8279,
+    "ctr": 0.04191327455006643,
+    "position": 10.043000362362605
+  },
+  "pages": [
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-ha-long/",
+      "clicks": 78,
+      "impressions": 201,
+      "ctr": 0.3880597014925373,
+      "position": 26.766169154228855
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-ninh/",
+      "clicks": 72,
+      "impressions": 158,
+      "ctr": 0.45569620253164556,
+      "position": 35.08860759493671
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-van-don/",
+      "clicks": 61,
+      "impressions": 118,
+      "ctr": 0.5169491525423728,
+      "position": 7.915254237288136
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-cam-pha/",
+      "clicks": 60,
+      "impressions": 426,
+      "ctr": 0.14084507042253522,
+      "position": 13.460093896713616
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-ninh/",
+      "clicks": 51,
+      "impressions": 341,
+      "ctr": 0.1495601173020528,
+      "position": 23.548387096774192
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/",
+      "clicks": 21,
+      "impressions": 5257,
+      "ctr": 0.0039946737683089215,
+      "position": 8.062202777249382
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-uong-bi/",
+      "clicks": 2,
+      "impressions": 913,
+      "ctr": 0.002190580503833516,
+      "position": 6.078860898138006
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-quang-yen/",
+      "clicks": 2,
+      "impressions": 112,
+      "ctr": 0.017857142857142856,
+      "position": 9.580357142857142
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/bang-gia/",
+      "clicks": 1,
+      "impressions": 109,
+      "ctr": 0.009174311926605505,
+      "position": 26.321100917431192
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/blog/",
+      "clicks": 1,
+      "impressions": 99,
+      "ctr": 0.010101010101010102,
+      "position": 17.96969696969697
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-quang-yen/",
+      "clicks": 1,
+      "impressions": 580,
+      "ctr": 0.0017241379310344827,
+      "position": 16.398275862068964
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/category/thong-tac-bon-cau/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3.3333333333333335
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/chinh-sach-bao-mat/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/gioi-thieu/",
+      "clicks": 0,
+      "impressions": 78,
+      "ctr": 0,
+      "position": 23.846153846153847
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-dong-trieu/",
+      "clicks": 0,
+      "impressions": 198,
+      "ctr": 0,
+      "position": 15.893939393939394
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-khach-san-quang-ninh/",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 60.53846153846154
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-be-phot-mong-cai/",
+      "clicks": 0,
+      "impressions": 220,
+      "ctr": 0,
+      "position": 28.881818181818183
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/hut-ham-cau-quang-ninh/",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 15.2
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/nao-vet-ho-ga-quang-ninh/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 6.636363636363637
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-bon-cau-quang-ninh/",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 10.273972602739725
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-chau-rua-quang-ninh/",
+      "clicks": 0,
+      "impressions": 53,
+      "ctr": 0,
+      "position": 15.830188679245284
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-bai-chay/",
+      "clicks": 0,
+      "impressions": 127,
+      "ctr": 0,
+      "position": 19.1496062992126
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-cao-xanh/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 5.818181818181818
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ha-long/",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 4.2631578947368425
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-ngo-nho-ha-long/",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 5.538461538461538
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/thong-tac-cong-tuan-chau/",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 71.33333333333333
+    },
+    {
+      "url": "https://thongtaccongquangninh.com/xu-ly-mui-hoi-quang-ninh/",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 5.916666666666667
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "hút bể phốt hạ long",
+      "clicks": 77,
+      "impressions": 450,
+      "ctr": 0.1711111111111111,
+      "position": 12.282222222222222
+    },
+    {
+      "query": "hút bể phốt vân đồn",
+      "clicks": 61,
+      "impressions": 96,
+      "ctr": 0.6354166666666666,
+      "position": 7.052083333333333
+    },
+    {
+      "query": "hút bể phốt cẩm phả",
+      "clicks": 60,
+      "impressions": 245,
+      "ctr": 0.24489795918367346,
+      "position": 8.322448979591837
+    },
+    {
+      "query": "hút bể phốt quảng ninh",
+      "clicks": 50,
+      "impressions": 682,
+      "ctr": 0.07331378299120235,
+      "position": 14.970674486803519
+    },
+    {
+      "query": "thông tắc cống tại cẩm phả",
+      "clicks": 32,
+      "impressions": 546,
+      "ctr": 0.05860805860805861,
+      "position": 9.591575091575091
+    },
+    {
+      "query": "thông tắc cống tại hạ long",
+      "clicks": 24,
+      "impressions": 360,
+      "ctr": 0.06666666666666667,
+      "position": 12.95
+    },
+    {
+      "query": "thông tắc cống hạ long",
+      "clicks": 18,
+      "impressions": 639,
+      "ctr": 0.028169014084507043,
+      "position": 7.449139280125196
+    },
+    {
+      "query": "thông tắc cống quảng ninh",
+      "clicks": 7,
+      "impressions": 99,
+      "ctr": 0.0707070707070707,
+      "position": 2.8484848484848486
+    },
+    {
+      "query": "hút bể phốt tại hạ long",
+      "clicks": 1,
+      "impressions": 87,
+      "ctr": 0.011494252873563218,
+      "position": 23.79310344827586
+    },
+    {
+      "query": "hút bể phốt tại quảng ninh",
+      "clicks": 1,
+      "impressions": 653,
+      "ctr": 0.0015313935681470138,
+      "position": 13.96477794793262
+    },
+    {
+      "query": "hút bể phốt tại uông bí",
+      "clicks": 1,
+      "impressions": 736,
+      "ctr": 0.001358695652173913,
+      "position": 5.975543478260869
+    },
+    {
+      "query": "thông tắc cống tại quảng ninh",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 13.293103448275861
+    },
+    {
+      "query": "bhp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "bánh cóng",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "bãi tập lái xe máy gần đây",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "bể phốt",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "bể thủy sinh",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "chi cục môi trường",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "cho",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 3.7142857142857144
+    },
+    {
+      "query": "chợ",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 1.625
+    },
+    {
+      "query": "chợ an phú",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "chợ bãi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "chợ chiều gần đây",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "chợ cống",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 1.0526315789473684
+    },
+    {
+      "query": "chợ cống huế",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 1.8846153846153846
+    },
+    {
+      "query": "chợ dân sinh gần đây",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "chợ gần nhất ở đây",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "chợ gần đây",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 1.8666666666666667
+    },
+    {
+      "query": "chợ gần đây nhất",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 1.1
+    },
+    {
+      "query": "chợ huế",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "chợ lớn",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "chợ lớn điện máy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "chợ lớn điện thoại",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "chợ phim",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "chợ quanh đây",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "chợ quần áo gần đây",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "chợ tốt",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "chợ đêm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "chợ đêm mấy giờ đóng cửa",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "chợ đêm mở đến mấy giờ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "chợ ở bãi cháy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "chợ ở quảng ninh",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "cong",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "cong cu",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "conh",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "các chợ gần đây",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "các trường",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 3.2
+    },
+    {
+      "query": "công an môi trường",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "công ty hút bể phốt",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "công ty môi giới việc làm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "cống thoát nước",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "cửa hàng rau sạch",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "cửa ông quảng ninh",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "dumpling",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "dịch vụ hút bể phốt",
+      "clicks": 0,
+      "impressions": 76,
+      "ctr": 0,
+      "position": 2.4210526315789473
+    },
+    {
+      "query": "dịch vụ hút bể phốt tại quảng ninh thongtaccong-envico",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "dịch vụ hút hầm cầu",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "edu quảng ninh",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "fresh market",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "giới thiệu cho tôi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "gần đây có gì",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "hbt",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "hbt sport",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "hfc",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "hmd",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "hoa huệ khô",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "hpo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "hue",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "hue market",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "hue markets",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "huong heu live",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "hut be",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "hút bể",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 12.857142857142858
+    },
+    {
+      "query": "hút bể phốt",
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 9.983870967741936
+    },
+    {
+      "query": "hút bể phốt ba vì",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "hút bể phốt cẩm phả vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 8.558823529411764
+    },
+    {
+      "query": "hút bể phốt cẩm thủy",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24.5
+    },
+    {
+      "query": "hút bể phốt hạ long vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "hút bể phốt móng cái vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 105,
+      "ctr": 0,
+      "position": 8.41904761904762
+    },
+    {
+      "query": "hút bể phốt phúc yên",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 49.87096774193548
+    },
+    {
+      "query": "hút bể phốt quảng xương",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "hút bể phốt quảng yên vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 111,
+      "ctr": 0,
+      "position": 7.162162162162162
+    },
+    {
+      "query": "hút bể phốt quế võ",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 52.7
+    },
+    {
+      "query": "hút bể phốt tại cẩm giàng",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "query": "hút bể phốt tại cẩm phả",
+      "clicks": 0,
+      "impressions": 169,
+      "ctr": 0,
+      "position": 10.455621301775148
+    },
+    {
+      "query": "hút bể phốt tại cẩm thủy",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 21.5
+    },
+    {
+      "query": "hút bể phốt tại hà nội gần đây urenco",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "hút bể phốt tại hạ long hutbephotvietphat.vn",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 31.125
+    },
+    {
+      "query": "hút bể phốt tại hạ long thongtaccongvietphat.com",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "hút bể phốt tại lào cai",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "hút bể phốt tại phù ninh",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "hút bể phốt tại phúc yên",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "hút bể phốt tại quảng ninh dichvumoitruongxanh",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 21.333333333333332
+    },
+    {
+      "query": "hút bể phốt tại quảng ninh hutbephotvietphat.vn",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 30.095238095238095
+    },
+    {
+      "query": "hút bể phốt tại quảng xương",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "hút bể phốt tại quảng yên",
+      "clicks": 0,
+      "impressions": 332,
+      "ctr": 0,
+      "position": 8.921686746987952
+    },
+    {
+      "query": "hút bể phốt tại thuận thành",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "hút bể phốt tại trực ninh",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 44.5
+    },
+    {
+      "query": "hút bể phốt tại tuyên quang",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 53.333333333333336
+    },
+    {
+      "query": "hút bể phốt tại việt yên",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "hút bể phốt tại đông triều thongtaccongvietphat",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 8.25
+    },
+    {
+      "query": "hút bể phốt tại đống đa",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 88.33333333333333
+    },
+    {
+      "query": "hút bể phốt uông bí vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 109,
+      "ctr": 0,
+      "position": 6.926605504587156
+    },
+    {
+      "query": "hút bể phốt đông triều vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 113,
+      "ctr": 0,
+      "position": 7.716814159292035
+    },
+    {
+      "query": "hút hầm cầu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "hút mùi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "hốc trưởng",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "hội chợ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "kênh gà ninh bình",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "market",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "market near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 5.714285714285714
+    },
+    {
+      "query": "markets near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "menu đô đô",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "môi trường",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.2
+    },
+    {
+      "query": "môi trường làm việc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "mở cửa hàng rau sạch",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "near fruit market",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ninh binh attractions",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "office 1",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "phiên chợ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "phốt",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "produce",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "quanh đây có gì ăn",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "quy hoach",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "quán chè huế gần đây",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "quán ăn vặt gần đây trong vòng 400m",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "quán ốc ngon gần đây",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "rau khô",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "siêu thị chợ lớn",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "siêu thị gần đây",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "spt",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "sôi lạc",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 9.6
+    },
+    {
+      "query": "thi",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "thông bể phốt",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "thông cống gần đây",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "thông hút bể phốt",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "thông tăc bể phốt giá rẻ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "thông tắc bồn cầu hạ long",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "thông tắc bồn cầu quảng ninh",
+      "clicks": 0,
+      "impressions": 117,
+      "ctr": 0,
+      "position": 6.102564102564102
+    },
+    {
+      "query": "thông tắc bồn cầu quảng ninh thongtaccongvietphat.com",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "thông tắc cống quế võ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "thông tắc cống tại hạ long hutbephotvietphat.vn",
+      "clicks": 0,
+      "impressions": 89,
+      "ctr": 0,
+      "position": 24.471910112359552
+    },
+    {
+      "query": "thông tắc cống tại hạ long hutbephotvietphat.vn hutbephotvietphat.vnthong-tac-cong-tai-ha-long-bid4459.html",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "thông tắc cống tại hạ long thongtaccongvietphat.com",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "thông tắc cống tại hải hà vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "thông tắc cống tại móng cái",
+      "clicks": 0,
+      "impressions": 74,
+      "ctr": 0,
+      "position": 8.64864864864865
+    },
+    {
+      "query": "thông tắc cống tại quảng ninh bk envico",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "thông tắc cống tại quảng ninh hutbephotvietphat.vn",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 15.466666666666667
+    },
+    {
+      "query": "thông tắc cống tại quảng xương vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29.5
+    },
+    {
+      "query": "thông tắc cống tại quảng yên",
+      "clicks": 0,
+      "impressions": 98,
+      "ctr": 0,
+      "position": 8.89795918367347
+    },
+    {
+      "query": "thông tắc cống tại quảng yên vietanhgroup24h",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "tiêu lâm.co",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "tordẻ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "tran huy lieu street",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "tran huy lieu street shopping",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "trung tâm thương mại gần đây",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "trưởng khu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "xoo lạc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "xôi lav",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "xôi lạc",
+      "clicks": 0,
+      "impressions": 662,
+      "ctr": 0,
+      "position": 9.98036253776435
+    },
+    {
+      "query": "xôi lạv",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "xôi pạc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "xử lý",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "youtube",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "điểm giao dịch",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "điện máy chợ lớn gần đây",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "định vị nhà tôi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "động lực",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ตลาดใกล้ฉัน",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "市場",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "菜市场",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "這附近的菜市場",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "附近市場",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "附近市集",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "附近的菜市場",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ]
+}
