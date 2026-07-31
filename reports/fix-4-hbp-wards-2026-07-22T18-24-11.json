@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3356,
+    "ward": "Hồng Gai",
+    "oldTitle": "Hút Bể Phốt Hồng Gai – Nhà Ống Cũ, Ống Gang, Có Mặt Nhanh 24/7",
+    "newTitle": "Hút Bể Phốt Hồng Gai – Nhà Ống Cũ, Ống Gang, Có Mặt Nhanh",
+    "oldLen": 6264,
+    "newLen": 13728,
+    "status": 200,
+    "resText": "{\"id\":3356,\"date\":\"2026-06-29T22:40:00\",\"date_gmt\":\"2026-06-29T15:40:00\",\"guid\":{\"rendered\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-hong-gai\\/\",\"raw\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-hong-gai\\/\"},\"modified\":\"2026-07-23T01:24:13\",\"modified_gmt\":\"2026-07-22T18:24:13\",\"passwo",
+    "approxWords": 2236,
+    "hasForbidden": false,
+    "has247Wrong": false,
+    "hasServiceSchema": true,
+    "keywordExactCount": 1
+  },
+  {
+    "id": 3359,
+    "ward": "Hà Khẩu",
+    "oldTitle": "Hút Bể Phốt Hà Khẩu – Nhà Trọ, Khu Cảng, Có Mặt Nhanh Hạ Long",
+    "newTitle": "Hút Bể Phốt Hà Khẩu – Nhà Trọ, Khu Cảng, Có Mặt Nhanh Hạ Long",
+    "oldLen": 6253,
+    "newLen": 14554,
+    "status": 200,
+    "resText": "{\"id\":3359,\"date\":\"2026-06-29T22:40:07\",\"date_gmt\":\"2026-06-29T15:40:07\",\"guid\":{\"rendered\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-ha-khau\\/\",\"raw\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-ha-khau\\/\"},\"modified\":\"2026-07-23T01:24:16\",\"modified_gmt\":\"2026-07-22T18:24:16\",\"password",
+    "approxWords": 2420,
+    "hasForbidden": false,
+    "has247Wrong": false,
+    "hasServiceSchema": true,
+    "keywordExactCount": 1
+  },
+  {
+    "id": 3360,
+    "ward": "Tuần Châu",
+    "oldTitle": "Hút Bể Phốt Tuần Châu – Resort, Biệt Thự, Xe Bồn Chuyên Nghiệp 24/7",
+    "newTitle": "Hút Bể Phốt Tuần Châu – Resort, Biệt Thự, Xe Bồn Vào Đảo Nhanh",
+    "oldLen": 6338,
+    "newLen": 13541,
+    "status": 200,
+    "resText": "{\"id\":3360,\"date\":\"2026-06-29T22:40:09\",\"date_gmt\":\"2026-06-29T15:40:09\",\"guid\":{\"rendered\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-tuan-chau\\/\",\"raw\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-tuan-chau\\/\"},\"modified\":\"2026-07-23T01:24:18\",\"modified_gmt\":\"2026-07-22T18:24:18\",\"pass",
+    "approxWords": 2139,
+    "hasForbidden": false,
+    "has247Wrong": false,
+    "hasServiceSchema": true,
+    "keywordExactCount": 1
+  },
+  {
+    "id": 3361,
+    "ward": "Hùng Thắng",
+    "oldTitle": "Hút Bể Phốt Hùng Thắng – Khu Đô Thị Mới, Bể Ngầm, Có Mặt Nhanh",
+    "newTitle": "Hút Bể Phốt Hùng Thắng – Khu Đô Thị Mới, Bể Ngầm, Có Mặt Nhanh",
+    "oldLen": 6293,
+    "newLen": 13576,
+    "status": 200,
+    "resText": "{\"id\":3361,\"date\":\"2026-06-29T22:40:12\",\"date_gmt\":\"2026-06-29T15:40:12\",\"guid\":{\"rendered\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-hung-thang\\/\",\"raw\":\"https:\\/\\/thongtaccongquangninh.com\\/hut-be-phot-hung-thang\\/\"},\"modified\":\"2026-07-23T01:24:21\",\"modified_gmt\":\"2026-07-22T18:24:21\",\"pa",
+    "approxWords": 2207,
+    "hasForbidden": false,
+    "has247Wrong": false,
+    "hasServiceSchema": true,
+    "keywordExactCount": 1
+  }
+]
