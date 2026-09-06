@@ -86,7 +86,23 @@ const PAGES = [
     title: "Thông Tắc Cống Quảng Yên – Điều Phối Thợ Có Mặt Tại Quảng Yên",
     metaDesc: "Thông tắc cống tại Quảng Yên — thợ điều phối nhanh khu Hà An, Tiền An, Đông Mai, xử lý bùn cặn và nước trào. Gọi 0963.953.533 / 0931.156.756.",
     focusKeyword: "thông tắc cống tại quảng yên" },
+  // Trang cấp tỉnh duy nhất cho "hầm cầu" — KHÔNG tạo trang/bài riêng theo thành phố cho
+  // dịch vụ này (dễ cannibalize với "hút bể phốt tại X" vốn cùng ý định tìm kiếm). Chỉ sửa
+  // Title/Meta ở đây; đoạn H2 bổ sung cho từng khu vực cần dán tay (xem hướng dẫn cuối file).
+  { slug: "hut-ham-cau-quang-ninh", type: "pages",
+    title: "Hút Hầm Cầu Quảng Ninh – Có Mặt Tại Quảng Ninh, Không Đục Phá",
+    metaDesc: "Hút hầm cầu tại Quảng Ninh — xe có mặt trong 20-30 phút khắp Hạ Long, Cẩm Phả, Uông Bí, Quảng Yên, không đục phá khi chưa cần. Gọi 0963.953.533 / 0931.156.756.",
+    focusKeyword: "hút hầm cầu tại quảng ninh" },
 ];
+
+// Đoạn H2 + nội dung cần DÁN TAY vào cuối phần nội dung chính của trang hut-ham-cau-quang-ninh
+// (không tự sửa bằng script vì đây là chèn thêm vào giữa content, rủi ro vỡ layout Elementor):
+//
+// H2: Hút Hầm Cầu Tại Hạ Long, Cẩm Phả, Uông Bí — Xe Có Mặt Trong Bao Lâu?
+// Đoạn văn: "Xe hút hầm cầu điều phối theo khu vực: có mặt sau 20–30 phút tại nội thành Hạ
+// Long và Cẩm Phả, sau 30–45 phút tại Uông Bí, Quảng Yên, Đông Triều. Hầm cầu và bể phốt
+// dùng chung một loại xe bồn và quy trình khảo sát, nên báo giá và thời gian xử lý tương tự
+// dịch vụ hút bể phốt tại từng khu vực."
 
 async function main() {
   const env = readEnv(ENV_PATH);
