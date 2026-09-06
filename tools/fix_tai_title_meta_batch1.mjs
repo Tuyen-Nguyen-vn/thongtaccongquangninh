@@ -89,7 +89,7 @@ const PAGES = [
   // Trang cấp tỉnh duy nhất cho "hầm cầu" — KHÔNG tạo trang/bài riêng theo thành phố cho
   // dịch vụ này (dễ cannibalize với "hút bể phốt tại X" vốn cùng ý định tìm kiếm). Chỉ sửa
   // Title/Meta ở đây; đoạn H2 bổ sung cho từng khu vực cần dán tay (xem hướng dẫn cuối file).
-  { slug: "hut-ham-cau-quang-ninh", type: "pages",
+  { slug: "hut-ham-cau-quang-ninh", type: "posts",
     title: "Hút Hầm Cầu Quảng Ninh – Có Mặt Tại Quảng Ninh, Không Đục Phá",
     metaDesc: "Hút hầm cầu tại Quảng Ninh — xe có mặt trong 20-30 phút khắp Hạ Long, Cẩm Phả, Uông Bí, Quảng Yên, không đục phá khi chưa cần. Gọi 0963.953.533 / 0931.156.756.",
     focusKeyword: "hút hầm cầu tại quảng ninh" },
