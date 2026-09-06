@@ -51,7 +51,8 @@ function get(urlPath) {
 }
 
 async function fetchSitemapUrls() {
-  const res = await get("/sitemap.xml");
+  let res = await get("/sitemap.xml");
+  if (res.status === 301 || res.status === 302) res = await get("/sitemap_index.xml");
   if (res.status !== 200) throw new Error(`sitemap.xml failed: ${res.status}. Co the van bi WAF chan tu may nay.`);
   if (/oneshield_waf_challenge|Just a moment/i.test(res.text)) {
     throw new Error("Bi WAF thu thach ngay ca tu may nay. Thu mo sitemap bang trinh duyet that va luu HTML thu cong.");
