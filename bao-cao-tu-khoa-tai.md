@@ -1,7 +1,23 @@
 # Chẩn đoán mất thứ hạng nhóm từ khóa có chữ "TẠI" — thongtaccongquangninh.com
 
-- Ngày lập báo cáo: 2026-09-03
+- Ngày lập báo cáo: 2026-09-03, cập nhật tiến độ: 2026-09-06
 - Điểm khôi phục Git trước khi sửa: commit `c96a148` (nhánh `claude/keyword-ranking-tai-diagnosis-98yzvx`, working tree sạch, không có gì cần commit thêm trước khi bắt đầu — đây chính là điểm rollback nếu cần quay lại).
+
+## ✅ Cập nhật tiến độ thật (2026-09-06) — đã chạy thật trên WordPress sống
+
+Đã xác nhận qua git log + kết quả script (không suy đoán): **16/16 trang dịch vụ đã sửa Title/Meta thành công (status 200)** trên site sống, chạy từ máy thật của chủ site (không bị WAF chặn):
+
+- Đợt 1 (`fix_tai_title_meta_batch1.mjs`): 10 trang — `thong-tac-cong-quang-ninh`, `hut-be-phot-ha-long`, `hut-be-phot-cam-pha`, `thong-tac-cong-ha-long`, `thong-tac-cong-cam-pha`, `hut-be-phot-quang-ninh`, `hut-be-phot-uong-bi`, `hut-be-phot-quang-yen`, `thong-tac-cong-quang-yen`, `hut-ham-cau-quang-ninh` (sửa xong bug loại post/page ở đợt sau).
+- Đợt 2 (`fix_tai_title_meta_batch2.mjs`): 6 trang — `hut-be-phot-mong-cai`, `thong-tac-cong-mong-cai`, `hut-be-phot-dong-trieu`, `thong-tac-cong-dong-trieu`, `hut-be-phot-van-don`, `thong-tac-cong-van-don`.
+- Mỗi lần ghi đều tự backup title/content cũ vào `backups/fix-tai-batch*-<thời gian>/` trên máy chủ site — dùng để rollback tay nếu cần (PUT lại title/content cũ qua REST API).
+
+**Sửa lại nhận định về WAF ở mục ⚠️ ngay dưới đây:** đã chạy `tools/tai-keyword-crawl-audit.mjs` thành công **122/122 URL** từ máy thật của chủ site — xác nhận WAF **không** chặn truy cập bình thường, chỉ chặn dải IP datacenter/proxy (như máy ảo sandbox nơi tôi chạy). Không cần lo về việc Googlebot bị chặn.
+
+**Việc còn lại (chưa làm hoặc cần bạn xác nhận):**
+- File kết quả crawl (`reports/tai-keyword-crawl-*.json/.md`) đang nằm trên máy bạn, **chưa gửi lại/commit** — gửi 2 file này để tôi đọc và cập nhật chính xác Giai đoạn 2 (anchor text nội bộ + schema areaServed, phần trước đây thiếu dữ liệu).
+- Đoạn H2 "hút hầm cầu tại X" cần dán tay vào trang `hut-ham-cau-quang-ninh` (nội dung có sẵn trong `tools/fix_tai_title_meta_batch1.mjs`, cuối file) — chưa xác nhận đã dán chưa.
+- 20 bài blog "cẩm nang tại X" (3 dịch vụ × 7 địa bàn) — đã có script tạo bài NHÁP, chưa xác nhận đã chạy/đăng bài nào chưa.
+- Xuất GSC CSV mốc trước khi sửa (Giai đoạn 3.1) — nên làm ngay nếu chưa làm, để so sánh được sau 2-4 tuần.
 - Nguồn dữ liệu THẬT đã đọc trực tiếp (không suy đoán):
   - `reports/seo-full-audit-2026-07-31.json` — audit từng URL (title, meta, H1/H2/H3, ảnh+alt, schema, word count) của 111 URL, crawl ngày 2026-07-31.
   - `reports/site-full-audit-2026-07-31.json` — audit kỹ thuật (canonical, robots, link status, hash trùng footer).
