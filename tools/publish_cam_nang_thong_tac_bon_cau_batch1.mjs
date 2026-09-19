@@ -225,6 +225,15 @@ function buildContent(post) {
       h2("Câu hỏi thường gặp"),
       ...faq.flatMap(([q, a]) => [h3(q), p(a)]),
       p(`Nếu nghi ngờ do bể phốt đầy chứ không phải bồn cầu tắc, xem thêm <a href="${post.relatedPage}">${post.relatedAnchor}</a>.`),
+      h2(`Dịch vụ liên quan tại ${post.city}`),
+      ul((() => {
+        const citySlug = post.servicePage.match(/thong-tac-bon-cau-([a-z-]+)\//)[1];
+        return [
+          `<a href="${post.servicePage}">Trang dịch vụ thông tắc bồn cầu ${post.city} đầy đủ</a> — bảng giá, khu vực phục vụ, đặt lịch nhanh`,
+          `<a href="https://thongtaccongquangninh.com/thong-tac-cong-${citySlug}/">Thông tắc cống tại ${post.city}</a> — cho trường hợp tắc cả đường cống chung, không chỉ riêng bồn cầu`,
+          `<a href="https://thongtaccongquangninh.com/hut-ham-cau-quang-ninh/">Hút hầm cầu tại Quảng Ninh</a> — cho nhà có hầm cầu kiểu cũ thay vì bể tự hoại`,
+        ];
+      })()),
       h2("Liên hệ"),
       p(`Môi Trường Đô Thị Số 1 Quảng Ninh — thông tắc bồn cầu tại ${post.city} và các phường lân cận. ` +
         `Hotline: <strong>0963.953.533 / 0931.156.756</strong>. Xem chi tiết dịch vụ và bảng giá tại <a href="${post.servicePage}">trang Thông tắc bồn cầu ${post.city}</a>.`),

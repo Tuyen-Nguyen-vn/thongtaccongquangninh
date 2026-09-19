@@ -289,6 +289,15 @@ function buildContent(post) {
     h2("Câu hỏi thường gặp"),
     ...post.faq.flatMap(([q, a]) => [h3(q), p(a)]),
     p(`Nếu nghi ngờ do cống tắc chứ không phải bể phốt đầy, xem thêm <a href="${post.relatedPage}">${post.relatedAnchor}</a>.`),
+    h2(`Dịch vụ liên quan tại ${post.city}`),
+    ul((() => {
+      const citySlug = post.servicePage.match(/hut-be-phot-([a-z-]+)\//)[1];
+      return [
+        `<a href="${post.servicePage}">Trang dịch vụ hút bể phốt ${post.city} đầy đủ</a> — bảng giá, khu vực phục vụ, đặt lịch nhanh`,
+        `<a href="https://thongtaccongquangninh.com/thong-tac-bon-cau-${citySlug}/">Thông tắc bồn cầu tại ${post.city}</a> — nếu chỉ tắc bồn cầu, không cần hút cả bể`,
+        `<a href="https://thongtaccongquangninh.com/hut-ham-cau-quang-ninh/">Hút hầm cầu tại Quảng Ninh</a> — cho nhà có hầm cầu kiểu cũ thay vì bể tự hoại`,
+      ];
+    })()),
     h2("Liên hệ"),
     p(`Môi Trường Đô Thị Số 1 Quảng Ninh — hút bể phốt tại ${post.city} và các phường lân cận. ` +
       `Hotline: <strong>0963.953.533 / 0931.156.756</strong>. Xem chi tiết dịch vụ và bảng giá tại <a href="${post.servicePage}">trang Hút bể phốt ${post.city}</a>.`),

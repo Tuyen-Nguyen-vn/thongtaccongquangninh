@@ -60,6 +60,10 @@ function faqSchema(faq) {
 }
 
 const SERVICE_PAGE = "https://thongtaccongquangninh.com/hut-ham-cau-quang-ninh/";
+const CITY_SLUG = {
+  "Hạ Long": "ha-long", "Cẩm Phả": "cam-pha", "Uông Bí": "uong-bi",
+  "Quảng Yên": "quang-yen", "Móng Cái": "mong-cai", "Đông Triều": "dong-trieu", "Vân Đồn": "van-don",
+};
 
 const CITIES = [
   {
@@ -214,6 +218,15 @@ function buildContent(item) {
       p(item.caseStudy),
       h2("Câu hỏi thường gặp"),
       ...faq.flatMap(([q, a]) => [h3(q), p(a)]),
+      h2(`Dịch vụ liên quan tại ${item.city}`),
+      ul((() => {
+        const citySlug = CITY_SLUG[item.city];
+        return [
+          `<a href="https://thongtaccongquangninh.com/hut-be-phot-${citySlug}/">Hút bể phốt tại ${item.city}</a> — cho nhà xây bể tự hoại bê tông hiện đại thay vì hầm cầu kiểu cũ`,
+          `<a href="https://thongtaccongquangninh.com/thong-tac-cong-${citySlug}/">Thông tắc cống tại ${item.city}</a> — nếu nghi ngờ do cống chung tắc chứ không phải hầm cầu đầy`,
+          `<a href="${SERVICE_PAGE}">Trang dịch vụ Hút hầm cầu Quảng Ninh đầy đủ</a> — bảng giá, khu vực phục vụ toàn tỉnh, đặt lịch nhanh`,
+        ];
+      })()),
       h2("Liên hệ"),
       p(`Môi Trường Đô Thị Số 1 Quảng Ninh — hút hầm cầu tại ${item.city} và các phường lân cận. ` +
         `Hotline: <strong>0963.953.533 / 0931.156.756</strong>. Xem chi tiết dịch vụ tại <a href="${SERVICE_PAGE}">trang Hút hầm cầu Quảng Ninh</a>.`),

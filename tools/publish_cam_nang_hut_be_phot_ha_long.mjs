@@ -160,6 +160,13 @@ const CONTENT = [
   p("Nếu nghi ngờ do cống tắc chứ không phải bể phốt đầy, xem thêm " +
     "<a href=\"https://thongtaccongquangninh.com/thong-tac-cong-ha-long/\">thông tắc cống tại Hạ Long</a>."),
 
+  h2("Dịch vụ liên quan tại Hạ Long"),
+  ul([
+    "<a href=\"https://thongtaccongquangninh.com/hut-be-phot-ha-long/\">Trang dịch vụ hút bể phốt Hạ Long đầy đủ</a> — bảng giá, khu vực phục vụ, đặt lịch nhanh",
+    "<a href=\"https://thongtaccongquangninh.com/thong-tac-bon-cau-ha-long/\">Thông tắc bồn cầu tại Hạ Long</a> — nếu chỉ tắc bồn cầu, không cần hút cả bể",
+    "<a href=\"https://thongtaccongquangninh.com/hut-ham-cau-quang-ninh/\">Hút hầm cầu tại Quảng Ninh</a> — cho nhà có hầm cầu kiểu cũ thay vì bể tự hoại",
+  ]),
+
   h2("Liên hệ"),
   p("Môi Trường Đô Thị Số 1 Quảng Ninh — hút bể phốt tại Hạ Long và các phường lân cận. " +
     "Hotline: <strong>0963.953.533 / 0931.156.756</strong>. Xem chi tiết dịch vụ và bảng giá tại " +
