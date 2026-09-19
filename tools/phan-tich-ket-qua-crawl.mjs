@@ -120,8 +120,12 @@ function main() {
   say(`|---|---|---|`);
   const counts = { A: 0, B: 0, C: 0, PASS: 0 };
   for (const r of rows) {
-    // cannibalization: có trang khác cũng để cụm "tại X" trong title
-    const rivals = pages.filter((p) => p.url !== r.url && hasTaiCity(p.title, CITY_ASCII[r.city]));
+    // cannibalization thật: chỉ tính trang CÙNG dịch vụ (cùng svc.slugPart), khác URL,
+    // cũng có cụm "tại X" trong title — khác dịch vụ (vd hút bể phốt vs thông tắc cống)
+    // dù cùng nhắc tên thành phố KHÔNG phải cannibalization vì là 2 ý định tìm kiếm khác nhau.
+    const svcSlugPart = SERVICES.find((s) => s.label === r.service)?.slugPart || "";
+    const rivals = pages.filter((p) =>
+      p.url !== r.url && p.url.includes(`/${svcSlugPart}-`) && hasTaiCity(p.title, CITY_ASCII[r.city]));
     let cls, why;
     if (rivals.length >= 1 && r.title) {
       cls = "C — ăn thịt nhau";
