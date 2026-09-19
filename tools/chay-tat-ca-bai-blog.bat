@@ -9,27 +9,30 @@ git pull
 
 echo.
 echo ============================================
-echo  Tao 20 bai blog NHAP (chua cong khai, an toan)
+echo  CANH BAO: neu batch nao ban DA chay/dang bai roi,
+echo  dung chay lai - se tao bai nhap TRUNG SLUG (WordPress
+echo  tu them -2 vao cuoi, khong mat du lieu cu nhung bi trung).
+echo  Bo dau "rem " o dau dong ung voi batch CHUA chay.
 echo ============================================
 echo.
-echo --- 1/5: Cam nang hut be phot tai Ha Long ---
-node tools\publish_cam_nang_hut_be_phot_ha_long.mjs
 
-echo.
-echo --- 2/5: Cam nang hut be phot tai Cam Pha + Uong Bi ---
-node tools\publish_cam_nang_batch2.mjs
+rem --- 1/6: Cam nang hut be phot tai Ha Long ---
+rem node tools\publish_cam_nang_hut_be_phot_ha_long.mjs
 
-echo.
-echo --- 3/5: Cam nang hut be phot tai Quang Yen, Mong Cai, Dong Trieu, Van Don ---
-node tools\publish_cam_nang_batch3.mjs
+rem --- 2/6: Cam nang hut be phot tai Cam Pha + Uong Bi ---
+rem node tools\publish_cam_nang_batch2.mjs
 
-echo.
-echo --- 4/5: Cam nang thong tac cong tai 6 dia ban ---
-node tools\publish_cam_nang_thong_tac_cong_batch1.mjs
+rem --- 3/6: Cam nang hut be phot tai Quang Yen, Mong Cai, Dong Trieu, Van Don ---
+rem node tools\publish_cam_nang_batch3.mjs
 
-echo.
-echo --- 5/5: Cam nang thong tac bon cau tai 7 dia ban ---
-node tools\publish_cam_nang_thong_tac_bon_cau_batch1.mjs
+rem --- 4/6: Cam nang thong tac cong tai 6 dia ban ---
+rem node tools\publish_cam_nang_thong_tac_cong_batch1.mjs
+
+rem --- 5/6: Cam nang thong tac bon cau tai 7 dia ban ---
+rem node tools\publish_cam_nang_thong_tac_bon_cau_batch1.mjs
+
+echo --- 6/6: Cam nang hut ham cau tai 7 dia ban (MOI, CHUA chay lan nao) ---
+node tools\publish_cam_nang_hut_ham_cau_batch1.mjs
 
 echo.
 echo ============================================

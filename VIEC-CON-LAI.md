@@ -1,4 +1,4 @@
-# Việc còn lại — cập nhật 2026-09-13
+# Việc còn lại — cập nhật 2026-09-19
 
 Đọc từ trên xuống, làm theo thứ tự. Mỗi việc chỉ mất vài phút.
 
@@ -6,18 +6,23 @@
 - [x] Chẩn đoán nguyên nhân mất thứ hạng "tại X" — xem `bao-cao-tu-khoa-tai.md`
 - [x] 16 trang dịch vụ đã sửa Title/Meta trên WordPress sống (7 địa bàn × hút bể phốt + thông tắc cống, + trang hầm cầu)
 - [x] Crawl kiểm tra 122/122 URL từ máy bạn — xác nhận không bị chặn
+- [x] 3/20 bài blog "cẩm nang tại X" đã đăng công khai
+- [x] Viết thêm 7 bài blog "hút hầm cầu tại X" — dịch vụ cuối cùng trong 4 dịch vụ yêu cầu ban đầu, giờ đủ 27 bài tổng cộng
 
-## ☐ Việc 1 — Tạo 20 bài blog "cẩm nang tại X" (5 phút)
+## ☐ Việc 1 — Tạo nốt các bài blog "cẩm nang tại X" còn thiếu
+
+**Chỉ chạy batch nào CHƯA từng chạy** (chạy lại batch đã chạy sẽ tạo bài nháp trùng slug -2, không mất gì nhưng thừa):
 
 Mở PowerShell:
 ```
 cd D:\.thongtaccongquangninh
 git pull
 ```
-Sau đó bấm đúp vào file `tools\chay-tat-ca-bai-blog.bat` (hoặc gõ `tools\chay-tat-ca-bai-blog.bat` trong PowerShell).
+Mở file `tools\chay-tat-ca-bai-blog.bat` bằng Notepad, bỏ dấu `rem ` ở đầu dòng ứng với batch bạn CHƯA chạy (batch 1-5, tuỳ bạn đã làm đến đâu), lưu lại, rồi bấm đúp chạy file đó.
 
-→ Tạo xong 20 bài NHÁP trên WordPress (chưa công khai). Mỗi bài in ra 1 link dạng
-`https://thongtaccongquangninh.com/wp-admin/post.php?post=XXXX&action=edit`.
+Batch 6 (hút hầm cầu, 7 bài mới) đã để sẵn chạy luôn, không cần bỏ `rem`.
+
+→ Mỗi bài in ra 1 link dạng `https://thongtaccongquangninh.com/wp-admin/post.php?post=XXXX&action=edit`.
 
 ## ☐ Việc 2 — Hoàn thiện từng bài blog (làm tay trong WordPress)
 
